@@ -1,0 +1,131 @@
+<!doctype html>
+<html class="no-js" lang="en" >
+    <head>
+        
+        <title>Park Community School | Park Community Enterprises</title>
+        <?php include("includes/head.html") ?>
+    </head>
+<body class="page-misc">
+<!-- NAVIGATION -->
+<?php include("includes/topnav.html") ?>
+
+<!-- HEADER SECTION -->
+<header class="header-misc">
+    <div class="row">
+        <div class="medium-8 large-8 columns">
+            <h1>Park Community Enterprises Ltd</h1>
+            <p class="text-capitalize"></p>
+        </div>
+    </div>
+</header>
+
+<!-- CONTENT -->
+<section>
+    <div class="row">
+        <br>
+        <div class="medium-8 columns">
+            <p>Park Community Enterprises Limited (PCE) is a not for profit organisation based in Havant, Hampshire.</p>
+            <p>It was incorporated in May 2013 and is owned and operated by four directors. The four directors have a vast range of experience between them. This covers the education system, business military and public sector each also has an essential role within Park Community School.</p>
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/enterprises/parkenterprises.svg" alt="Park Community Enterprises Ltd"></div>
+    </div>
+    <br><br><br>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+
+            <h3>Organisational Aims</h3>
+            <p>The aim of the company is to be able to offer a wide range of opportunities, not offered within the normal school environment, and to enable students to gain confidence, work and life skills in a real life working environment, but one which has been established to ensure that the safeguarding of students has been considered and that the students learning is enhanced and meets the requirements of the National Curriculum.</p>
+            <p>In order to offer these opportunities, we will have affiliate relationships with other organisations that provide education, skills and training for young people.</p>
+            <p>It is our intention to create and run many enterprise projects in order that we can expose our students to a whole range of different work environments, which will provide the opportunity to learn a varied range of skills including those from the construction and motor industries.</p>
+            <p>Our financial strategy is based on all monies earned, used in further pursuing the organisation’s objectives.</p>
+
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-17.jpg" alt="Park Community School Grounds"></div>
+    </div>
+    <br><br>
+</section>
+
+<section>
+    <div class="row">
+        <br>
+        <div class="medium-6 columns">
+            
+            <h3>Objectives</h3>
+            <ul class="circle">
+                <li>To create realistic and safe working environments away from an educational establishment.</li>
+                <li>To provide a range of training opportunities for students.</li>
+                <li>To provide the facilities and mentoring to enable students to undertake entrepreneurial enterprise projects.</li>
+            </ul>
+
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/enterprises/enterprises-01.jpg" alt="Park Enterprises - Real life expierences for our Students"></div>
+    </div>
+    <br><br><br>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+        
+            <h3>Keys to success</h3>
+            <ul class="circle">
+                <li>Obtain, equip and furnish facilities suitable to run businesses where students can come and learn useful skills and trades in preparation for successful lives after school.</li>
+                <li>Create businesses that can run from the premises offering new services to the community.</li>
+                <li>Minimum of 180 students a year from a variety of secondary schools to be able to access the premises and learn useful skills and trades in preparation for successful lives after school.</li>
+                <li>To be able to show through measurable data an increase in the educational attainment of students.</li>
+                <li>To increase the capacity of vulnerable students to progress successfully to the next stage of life.</li>
+            </ul>
+
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/unit/unit-05.jpg" alt="Park Enterprises - Bringing new opportunities for Students and the Community"></div>
+    </div>
+    <br><br>
+</section>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        <div class="medium-8 columns">
+            <h4>Address</h4>
+            <hr>
+            <ul class="no-bullet">
+                <li>Park Community Enterprises Limited</li>
+                <li>c/o Park Community School</li>
+                <li>Middle Park Way</li>
+                <li>Havant</li>
+                <li>PO9 4BU</li>
+            </ul>
+            <h4>Contact Information</h4>
+            <hr>
+            <ul class="no-bullet">
+                <li>Telephone: 023 9248 9800</li>
+                <br>
+                <li></li>
+            </ul>
+            
+        </div>
+        <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-20.jpg" alt="Park Community School - Range of Technology"></div>
+    </div><br>
+</section>
+    
+<!-- FOOTER -->
+<?php include("includes/footer.html") ?>
+
+
+        <!-- End Site Footer -->
+        <script src="js/vendor/libraries.min.js"></script>
+        <script src="js/vendor/foundation.min.js"></script>
+        <script src="js/app.min.js"></script>
+    </body>
+</html>
