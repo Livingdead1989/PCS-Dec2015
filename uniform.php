@@ -30,7 +30,7 @@
             <p>We wish to encourage some choice, however do avoid extremes or competition in fashion.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-04.jpg" alt="Uniform helps students focus on their education"></div>
-    </div><br>
+    </div><br><br><br>
 </section>
 
 <section class="grey-bg">

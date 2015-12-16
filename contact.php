@@ -40,7 +40,7 @@
                     <li>PO9 4BU</li>
                 </ul>
                 <hr>
-                <a href="http://www.bing.com/maps/?cp=50.868998~-1.001085&sty=h&lvl=16&rtp=~pos.50.868998_-1.001085____&mm_embed=dir#Y3A9NTAuODY4ODcwfi0xLjAwMDQ0MCZsdmw9MTcuNDEmc3R5PWgmZW89MCZxPXBvOTRkcQ==" target="_blank">Get Directions</a>
+                <a href="//www.google.co.uk/maps/place/Havant,+Hampshire+PO9+4BU/@50.8695928,-1.003074,17z/data=!3m1!4b1!4m2!3m1!1s0x48744493ccc89649:0x4440ca57a28cadf4" target="_blank">Get Directions</a>
                 <h5 class="subheader"><small>Use PO94DQ for SatNav postcode</small></h5>
             </div>
         </div>
