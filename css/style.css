@@ -41,14 +41,15 @@ section .row p a {
     color: #ABABAB;
 }
 .hr-logo {
+    background-image:url(/images/sapling.png);
     background-image: url(/images/sapling.svg);
     border-radius: 50%;
     max-width: 80px;
     max-height: 80px;
     min-width: 80px;
     min-height: 80px;
-    width:80px;
-    height:80px;
+    width: 80px;
+    height: 80px;
     background-repeat: no-repeat;
     background-position: 54% 59%;
     background-size: 70%;
@@ -56,11 +57,7 @@ section .row p a {
 }
 .white-bg {
     background-color: #fff;
-    border-bottom-left-radius: 50%;
-    border-bottom-right-radius: 50%;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-}
+    border-radius: 0 0 50% 50%}
 .border-radius-5, .columns>img, .menu-box img {
     border-radius: 5px;
 }
@@ -79,8 +76,8 @@ section .row p a {
     min-height: 100px;
     max-width: 100px;
     max-height: 100px;
-    width:100px;
-    height:100px;
+    width: 100px;
+    height: 100px;
 }
 .brand {
     height: auto;
