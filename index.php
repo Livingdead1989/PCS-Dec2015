@@ -169,27 +169,22 @@
             <h3>Leadership Team</h3>
             <br>
 
-        <div class="medium-12 large-push-5 large-2 columns text-center  team-member-container">
+        <div class="large-3 medium-12 columns text-center  team-member-container">
             <img src="images/slt/c-anders.jpg" alt="" class="team-member">
             <p>Mr C Anders</p>
             <p class="subheader">Headteacher</p>
         </div>
-        <div class="medium-6 large-pull-1 large-2 columns text-center  team-member-container">
+        <div class="large-3 medium-4 columns text-center  team-member-container">
             <img src="images/slt/s-walker.jpg" alt="" class="team-member">
             <p>Ms S Walker</p>
             <p class="subheader">Deputy Head</p>
         </div>
-        <div class="medium-6 large-pull-1 large-2 columns text-center  team-member-container">
-            <img src="images/slt/r-carter.jpg" alt="" class="team-member">
-            <p>Mr R Carter</p>
-            <p class="subheader">Deputy Head</p>
-        </div>
-        <div class="medium-6 large-push-1 large-2 columns text-center  team-member-container">
+        <div class="large-3 medium-4 columns text-center  team-member-container">
             <img src="images/slt/e-capaldi.jpg" alt="" class="team-member">
             <p>Mrs E Capaldi</p>
             <p class="subheader">Deputy Head</p>
         </div>
-        <div class="medium-6 large-push-1 large-2 columns text-center  team-member-container end">
+        <div class="large-3 medium-4 columns text-center  team-member-container end">
             <img src="images/slt/d-morris.jpg" alt="" class="team-member">
             <p>Miss D Morris</p>
             <p class="subheader">Deputy Head</p>
