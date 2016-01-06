@@ -28,9 +28,7 @@
             <div class="panel" data-equalizer-watch>
                 <h4>Teaching Roles</h4>
                 <ul class="no-bullet">
-                    <li><a href="">Job Position<br><span class="subheader">Sub Information</span></a></li>
-                    <hr>
-                    <li><a href="">Job Position<br><span class="subheader">Sub Information</span></a></li>
+                    <li>No Positions Currently Available <br><span class="subheader">Please check back later.</span></li>
                 </ul>
                 <hr>
                 <h5><small>Information about School Direct visit<br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>
@@ -41,9 +39,7 @@
             <div class="panel" data-equalizer-watch>
                 <h4>Support Roles</h4>
                 <ul class="no-bullet">
-                    <li><a href="">Job Position<br><span class="subheader">Sub Information</span></a></li>
-                    <hr>
-                    <li><a href="">Job Position<br><span class="subheader">Sub Information</span></a></li>
+                    <li>No Positions Currently Available <br><span class="subheader">Please check back later.</span></li>
                 </ul>
             </div>
         </div>
