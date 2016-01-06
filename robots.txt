@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+Disallow: /.git
+Disallow: /README.md
+Disallow: /web.config
+
+Sitemap: http://parkcommunityschool.co.uk/sitemap.xml
