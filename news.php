@@ -31,23 +31,23 @@
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
 
                 <li>
+                    <a href="assets/news/parkPost/Issue02-Dec2015.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue02-Dec2015.jpg" alt="Park Post Issue 02 Frontcover">
+                        <p>Issue 02 - 2015</p>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="assets/news/parkPost/Issue01-Oct2015.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue01-Oct2015.jpg" alt="Park Post Issue 01 Frontcover">
+                        <p>Issue 01 - 2015</p>
+                    </a>
+                </li>
+
+                <li>
                     <a href="assets/news/parkPost/Issue19-2015.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/issue19.jpg" alt="Park Post Issue 19 Frontcover">
                         <p>Issue 19 - 2015</p>
-                    </a>
-                </li>
-
-                <li>
-                    <a href="assets/news/parkPost/Issue18-2013.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/issue18.jpg" alt="Park Post Issue 18 Frontcover">
-                        <p>Issue 18 - 2013</p>
-                    </a>
-                </li>
-
-                <li>
-                    <a href="assets/news/parkPost/Issue17-2013.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/issue17.jpg" alt="Park Post Issue 17 Frontcover">
-                        <p>Issue 17 - 2013</p>
                     </a>
                 </li>
 
