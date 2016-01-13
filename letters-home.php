@@ -24,7 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-12 columns">
-        <p>Here at Park we feel that everyone should be kept informed, below you will find all of our letters we send home so you get the information needed regardless of the animals eating it or getting lost!</p>
+        <p>We feel that everyone should be kept informed, below you will find all of our letters we send home so you get the information needed regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
                 <li>
                     <ul class="circle">October 2015<hr>
@@ -102,7 +102,7 @@
                     </ul>
                 </li>
             </ul>
-            <h5 class="subheader text-capitalize text-center"><small>Can't see what your looking for please inquire at <a href="/contact.php">the school reception</a>.</small></h5>
+            <h5 class="subheader text-capitalize text-center"><small>Can't see what your looking for please ask at <a href="/contact.php">the school reception</a>.</small></h5>
         </div>
     </div><br>
 </section>

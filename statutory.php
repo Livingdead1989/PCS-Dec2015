@@ -24,7 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
-        <p>Every maintained school must publish specific information on its website to comply with The School Information Regulations 2012, below is every piece of information we are required to provide as part of a Community School.</p>
+        <p>Every maintained school must publish specific information on its website to comply with The School Information Regulations 2012, below is every piece of information we are required to provide as a Community School.</p>
         <br>
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
                 <li><a href="/contact.php">Contact Details</a></li>

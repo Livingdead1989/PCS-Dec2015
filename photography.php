@@ -31,8 +31,8 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose of Study</h3>
-            <p>Photography at Park enables students to explore a range of lens-based media techniques and processes. This will include theme based photography such as portraiture, landscape or still life, alongside aspects of exploring imagery and film.</p>
+            <h3>Purpose</h3>
+            <p>Photography at Park enables students to explore a range of lens-based media techniques and processes. This will include theme-based photography such as portraiture, landscape or still life, alongside aspects of exploring imagery and film.</p>
 
             <h3>Aims</h3>
             <ul class="circle">
@@ -43,7 +43,7 @@
             
             <h3>Areas of Study</h3>
             <p>Unit 1 consists of an introduction to photography, focusing on aspects of composition, how a camera works and exploring the history and development of Photography over the years. Research on a range of photographers from contemporary through to historical artists is compiled and then applied to their own portfolios.</p>
-            <p>Unit 2 consists of exam preparation through the development of analytical and evaluative skills to enable a detailed response set by the board. This will include refining their photographic skills and building up their portfolio in order to achieve their full potential.</p>
+            <p>Unit 2 consists of exam preparation through analytical and evaluative skills to enable a detailed response set by the board. This will include refining their photographic skills and building up their portfolio in order to achieve their full potential.</p>
 
             <ul class="accordion" data-accordion role="tablist">
 

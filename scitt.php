@@ -27,7 +27,7 @@
             <h3>The Solent SCITT</h3>
             <p>Park Community School is committed to training the next generation of outstanding teachers.</p>
             <p>We have a long history of training teachers and work with other partnership providers for subjects we do not run for The Solent SCITT.</p>
-            <p>As a SCITT, we are also a school which is able to train teachers and award Qualified Teacher Status (QTS) and we offer places through our core provision routes</p>
+            <p>As a SCITT, we are also a school which is able to train teachers and award Qualified Teacher Status (QTS) and we offer places through our core provision routes.</p>
                 
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><br><img style="width:400px; height:200px;" src="images/scitt/scitt.svg" alt="The Solent School Centred Initial Teacher Training (SCITT)"></div>
@@ -70,7 +70,7 @@
             <p>Applications should be made directly through UCAS.</p>
             <a href="//www.ucas.com/apply/teacher-training" target="_blank" class="button radius">Start Your Application</a>
 
-            <p>Read through the process and top tips for applying on the <a href="//www.education.gov.uk/get-into-teaching/teacher-training-options/school-based-training/school-direct/applying.aspx" target="_blank">Department of Education</a> website which also has a direct link to the applications page</p>
+            <p>Read through the process and top tips for applying on the <a href="//www.education.gov.uk/get-into-teaching/teacher-training-options/school-based-training/school-direct/applying.aspx" target="_blank">Department of Education</a> website which also has a direct link to the applications page.</p>
 
             <p>For more information please visit <a href="//thesolentscitt.co.uk" target="_blank">www.thesolentscitt.co.uk</a>.</p>
 

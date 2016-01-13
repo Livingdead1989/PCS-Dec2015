@@ -24,7 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
-            <p>Park Community School are keen to introduce practical, hands-on courses for students who wish to work in the trades industries, whilst ensuring that curriculum requirements are met.</p>
+            <p>We are keen to introduce practical, hands-on courses for students who wish to work in the trades industries, whilst ensuring that curriculum requirements are met.</p>
             <p>The recent government changes to school examinations and accreditations dictate that from 2016 non-academic courses have no ‘league table value’ to schools. A consequence of this is that schools now need to ensure any time spent on vocational learning is highly relevant to the student’s needs.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/apex/apex-01.jpg" alt="Apex Centre - Trade Skills for Life"></div>
@@ -38,8 +38,7 @@
     </div>
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
-            <p>Park Community School has expanded, and although is unable to offer this style of learning on the school site.</p>
-            <p>Park Community Enterprises Ltd have been able to lease facilities named The Apex Centre, to accommodate this. This Centre is situated to the north east of the central shopping district of Leigh Park and is within fifteen minutes walking distance from Park Community School. It is within the school’s catchment area. The Apex Centre is also just two minutes walk from the industrial unit we already lease.</p>
+            <p>Park Community Enterprises Ltd have leased facilities named The Apex Centre, to accommodate this. This Centre is situated to the north east of the central shopping district of Leigh Park and is within fifteen minutes walking distance from Park Community School. It is within the school’s catchment area. The Apex Centre is just two minutes walk from the industrial unit we already lease.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/apex/apex-02.jpg" alt="Park Community School Apex Centre - Bricklaying, Plastering, Tiling, Painting and Car Mechanics"></div>
     </div>
@@ -62,7 +61,7 @@
                 </ul>
             <h4>Refurbishment</h4>
             <hr>
-            <p>After refurbishing the unit, our intention is to then be in the position to offer learning opportunities such as bricklaying, plastering, tiling, painting and car mechanics.</p>
+            <p>After refurbishing the unit, our intention is to be in the position to offer learning opportunities such as bricklaying, plastering, tiling, painting and car mechanics.</p>
             
             
         </div>

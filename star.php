@@ -35,15 +35,15 @@
             <p>Pupils spend 50% of their timetable in Star.</p>
             <p>The Star curriculum aims to deliver subjects in a connected way to promote the development of:</p>
             <ul class="circle">
-                <li>Literacy across all subject areas</li>
-                <li>High attainment and sustained progression</li>
-                <li>The transfer of skills across all subjects</li>
+                <li>Literacy across all subject areas.</li>
+                <li>High attainment and sustained progression.</li>
+                <li>The transfer of skills across all subjects.</li>
                 <li>Application of learning for real purpose and audience.</li>
             </ul>
 
             <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
-                            <li>The curriculum is organised into half termly concepts, used to drive the content and skills developed and also tied into a final Rich Challenge.</li>
+                            <li>The curriculum is organised into half-termly concepts, used to drive the content and skills developed and also tied into a final Rich Challenge.</li>
                             <br>
                             <li>Explorers
                                 <ul><em>Literacy, ICT, History  and MFL lead subjects</em>
@@ -72,7 +72,7 @@
                             <li>Culture and Arts
                                 <ul><em>Literacy, History and Arts lead subjects</em>
                                     <li>
-                                        Pupils explore their heritage in terms of the arts looking at Monarchy and influential figures such as Shakespeare. Pupils will develop their ability to critically analyse texts.
+                                        Pupils explore their heritage in terms of the arts looking at monarchy and influential figures such as Shakespeare. Pupils will develop their ability to critically analyse texts.
                                     </li>
                                 </ul>
                             </li><br>
@@ -80,7 +80,7 @@
                             <li>My world
                                 <ul><em>Discrete subjects</em>
                                     <li>Pupils return to discrete subjects where they explore the world in which we live.</li>
-                                    <li>Science and us</li>
+                                    <li>Science and us.</li>
                                     <li>Pupils explore the world of Science and ethics and its impact on the modern world.</li>
                                 </ul>
                             </li><br>
@@ -88,11 +88,11 @@
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
-                            <li><strong>Writing basics</strong> - Paragraphing, punctuation, vocabulary, spelling, writing for audience and purpose.</li>
+                            <li><strong>Writing basics</strong> - Paragraphs, punctuation, vocabulary, spelling, writing for audience and purpose.</li>
                             <li><strong>Reading basics</strong> - Skimming, scanning, selecting, summarising, synthesising, PEE paragraphs, strategies for developing as a successful reader.</li>
                             <li><strong>Oracy</strong> - Presentation skills, group discussion, speaking for audience and purpose, developing ideas.</li>
-                            <li><strong>Numeracy</strong> - Number, scales, calculation, graphs, time, measuring</li>
-                            <li><strong>Analysis</strong> - Identify, describe and explain evidence and justify views.</li>
+                            <li><strong>Numeracy</strong> - Number, scales, calculation, graphs, time, measurings</li>
+                            <li><strong>Analysis</strong> - Identify, describe, explain evidence and justify views.</li>
                             <li><strong>Evaluation</strong> - Making judgements and supporting with evidence. Exploring strengths and weaknesses.</li>
                             <li><strong>Research and enquiry</strong> - Asking questions to drive research, navigating texts, fact and opinion, searching for information in fiction and non-fiction texts.</li>
                             <li><strong>Leadership</strong> - Take on leadership roles in a range of contexts.</li>

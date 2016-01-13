@@ -27,9 +27,9 @@
             <h3>What do the Governors do?</h3>
             <p>The Governors act as a “Critical Friend” to the School by</p>
             <ul class="circle">
-                <li>Ensuring clarity of vision, ethos and strategic direction and supporting staff to achieve this</li><br>
-                <li>Holding the headteacher to account for the educational performance of the school and its pupils</li><br>
-                <li>Overseeing the financial performance of the school and making sure its money is well spent</li>
+                <li>Ensuring clarity of vision, ethos and strategic direction and supporting staff to achieve this.</li><br>
+                <li>Holding the headteacher to account for the educational performance of the school and its pupils.</li><br>
+                <li>Overseeing the financial performance of the school and making sure money is well spent.</li>
             </ul> 
         <br>   
         </div>
@@ -230,7 +230,7 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li>Trustee of Communitas, who deliver youth work in schools</li>
+                              <li>Trustee of Communitas, who deliver youth work in schools.</li>
                             </ul>
 
 
@@ -268,7 +268,7 @@
                 Governor Details</a>
                         <div id="Governor-10" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr C Anders</h2>
-                          <p class="lead">Term Expires: Appointed - 09.07.2014</p>
+                          <p class="lead">Appointed: 09.07.2014</p>
                           <p>Category: Headteacher</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">

@@ -24,19 +24,19 @@
     <div class="row">
         <br>
         <div class="medium-12 columns">
-        <p>Park Community School is fortunate to be able to work in partnership with many organisations which enriches and enhances our provision for our students and the community. With the extensive opening hours and fantastic facilities it enables us to be part of many different projects.</p>
+        <p>Park Community School is fortunate to be able to work in partnership with many organisations which enrich and enhance our provision for our students and the community. With the extensive opening hours and fantastic facilities we are able to be part of many different projects.</p>
         <p>The organisations listed below provide:</p>
             <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3 text-capitalize">
-                <li>expertise</li>
-                <li>working to a common goal</li>
-                <li>improvements for all in our community</li>
-                <li>arts, music and sport initiatives</li>
-                <li>youth development work</li>
-                <li>student and parental support</li>
-                <li>fundraising opportunities</li>
-                <li>work based skills</li>
-                <li>environmental opportunities</li>
-                <li>and so much more…</li>
+                <li>Expertise</li>
+                <li>Working to a common goal</li>
+                <li>Improvements for all in our community</li>
+                <li>Arts, music and sport initiatives</li>
+                <li>Youth development work</li>
+                <li>Student and parental support</li>
+                <li>Fundraising opportunities</li>
+                <li>Work-based skills</li>
+                <li>Environmental opportunities</li>
+                <li>And so much more…</li>
             </ul>
         
         </div>

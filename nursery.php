@@ -24,9 +24,9 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
-            <p>We have a purpose built nursery and pre-school on the outskirts of the school campus.</p>
-            <p>We are able to offer flexible hours to suit with starting times from 07:30 and collection up until 18:00, supporting you, in your busy days as working parents.</p>
-            <p>The nursery is able to offer 39 week contracts if required. The prices include all food, prepared by our qualified Chefs.</p>
+            <p>We have a purpose-built nursery and pre-school on the outskirts of the school campus.</p>
+            <p>We are able to offer flexible hours to suit with starting times from 07:30 and collection up until 18:00, supporting you in your busy days as working parents.</p>
+            <p>The nursery is able to offer 39 week contracts if required. The prices include all food, prepared by our qualified chefs.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/nursery/nursery-logo.svg" alt="Park Community School - Springwood Nursery"></div>
     </div>
@@ -40,7 +40,8 @@
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
             <h3>Springwood's Aim</h3>
-            <p>To provide a welcoming, safe but challenging environment where children can learn at their own pace whilst having fun. Our children are encouraged with the support of our friendly staff to experience challenge through play. Play enables children to progress and develop new skills. Learning through play allows the children to talk and think for themselves.</p>
+            <p>To provide a welcoming, safe but challenging environment where children can learn at their own pace whilst having fun. Our children are encouraged, with the support of our friendly staff, to experience challenge through play. Play enables children to progress and develop new skills. Learning through play allows the children to talk and think for themselves.</p>
+
             <p>The staff at Springwood are guided by the national curriculum for 0-5 years called the Early Years Foundation Stage. We see every child as an individual learner. </p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/nursery/nursery-03.jpg" alt="Springwood Nursery - Offering Fun, Safe and Full Week Childcare"></div>

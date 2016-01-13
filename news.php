@@ -14,7 +14,7 @@
     <div class="row">
         <div class="medium-8 large-8 columns">
             <h1>Park News</h1>
-            <p class="text-capitalize">Whats happening at Park Community</p>
+            <p class="text-capitalize">What's happening at Park Community</p>
         </div>
     </div>
 </header>
@@ -57,7 +57,7 @@
             <hr><br>
 
             <h3>Primary Link</h3>
-            <p>Primary Link magazine is all about the local area schools.</p>
+            <p>Primary Link magazine is all about the schools in out local area.</p>
             <p>Primary Link is available in downloadable PDF format.</p>
 
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
@@ -107,7 +107,7 @@
     <div class="row">
         <div class="medium-12 columns">
             <h4>Press Cuttings</h4>
-            <p>Park Community takes pride on our activities, achievements and successes. Below are some of the press cuttings from local and national newspapers.</p>
+            <p>Park Community takes pride in our activities, achievements and successes. Below are some of the press cuttings from local and national newspapers.</p>
             <p>Click a title below to view the corresponding press cutting in PDF format.</p>
             <ul class="small-only-text-center small-block-grid-1 medium-block-grid-2 large-block-grid-3">
                 <li><a href="assets/news/pressCuttings/Delicious-grub.pdf" target="_blank">Delicious Grub</a></li>

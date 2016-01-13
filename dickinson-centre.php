@@ -24,9 +24,9 @@
     <div class="row">
         <br>
         <div class="medium-6 columns">
-            <p>Dickinson Centre is the perfect venue for meetings, conferences and training sessions and is able to accommodate one-to-one meetings through to 90 visitors.</p>
+            <p>The Dickinson Centre is the perfect venue for meetings, conferences and training sessions, and is able to accommodate one-to-one meetings through to 90 visitors.</p>
             <p>The rooms are equipped with superfast WiFi (AC), projection and speakers.</p>
-            <p>We are able to provide catering facilities to meet your needs or there are vending facilities in the café area, which has a bank of PCs for free internet use for the general public.</p>
+            <p>We are able to provide catering facilities to meet your needs and there are vending facilities in the café area, which has a bank of PCs with free internet access for the general public.</p>
             
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/dickinsoncentre/dickinson-centre-02.jpg" alt="Dickinson Centre - Free Public Computer and Internet Access"></div>
@@ -42,9 +42,9 @@
         <div class="medium-push-6 medium-6 columns">
             <p>The rooms are competitively priced</p>
             <ul class="circle text-capitalize">
-                <li>single room for £10 per hour</li>
-                <li>two rooms for £16 per hour</li>
-                <li>all three opened out to £24 per hour</li>
+                <li>Single room for £10 per hour</li>
+                <li>Two rooms for £16 per hour</li>
+                <li>All three opened out to £24 per hour</li>
             </ul>
             <p>These facilities are available for use at all times.</p>
         </div>

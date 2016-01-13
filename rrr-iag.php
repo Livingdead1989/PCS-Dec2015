@@ -14,7 +14,7 @@
     <div class="row">
         <div class="medium-8 large-8 columns">
             <h1>RRR &amp; IAG</h1>
-            <p class="text-capitalize">Rights, Respect, Responsibility &amp; Information, Advice and Guidance</p>
+            <p class="text-capitalize">Rights, Respect, Responsibility &amp; Information, Advice &amp; Guidance</p>
         </div>
     </div>
 </header>
@@ -34,7 +34,7 @@
         <h3>Rights, Respect, Responsibility</h3>
             <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
-                            <li>In a Rights Respecting School the pupils have an opportunity to learn about the United Nations Convention on the Rights of the Child through family assemblies and pupil lead groups. As a rights respecting school we do not only teach our pupils about children’s rights but we also model rights and respect in all our relationships: between staff, between staff and pupils, and encourage it between pupils.</li>
+                            <li>In a Rights Respecting School the pupils have an opportunity to learn about the United Nations Convention on the Rights of the Child through family assemblies and pupil led groups. As a rights respecting school we do not only teach our pupils about children’s rights but we also model rights and respect in all our relationships: between staff, between staff and pupils, and between pupils.</li>
                         </ul>
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
@@ -50,14 +50,14 @@
             <h3>Information, Advice &amp; Guidance</h3>
             <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
-                            <li>Assisting pupils in their ‘next steps’ be that work, college or apprenticeships, future career ideas or as simple as their option choices. Pupils learn about the world of work and the range of opportunities open to them after they complete their time at Park. We work on raising pupils' aspirations to achieve their full potential and support them in doing so. All pupils can have a 1:1 personal careers appointment with our trained advisor.</li>
+                            <li>Assisting pupils in their ‘next steps’ be that work, college or apprenticeships, future career ideas or their option choices. Pupils learn about the world of work and the range of opportunities open to them after they complete their time at Park. We work on raising pupils' aspirations to achieve their full potential and support them in doing so. All pupils can have a 1:1 personal careers appointment with our trained advisor.</li>
                         </ul>
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
-                            <li>Understanding the world of work</li>
-                            <li>Understanding the career choices available</li>
-                            <li>Learning about the choices process through college visits, mock interviews and visiting speakers</li>
+                            <li>Understanding the world of work.</li>
+                            <li>Understanding the career choices available.</li>
+                            <li>Learning about the choices process through college visits, mock interviews and visiting speakers.</li>
                         </ul>
             
             <br>

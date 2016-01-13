@@ -37,7 +37,7 @@
              <br><br><br>
 
 
-            <h5 class="subheader text-capitalize text-center"><small>Can't see what your looking for please inquire at <a href="/contact.php">the school reception</a>.</small></h5>
+            <h5 class="subheader text-capitalize text-center"><small>Can't see what your looking for please ask at <a href="/contact.php">the school reception</a>.</small></h5>
             
            <br>
 

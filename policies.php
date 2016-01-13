@@ -24,7 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
-        <p>Our policies are designed to create a safe and fair environment for all students. All of our policies are freely available and transparent. By learning what is allowed and not you can help avoid unintentionally breaking the rules.</p>
+        <p>Our policies are designed to create a safe and fair environment for all students. All our policies are freely available and transparent. By learning what is allowed and not you can help avoid unintentionally breaking the rules.</p>
         <br>
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
                 <li>Accessibility</li>

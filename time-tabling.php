@@ -13,7 +13,7 @@
 <header class="header-learning">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Time Tabling</h1>
+            <h1>Timetabling</h1>
             <p class="text-capitalize">Right Place, Right Time</p>
         </div>
     </div>
@@ -24,7 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-6 columns">
-        <p>Need the latest School Calendar or Shape of the Day then your in the right place, below you will find the most up to date time tables and any relevant exam information and resources.</p>
+        <p>Need the latest School Calendar or Shape of the Day then you are in the right place, below you will find the most up to date timtables and any relevant exam information and resources.</p>
             <ul class="circle">
                 <li><a href="/assets/school-calendar.pdf" target="_blank">Important Dates - <br>School Calendar</a></li>
                 <br>

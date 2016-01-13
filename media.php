@@ -31,8 +31,8 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose of Study</h3>
-            <p>Media at Park looks at developing students skills in exploring media theory and practice. It gives an opportunity to learn about real media products and industries. Four key concepts are studied at GCSE level. They are Media Language, Institutions, Audience and Representation.</p>
+            <h3>Purpose</h3>
+            <p>Media at Park looks at developing pupils' skills in exploring media theory and practice. It gives an opportunity to learn about real media products and industries. Four key concepts are studied at GCSE level. They are Media Language, Institutions, Audience and Representation.</p>
 
             <h3>Aims</h3>
             <ul class="circle">
@@ -43,9 +43,12 @@
             </ul>
             
             <h3>Areas of Study</h3>
-            <p>The first area of study looks at the method of Print with students comparing two magazine covers. This includes analysis of target audience, evaluation of purpose and designing a magazine front cover which includes all the conventions of a true magazine design. Students will analyse and evaluate the effectiveness of their work.</p>
-            <p>The second area focuses on cross media through Advertising and Marketing. Students will study a range of adverts across at least two media platforms, based on the same product. They will then devise a storyboard or a mock up of their own advertising method for the same product and analyse the effectiveness of the method within their own body of work.</p>
-            <p>Assignment three focuses on Moving Image and involves planning and creating a trailer for a film or a music video. This involves extensive planning through audience research, storyboarding, scripting and marketing methods. The final product is created and evaluated through the chosen medium.</p>
+            <p>The first area of study looks at the method of print with students comparing two magazine covers. This includes analysis of target audience, evaluation of purpose and designing a magazine front cover using all the conventions of a magazine design. Students will analyse and evaluate the effectiveness of their work.</p>
+
+            <p>The second area focuses on cross media through Advertising and Marketing. Students will study a range of adverts across at least two media platforms, based on the same product. They will then devise a storyboard or a mock up of their own advertising method for the same product and analyse the effectiveness of the method within their work.</p>
+
+            <p>Assignment three focuses on Moving Image and involves planning and creating a trailer for a film or a music video. This involves extensive planning using audience research, storyboarding, scripting and marketing methods. The final product is created and evaluated through the chosen medium.</p>
+
             <p>Finally students will complete an external exam focusing on a media brief set by the AQA exam board. Students will have planning time for this four weeks before the exam.</p>
 
             <ul class="accordion" data-accordion role="tablist">
@@ -55,8 +58,8 @@
                     <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
-                            <li>Digital Publishing</li>
-                            <li>Planning &amp; Pitching a Product</li>
+                            <li>Digital publishing</li>
+                            <li>Planning &amp; pitching a product</li>
                             <li>Film</li>
                             <li>Audiences</li>
                         </ul>

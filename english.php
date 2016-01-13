@@ -31,8 +31,8 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose of Study</h3>
-            <p>Our English curriculum provides pupils with opportunities to develop their communication through reading, writing and the spoken word and therefore equips them with the skills required for life. We aim to provide opportunities to develop pupils culturally, emotional, intellectually, socially and spiritually using literature and language.</p>
+            <h3>Purpose</h3>
+            <p>Our English curriculum provides pupils with opportunities to develop their communication through reading, writing and the spoken word and equips them with the skills required for life. We aim to provide opportunities to develop pupils culturally, emotional, intellectually, socially and spiritually using literature and language.</p>
 
             <h3>Aims</h3>
             <p>To develop skill, confidence and fluency in all aspects of communication.</p>
@@ -40,9 +40,9 @@
             <p>To enthuse pupils in the benefits of reading for pleasure and develop their skills of writing clearly, accurately and coherently.</p>
             
             <h3>Areas of Study</h3>
-            <p><strong>Reading</strong> – pupils will have opportunities to read full texts for both pleasure and for gathering information. We will expose pupils to a range of English literature, seminal world literature and texts from Shakespeare, with the focus on developing an appreciation of texts, the ability to read critically ad to engage with, accessing challenging texts.</p>
-            <p><strong>Writing</strong> – pupils will be given opportunities to develop their written skills in order to develop their written accuracy, fluency and use of writing for both pleasure and information. Pupils will be expected to write essays, stories, scripts, poetry, arguments, articles and letters using the writing process of planning, drafting, editing and re-drafting. Alongside this pupils will develop their ability to refine texts, enhance their vocabulary, as well as developing their understanding of spelling, punctuation and grammar.</p>
-            <p><strong>Spoken communication</strong> – pupils will use spoken communication to underpin the development of their reading and writing skills. They will develop and practise their spoken confidence and ability, using a range of communication skills effectively. This will involve debating in groups, presenting to others, interacting and developing ideas through talk and using role play to engage with the texts being studied.</p>
+            <p><strong>Reading</strong> – Pupils will have opportunities to read full texts for both pleasure and for gathering information. We will expose pupils to a range of English literature, seminal world literature and texts from Shakespeare, with the focus on developing an appreciation of texts, the ability to read critically ad to engage with and access challenging texts.</p>
+            <p><strong>Writing</strong> – Pupils will be given opportunities to develop their written skills in order to develop their written accuracy, fluency and use of writing for both pleasure and information. Pupils will be expected to write essays, stories, scripts, poetry, arguments, articles and letters using the writing process of planning, drafting, editing and re-drafting. Alongside this pupils will develop their ability to refine texts, enhance their vocabulary, as well as develop their understanding of spelling, punctuation and grammar.</p>
+            <p><strong>Spoken communication</strong> – Pupils will use spoken communication to underpin the development of their reading and writing skills. They will develop and practise their speaking skills, using a range of communication skills effectively. This will involve debating in groups, presenting to others, interacting and developing ideas through talk and using role play to engage with the texts being studied.</p>
 
             <ul class="accordion" data-accordion role="tablist">
 
@@ -51,8 +51,8 @@
                     <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
-                            <li>Reading and writing of fiction texts</li>
-                            <li>Reading and writing of non-fiction texts</li>
+                            <li>Reading and writing of fiction texts.</li>
+                            <li>Reading and writing of non-fiction texts.</li>
                             <li>Writing, reading and performing poetry and plays.</li>
                         </ul>
                         <p>Many of these units finish with a Rich Challenge.</p>
@@ -64,7 +64,7 @@
                             <li>Using PEE to describe and analyse a wide range of texts.</li>
                             <li>Developing planning, drafting and editing skills.</li>
                             <li>Writing accurately for a variety of audiences and purposes.</li>
-                            <li>Developing speaking to different audiences and using some techniques to interest the listener.</li>
+                            <li>Developing speaking to different audiences and using techniques to interest the listener.</li>
                         </ul>
                     </div>
                 </li>
@@ -75,12 +75,12 @@
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
                             <li><h5>Unit 1</h5>
-                            2 controlled assessments tasks. Reading, analysing and responding to non-fiction texts. Completing a piece of writing that could be used in the ‘real world’.
+                            Two controlled assessments tasks. Reading, analysing and responding to non-fiction texts. Completing a piece of writing that could be used in the ‘real world’.
                             </li>
                             <li><h5>Unit 2</h5>
-                            Exam unit with 1 exam: Writing a piece of text that could be used for a real audience and a real purpose. Studying a Shakespeare play with a particular focus on character, performance techniques and key themes. Reading a novel from a different culture, focusing on character, the language the writer uses and the key themes.</li>
+                            Exam unit with 1 exam. Writing a piece of text that could be used for a real audience and a real purpose. Studying a Shakespeare play with a particular focus on character, performance techniques and key themes. Reading a novel from a different culture, focusing on character, the language the writer uses and the key themes.</li>
                             <li><h5>Unit 3</h5>
-                            2 controlled assessment tasks. Developing a piece of creative writing that could be descriptive or a narrative. Studying a range of poetry and discussing the poets’ uses of language, poetic devices and themes.</li>
+                            Two controlled assessment tasks. Developing a piece of creative writing that could be descriptive or a narrative. Studying a range of poetry and discussing the poets’ uses of language, poetic devices and themes.</li>
                         </ul>
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
@@ -103,12 +103,12 @@
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
                             <li><h5>Unit 1</h5>
-                            2 controlled assessments tasks. Reading, analysing and responding to non-fiction texts. Completing a piece of writing that could be used in the ‘real world’.
+                            Two controlled assessments tasks. Reading, analysing and responding to non-fiction texts. Completing a piece of writing that could be used in the ‘real world’.
                             </li>
                             <li><h5>Unit 2</h5>
                             Exam unit with 1 exam: Writing a piece of text that could be used for a real audience and a real purpose. Reading a novel from a different culture, focusing on character, the language the writer uses and the key themes.</li>
                             <li><h5>Unit 3</h5>
-                            2 controlled assessment tasks. Investigating spoken language and the spoken word, analysing how language is adapted for different audiences and purposes. Writing a piece of text that is suitable for the spoken voice and is intended to be spoken, rather than read.</li>
+                            Two controlled assessment tasks. Investigating spoken language and the spoken word, analysing how language is adapted for different audiences and purposes. Writing a piece of text that is suitable for the spoken voice and is intended to be spoken, rather than read.</li>
                         </ul>
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
@@ -116,8 +116,8 @@
                             <li>Using good reader strategies to support the independent understanding of texts.</li>
                             <li>Using PEE to discuss and analyse texts, with a particular focus on language, alternative ideas and evaluation.</li>
                             <li>Refining planning, drafting and editing skills in order to be able to create interesting and believable texts in tight time limits.</li>
-                            <li>Using a variety of writing tools, such as language, punctuations and sentence structure for deliberate effect on the reader.</li>
-                            <li>Being able to lead and shape discussions, present clear and detailed ideas and take on believable and realistic roles in performances</li>
+                            <li>Using a variety of writing tools, such as language, punctuation and sentence structure for deliberate effect on the reader.</li>
+                            <li>Being able to lead and shape discussions, present clear and detailed ideas, and take on believable and realistic roles in performances.</li>
                         </ul>
                         <small>For more information please visit the <a href="http://www.edexcel.com/" target="_blank">EdExcel website</a></small>
                     </div>
@@ -134,7 +134,7 @@
                             <li><h5>Unit 2</h5>
                             Exam unit: 1 exam. Studying an anthology of poetry linked by a common theme, before comparing 2 of the poems and how the poets explore similar ideas in them. Studying poetic devices and the poet’s use of language, in order to discuss a poem which has not been previously studied.</li>
                             <li><h5>Unit 3</h5>
-                            2 controlled assessment tasks. Comparing a character, theme or relationship in one of Shakespeare’s plays with a modern version of the play. Studying a modern play and analysing the character, theme or staging used to present key ideas.</li>
+                            Two controlled assessment tasks. Comparing a character, theme or relationship in one of Shakespeare’s plays with a modern version of the play. Studying a modern play and analysing the character, theme or staging used to present key ideas.</li>
                         </ul>
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>

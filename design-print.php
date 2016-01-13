@@ -24,8 +24,11 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
-            <p>Park Design and Print Services initially began as an enterprise project, using digital reproducing equipment to produce all of the internal school reprographics.<br>Over time they have become established and now produce bespoke educational printing, meeting the exact requirements of school staff e.g. student planners and learning materials.</p>
-            <p>Students have been involved in the creation of some of the school products and have been utilised to produce the printed material and carry out the specialist finishing of some products. We continue to look for ways to involve present and past students.<br>This subsequently expanded by offering this out to other schools, as it became recognised that the quality was extremely high and the bespoke nature of materials was exceeding expectations.</p>
+            <p>Park Design and Print Services initially began as an enterprise project, using digital reproducing equipment to produce all of the internal school reprographics.
+            <br>Over time they have become established and now produce bespoke educational printing, meeting the exact requirements of school staff e.g. student planners and learning materials.</p>
+
+            <p>Students have been involved in the creation of some of the school products and have helped to produce the printed material and carry out the specialist finishing of some products. We continue to look for ways to involve present and past students.
+            <br>We have expanded by offering this service out to other schools, as the quality is extremely high and the bespoke nature of materials exceeding expectations.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/unit/unit-02.jpg" alt="Park Design and Print - Large Range of Professional Quality Products"></div>
     </div>
@@ -39,8 +42,9 @@
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
             
-            <p>Other organisations outside of education started to embrace the ideology of PDP and now we receive work from them. PDP is based away from the school site in an Industrial unit in Leigh Park.</p>
-            <p>The unit allows PDP to be able to develop, design and create and then offer to both internal and external customers. For example, we produce printed mugs, canvas prints, badges, T-shirts, diaries and calendars all at affordable prices and on a scale which allows anyone to commission our services.</p>
+            <p>Other organisations outside education started to embrace the ideology of PDP and now we receive work from them. PDP is based away from the school site in an Industrial unit in Leigh Park.</p>
+
+            <p>The unit allows PDP to be able to develop, design, create, and offer to both internal and external customers. For example, we produce printed mugs, canvas prints, badges, T-shirts, diaries and calendars all at affordable prices and on a scale which allows anyone to commission our services.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/unit/unit-01.jpg" alt="Design and Print - Adding the personal touch to your designs and ideas"></div>
     </div>

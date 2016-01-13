@@ -24,8 +24,8 @@
     <div class="row">
         <br>
         <div class="medium-6 columns">
-            <p>Park Community Enterprises lease a piece of farm land on which we have established a small holding.</p>
-            <p>Students are taught to grow vegetables, look after and rear animals. The vegetables grown and in some cases meat from the farm is used in the school kitchen not only promoting healthy eating and also allowing students to make the connection with what they eat and where and how it is grown.</p>
+            <p>Park Community Enterprises lease a piece of farm land on which we have created a smallholding.</p>
+            <p>Students are taught to grow vegetables, look after and rear animals. The vegetables grown and in some cases meat from the farm is used in the school kitchen not only promoting healthy eating but allowing students to make the connection with what they eat and where and how it is grown.</p>
             
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/enterprises/enterprises-01.jpg" alt="Park Community School Farm - Students grow their own food"></div>
@@ -55,7 +55,7 @@
         <div class="medium-6 columns">
             <h4>Contact</h4>
             <hr>
-            <p>For questions and queries please use Park Community School Reception on our <a href="/contact.php">Contact page</a></p>
+            <p>For questions and queries please visit Park Community School Reception on our <a href="/contact.php">Contact page</a></p>
             
         </div>
         <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/farm/farm-04.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce"></div>

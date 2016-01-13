@@ -49,7 +49,7 @@
             <div class="panel" data-equalizer-watch>
                 <h4>Emails</h4>
                 <ul class="no-bullet">
-                    <li><a href="javascript:location='mailto:\u0069\u006e\u0066\u006f\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Reception</a><br><h5 class="subheader"><small>General queries please email our Reception</small></h5>
+                    <li><a href="javascript:location='mailto:\u0069\u006e\u0066\u006f\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Reception</a><br><h5 class="subheader"><small>For general queries please email our Reception</small></h5>
                     <hr>
                     <li><a href="javascript:location='mailto:\u0061\u0074\u0074\u0065\u006e\u0064\u0061\u006e\u0063\u0065\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Attendance</a><br><h5 class="subheader"><small>Please use Attendance to report sickness</small></h5></li>
                     <hr>

@@ -24,7 +24,7 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <p>We understand that not everything can be completed on school sites so we offer a range of services to empower you, the end user to complete work, stay in touch and up to date.</p>
+            <p>We understand that not everything can be completed on school sites so we offer a range of services to empower you, to complete work, stay in touch and up to date.</p>
             <p>Below are a few services which you can log into freely on any device at any time.</p>
         </div>
     </div>

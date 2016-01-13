@@ -50,7 +50,7 @@
                 <li>Nursery and pre-school on site</li>
                 <li>Wide variety of room sizes and outdoor spaces available to hire.</li>
             </ul>
-            <p>We offer an extensive range of children's birthday parties for all ages and are able to provide a variety of inflatable equipment. We are able to provide catering for events however big or small, by our team of highly qualified Chefs.</p>
+            <p>We offer an extensive range of children's birthday parties for all ages and are able to provide a variety of inflatable equipment. We provide catering for events big and small, by our team of highly qualified Chefs.</p>
             <p>During school holidays, there is a varied programme of events to keep children entertained.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/community/community-03.jpg" alt="Park Community - Offering a range of managed services"></div>
@@ -69,20 +69,20 @@
             <div class="large-6 columns">
                 <ul class="no-bullet">
                     <li><strong>Office Hours:</strong></li>
-                    <li>Monday - Friday: 9am - 8pm</li>
-                    <li>Saturday: 9am - 4pm</li>
-                    <li>Sunday: 9am - 4pm</li>
+                    <li>Monday - Friday 9am - 8pm</li>
+                    <li>Saturday 9am - 4pm</li>
+                    <li>Sunday 9am - 4pm</li>
                 </ul>
             </div>
             <div class="large-6 columns">
                 <ul class="no-bullet">
                     <li><strong>Site Hours:</strong></li>
-                    <li>Monday - Friday: 9am - 10pm</li>
-                    <li>Saturday: 9am - 4pm</li>
-                    <li>Sunday: 9am - 4pm</li>
+                    <li>Monday - Friday 9am - 10pm</li>
+                    <li>Saturday 9am - 4pm</li>
+                    <li>Sunday 9am - 4pm</li>
                 </ul>
             </div>
-            <p><small>* Closed Bank Holidays, any quieries please contact for information.</small></p>
+            <p><small>* Closed Bank Holidays, any queries please contact for information.</small></p>
             <br>
             <h4>Contact Information</h4>
             <hr>

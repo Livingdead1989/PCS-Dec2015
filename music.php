@@ -31,17 +31,20 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose of Study</h3>
-            <p>Through the study of Music, students develop their creativity, express themselves physically and emotionally and nurture a love of Music and inspire their talents as musicians. It is through this programme of study that their self-confidence and sense of achievement increases and they become able to listen and evaluate a wide range of musical styles.</p>
+            <h3>Purpose</h3>
+            <p>Through the study of Music, students develop their creativity, express themselves physically and emotionally and nurture a love of music to inspire their talents as musicians. It is through this programme of study that their self-confidence and sense of achievement increases and they become able to listen and evaluate a wide range of musical styles.</p>
 
             <h3>Aims</h3>
-            <p>Here at Park our aim is to provide a challenging and rewarding course that is taught in mixed ability groups throughout Years 7 and 8 and is optional in the upper school. We follow an essentially practical experience for students that develop performing, listening and composing across a range of musical periods. Students are encouraged to sing, compose on their own and with others, and learn a musical instrument. During the process students will understand and explore how music is created and communicated and express their opinions using musical vocabulary. As a creative subject it helps to achieve a balance in the curriculum.</p>
+            <p>Our aim is to provide a challenging and rewarding course that is taught in mixed ability groups throughout Years 7 and 8, and is optional in upper school. We follow an essentially practical experience for students that develop performing, listening and composing across a range of musical periods. Students are encouraged to sing, compose on their own and with others, and learn a musical instrument. During the process students will understand and explore how music is created and communicated and express their opinions using musical vocabulary. As a creative subject it helps to achieve a balance in the curriculum.</p>
             
             <h3>Areas of Study</h3>
-            <p>The Key Stage 3 curriculum at Park is broad and enables students to build up a good repertoire of songs and improve their vocal skills, learn basic keyboard skills and progress to playing hands together. In years 7 and 8, projects last between 5-7 weeks of performing, composing and listening activities, where pupils have opportunities to work individually, in pairs and in larger groups. They are encouraged to evaluate and improve upon their ideas as well as discussing the work of their peers in a positive, supportive atmosphere. Students will have the opportunity to experience a range of instruments, learning about a wide variety of topics including world music, popular music as well as the fundamentals of western music. Examples of units of work include Keyboard skills, Ukulele Skills and The X Factor.</p>
+            <p>The Key Stage 3 curriculum at Park is broad and enables students to build up a good repertoire of songs and improve their vocal skills, learn basic keyboard skills and progress to playing two hands together. In years 7 and 8, projects last between 5-7 weeks of performing, composing and listening activities, where pupils have opportunities to work individually, in pairs and in larger groups. They are encouraged to evaluate and improve their ideas as well as discussing the work of their peers in a positive, supportive atmosphere. Students will have the opportunity to experience a range of instruments, learning about a wide variety of topics including world music, popular music as well as the fundamentals of western music. Examples of units of work include Keyboard skills, Ukulele Skills and the X Factor.</p>
+
             <p>We set homework at KS3 which is a research-based assignment and, as work is largely practical, we ask pupils to practice anything they are currently working on in lessons. Many students use the music facilities before and after school and all are welcome.</p>
-            <p>KS4 music is a natural progression for any student who has enjoyed music in Year 7 and 8 and develops all the skills and experiences gained at KS3. We offer BTEC Performing and GCSE Music that are aimed to develop students’ understanding and appreciation of a wide range of musical styles from Classical/Baroque, Blues/Pop, Film Music to Bangra. This focuses on the development of skills in Performing, Composing and Listening. We follow the AQA GCSE specification where 50% is performance based, so the course is highly weighted towards practical skills.</p>
-            <p>GCSE music provides a unique opportunity for anyone who wants to learn more about music and work with other musicians. Music also gives a good foundation for those seeking to study the subject in college.</p>
+
+            <p>KS4 music is a natural progression for any student who has enjoyed music in Year 7 and 8 and develops the skills and experiences gained at KS3. We offer BTEC Performing and GCSE Music that are aimed to develop students’ understanding and appreciation of a wide range of musical styles from Classical/Baroque, Blues/Pop, Film Music, and Bangra. This focuses on the development of skills in Performing, Composing and Listening. We follow the AQA GCSE specification where 50% is performance based, so the course is highly weighted towards practical skills.</p>
+
+            <p>GCSE music provides a unique opportunity for anyone who wants to learn more about music and work with other musicians. Music also gives a good foundation for those seeking to study Music in college.</p>
 
             <ul class="accordion" data-accordion role="tablist">
 
@@ -50,9 +53,9 @@
                     <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
-                            <li>Keyboard Skills</li>
-                            <li>Ukulele Skills</li>
-                            <li>Advanced Keyboard Skills</li>
+                            <li>Keyboard skills</li>
+                            <li>Ukulele skills</li>
+                            <li>Advanced Keyboard skills</li>
                             <li>Xfactor</li>
                         </ul>
                         <br>

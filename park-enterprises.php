@@ -25,7 +25,8 @@
         <br>
         <div class="medium-8 columns">
             <p>Park Community Enterprises Limited (PCE) is a not for profit organisation based in Havant, Hampshire.</p>
-            <p>It was incorporated in May 2013 and is owned and operated by four directors. The four directors have a vast range of experience between them. This covers the education system, business military and public sector each also has an essential role within Park Community School.</p>
+
+            <p>It was incorporated in May 2013 and is owned and operated by four directors. The four directors have a vast range of experience between them. This covers education, business, military, and the public sector. Each director also has an essential role within Park Community School.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/enterprises/parkenterprises.svg" alt="Park Community Enterprises Ltd"></div>
     </div>
@@ -40,9 +41,12 @@
         <div class="medium-push-4 medium-8 columns">
 
             <h3>Organisational Aims</h3>
-            <p>The aim of the company is to be able to offer a wide range of opportunities, not offered within the normal school environment, and to enable students to gain confidence, work and life skills in a real life working environment, but one which has been established to ensure that the safeguarding of students has been considered and that the students learning is enhanced and meets the requirements of the National Curriculum.</p>
+            <p>The aim of the company is to be able to offer a wide range of opportunities, not offered within the normal school environment, and to enable students to gain confidence, work and life skills in a real working environment, One which has been established to ensure that the safeguarding of students has been considered and that the students learning is enhanced and meets the requirements of the National Curriculum.</p>
+
             <p>In order to offer these opportunities, we will have affiliate relationships with other organisations that provide education, skills and training for young people.</p>
-            <p>It is our intention to create and run many enterprise projects in order that we can expose our students to a whole range of different work environments, which will provide the opportunity to learn a varied range of skills including those from the construction and motor industries.</p>
+
+            <p>It is our intention to create and run many enterprise projects so that we can expose our students to a whole range of different work environments, which will provide the opportunity to learn a varied range of skills, including those in the construction and motor industries.</p>
+
             <p>Our financial strategy is based on all monies earned, used in further pursuing the organisation’s objectives.</p>
 
         </div>

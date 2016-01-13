@@ -31,24 +31,24 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose of Study</h3>
-            <p>By the end of their physical education at Park, the student should have developed a personal commitment to, and genuine passion for, maintaining their health and well-being into adult life.</p>
+            <h3>Purpose</h3>
+            <p>By the end of their physical education at Park, the students will have developed a personal commitment to, and genuine passion for, maintaining their health and wellbeing into adult life.</p>
 
             <h3>Aims</h3>
             <ul class="circle">
-                <li>Provide the outstanding teaching and learning for all students.</li>
+                <li>Provide outstanding teaching and learning for all students.</li>
                 <li>Inspire students to achieve academically and within sporting environments.</li>
-                <li>Develop competitive, successful sporting teams that encourage students to develop personal qualities of commitment, fairness, enthusiasm and an appreciation of honest competition/good sportsmanship.</li>
+                <li>Develop competitive, successful sporting teams that encourage students to develop personal qualities of commitment, fairness, enthusiasm, and an appreciation of honest competition and good sportsmanship.</li>
                 <li>Allow for the acquisition and application of vital transferable skills to a range of sporting activities.</li>
                 <li>Develop an appreciation of skilful and creative performances in a variety of sports activities. </li>
                 <li>Promote the awareness, understanding and appreciation of how physical activity benefits the students social, moral, physical, spiritual and cognitive development. </li>
-                <li>Allow learners to achieve their full potential, recognize the uniqueness of the individual and encourage the development of self-worth.</li>
-                <li>Inspire enjoyment of physical activity that may further prepare the student for participation in physical activity in their adult life.</li>
-                <li>Encourage the development of a variety of desirable personal qualities such as politeness, perseverance, honesty, integrity, a sense of justice, initiative and independence.</li>
+                <li>Allow learners to achieve their full potential, recognize the uniqueness of the individual and encourage self-worth.</li>
+                <li>Inspire enjoyment of physical activity to prepare students for participating in physical activity in their adult life.</li>
+                <li>Encourage the development of a variety of desirable personal qualities such as politeness, perseverance, honesty, integrity, a sense of justice, initiative, and independence.</li>
             </ul>
             
             <h3>Areas of Study</h3>
-            <p>The specific aims of our core PE programme are to enable pupils to improve their physical performance by practising and refining techniques which are fundamental to physical activities to which they can then master.</p>
+            <p>The specific aims of our core PE programme are to enable pupils to improve their physical performance by practising and refining techniques which are fundamental to physical activities, of which they can then master.</p>
 
             <h5>KS3</h5>
             <ul class="small-block-grid-1 medium-block-grid-2">
@@ -72,7 +72,7 @@
                 <li>Basketball</li>
                 <li>Handball</li>
                 <li>Football</li>
-                <li>Tag-Rugby</li>
+                <li>Tag Rugby</li>
                 <li>Badminton</li>
                 <li>Trampolining</li>
                 <li>Fitness</li>
@@ -84,14 +84,14 @@
             <h5>GCSE PE</h5>
             <p>Edexcel GCSE in Physical Education requires students to develop their knowledge and understanding of physical education and physical activity, in relation to balanced healthy lifestyles, including:</p>
             <ul class="circle">
-                <li>how, and why, people take part in physical activity</li>
-                <li>exercise and fitness</li>
-                <li>personal health and wellbeing.</li>
+                <li>How, and why, people take part in physical activity</li>
+                <li>Exercise and fitness</li>
+                <li>Personal health and wellbeing.</li>
             </ul>
             <p>Students will also develop their knowledge in relation to performance in physical activity</p>
             <p>In addition, Edexcel in Physical Education requires students to develop their knowledge and understanding of how a healthy, active lifestyle contributes to the growth and development of body systems, and structures (including the cardiovascular, muscular, respiratory and skeletal systems), as well as general wellbeing.</p>
 
-            <p><strong>GCSE PE Practical</strong> – a range from both KS3/4 activities plus orienteering; cross country; table tennis and more</p>
+            <p><strong>GCSE PE Practical</strong> – a range from both KS3/4 activities plus orienteering; cross country; table tennis and more.</p>
 
             <ul class="accordion" data-accordion role="tablist">
 
@@ -103,7 +103,7 @@
                             <li>Endball</li>
                             <li>Hockey</li>
                             <li>Gymnastics</li>
-                            <li>TagRugby</li>
+                            <li>Tag Rugby</li>
                             <li>Athletics</li>
                             <li>Rounders</li>
                         </ul>
@@ -213,7 +213,7 @@
                     <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 10 - National Curriculum - Core PE</a>
                     <div id="panel4d" class="content" role="tabpanel" aria-labelledby="panel4d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
-                        <p>Pupils are given half termly opportunities to choose 1 sport from the 4 on offer:</p>
+                        <p>Pupils are given half termly opportunities to choose one sport from the four on offer:</p>
                         <div class="row">
                         <div class="small-6 medium-4 large-2 columns">
                             <p>Options 1</p>
@@ -380,13 +380,13 @@
                     <a href="#panel7d" role="tab" id="panel7d-heading" aria-controls="panel7d">Year 9-11 - EdExcel GCSE PE</a>
                     <div id="panel7d" class="content" role="tabpanel" aria-labelledby="panel7d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
-                        <p>GCSE PE consists of both theory and practical lessons (3 theory, 2 practical a fortnight) Pupils will be assessed in a range of sports and their best 4 will count towards their final grade. In addition they will complete a controlled assessment and a written exam. (60% perform and analysis 40% exam)</p>
+                        <p>GCSE PE consists of both theory and practical lessons (3 theory and 2 practical a fortnight). Pupils will be assessed in a range of sports and their best 4 will count towards their final grade. In addition they will complete a controlled assessment and a written exam, (60% perform and analysis 40% exam).</p>
                         <ul class="circle">Year 9 - 10
                             <li>A healthy, active lifestyle and your skeletal system</li>
                             <li>A healthy, active lifestyle and your muscular system</li>
                             <li>A healthy, active lifestyle and your cardiovascular system</li>
                             <li>A healthy, active lifestyle and your respiratory system</li>
-                            <li>Physical activity and you healthy mind and body</li>
+                            <li>Physical activity and healthy mind and body</li>
                         </ul>
                         <br>
                         <ul class="circle">Year 10 - 11
@@ -394,7 +394,7 @@
                             <li>Influences on your healthy, active lifestyle</li>
                             <li>Exercise and fitness as part of your healthy, active lifestyle</li>
                             <li>Physical activity as part of your healthy, active lifestyle</li>
-                            <li>Your personal health and well being</li>
+                            <li>Your personal health and wellbeing</li>
                         </ul>
                         <br>
                         <p>Sports</p>

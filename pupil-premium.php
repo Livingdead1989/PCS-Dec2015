@@ -24,15 +24,15 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
-            
-            <h5>In 2014-2015 the Pupil Premium allocation to Park is £446,405
-            <br><small><em>(£1,800 for Service Children, £432,905 for Free School Meal students and £11,700 for Looked After Children)</em></small></h5>
-            
-            <p>In 2013-14 Park Community School received £468,300 for Pupil Premium and Summer School funding. The school spent £503,454 providing additional support for students who qualify for Pupil Premium.</p>
-            <p>The Pupil Premium is grant funding and is in addition to the school’s Delegated Budget.  The Pupil Premium is allocated for students who are on Free School Meals or who will have been on Free School Meals in the last six years, as well as for students who have been in care continuously for more than six months, or have a parent in the Armed Services.</p>
-            <p>The Pupil Premium funding is used to raise attainment, promote social skills, independent learning and positive behaviour in order to increase student progress.</p>
+           <h4>The purpose of Pupil Premium grant</h4>
+            <p>Pupil Premium is Government funding in addition to the school’s main budget. Pupil Premium funding is allocated based on the number of students who are on Free School Meals or who will have been on Free School Meals in the last six years, as well as for students who have been in care or have a parent in the Armed Services.</p>
+            <p>The government believes that the Pupil Premium is the best way to address the current underlying inequalities between students eligible for Free School Meals and their peers by ensuring that funding to tackle disadvantage reaches the students who most need it.</p>
+            <p>Pupil Premium funding is used by the school to raise attainment, promote social skills, independent learning and positive behaviour in order to increase student progress.</p>
+            <p>In most cases the Pupil Premium is allocated to schools and it is clearly identifiable.  It is for the school to decide how it is best spent.</p>
+            <p>Schools are held accountable for how they use the funding as a whole.</p>
+            <p>New measures are included in the performance tables that capture the achievement of students covered by the Pupil Premium.</p>            
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="/images/general/general-15.jpg" alt="Park Community School - We have a dedicated team who offer 1 to 1 support to our students"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="/images/general/general-15.jpg" alt="Park Community School - We have a dedicated team who offer one-to-one support to our students."></div>
     </div>
     <br><br>
 </section>
@@ -53,7 +53,7 @@
                         <ul class="circle">
                             <li>Emphasis on effective feedback and marking</li>
                             <li>Summer School</li>
-                            <li>Residential Visits</li>
+                            <li>Residential visits</li>
                             <li>Reduced contact time for teaching staff to allow for quality lesson planning</li>
                             <li>Smaller class sizes in key subjects</li>
                             <li>Writing portfolios</li>
@@ -71,7 +71,7 @@
                             <li>Interventions to support learning</li>
                             <li>Enrichment activities</li>
                             <li>International visits/trips</li>
-                            <li>Social &amp; Cultural visits/trips</li>
+                            <li>Social &amp; cultural visits/trips</li>
                         </ul>
                 </li>
                 <li>
@@ -90,7 +90,7 @@
                         <hr>
                         <ul class="circle">
                             <li>Interventions to support families (those families identified on the Supporting Families programme; Attendance where there is family history of poor attendance)</li>
-                            <li>IAG support &amp; intervention</li>
+                            <li>IAG (Information, Advice and Guidance) support &amp; intervention</li>
                         </ul>
                 </li>
                 <li>
@@ -134,13 +134,13 @@
     </div>
     <div class="row">
         <div class="columns">
-            <h4>The purpose of Pupil Premium grant</h4>
-            <p>Pupil Premium is Government funding in addition to the school’s main budget. Pupil Premium funding is allocated based on the number of students who are on Free School Meals or who will have been on Free School Meals in the last six years, as well as for students who have been in care or have a parent in the Armed Services.</p>
-            <p>The government believes that the Pupil Premium is the best way to address the current underlying inequalities between students eligible for Free School Meals and their peers by ensuring that funding to tackle disadvantage reaches the students who most need it.</p>
-            <p>Pupil Premium funding is used by the school to raise attainment, promote social skills, independent learning and positive behaviour in order to increase student progress.</p>
-            <p>In most cases the Pupil Premium is allocated to schools and it is clearly identifiable.  It is for the school to decide how it is best spent.</p>
-            <p>Schools are held accountable for how they use the funding as a whole.</p>
-            <p>New measures are included in the performance tables that capture the achievement of students covered by the Pupil Premium.</p>
+            <h5>In 2014-2015 the Pupil Premium allocation to Park is £446,405
+            <br><small><em>(£1,800 for Service Children, £432,905 for Free School Meal students and £11,700 for Looked After Children)</em></small></h5>
+            
+            <p>In 2013-14 Park Community School received £468,300 for Pupil Premium and Summer School funding. The school spent £503,454 providing additional support for students who qualify for Pupil Premium.</p>
+            <p>The Pupil Premium is grant funding and is in addition to the school’s Delegated Budget.  The Pupil Premium is allocated for students who are on Free School Meals or who will have been on Free School Meals in the last six years, as well as for students who have been in care continuously for more than six months, or have a parent in the Armed Services.</p>
+            <p>The Pupil Premium funding is used to raise attainment, promote social skills, independent learning and positive behaviour, in order to increase student progress.</p>
+            
         </div>
     </div>
     <br><br>
@@ -176,7 +176,7 @@
             <h4>Initiatives</h4>
             <h5>2013 - 2014</h5>
             <ul class="circle">
-                <li>A new marking policy with a six week cycle.  This initiative had time, money and resources invested in it to ensure feedback was even more effective.</li>
+                <li>A new marking policy with a six-week cycle.  This initiative had time, money and resources invested in it to ensure feedback was even more effective.</li>
                 <li>An additional parents evening for targeted students in Year 11 in the core subjects.</li>
                 <li>Writing portfolios which contain students’ best work - these will be updated on a regular basis and allow staff to see what each child is capable of to support raising standards of written work in all subjects to that of the student’s best.</li>
                 <li>Communitas Youth Workers available to work with individual targeted students and to be a point of contact for all students at lunchtimes.</li>
@@ -186,16 +186,16 @@
             <h5>2014 - 2015</h5>
             <ul class="circle">
                 <li>Termly parents’ evenings for students in Year 11 in the core subjects focussing on self-motivation, how to revise, and opportunities on how to support their Year 11 student.</li>
-                <li>Residential trips for targeted students with the focus on English and maths.</li>
+                <li>Residential trips for targeted students with the focus on English and Maths.</li>
             </ul>
 
             <br>
             <p><strong>If you believe your son/daughter is entitled to Free School Meals or you are uncertain as to whether they qualify for Free School Meals, Reception staff are happy to talk to you.</strong></p>
-            <p><strong>If you would like some advice and/or support on completing the Free School Meal application form, please feel free to come into Reception at any time to talk to staff, who are happy to help.</strong></p>
+            <p><strong>If you would like some advice and/or support on completing the Free School Meal application form, please come into Reception at any time to talk to staff, who are happy to help.</strong></p>
             <p><strong>You can also find further information on eligibility and how to apply by visting our <a href="/school-meals.php">School Meals</a> page.</strong></p>
 
             <p><a href="/assets/important-information-pp-fsm.pdf" target="_blank">Important Information Regarding Pupil Premium and Free School Meals</a></p>
-            <p><a href="/assets/qa-pp-adopted-children.pdf" target="_blank">Adopted Children Question and Answer</a></p>
+            <p><a href="/assets/qa-pp-adopted-children.pdf" target="_blank">Adopted Children Questions and Answers</a></p>
         </div>
     </div>
     <br><br>
@@ -228,12 +228,12 @@
     <div class="row">
         <div class="medium-8 columns">
             <h5>In 2013-14 we received</h5>
-            <p>We received  £25,000 Catch Up funding which was used to provide:</p>
+            <p>£25,000 Catch Up funding which was used to provide:</p>
             <ul class="circle">
-                <li>1 to 1 intervention for reading, spelling and literacy for 27 year 7 students</li>
+                <li>one-to-one intervention for reading, spelling and literacy for 27 year 7 students</li>
                 <li>Additional classroom support for one class</li>
             </ul>
-            <p>The impact of this support was measured through: student and parent feedback, year 7 progress data and reading data.</p>
+            <p>The impact of this support was measured through: student and parent feedback, year 7 progress data, and reading data.</p>
             <p>All students receiving intervention made above chronological gains in their reading and parent and student feedback demonstrated positive increases regarding confidence and perception of own ability.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-02.jpg" alt="Park Community School - Students studying hard in the classroom"></div>

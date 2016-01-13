@@ -24,7 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-7 columns">
-        <p>Our assembly programme means students have an assembly most days in either year groups, key stage groups or our cross year families. Themes in the assemblies pick up on religious, political, cultural, moral and practical themes.</p>
+        <p>Our assembly programme means students have an assembly most days in year groups, key stage groups or in our cross year families. Themes in the assemblies pick up on religious, political, cultural, moral and practical themes.</p>
 
         <br><br>
 
@@ -63,7 +63,7 @@
             <br><br>
 
 
-            <h5 class="subheader text-capitalize text-center"><small>Can't see what your looking for please inquire at <a href="/contact.php">the school reception</a>.</small></h5>
+            <h5 class="subheader text-capitalize text-center"><small>Can't see what your looking for please ask at <a href="/contact.php">the school reception</a>.</small></h5>
 
             <br>
 
