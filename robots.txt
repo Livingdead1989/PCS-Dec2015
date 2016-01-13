@@ -3,5 +3,6 @@ Disallow:
 Disallow: /.git
 Disallow: /README.md
 Disallow: /web.config
+Disallow: /.htaccess
 
 Sitemap: http://parkcommunityschool.co.uk/sitemap.xml
