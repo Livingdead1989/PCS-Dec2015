@@ -30,7 +30,7 @@
                 <li><a href="assets/forms/ConsentForm-Images-Biometrics-Internet-SchoolTrips.pdf" target="_blank">Consent Form for Images, Biometrics, Internet Access and School Trips</a></li>
                 <li><a href="assets/forms/Educational-Visit-Info-Inc-Consent.doc" target="_blank">Educational Visit Information and Consent Form</a></li>
                 <li><a href="assets/forms/Free-School-Meals-Application.doc" target="_blank">Free School Meals Application Form</a></li>
-                <li><a href="assets/forms/Out-Round-Application-Inc-Guidance.doc" target="_blank">Out of Round Application Form &amp; Guidance Notes</a></li>
+                <li><a href="assets/forms/Out-Round-Application-Inc-Guidance.docx" target="_blank">Out of Round Application Form &amp; Guidance Notes</a></li>
                 <li><a href="assets/forms/Parental-Consent-Policy.pdf" target="_blank">Parental Consent Policy Booklet</a></li>
             </ul>
 
