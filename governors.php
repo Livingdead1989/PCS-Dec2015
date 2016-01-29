@@ -25,7 +25,7 @@
         <br>
         <div class="medium-8 columns">
             <h3>What do the Governors do?</h3>
-            <p>The Governors act as a “Critical Friend” to the School by</p>
+            <p>The Governors act as a ‘critical friend’ to the school by</p>
             <ul class="circle">
                 <li>Ensuring clarity of vision, ethos and strategic direction and supporting staff to achieve this.</li><br>
                 <li>Holding the headteacher to account for the educational performance of the school and its pupils.</li><br>

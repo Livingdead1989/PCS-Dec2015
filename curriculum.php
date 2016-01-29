@@ -28,8 +28,8 @@
         <div class="large-9 columns">
         <br>
             <h3>Curriculum Overview 2014-2015</h2>
-            <p>At Park Community School the curriculum is designed to prepare students for a long, successful and happy life, meaning students are ready to move on to the next stage of life. Of great importance to us is that students leave secure in their English and Maths, ensuring they have achieved their personal best in these areas. We prepare students to follow a career of their choice by studying a range of relevant subjects at school in recognised qualifications and subsequent study at college and university, whether following an academic or vocational approach.</p>
-            <p>The curriculum seeks opportunities to promote “Joy, Glee and Delight” in and out of lessons and build an attitude that work should be finished with “Polish and Panache” at all times. Our curriculum includes widening opportunities for learning through our small holding, industrial unit, numerous trips in this country and abroad. We think that the school environment and our expectations also enhance wider learning about what it is to be a good citizen. Our pastoral approach and belief in the importance of each child means that personal development, understanding of one’s role as a citizen, our country’s democratic values, and the opportunities of the multicultural society that exists in Great Britain today are important parts of the rounded education we provide. Through the curriculum we continually seek opportunities to celebrate success and academic achievement.</p>
+            <p>At Park Community School our curriculum prepares students for a long, successful and happy life. It is vital to us is that students leave secure in all subjects, particularly English and Maths. We ensure each student achieves their personal best. We prepare students to follow a career of their choice by studying a range of relevant subjects in recognised qualifications that leads to further study at college and university, whether academic or vocational.</p>
+            <p>Through the curriculum we seek opportunities to promote ‘joy, glee and delight’, in and out of lessons, and encourage the attitude that work should be finished with ‘polish and panache’ at all times. Our curriculum includes widening opportunities for learning through our smallholding, industrial unit, numerous trips in the UK and abroad. We ensure that the school environment, coupled with our high expectations, enhance wider learning about what it is to be a good citizen. Our pastoral approach and belief in the importance of each child means that personal development, understanding of our role as a citizen, democratic values, and the opportunities of the multicultural society that exists in Great Britain today are important parts of the rounded education we provide. Through the curriculum we continually seek opportunities to celebrate success and academic achievement.</p>
             <h4>Overview of the curriculum</h4>
             <ul class="accordion" data-accordion role="tablist">
 
@@ -104,7 +104,7 @@
                 <li>Most courses are GCSE.</li>
             </ul>
             <h4>Year 8 Options</h4>
-            <p>At the start of Year 8 student's get the chance to target their education through their options, please take the time to view <a href="/assets/curriculum/yr8-options.pdf" target="_blank">the available year 8 options.</a>.</p>
+            <p>At the start of Year 8, students get the chance to target their education through their options. Please take the time to view <a href="/assets/curriculum/yr8-options.pdf" target="_blank">the available year 8 options.</a>.</p>
             <br>
         </div>
 

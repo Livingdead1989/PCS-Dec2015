@@ -44,7 +44,7 @@
                 <li>An understanding of communication through voice and movement.</li>
                 <li>An appreciation of the ways in which playwrights achieve their effects and communicate their intentions to an audience.</li>
                 <li>An awareness of social, historical and cultural contexts and influences within plays and other style of dramatic presentation.</li>
-                <li>Self and group awareness, personal responsibility, negotiation and team work skills.</li>
+                <li>Self and group awareness, personal responsibility, negotiation and teamwork skills.</li>
                 <li>Evaluation of their own and other’s work.</li>
             </ul>
             <p>Drama will also contribute towards the development of:</p>
@@ -53,12 +53,12 @@
                 <li>Self-esteem through confidence in performance.</li>
                 <li>Inter-personal skills (by helping students to be aware of their roles as members of groups, and through taking into account other pupil’s thoughts and ideas).</li>
                 <li>Functional skills which will enable them to operate confidently, effectively and independently in life and work.</li>
-                <li>Personal, learning and thinking skills (being independent enquirers, creative thinkers, reflective learners, team workers, self managers and effective participants).</li>
+                <li>Personal, learning and thinking skills (being independent enquirers, creative thinkers, reflective learners, teamworkers, self managers and effective participants).</li>
             </ul>
 
             
             <h3>Areas of Study</h3>
-            <p>In key stage 3 students are introduced to the basic conventions of theatre and storytelling, exploring the ‘mythical quest’ of Coriander a child tasked with embarking on a journey of discovery. In these lessons, students will develop group work and problem-solving abilities alongside dramatic techniques.</p>
+            <p>In Key Stage 3 students are introduced to the basic conventions of theatre and storytelling, exploring the ‘mythical quest’ of Coriander a child tasked with embarking on a journey of discovery. In these lessons, students will develop group work and problem-solving abilities alongside dramatic techniques.</p>
 
             <p>In their second unit of Year 7, students explore the causes, types and effects of bullying, considering their own place in society. This unit covers non-naturalistic drama conventions that help to present more mature, complex emotions.</p>
 
@@ -70,7 +70,7 @@
             <h3>Additional courses and experiences available</h3>
             <p><strong>LAMDA lessons and examinations</strong> - LAMDA Graded Examinations in Performance: Acting is designed to develop the skills necessary to communicate dramatic text to an audience. Learners who prepare themselves appropriately will develop Interpretative skills, technical skills and knowledge of the performance process. These lessons are additional to the  standard drama curriculum and examination fees apply (with concession for those in receipt of Free School Meals).</p>
             <p><strong>BTEC In production Skills</strong> – A new course, this allows students who already participate in the school technical crew the opportunity to achieve a qualification, focussed on Lighting, Sound, Set, Costume, Make-up or Mask Design.</p>
-            <p><strong>Arts Award</strong> – Alongside the projects run in extra-curicular Drama, students have the opportunity to work towards their Arts Award in Bronze or Silver.</p>
+            <p><strong>Arts Award</strong> – Alongside the projects run in extra-curricular Drama, students have the opportunity to work towards their Arts Award in Bronze or Silver.</p>
 
             <ul class="accordion" data-accordion role="tablist">
 
@@ -88,9 +88,9 @@
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
                             <li>Interpreting script.</li>
-                            <li>Improvisation.</li>
-                            <li>Characterisation.</li>
-                            <li>Teamwork.</li>
+                            <li>Improvisation</li>
+                            <li>Characterisation</li>
+                            <li>Teamwork</li>
                             <li>Basic drama skills and techniques.</li>
                             <li>Movement control.</li>
                             <li>Problem solving.</li>
@@ -107,21 +107,21 @@
                             <li>All the world’s a stage.</li>
                             <li>Mobile telephone.</li>
                             <li>Acting skills and techniques.</li>
-                            <li>Showcase.</li>
+                            <li>Showcase</li>
                             <li>Individual showcase.</li>
                             <li>Preparation, Production, Performance.</li>
                         </ul>
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
-                            <li>Tableau.</li>
-                            <li>Gesture.</li>
-                            <li>Characterisation.</li>
+                            <li>Tableau</li>
+                            <li>Gesture</li>
+                            <li>Characterisation</li>
                             <li>Natural/Non-naturalistic drama skills.</li>
-                            <li>Teamwork.</li>
-                            <li>Communication.</li>
+                            <li>Teamwork</li>
+                            <li>Communication</li>
                             <li>Kineasthetic action.</li>
-                            <li>Analysis.</li>
+                            <li>Analysis</li>
                         </ul>
                         <small>For more information please visit the <a href="http://www.edexcel.com/" target="_blank">EdExcel website</a></small>
 

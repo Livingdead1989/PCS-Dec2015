@@ -13,7 +13,7 @@
 <header class="header-misc">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Community &amp; Services</h1>
+            <h1>Community and Services</h1>
             <p class="text-capitalize">Working together to benefit the community</p>
         </div>
     </div>
@@ -26,8 +26,7 @@
         <div class="medium-6 columns">
             <p>The role of the Community Department is to provide a whole range of activities for our students and the wider community.</p>
             <p>This ensures that the school can be open in the evenings up until 10pm, weekends and holidays.</p>
-            <p>At Park we have fantastic new facilities including:</p>
-        </div>
+            </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/community/community-01.jpg" alt="Park Community - Laser Tag perfect for Parties"></div>
     </div>
     <br><br><br>
@@ -40,6 +39,7 @@
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
             <ul class="circle">
+                <p>At Park we have fantastic new facilities including:</p>
                 <li>Theatre seating 245</li>
                 <li>Lecture Theatre seating 180</li>
                 <li>3G FIFA accredited synthetic turf pitch</li>
@@ -50,7 +50,7 @@
                 <li>Nursery and pre-school on site</li>
                 <li>Wide variety of room sizes and outdoor spaces available to hire.</li>
             </ul>
-            <p>We offer an extensive range of children's birthday parties for all ages and are able to provide a variety of inflatable equipment. We provide catering for events big and small, by our team of highly qualified Chefs.</p>
+            <p>We offer an extensive range of children's birthday parties for all ages and are able to provide a variety of inflatable equipment. We provide catering for events big and small, by our team of highly qualified chefs.</p>
             <p>During school holidays, there is a varied programme of events to keep children entertained.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/community/community-03.jpg" alt="Park Community - Offering a range of managed services"></div>

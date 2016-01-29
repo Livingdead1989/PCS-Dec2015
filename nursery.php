@@ -24,9 +24,8 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
-            <p>We have a purpose-built nursery and pre-school on the outskirts of the school campus.</p>
-            <p>We are able to offer flexible hours to suit with starting times from 07:30 and collection up until 18:00, supporting you in your busy days as working parents.</p>
-            <p>The nursery is able to offer 39 week contracts if required. The prices include all food, prepared by our qualified chefs.</p>
+            <p>We have a purpose-built nursery and pre-school on the outskirts of the school campus that offers flexible hours to suit busy parents. We open at 7.30 and close at 6.00pm. </p>
+            <p>You can choose to book a 39-week contract if required, and the price includes all food, prepared by our qualified chefs.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/nursery/nursery-logo.svg" alt="Park Community School - Springwood Nursery"></div>
     </div>

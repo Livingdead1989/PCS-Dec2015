@@ -28,7 +28,7 @@
         <p>The Charity's objectives are:</p>
             <ul class="circle">
                 <li>To assist in developing effective relationships between the staff, parents and others associated with the school.</li>
-                <li>Engaging in activities or providing facilities or equipment which support the school and advance the education of the pupils.</li>
+                <li>Engage in activities or provide facilities or equipment which support the school and advance the education of the pupils.</li>
                 <li>The prevention or relief of poverty or being disadvantaged.</li>
                 <li>Increase opportunities for sport and recreation.</li>
                 <li>Provide opportunities for economic and community development.</li>

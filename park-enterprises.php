@@ -41,13 +41,13 @@
         <div class="medium-push-4 medium-8 columns">
 
             <h3>Organisational Aims</h3>
-            <p>The aim of the company is to be able to offer a wide range of opportunities, not offered within the normal school environment, and to enable students to gain confidence, work and life skills in a real working environment, One which has been established to ensure that the safeguarding of students has been considered and that the students learning is enhanced and meets the requirements of the National Curriculum.</p>
+            <p>The aim of this company is to offer a wide range of opportunities, not offered within the normal school environment, which help students gain confidence, plus work and life skills in a real working environment. We prioritise the safeguarding of students and ensure that their  learning is enhanced and meets the requirements of the National Curriculum.</p>
 
-            <p>In order to offer these opportunities, we will have affiliate relationships with other organisations that provide education, skills and training for young people.</p>
+            <p>In order to offer these opportunities, we have affiliate relationships with other organisations that provide education, skills and training for young people.</p>
 
-            <p>It is our intention to create and run many enterprise projects so that we can expose our students to a whole range of different work environments, which will provide the opportunity to learn a varied range of skills, including those in the construction and motor industries.</p>
+            <p>It is our intention to create and run many enterprise projects so that we can expose our students to a whole range of different work environments. These provide the opportunity for students to learn a wide variety of skills, including those in the construction and motor industries.</p>
 
-            <p>Our financial strategy is based on all monies earned, used in further pursuing the organisation’s objectives.</p>
+            <p>Our financial strategy means that all monies earned are used to further pursue the organisational objectives.</p>
 
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-17.jpg" alt="Park Community School Grounds"></div>

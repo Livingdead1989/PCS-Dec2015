@@ -2,7 +2,7 @@
 <html class="no-js" lang="en" >
     <head>
         
-        <title>Park Community School | Time Tabling</title>
+        <title>Park Community School | Timetabling</title>
         <?php include("includes/head.html") ?>
     </head>
 <body class="page-learning">
@@ -24,7 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-6 columns">
-        <p>Need the latest School Calendar or Shape of the Day then you are in the right place, below you will find the most up to date timtables and any relevant exam information and resources.</p>
+        <p>If you need the latest school calendar, or shape of the day, then you are in the right place. Below you will find the most up to date timetables, and any relevant exam information and resources.</p>
             <ul class="circle">
                 <li><a href="/assets/school-calendar.pdf" target="_blank">Important Dates - <br>School Calendar</a></li>
                 <br>

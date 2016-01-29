@@ -162,7 +162,7 @@
                 <li class="accordion-navigation">
                     <a href="#panel2d" role="tab" id="panel2d-heading" aria-controls="panel2d">Keystage 4 - GCSE</a>
                     <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
-                    <p>Pupils will either be entered for a double science award or a triple science award depending on the level achieved at the end of year 8.</p>
+                    <p>Pupils will either be entered for a double science award or a triple science award depending on the level achieved at the end of Year 8.</p>
                     <p>Therefore pupils will either receive:</p>
                     <ul>
                             <li>1 Core GCSE and 1 Additional GCSE or</li>

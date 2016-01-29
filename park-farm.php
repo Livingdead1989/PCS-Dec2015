@@ -25,7 +25,7 @@
         <br>
         <div class="medium-6 columns">
             <p>Park Community Enterprises lease a piece of farm land on which we have created a smallholding.</p>
-            <p>Students are taught to grow vegetables, look after and rear animals. The vegetables grown and in some cases meat from the farm is used in the school kitchen not only promoting healthy eating but allowing students to make the connection with what they eat and where and how it is grown.</p>
+            <p>Students are taught to grow vegetables and look after and rear animals. The vegetables, and in some cases meat from the farm, are used in the school kitchen. This not only promotes healthy eating but allows students to make the connection between what they eat and where and how it is grown.</p>
             
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/enterprises/enterprises-01.jpg" alt="Park Community School Farm - Students grow their own food"></div>

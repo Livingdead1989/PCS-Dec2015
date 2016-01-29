@@ -25,7 +25,7 @@
     <div class="row">
     <br>
         <div class="large-12 columns">
-            <p>Have a question or require assistance? Please feel free to contact us via the methods below, we'd love to hear from you and make every effort to respond quickly and efficiently.</p>
+            <p>Have a question or require assistance? Please feel free to contact us via the methods below, we'd love to hear from you and will make every effort to respond quickly and efficiently.</p>
         </div>
     </div>
     <div class="row" data-equalizer data-equalizer-mq="large-up">

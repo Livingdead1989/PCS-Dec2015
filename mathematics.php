@@ -34,10 +34,10 @@
             <h3>Purpose</h3>
             <p>Mathematics is a creative and highly inter-connected problem solving discipline developed over centuries. Through history, mathematics has been essential for solving some of the most intriguing problems and today it is just as necessary for everyday life. Although we now have technological advances to solve many difficult calculations, these are a direct result of mathematical knowledge and the need for mathematical thinking in science, technology and engineering.</p>
 
-            <p>The mathematics curriculum provides a foundation for understanding, and develops reasoning ability, whilst also developing enjoyment and curiosity about the subject.</p>
+            <p>The mathematics curriculum provides a foundation for understanding, develops reasoning ability, and encourages enjoyment and curiosity.</p>
 
             <h3>Aims</h3>
-            <p>We aim to develop pupils’ understanding of key mathematical concepts and processes in order to enable pupils to solve problems using a variety of techniques and skills. This requires pupils to be fluent in the fundamentals of mathematics and to reason mathematically. This is turn happens through repeated practise to increase fluency and mastery, application of skills to familiar and unfamiliar contexts, learning of formulae, application to calculations, analysis and interpretation of mathematical information, as well as contextualising and applying appropriate elements to situations within which pupils are familiar.</p>
+            <p>We aim to develop pupils’ understanding of key mathematical concepts and processes in order to enable pupils to solve problems using a variety of techniques and skills. This requires pupils to be fluent in the fundamentals of mathematics and to reason mathematically. This happens through repeated practise to increase fluency and mastery, application of skills to familiar and unfamiliar contexts, learning of formulae, application to calculations, analysis and interpretation of mathematical information, as well as contextualising and applying appropriate elements to situations within which pupils are familiar.</p>
             
             <h3>Areas of Study</h3>
             <ul class="circle">

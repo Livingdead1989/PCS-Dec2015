@@ -32,15 +32,17 @@
         <div class="large-12 columns">
         <br>
             <h3>Purpose</h3>
-            <p>Our English curriculum provides pupils with opportunities to develop their communication through reading, writing and the spoken word and equips them with the skills required for life. We aim to provide opportunities to develop pupils culturally, emotional, intellectually, socially and spiritually using literature and language.</p>
+            <p>Our English curriculum provides pupils with opportunities to develop their communication through reading, writing and the spoken word, and equips them with the skills required for life. We aim to provide opportunities that develop pupils culturally, emotionally, intellectually, socially, and spiritually through literature and language.</p>
 
             <h3>Aims</h3>
-            <p>To develop skill, confidence and fluency in all aspects of communication.</p>
-            <p>To introduce and develop an understanding and analysis of the texts which have shaped our literary heritage.</p>
-            <p>To enthuse pupils in the benefits of reading for pleasure and develop their skills of writing clearly, accurately and coherently.</p>
-            
+            <ul class="circle">
+            <li>To develop skill, confidence and fluency in all aspects of communication.</li>
+            <li>To introduce and develop an understanding and analysis of the texts which have shaped our literary heritage.</li>
+            <li>To enthuse pupils in the benefits of reading for pleasure and develop their skills of writing clearly, accurately and coherently.</li>
+            </ul>
+
             <h3>Areas of Study</h3>
-            <p><strong>Reading</strong> – Pupils will have opportunities to read full texts for both pleasure and for gathering information. We will expose pupils to a range of English literature, seminal world literature and texts from Shakespeare, with the focus on developing an appreciation of texts, the ability to read critically ad to engage with and access challenging texts.</p>
+            <p><strong>Reading</strong> – Pupils will have opportunities to read full texts for both pleasure and for gathering information. We will expose pupils to a range of English literature, seminal world literature and texts from Shakespeare, with the focus on developing an appreciation of texts, the ability to read critically and to engage with and access challenging texts.</p>
             <p><strong>Writing</strong> – Pupils will be given opportunities to develop their written skills in order to develop their written accuracy, fluency and use of writing for both pleasure and information. Pupils will be expected to write essays, stories, scripts, poetry, arguments, articles and letters using the writing process of planning, drafting, editing and re-drafting. Alongside this pupils will develop their ability to refine texts, enhance their vocabulary, as well as develop their understanding of spelling, punctuation and grammar.</p>
             <p><strong>Spoken communication</strong> – Pupils will use spoken communication to underpin the development of their reading and writing skills. They will develop and practise their speaking skills, using a range of communication skills effectively. This will involve debating in groups, presenting to others, interacting and developing ideas through talk and using role play to engage with the texts being studied.</p>
 
@@ -88,7 +90,7 @@
                             <li>Using good reader strategies to support the independent understanding of texts.</li>
                             <li>Using PEE to discuss and analyse texts, with a particular focus on language, alternative ideas and evaluation.</li>
                             <li>Refining planning, drafting and editing skills in order to be able to create interesting and believable texts in tight time limits.</li>
-                            <li>Using a variety of writing tools, such as language, punctuations and sentence structure for deliberate effect on the reader.</li>
+                            <li>Using a variety of writing tools, such as language, punctuation and sentence structure for deliberate effect on the reader.</li>
                             <li>Being able to lead and shape discussions, present clear and detailed ideas and take on believable and realistic roles in performances.</li>
                         </ul>
                         

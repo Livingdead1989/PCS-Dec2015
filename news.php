@@ -57,7 +57,7 @@
             <hr><br>
 
             <h3>Primary Link</h3>
-            <p>Primary Link magazine is all about the schools in out local area.</p>
+            <p>Primary Link magazine is all about the schools in our local area.</p>
             <p>Primary Link is available in downloadable PDF format.</p>
 
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
