@@ -14,7 +14,7 @@
     <div class="row">
         <div class="medium-8 large-8 columns">
             <h1>Technology</h1>
-            <p class="text-capitalize">Food &amp; Design</p>
+            <p class="text-capitalize">Food and Design</p>
         </div>
     </div>
 </header>
@@ -22,7 +22,7 @@
 <div class="row">
     <ul class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
         <li role="menuitem"><a href="/curriculum.php">Curriculum</a></li>
-        <li role="menuitem" class="current"><a href="#">Food &amp; Design Technology</a></li>
+        <li role="menuitem" class="current"><a href="#">Food and Design Technology</a></li>
     </ul>
 </div>
 
@@ -40,9 +40,9 @@
             <h3>Areas of Study</h3>
             <p>Students will learn why conducting extensive research from a range of cultures and being able to understand a variety of needs is important when designing.</p>
             <p>Being able to produce a design brief and understanding how this is used in industry will enable students to keep their design focused and relevant.</p>
-            <p>Effective problem solving skills are vital for the students to critique their work and give careful thought about how this item could be developed of further changed and improved.</p>
-            <p>Students will learn a variety of hand skills with tools and also machine processes. This will enable them to create an item, prototype or product that will fit within their specification parameters and show their skill.</p>
-            <p>A range of materials will be considered and will enable students to be critical but selective with their decision making process to create a final outcome.</p>
+            <p>Effective problem-solving skills are vital for the students to critique their work and give careful thought about how this item could be developed or further changed and im-proved.</p>
+            <p>Students will learn a variety of hand skills with tools and also machine processes. This will enable them to create an item, prototype, or product that will fit within their speci-fication parameters, and show their skill.</p>
+            <p>A range of materials will be considered and will enable students to be critical but selective with their decision-making process to create a final outcome.</p>
             <p>Analysis of past and present designs will assist the students in understanding the limitations and possibilities that designing and creating can present.</p>
             <p>Testing and learning about new technologies are important parts of learning as this will enable students to show that they are becoming thoughtful designers. They will use their knowledge and responsibility as an environmentally considerate designer to create a sustainable product.</p>
             <p>Whilst developing their skills as designers students will need to be able to describe why a good technical understanding will help them create a more effective outcome. Individuals will be responsibile for learning about the changes in circuitry and how programmable components can be tailored to suit different individual needs.</p>
@@ -54,10 +54,10 @@
                     <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
                         <p class="text-capitaliz">Year 7 STEM Projects</p>
                         <ul class="circle">
-                                    <li>Fire and Forget-Catapults.</li>
-                                    <li>To Infinity and beyond- Rockets.</li>
-                                    <li>Standing Tall-Structures.</li>
-                                    <li>Its what’s inside that counts-Food and Nutrition.</li>
+                                    <li>Fire and Forget - Catapults.</li>
+                                    <li>To Infinity and beyond - Rockets.</li>
+                                    <li>Standing Tall - Structures.</li>
+                                    <li>Its what’s inside that counts - Food and Nutrition.</li>
                         </ul>
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
@@ -108,7 +108,7 @@
                         <br>
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
-                            <li>Students will develop more Safety and Hygiene awareness as the course progresses, building on what they learnt in Year7.</li>
+                            <li>Students will develop more Safety and Hygiene awareness as the course progresses, building on what they learnt in Year 7.</li>
                             <li>They will further skills learnt such as chopping and slicing, while practicing methods such as frying, boiling, baking and whisking.</li>
                             <li>The students will develop independence while following recipes and working in small groups to complete challenges.</li>
                             <li>They will develop an understanding of meal combinations, selecting ingredients to produce authentic tasting dishes.</li>
@@ -153,7 +153,7 @@
                             <li>Students will follow a course to further their skills in all aspects of catering. They will develop a better understanding of Hygiene and Safety when working in an industrial kitchen dealing with the public.</li>
                             <li>They will be introduced to Catering terminology and job roles within Catering, with a view to being able to work in the hospitality industry.</li>
                             <li>All aspects of food preparation are covered with a view to developing skills such as food preparation, cooking and presentation of a wide variety of dishes.</li>
-                            <li>They will be show how to use a wide range of fresh and pre-made commodities and be able to cater for small numbers.</li>
+                            <li>They will be shown how to use a wide range of fresh and pre-made commodities and be able to cater for small numbers.</li>
                             <li>Nutrition will be covered in greater depth to increase the students’ knowledge of different diets with reference to medical, ethical and religious needs.</li>
                             <li>There are 2 pieces of coursework to be completed both of which consist of a practical 2 hour assessment as well as between 10-25 hours of written work followed by a 1 ¼ hour exam at the end of the course.</li>
                         </ul>
@@ -183,7 +183,7 @@
                             <br>
                             <li>Possible activities
                                 <ul>
-                                    <li>On-going evaluation.</li>
+                                    <li>Ongoing evaluation.</li>
                                     <li>Client testing.</li>
                                     <li>Final evaluation against the specification.</li>
                                     <li>Final examination.</li>

@@ -83,7 +83,7 @@
                 <li>Attendance and punctuality</li>
                 <li>What you'll be studying</li>
                 <li>The school day</li>
-                <li>Required qquipment</li>
+                <li>Required equipment</li>
             </ul>
             <div class="small-only-text-center">
                 <a href="/assets/moving-up.pdf" target="_blank" class="button radius">Moving Up!</a>

@@ -24,7 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-12 columns">
-        <p>We feel that everyone should be kept informed, below you will find all of our letters we send home so you get the information needed regardless of the animals eating it or it getting lost!</p>
+        <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
                 <li>
                     <ul class="circle">October 2015<hr>

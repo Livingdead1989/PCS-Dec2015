@@ -111,7 +111,7 @@
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
                             <li>Communication</li>
-                            <li>Team work</li>
+                            <li>Teamwork</li>
                             <li>Cooperation</li>
                             <li>Performance</li>
                             <li>Resilience</li>
@@ -155,7 +155,7 @@
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
                             <li>Communication</li>
-                            <li>Team work</li>
+                            <li>Teamwork</li>
                             <li>Cooperation</li>
                             <li>Performance</li>
                             <li>Resilience</li>
@@ -199,7 +199,7 @@
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
                             <li>Communication</li>
-                            <li>Team work</li>
+                            <li>Teamwork</li>
                             <li>Cooperation</li>
                             <li>Performance</li>
                             <li>Resilience</li>
@@ -269,7 +269,7 @@
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
                             <li>Communication</li>
-                            <li>Team work</li>
+                            <li>Teamwork</li>
                             <li>Cooperation</li>
                             <li>Performance</li>
                             <li>Resilience</li>
@@ -339,7 +339,7 @@
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
                             <li>Communication</li>
-                            <li>Team work</li>
+                            <li>Teamwork</li>
                             <li>Cooperation</li>
                             <li>Performance</li>
                             <li>Resilience</li>

@@ -91,7 +91,7 @@
                             <li><strong>Writing basics</strong> - Paragraphs, punctuation, vocabulary, spelling, writing for audience and purpose.</li>
                             <li><strong>Reading basics</strong> - Skimming, scanning, selecting, summarising, synthesising, PEE paragraphs, strategies for developing as a successful reader.</li>
                             <li><strong>Oracy</strong> - Presentation skills, group discussion, speaking for audience and purpose, developing ideas.</li>
-                            <li><strong>Numeracy</strong> - Number, scales, calculation, graphs, time, measurings</li>
+                            <li><strong>Numeracy</strong> - Number, scales, calculation, graphs, time, measurings.</li>
                             <li><strong>Analysis</strong> - Identify, describe, explain evidence and justify views.</li>
                             <li><strong>Evaluation</strong> - Making judgements and supporting with evidence. Exploring strengths and weaknesses.</li>
                             <li><strong>Research and enquiry</strong> - Asking questions to drive research, navigating texts, fact and opinion, searching for information in fiction and non-fiction texts.</li>

@@ -2,7 +2,7 @@
 <html class="no-js" lang="en" >
     <head>
         
-        <title>Park Community School | Employment</title>
+        <title>Park Community School | Work for us</title>
         <?php include("includes/head.html") ?>
     </head>
 <body class="page-school">

@@ -13,8 +13,8 @@
 <header class="header-learning">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>RRR &amp; IAG</h1>
-            <p class="text-capitalize">Rights, Respect, Responsibility &amp; Information, Advice &amp; Guidance</p>
+            <h1>RRR and IAG</h1>
+            <p class="text-capitalize">Rights, Respect, Responsibility &amp; Information, Advice and Guidance</p>
         </div>
     </div>
 </header>
@@ -22,7 +22,7 @@
 <div class="row">
     <ul class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
         <li role="menuitem"><a href="/curriculum.php">Curriculum</a></li>
-        <li role="menuitem" class="current"><a href="#">RRR &amp; IAG</a></li>
+        <li role="menuitem" class="current"><a href="#">RRR and IAG</a></li>
     </ul>
 </div>
 
@@ -47,7 +47,7 @@
                         <small>For more information please visit the <a href="http://www.unicef.org.uk/rights-respecting-schools/" target="_blank">Unicef website</a></small></div>
 
             <br>
-            <h3>Information, Advice &amp; Guidance</h3>
+            <h3>Information, Advice and Guidance</h3>
             <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
                             <li>Assisting pupils in their ‘next steps’ be that work, college or apprenticeships, future career ideas or their option choices. Pupils learn about the world of work and the range of opportunities open to them after they complete their time at Park. We work on raising pupils' aspirations to achieve their full potential and support them in doing so. All pupils can have a 1:1 personal careers appointment with our trained advisor.</li>
