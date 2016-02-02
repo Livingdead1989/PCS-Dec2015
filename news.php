@@ -37,14 +37,14 @@
                     </a>
                 </li>
 
-                <li>
+                <li class="hide-for-small-only">
                     <a href="assets/news/parkPost/Issue01-Oct2015.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue01-Oct2015.jpg" alt="Park Post Issue 01 Frontcover">
                         <p>Issue 01 - 2015</p>
                     </a>
                 </li>
 
-                <li>
+                <li class="hide-for-small-only">
                     <a href="assets/news/parkPost/Issue19-2015.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/issue19.jpg" alt="Park Post Issue 19 Frontcover">
                         <p>Issue 19 - 2015</p>
