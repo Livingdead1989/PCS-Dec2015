@@ -54,8 +54,17 @@
             </ul>
             <p>For older issues of Park Post visit our <a href="/park-archive.php">Archive</a>.</p>
             
-            <hr><br>
+        </div>
+    </div><br>
+</section>
 
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
+
+        <div class="medium-12 columns">
             <h3>Primary Link</h3>
             <p>Primary Link magazine is all about the schools in our local area.</p>
             <p>Primary Link is available in downloadable PDF format.</p>
@@ -71,14 +80,14 @@
 
             </ul>
             <p>For older issues of Primary Link visit our <a href="/park-archive.php">Archive</a>.</p>
-
         </div>
-    </div><br>
+    </div>
+    <br><br>
 </section>
 
-<section class="grey-bg">
+<section>
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
@@ -97,12 +106,11 @@
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-22.jpg" alt="Park Community School - Awards"></div>
     </div>
-    <br><br>
 </section>
 
-<section>
+<section class="grey-bg">
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
         <div class="medium-12 columns">
@@ -119,6 +127,24 @@
             </ul>
         </div>
     </div><br><br>
+</section>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+            <h4>BBC News Day</h4>
+            <ul class="circle">
+                <li><a href="/bbcnewsday.php">2016 Submissions</a></li>
+            </ul>
+            
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
+            <br class="hide-for-small-only"><img src="images/news/bbcnewsday.jpg" alt="BBC News Day"><br><br>
+        </div>
+    </div>
 </section>
     
 <!-- FOOTER -->
