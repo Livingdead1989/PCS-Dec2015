@@ -190,24 +190,6 @@
 
                     </div>
                 </li>
-
-                <li class="accordion-navigation">
-                    <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Keystage 4 - L2 BTEC Extended</a>
-                    <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">Pupils will complete three core units consisting of:
-                            <li>Chemistry and our Earth – Looking at knowledge from atoms to volcanoes.</li>
-                            <li>Energy and our Universe – Looking at the different types of energy to the universe and space.</li>
-                            <li>Biology and our Environment – Looking at a range of living organisms to how organisms can affect the environment.</li>
-                            <br>
-                            
-                        </ul>
-                        <p>For each unit pupils will complete six tasks that will make up their portfolio of evidence.</p>
-                        <p>Further units will be completed in subsequent years.</p>
-
-                        <small>For more information please visit the <a href="http://qualifications.pearson.com/en/subjects/science.html" target="_blank">Pearson website</a></small>
-                    </div>
-                </li>
             </ul>
             <br>
         </div>
