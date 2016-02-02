@@ -106,6 +106,7 @@
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-22.jpg" alt="Park Community School - Awards"></div>
     </div>
+<br><br>
 </section>
 
 <section class="grey-bg">
@@ -134,7 +135,7 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-push-4 medium-8 columns">
+        <div class="medium-8 columns">
             <h4>BBC News Day</h4>
             <ul class="circle">
                 <li><a href="/bbcnewsday.php">2016 Submissions</a></li>
