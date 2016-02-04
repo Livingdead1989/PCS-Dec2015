@@ -315,6 +315,10 @@ header h1, header h3, header p {
     width: 70px;
     height: 70px;
 }
+#site-footer ul.footer-awards img.footer-award-rec{
+    width:173px;
+    height:70px;
+}
 #site-footer p.copyright {
     margin: 10px 0 0;
     font-size: .75rem;
