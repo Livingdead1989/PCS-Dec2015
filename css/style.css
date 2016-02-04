@@ -311,7 +311,10 @@ header h1, header h3, header p {
 #site-footer ul.footer-awards {
     text-align: center;
 }
-#site-footer ul.footer-awards img {
+#site-footer ul.footer-awards img{
+    opacity:0.8;
+}
+#site-footer ul.footer-awards img.footer-award-sqa {
     width: 70px;
     height: 70px;
 }
