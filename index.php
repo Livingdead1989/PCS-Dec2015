@@ -186,7 +186,7 @@
         </div>
         <div class="large-3 medium-4 columns text-center  team-member-container end">
             <img src="images/slt/d-morris.jpg" alt="" class="team-member">
-            <p>Miss D Morris</p>
+            <p>Ms D Morris</p>
             <p class="subheader">Deputy Head</p>
         </div>
 
