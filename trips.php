@@ -37,7 +37,7 @@
             
 
             <li>
-                <h3>Year 7 Mary Poppins</h3>
+                <h3>Year 7 Mary Poppins - SOLD OUT</h3>
                 <p>Thursday 9th June 2016</p>
                 <p>Lead Teacher – Miss Chuter</p>
                 <p>Cost £20.00</p>
@@ -108,43 +108,14 @@
                 <p>Payment is due before trip date</p> 
                 <hr>
             </li>
-            
+                        
 
             <li>
-               <h3>London Theatre Trip</h3>
-                <p>Wednesday 10th February 2016</p>
-                <p>Lead Teacher – Miss Chuter</p>
-                <p>Cost £60.00</p>
-                <table>
-                  <tr>
-                    <th>London Theatre Trip</th>
-                    <th>Payment by</th>
-                    <th>Amount</th>
-                    <th>Total</th>
-                  </tr>
-                  <tr>
-                    <td>Non-refundable Deposit</td>
-                    <td>18/12/15</td>
-                    <td>£30.00</td>
-                    <td>£30.00</td>
-                  </tr>
-                  <tr>
-                    <td>Final payment</td>
-                    <td>02/02/16</td>
-                    <td>£30.00</td>
-                    <td>£60.00</td>
-                  </tr>
-                </table> 
-                <hr>
-            </li>
-            
-
-            <li>
-                <h3>Portrait Gallery Trip</h3>
-                <p>Monday 1st February 2016</p>
-                <p>Lead Teacher – Miss Loake</p>
-                <p>Cost - £7.50</p>
-                <p>Payment is due before trip date</p>
+                <h3>Old Trafford Manchester - SOLD OUT</h3>
+                <p>Thursday 25th February 2016</p>
+                <p>Lead Teacher – Mr Crowley</p>
+                <p>Cost - £25</p>
+                <p>Trip Information only available for those attending.</p>
                 <hr>
             </li>
             
