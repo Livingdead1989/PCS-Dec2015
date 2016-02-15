@@ -64,6 +64,42 @@
             </ul>
         <br>
         </div>
+
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <br>
+            <ul class="pricing-table">
+              <li class="title"><img class="fixed-size-100" src="images/logo/parent-booking.png" alt="Parent Booking - Parents Evening"><br>Parents Booking</li>
+              <li class="bullet-item">Parents Evening</li>
+              <li class="bullet-item">Online Booking</li>
+              <li class="bullet-item">Manual or Automatic</li>
+              <li class="cta-button"><a class="button radius" href="//parents-booking.co.uk/parkcommunity" target="_blank">Open</a></li>
+            </ul>
+        <br>
+        </div>
+
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <br>
+            <ul class="pricing-table">
+              <li class="title"><img class="fixed-size-100" src="images/logo/tucasi.png" alt="Tucasi - Online Payments"><br>Tucasi</li>
+              <li class="bullet-item">Online Payments</li>
+              <li class="bullet-item">Secure</li>
+              <li class="bullet-item">Quick and Easy</li>
+              <li class="cta-button"><a class="button radius" href="//www.scopay.com/pcs" target="_blank">Open</a></li>
+            </ul>
+        <br>
+        </div>
+
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <br>
+            <ul class="pricing-table">
+              <li class="title"><img class="fixed-size-100" src="images/logo/milk.png" alt="Milk - Online Student Planner"><br>Milk</li>
+              <li class="bullet-item">Homework</li>
+              <li class="bullet-item">Achievements</li>
+              <li class="bullet-item">Targets</li>
+              <li class="cta-button"><a class="button radius" href="//my.milkapp.io/" target="_blank">Open</a></li>
+            </ul>
+        <br>
+        </div>
     </div>
     <div class="row">
         <div class="large-12 columns">
