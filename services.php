@@ -60,7 +60,7 @@
               <li class="bullet-item">Remote Applications</li>
               <li class="bullet-item">Virtual Desktops</li>
               <li class="bullet-item">Self Service</li>
-              <li class="cta-button"><a class="button radius" href="//rds.pcs.hants.sch.uk/rdweb" target="_blank">Launch</a></li>
+              <li class="cta-button"><a class="button radius" href="https://rds.pcs.hants.sch.uk/rdweb" target="_blank">Launch</a></li>
             </ul>
         <br>
         </div>
