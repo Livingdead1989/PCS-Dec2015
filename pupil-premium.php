@@ -32,7 +32,6 @@
             <p>Schools are held accountable for how they use the funding as a whole.</p>
             <p>New measures are included in the performance tables that capture the achievement of students covered by the Pupil Premium.</p>            
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="/images/general/general-15.jpg" alt="Park Community School - We have a dedicated team who offer one-to-one support to our students."></div>
     </div>
     <br><br>
 </section>
