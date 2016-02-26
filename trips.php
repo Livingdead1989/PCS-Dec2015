@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Trips</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -34,7 +34,7 @@
                 <p>Payment is due before trip date</p>
                 <hr>
             </li>
-            
+
 
             <li>
                 <h3>Year 7 Mary Poppins - SOLD OUT</h3>
@@ -63,7 +63,7 @@
                 </table>
                 <hr>
             </li>
-            
+
 
             <li>
                <h3>Marwell Activity Centre</h3>
@@ -95,40 +95,29 @@
                     <td>£25.00</td>
                     <td>£105.00</td>
                   </tr>
-                </table> 
+                </table>
                 <hr>
             </li>
-            
+
 
             <li>
                 <h3>Rock Challenge</h3>
                 <p>Monday 14th March 2016</p>
                 <p>Lead Teacher – Miss Chuter</p>
                 <p>Cost - £20.00</p>
-                <p>Payment is due before trip date</p> 
+                <p>Payment is due before trip date</p>
                 <hr>
-            </li>
-                        
-
-            <li>
-                <h3>Old Trafford Manchester - SOLD OUT</h3>
-                <p>Thursday 25th February 2016</p>
-                <p>Lead Teacher – Mr Crowley</p>
-                <p>Cost - £25</p>
-                <p>Trip Information only available for those attending.</p>
-                <hr>
-            </li>
-            
+            </li>    
 
         </ul>
 
         <a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
 
         </div>
-        
+
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
