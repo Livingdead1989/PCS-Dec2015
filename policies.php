@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Policies</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -43,6 +43,7 @@
                 <li><a href="/assets/policies/medical-statement.pdf" target="_blank">Medical Statement</a></li>
                 <li>Sex Education</li>
                 <li><a href="/assets/policies/send-policy.pdf" target="_blank">SEND Policy</a></li>
+                <li><a href="/assets/policies/Prevention-of-Radicalisation-and-Extremism - Jan-2016.pdf" target="_blank">Prevention of Radicalisation and Extremism</a></li>
             </ul>
             <br>
             <h5 class="subheader text-capitalize text-center"><small>Policies are available in downloadable PDF format</small></h5>
@@ -51,7 +52,7 @@
         <div class="hide-for-small medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-10.jpg" alt="Park Community School student enjoying a large selection of books"></div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
