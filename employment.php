@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Work for us</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -28,8 +28,8 @@
             <div class="panel" data-equalizer-watch>
                 <h4>Teaching Roles</h4>
                 <ul class="no-bullet">
-                    <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
-                </ul>
+                  <li>Teaching Assistant<br><span class="subheader"><a href="/assets/recruitment/Teaching-Assistant-Mar-2016.pdf" target="_blank">Position details (PDF).</a></span></li>
+                    </ul>
                 <hr>
                 <h5><small>Information about School Direct visit<br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>
             </div>
@@ -39,8 +39,8 @@
             <div class="panel" data-equalizer-watch>
                 <h4>Support Roles</h4>
                 <ul class="no-bullet">
-                    <li>Receptionist/Administrator<br><span class="subheader"><a href="/assets/recruitment/Receptionist-Administrator-Feb2016.pdf" target="_blank">Position details (PDF).</a></span></li>
-                </ul>
+                  <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
+                  </ul>
             </div>
         </div>
 
@@ -81,7 +81,7 @@
         </div>
     </div>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
