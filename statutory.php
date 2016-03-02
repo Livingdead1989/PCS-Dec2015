@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Statutory Information</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -35,7 +35,7 @@
                 <li><a href="/curriculum.php">Curriculum</a></li>
                 <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour Policy</a></li>
                 <li><a href="/pupil-premium.php">Pupil Premium</a></li>
-                <li><a href="/assets/policies/send-policy.pdf" target="_blank">SEND Policy</a></li>
+                <li><a href="/assets/policies/send-policy.pdf" target="_blank">SEN Information Report</a></li>
                 <li><a href="/assets/policies/charging-and-remissions.pdf" target="_blank">Charging and Remissions</a></li>
                 <li><a href="/assets/statutory/ethos-values.pdf" target="_blank">Ethos and Values</a></li>
             </ul>
@@ -45,7 +45,7 @@
         <div class="hide-for-small medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-12.jpg" alt="Park Community School - Our Staff are committed to providing the very best for our students"></div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 

@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Curriculum</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -37,7 +37,7 @@
                     <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Year 7</a>
                     <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
                         <ul>
-                            <li>STAR which includes: English, French, Geography, History and RE.</li>
+                            <li>STAR which includes: English, French, Spanish, Geography, History and RE.</li>
                             <li>STEM which includes Maths, Science and Technology.</li>
                             <li>Other National Curriculum lessons in: Art, Dance, Drama, Music, PE.</li>
                             <li>Mentoring and Personal Development at points through the week and year.</li>
@@ -50,7 +50,7 @@
                     <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
                         <ul>
                             <li>Discrete core subject lessons in: English, Maths and Science.</li>
-                            <li>Other National Curriculum lessons in: Art, Dance, Drama, French, Geography, History, Music, PE, RE and Technology.</li>
+                            <li>Other National Curriculum lessons in: Art, Dance, Drama, French, Spanish, Geography, History, Music, PE, RE and Technology.</li>
                             <li>Mentoring and Personal Development at points through the week and year.</li>
                         </ul>
                     </div>
@@ -108,7 +108,7 @@
             <br>
         </div>
 
-        
+
     </div>
 </section>
 

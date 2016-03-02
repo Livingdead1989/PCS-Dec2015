@@ -42,7 +42,7 @@
                 <li>Health and Safety</li>
                 <li><a href="/assets/policies/medical-statement.pdf" target="_blank">Medical Statement</a></li>
                 <li>Sex Education</li>
-                <li><a href="/assets/policies/send-policy.pdf" target="_blank">SEND Policy</a></li>
+                <li><a href="/assets/policies/send-policy.pdf" target="_blank">SEN Information Report</a></li>
                 <li><a href="/assets/policies/Prevention-of-Radicalisation-and-Extremism - Jan-2016.pdf" target="_blank">Prevention of Radicalisation and Extremism</a></li>
             </ul>
             <br>
