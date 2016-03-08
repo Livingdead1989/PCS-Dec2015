@@ -53,6 +53,34 @@
         <div class="medium-12 columns">
           <h4>Fitness Club</h4>
 
+          <p>Why not come down to Park's Fitness Suite after school, you will get a full gym induction and a programme to follow.</p>
+
+          <table>
+            <tr>
+              <th>Times</th>
+              <th>Monday</th>
+              <th>Tuesday</th>
+              <th>Wednesday</th>
+              <th>Thursday</th>
+              <th>Friday</th>
+            </tr>
+            <tr>
+              <td>15:00 to 15:45</td>
+              <td>Fitness Suite<br>Years 8 &amp; 9</td>
+              <td>Circuit (KSH)<br>Years 8 &amp; 9</td>
+              <td>Fitness Suite<br>Years 8 &amp; 9</td>
+              <td>Fitness Suite<br>Year 10</td>
+              <td rowspan="2">Fitness Suite<br>All Years</td>
+            </tr>
+            <tr>
+              <td>16:00 to 16:45</td>
+              <td>Fitness Suite<br>Year 11</td>
+              <td>Circuits (KSH)<br>Years 10 &amp; 11</td>
+              <td>Fitness Suite<br>Year 11</td>
+              <td>Fitness Suite<br>Year 11</td>
+            </tr>
+          </table>
+
         </div>
     </div><br>
 </section>
