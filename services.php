@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Services</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -40,7 +40,7 @@
             </ul>
         <br>
         </div>
-        
+
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
@@ -52,7 +52,7 @@
             </ul>
         <br>
         </div>
-        
+
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
         <br>
             <ul class="pricing-table">
@@ -103,12 +103,12 @@
     </div>
     <div class="row">
         <div class="large-12 columns">
-            <p class="subheader text-center"><small>If you require assistance please contact our <a href="javascript:location='mailto:\u0069\u0074\u0073\u0065\u0072\u0076\u0069\u0063\u0065\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">IT Services department</a>.</small></p>
+            <p class="subheader text-center">If you require assistance please contact our <a href="javascript:location='mailto:\u0069\u0074\u0073\u0065\u0072\u0076\u0069\u0063\u0065\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">IT Services department</a>.</p>
             <br>
         </div>
     </div>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
