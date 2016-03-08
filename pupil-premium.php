@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Pupil Premium</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -30,7 +30,11 @@
             <p>Pupil Premium funding is used by the school to raise attainment, promote social skills, independent learning and positive behaviour in order to increase student progress.</p>
             <p>In most cases the Pupil Premium is allocated to schools and it is clearly identifiable.  It is for the school to decide how it is best spent.</p>
             <p>Schools are held accountable for how they use the funding as a whole.</p>
-            <p>New measures are included in the performance tables that capture the achievement of students covered by the Pupil Premium.</p>            
+            <p>New measures are included in the performance tables that capture the achievement of students covered by the Pupil Premium.</p>
+        </div>
+
+        <div class="medium-4 columns">
+          <img src="../images/general/general-09.jpg" alt="Park Community School students enjoying their break time outside." />
         </div>
     </div>
     <br><br>
@@ -43,7 +47,7 @@
     <div class="row">
         <div class="large-12 columns">
             <h3>Pupil Premium 2013/2014</h3>
-            <br>    
+            <br>
 
             <ul class="large-block-grid-2 small-block-grid-1" data-equalizer data-equalizer-mq="large-up">
                 <li>
@@ -93,7 +97,7 @@
                         </ul>
                 </li>
                 <li>
-                        
+
                         <h5>Data</h5>
                         <hr>
                         <ul class="circle">
@@ -118,10 +122,10 @@
                         </ul>
                 </li>
             </ul>
-            
+
 
         </div>
-        
+
         <br>
     </div>
     <br><br>
@@ -135,11 +139,11 @@
         <div class="columns">
             <h5>In 2014-2015 the Pupil Premium allocation to Park is £446,405
             <br><small><em>(£1,800 for Service Children, £432,905 for Free School Meal students and £11,700 for Looked After Children)</em></small></h5>
-            
+
             <p>In 2013-14 Park Community School received £468,300 for Pupil Premium and Summer School funding. The school spent £503,454 providing additional support for students who qualify for Pupil Premium.</p>
             <p>The Pupil Premium is grant funding and is in addition to the school’s Delegated Budget.  The Pupil Premium is allocated for students who are on Free School Meals or who will have been on Free School Meals in the last six years, as well as for students who have been in care continuously for more than six months, or have a parent in the Armed Services.</p>
             <p>The Pupil Premium funding is used to raise attainment, promote social skills, independent learning and positive behaviour, in order to increase student progress.</p>
-            
+
         </div>
     </div>
     <br><br>
@@ -238,7 +242,7 @@
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-02.jpg" alt="Park Community School - Students studying hard in the classroom"></div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
