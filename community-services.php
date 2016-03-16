@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Community and Services</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -44,7 +44,6 @@
                 <li>Lecture Theatre seating 180</li>
                 <li>3G FIFA accredited synthetic turf pitch</li>
                 <li>4 badminton court sized Sports hall</li>
-                <li>Fitness Suite</li>
                 <li>Media Suite</li>
                 <li>Dickinson Centre, a perfect conference and training venue</li>
                 <li>Nursery and pre-school on site</li>
@@ -91,12 +90,12 @@
                 <br>
                 <li>Email: <a href="javascript:location='mailto:\u0063\u006f\u006d\u006d\u0075\u006e\u0069\u0074\u0079\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Community</a></li>
             </ul>
-            
+
         </div>
         <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/community/community-02.jpg" alt="Park Community - Removing the stresses and hassles so you can enjoy the party"></div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
