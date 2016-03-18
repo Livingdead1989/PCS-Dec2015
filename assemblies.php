@@ -33,7 +33,9 @@
                 <ul class="circle">Summer 2016
                   <li><a href="assets/assemblies/summer-2016/Intellectual-Virtues.pdf" target="_blank">Intellectual Virtues</a></li>
                 </ul>
-
+              </li>
+              
+              <li>
                 <ul class="circle">Spring 2016
                     <li><a href="assets/assemblies/spring-2016/Performance-MoralVirtues.pdf" target="_blank">Performance and Moral Virtues</a></li>
                     <li><a href="assets/assemblies/spring-2016/Performance-MoralVirtues-2.pdf" target="_blank">Performance and Moral Virtues 2</a></li>
