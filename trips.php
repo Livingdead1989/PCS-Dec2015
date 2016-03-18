@@ -38,7 +38,7 @@
 
 
             <li>
-                <h3>Year 7 Mary Poppins - SOLD OUT</h3>
+                <h3>Year 7 Mary Poppins - TRIP NOW FULL</h3>
                 <p>Thursday 9th June 2016</p>
                 <p>Lead Teacher – Miss Chuter</p>
                 <p>Cost £20.00</p>
@@ -47,10 +47,10 @@
             </li>
 
             <li>
-                <h3>Rock Challenge</h3>
-                <p>Monday 14th March 2016</p>
-                <p>Lead Teacher – Miss Chuter</p>
-                <p>Cost - £20.00</p>
+                <h3>Year 7 Boulogne Trip</h3>
+                <p>Tuesday 21st June 2016</p>
+                <p>Lead Teacher – Mrs Hutchin</p>
+                <p>Cost - £15.00</p>
                 <p>Payment is due before trip date</p>
                 <hr>
             </li>
