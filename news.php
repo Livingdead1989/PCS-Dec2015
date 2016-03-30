@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | News</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -27,7 +27,7 @@
             <h3>Park Post</h3>
             <p>Park Post is our magazine, celebrating all that is great about Park Community School!</p>
             <p>Park Post is available in downloadable PDF format.</p>
-            
+
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
 
                 <li>
@@ -53,7 +53,7 @@
 
             </ul>
             <p>For older issues of Park Post visit our <a href="/park-archive.php">Archive</a>.</p>
-            
+
         </div>
     </div><br>
 </section>
@@ -92,6 +92,10 @@
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
             <h4>Our Successes</h4>
+
+            <ul class="circle">2016
+                <li><a href="//shortmatplayerstour.com/smpts-first-charity-weekend-raises-2760-70-002936/" target="_blank">March - SMPT’s first charity weekend raises £2,760.70</a></li>
+            </ul>
 
             <ul class="circle">2015
                 <li>April - School's 'Race at Your Place' for Cancer Research</li>
@@ -140,14 +144,14 @@
             <ul class="circle">
                 <li><a href="/bbcnewsday.php">2016 Submissions</a></li>
             </ul>
-            
+
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
             <br class="hide-for-small-only"><img src="images/news/bbcnewsday.jpg" alt="BBC News Day"><br><br>
         </div>
     </div>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
