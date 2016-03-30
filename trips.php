@@ -15,7 +15,6 @@
         <div class="medium-8 large-8 columns">
             <h1>Trips</h1>
             <p class="text-capitalize">Current list of available trips</p>
-            <p class="text-capitalize">Payments can now be made Online via <a href="https://www.scopay.com/pcs">SCO Online Payments</a></p>
         </div>
     </div>
 </header>
@@ -56,7 +55,8 @@
             </li>
 
         </ul>
-
+        
+        <p>Payments can now be made Online via <a href="//www.scopay.com/pcs" target="_blank">SCO Online Payments</a></p>
         <a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
 
         </div>
