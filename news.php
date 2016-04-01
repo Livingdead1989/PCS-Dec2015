@@ -79,7 +79,7 @@
                 </li>
 
                 <li class="hide-for-small-only">
-                    <a href="assets/news/primaryLink/Issue1 - Spring 2016.pdf" target="_blank">
+                    <a href="assets/news/primaryLink/Issue2 - Spring 2016.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/primaryLink/covers/issue2.jpg" alt="Park Post Issue 02 Frontcover">
                         <p>Issue 02 - 2016</p>
                     </a>
