@@ -31,6 +31,12 @@
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
 
                 <li>
+                    <a href="assets/news/parkPost/Issue03-Apr2016.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue03-Apr2016.jpg" alt="Park Post Issue 03 Frontcover">
+                        <p>Issue 03 - 2016</p>
+                    </a>
+                </li>
+                <li class="hide-for-small-only">
                     <a href="assets/news/parkPost/Issue02-Dec2015.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue02-Dec2015.jpg" alt="Park Post Issue 02 Frontcover">
                         <p>Issue 02 - 2015</p>
@@ -41,13 +47,6 @@
                     <a href="assets/news/parkPost/Issue01-Oct2015.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue01-Oct2015.jpg" alt="Park Post Issue 01 Frontcover">
                         <p>Issue 01 - 2015</p>
-                    </a>
-                </li>
-
-                <li class="hide-for-small-only">
-                    <a href="assets/news/parkPost/Issue19-2015.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/issue19.jpg" alt="Park Post Issue 19 Frontcover">
-                        <p>Issue 19 - 2015</p>
                     </a>
                 </li>
 

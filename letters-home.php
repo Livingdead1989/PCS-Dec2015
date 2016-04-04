@@ -29,6 +29,8 @@
               <li>
                   <ul class="circle">March 2016<hr>
                       <li><a href="/assets/letters/march-2016/Assessment-Guidance-2016.pdf" target="_blank">Assessment Guidance for Parents 2016</a></li>
+                      <li><a href="/assets/letters/march-2016/Spring-Term-Highlights.pdf" target="_blank">Spring Term Highlights</a></li>
+                      <li><a href="/assets/letters/march-2016/Year-10-and-11-Exams.pdf" target="_blank">Year 10 and 11 Exams</a></li>
                   </ul>
               </li>
               <li>
