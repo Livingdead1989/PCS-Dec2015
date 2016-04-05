@@ -39,7 +39,7 @@
                 <li><a href="/assets/policies/dress-code-for-students.pdf" target="_blank">Dress Code for Students</a></li>
                 <li><a href="/assets/policies/equality.pdf" target="_blank">Equality</a></li>
                 <li>Freedom of Information</li>
-                <li>Health and Safety</li>
+                <li><a href="/assets/policies/Health-and-Safety.pdf" target="_blank">Health and Safety</a></li>
                 <li><a href="/assets/policies/medical-statement.pdf" target="_blank">Medical Statement</a></li>
                 <li>Sex Education</li>
                 <li><a href="/assets/policies/send-policy.pdf" target="_blank">SEN Information Report</a></li>
