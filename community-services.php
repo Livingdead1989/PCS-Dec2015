@@ -26,6 +26,12 @@
         <div class="medium-6 columns">
             <p>The role of the Community Department is to provide a whole range of activities for our students and the wider community.</p>
             <p>This ensures that the school can be open in the evenings up until 10pm, weekends and holidays.</p>
+
+            <div class="small-only-text-center">
+                <a href="assets/Park-Party-Leaflet.pdf" target="_blank" class="button radius">Party Flyer</a>
+            </div>
+
+
             </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/community/community-01.jpg" alt="Park Community - Laser Tag perfect for Parties"></div>
     </div>
