@@ -23,6 +23,7 @@
 <section>
     <div class="row">
         <div class="large-12 columns">
+          <br>
             <p>At Park we recognise how difficult it is for young people to gain valuable work experience so we are opening our own Recruitment Agency for positions that can be filled by our students.</p>
 
             <p>Students will go through a recruitment process including completing an application form in which they will need to obtain references, group task and interview. Vacancies will be advertised outside KD3.</p>
@@ -41,22 +42,22 @@
         <div class="medium-push-1 medium-10 large-8 large-push-0 columns">
             <div class="panel" data-equalizer-watch>
                 <h4>Available Positions</h4>
-                <ul class="no-bullet">
-                  <li>Printshop Helper<br><span class="subheader"><a href="assets/studentRecruitment/PrintShopStudentHelper.docx">Position Details</a></span></li>
-                  <li>Staunton Country Park<br><span class="subheader"><a href="assets/studentRecruitment/StauntonCountryPark.docx">Position Details</a></span></li>
-                  <li>Animal Carer - Term Time<br><span class="subheader"><a href="assets/studentRecruitment/StudentAnimalCarer-TermTime.docx">Position Details</a></span></li>
-                  <li>Community Assistant<br><span class="subheader"><a href="assets/studentRecruitment/StudentCommunityAssistant.docx">Position Details</a></span></li>
-                  <li>Litter Collector<br><span class="subheader"><a href="assets/studentRecruitment/StudentLitterCollector.docx">Position Details</a></span></li>
+                <ul class="no-bullet medium-block-grid-1 large-block-grid-2">
+                  <li>Printshop Helper<br><span class="subheader"><a href="assets/studentRecruitment/PrintShopStudentHelper.pdf" target="_blank">Position Details</a></span></li>
+                  <li>Staunton Country Park<br><span class="subheader"><a href="assets/studentRecruitment/StauntonCountryPark.pdf" target="_blank">Position Details</a></span></li>
+                  <li>Animal Carer - Term Time<br><span class="subheader"><a href="assets/studentRecruitment/StudentAnimalCarer-TermTime.pdf" target="_blank">Position Details</a></span></li>
+                  <li>Community Assistant<br><span class="subheader"><a href="assets/studentRecruitment/StudentCommunityAssistant.pdf" target="_blank">Position Details</a></span></li>
+                  <li>Litter Collector<br><span class="subheader"><a href="assets/studentRecruitment/StudentLitterCollector.pdf" target="_blank">Position Details</a></span></li>
                 </ul>
             </div>
         </div>
 
-        <div class="medium-push-1 medium-10 end large-4 large-pull-8 columns">
+        <div class="medium-push-1 medium-10 end large-4 large-pull-0 columns">
             <div class="panel" data-equalizer-watch>
                 <h4>Documentation</h4>
                     <ul class="no-bullet">
                         <li class="subheader">Information</li>
-                        <li><a href="assets/studentRecruitment/documentation/positionsandPay.docx" target="_blank">Positions &amp; Pay</a></li>
+                        <li><a href="assets/studentRecruitment/documentation/positionsandPay.pdf" target="_blank">Positions &amp; Pay</a></li>
                     </ul>
                     <ul class="no-bullet">
                         <li class="subheader">Forms<br><small>Downloadable Word Documents</small></li>
@@ -74,7 +75,7 @@
         <div class="large-12 columns">
             <p>Once a Student is successful they will receive the necessary training and equipment. In order to be paid they will require a bank account.</p>
 
-            <p>Please fill in the application form from the list above and return completed applications <a href="javascript:location='mailto:\u0053\u0074\u0075\u0064\u0065\u006e\u0074\u0052\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074';void 0"><script type="text/javascript">document.write('\u0053\u0074\u0075\u0064\u0065\u006e\u0074\u0052\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0020\u0040\u0020\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b')</script></a>.</p>
+            <p>Please fill in the application form from the list above and return completed applications <a href="javascript:location='mailto:\u0073\u0074\u0075\u0064\u0065\u006e\u0074\u0052\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0"><script type="text/javascript">document.write('\u0073\u0074\u0075\u0064\u0065\u006e\u0074\u0052\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0020\u0040\u0020\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b')</script></a>.</p>
             <br>
         </div>
     </div>
