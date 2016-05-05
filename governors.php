@@ -1,7 +1,7 @@
 
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Governors</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -30,8 +30,8 @@
                 <li>Ensuring clarity of vision, ethos and strategic direction and supporting staff to achieve this.</li><br>
                 <li>Holding the headteacher to account for the educational performance of the school and its pupils.</li><br>
                 <li>Overseeing the financial performance of the school and making sure money is well spent.</li>
-            </ul> 
-        <br>   
+            </ul>
+        <br>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
             <br class="hide-for-small-only"><img src="images/general/general-19.jpg" alt="Park Community School - A Hive of Education"><br><br>
@@ -97,30 +97,8 @@
                         </div>
 
             </div>
-            <div class="medium-4 columns text-center  team-member-container">
-                <a href="#" data-reveal-id="Governor-03">
-                  <img src="images/governors/v-steel.jpg" alt="Safeguarding Governor" class="team-member">
-                <p>Mrs V Steel</p>
-                Governor Details</a>
-                        <div id="Governor-03" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Mrs V Steel</h2>
-                          <p class="lead">Term Expires: 08.07.2018</p>
-                          <p>Category: LA</p>
-                          <p>Committee Membership:</p>
-                            <ul class="circle">
-                                <li>Safeguarding Governor</li>
-                                <li>Member of Admin Committee</li>
-                            </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
 
 
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-            </div>
             <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-04">
                   <img src="images/governors/a-wilde.jpg" alt="Chair of Administration Governor" class="team-member">
@@ -144,29 +122,8 @@
                         </div>
 
             </div>
-            <div class="medium-4 columns text-center  team-member-container">
-                <a href="#" data-reveal-id="Governor-05">
-                  <img src="images/governors/p-woods.jpg" alt="Performance Committee Governor" class="team-member">
-                <p>Mr P Woods</p>
-                Governor Details</a>
-                        <div id="Governor-05" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Mr P Woods</h2>
-                          <p class="lead">Term Expires: 08.07.2018</p>
-                          <p>Category: CO-OPTED</p>
-                          <p>Committee Membership:</p>
-                            <ul class="circle">
-                                <li>Member of Performance Committee</li>
-                            </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
 
 
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-            </div>
             <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-06">
                   <img src="images/governors/t-short.jpg" alt="Vice Chair and SEN Governor" class="team-member">
@@ -261,7 +218,7 @@
                         </div>
 
             </div>
-            <div class="medium-offset-4 medium-4 columns text-center  team-member-container end">
+            <div class="medium-4 columns text-center  team-member-container end">
                 <a href="#" data-reveal-id="Governor-10">
                   <img src="images/slt/c-anders.jpg" alt="C Anders Governor" class="team-member">
                 <p>Mr C Anders</p>
@@ -305,7 +262,7 @@
             <h4>The Governor's Report</h4>
             <p>Below you can find a link to the current Governor's report</p>
             <a href="/assets/governors-report.pdf" target="_blank" class="button radius success">Governor's Report</a>
-            
+
             <h4>Meeting Attendance</h4>
             <p>Records of the governor meetings.</p>
             <a href="assets/governors/governors-attendance.pdf" target="_blank" class="button radius success">Governor Attendance</a>
@@ -316,7 +273,7 @@
     </div>
     <br><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
