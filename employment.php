@@ -28,8 +28,7 @@
             <div class="panel" data-equalizer-watch>
                 <h4>Teaching Roles</h4>
                 <ul class="no-bullet">
-                  <li>Head of Maths / Assistant Head of Faculty - iSTEM <br><span class="subheader"><a href="assets/recruitment/Head-of-Maths-and-Asst-Head-of-Faculty.pdf" target="_blank">Position Details</a></span></li>
-                  <li>Teacher of Science<br><span class="subheader"><a href="assets/recruitment/Science-NQT.pdf" target="_blank">Position Details</a></span></li>
+                  <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
                 </ul>
                 <hr>
                 <h5><small>Information about School Direct visit<br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>
