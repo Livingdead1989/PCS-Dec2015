@@ -32,7 +32,6 @@
                 <p>Tuesday 7th February to Friday 10th February 2017</p>
                 <p>Lead Teacher – Mrs Butler</p>
                 <p>Cost - £280.00</p>
-                <hr>
 
                 <table>
                   <tr>
@@ -84,6 +83,7 @@
                     <td>-</td>
                   </tr>
                 </table>
+                <hr>
             </li>
 
             <li>
@@ -110,9 +110,48 @@
                 <p>Tuesday 21st June 2016</p>
                 <p>Lead Teacher – Mrs Hutchin</p>
                 <p>Cost - £15.00</p>
-                <p>Payment is due before trip date</p>
+                <p>Deadline for Payment - Friday 22nd April</p>
                 <hr>
             </li>
+
+            <li>
+                <h3>Thorpe Park</h3>
+                <p>Wednesday 13th July 2016</p>
+                <p>Lead Teacher – Miss Norman</p>
+                <p>Cost - £30.00</p>
+                <hr>
+            </li>
+
+            <li>
+                <h3>Big Bang Fair</h3>
+                <p>Wednesday 29th June 2016</p>
+                <p>Lead Teacher – Mr Payne</p>
+                <p>Cost - £6.00</p>
+                <hr>
+            </li>
+
+            <li>
+                <h3>Family Trips 2016</h3>
+                <table>
+                  <tr>
+                    <th>Dickens</th>
+                    <th>Austen</th>
+                    <th>Brunel</th>
+                    <th>Nelson</th>
+                  </tr>
+                  <tr>
+                    <td>Spectrum<br>Monday 18th July<br>Lead Teacher – Mr Crowley<br>Cost - £15.00</td>
+                    <td>Splashdowns<br>Monday 18th<br>July<br>Lead Teacher – Miss<br>Wingham<br>Cost - £15.00</td>
+                    <td>Marwell Zoo<br>Monday 18th<br>July<br>Lead Teacher – Miss<br>Harris<br>Cost - £15.00</td>
+                    <td>Monkey World<br>Monday 18th<br>July<br>Lead Teacher – Miss<br>Smith<br>Cost - £15.00</td>
+                  </tr>
+                </table>
+
+                <p>Deadline for Payment - Monday 20th June</p>
+                <hr>
+            </li>
+
+
 
         </ul>
 
