@@ -43,11 +43,7 @@
             <div class="panel" data-equalizer-watch>
                 <h4>Available Positions</h4>
                 <ul class="no-bullet medium-block-grid-1 large-block-grid-2">
-                  <li>Printshop Helper<br><span class="subheader"><a href="assets/studentRecruitment/PrintShopStudentHelper.pdf" target="_blank">Position Details</a></span></li>
-                  <li>Staunton Country Park<br><span class="subheader"><a href="assets/studentRecruitment/StauntonCountryPark.pdf" target="_blank">Position Details</a></span></li>
-                  <li>Animal Carer - Term Time<br><span class="subheader"><a href="assets/studentRecruitment/StudentAnimalCarer-TermTime.pdf" target="_blank">Position Details</a></span></li>
-                  <li>Community Assistant<br><span class="subheader"><a href="assets/studentRecruitment/StudentCommunityAssistant.pdf" target="_blank">Position Details</a></span></li>
-                  <li>Litter Collector<br><span class="subheader"><a href="assets/studentRecruitment/StudentLitterCollector.pdf" target="_blank">Position Details</a></span></li>
+                  <li>Please visit the recruitment board outside KD3.</li>
                 </ul>
             </div>
         </div>
