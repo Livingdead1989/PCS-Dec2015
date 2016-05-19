@@ -16,7 +16,7 @@
         <div class="medium-7 large-8 columns">
             <h1 class="text-capitalize brandfont">Park Community School</h1><br>
             <h3 class="text-capitalize brandfont">Much more than just a school...</h3><br>
-            
+
         </div>
         <div class="small-offset-2 small-8 small-pull-2 medium-offset-0 medium-5 medium-pull-0 large-4 columns">
             <br class="show-for-small-only">
@@ -33,7 +33,7 @@
 <section>
     <div class="row">
     <br>
-        <div class="large-8 columns">        
+        <div class="large-8 columns">
             <div class="row">
                 <div class="large-11 columns">
                 <br>
@@ -61,19 +61,6 @@
             <div class="row">
                 <div class="large-11 columns"><br class="show-for-large-up">
                     <ul class="small-block-grid-2 medium-block-grid-4 text-center">
-                        <li>
-                            <a href="/suite.php">
-                                <img class="fixed-size-100" src="images/suite/suite.jpg" alt="The Suite - Audio and Video Recording Studio">
-                                <p><span class="show-for-sr">The Suite </span>Recording Studio</p>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="/park-enterprises.php">
-                                <img class="fixed-size-100" src="images/enterprises/parkenterprises.svg" alt="Park Enterprises - Opportunities beyond School">
-                                <p>Park Enterprises</p>
-                            </a>
-                        </li>
 
                         <li>
                             <a href="/scitt.php">
@@ -83,9 +70,9 @@
                         </li>
 
                         <li>
-                            <a href="/apex-centre.php">
-                                <img class="fixed-size-100" src="/images/sapling.svg" alt="Apex Centre - Trade Skills for a Modern Workforce">
-                                <p>Apex Centre</p>
+                            <a href="http://www.myedschoolapp.com/" target="_blank">
+                                <img class="fixed-size-100" src="/images/myed.png" alt="The My Ed app shows you up to date information about all aspects of your child’s school life.">
+                                <p>My Ed Parent App</p>
                             </a>
                         </li>
                     </ul>
@@ -111,7 +98,7 @@
     <div class="row">
         <div class="large-12 columns">
             <h3>Much More Than Just A School...</h3>
-            
+
             <br>
 
             <ul class="text-center large-block-grid-3 medium-block-grid-2 small-block-grid-1">
@@ -152,10 +139,10 @@
                         </a></div>
                 </li>
             </ul>
-            
+
             <br>
         </div>
-        
+
         <br>
     </div>
     <br>
@@ -191,7 +178,7 @@
         </div>
 
         </div>
-        
+
     </div>
     <br><br>
 </section>
