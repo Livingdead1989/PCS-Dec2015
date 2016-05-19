@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | School Meals</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -40,7 +40,7 @@
         <br><br>
             <a href="/assets/schoolmeals/menu.pdf" target="_blank">
                 <img class="border-grey-radius" src="images/schoolmeals/menu.jpg" alt="Park Community School Kitchen - The Watering Hole Menu">
-                <p class="text-center">Our Spring Menu - May 2015</p>
+                <p class="text-center">Our Sample Menu</p>
             </a>
             <br>
             <img src="images/schoolmeals/schoolmeals-01.jpg" alt="Our Head Chief, Hard at Work">
@@ -90,11 +90,12 @@
                 <li>Child's name, date of birth and school.</li>
             </ul>
             <a href="//www3.hants.gov.uk/hc3s-hubfreeschoolmeals_april_2011.pdf" target="_blank" class="button radius">Apply Now!</a>
+            <a class="button radius" href="//www.scopay.com/pcs" target="_blank">Tucasi</a>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/schoolmeals-03.jpg" alt="Kitchen Staff serving healthy school meals"></div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
