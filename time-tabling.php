@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Timetabling</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -26,16 +26,16 @@
         <div class="medium-6 columns">
         <p>If you need the latest school calendar, or shape of the day, then you are in the right place. Below you will find the most up to date timetables, and any relevant exam information and resources.</p>
             <ul class="circle">
-                <li><a href="/assets/school-calendar.pdf" target="_blank">Important Dates - <br>School Calendar</a></li>
+                <li><a href="/assets/timetabling/school-calendar.pdf" target="_blank">Important Dates - <br>School Calendar</a></li>
                 <br>
-                <li><a href="/assets/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
+                <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
                 <br>
-                <li>Exams Timetable - <br>There are currently no exams.</li>
+                <li><a href="/assets/timetabling/exams-2016.pdf" target="_blank">Exams Timetable - <br>Years 10 &amp; 11 - May to June 2016.</a></li>
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Available in downloadable and printable PDF format.</small></h5>
         </div>
         <div class="hide-for-small-only medium-6 columns"><img src="images/general/general-08.jpg" alt="Park Community School students sitting their exams"></div>
-        
+
     </div><br>
 </section>
     
