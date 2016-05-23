@@ -90,7 +90,7 @@
                 <li>Child's name, date of birth and school.</li>
             </ul>
             <a href="//www3.hants.gov.uk/hc3s-hubfreeschoolmeals_april_2011.pdf" target="_blank" class="button radius">Apply Now!</a>
-            <a class="button radius" href="//www.scopay.com/pcs" target="_blank">Tucasi</a>
+            <a class="button radius" href="//www.scopay.com/pcs" target="_blank">Account Balance</a>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/schoolmeals-03.jpg" alt="Kitchen Staff serving healthy school meals"></div>
     </div><br>
