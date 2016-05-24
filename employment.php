@@ -40,7 +40,7 @@
                 <h4>Support Roles</h4>
                 <ul class="no-bullet">
                   <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
-                  <li>Receptionist / Administrator<span class="subheader"><a href="assets/recruitment/Receptionist-Administrator.pdf" target="_blank">Position Details</a></span></li>
+                  <li>Receptionist / Administrator<br><span class="subheader"><a href="assets/recruitment/Receptionist-Administrator.pdf" target="_blank">Position Details</a></span></li>
                   </ul>
             </div>
         </div>
