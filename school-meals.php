@@ -47,7 +47,58 @@
         </div>
     </div><br>
 </section>
+<!-- Awards -->
 
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+            <h4>Soil Association Food for Life</h4>
+            <p>Park Community School has been awarded the Bronze award which means that our food is ethical, sustainable and fresh, free from nasty additives and transfats and meets school food standards.</p>
+
+            <h5>Bronze Standards include</h5>
+              <ul class="circle">
+                <li>No undesirable additives or trans fats</li>
+                <li>At least 75% of dishes are freshly prepared from unprocessed ingredients</li>
+                <li>Meat is from farms which satisfy UK welfare standards</li>
+                <li>Eggs are from cage-free hens</li>
+                <li>Compliance with national standards or guidelines on food and nutrition</li>
+              </ul>
+
+            <p>For a full list please visit the <a href="//www.soilassociation.org/certification/the-food-for-life-catering-mark/business-support-for-award-holders/standards/bronze-standards/" target="_blank">Soil Association website</a>.</p>
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/SoilAssociation-Bronze.png" alt="Soil Association Food for Life - Bronze School Award"></div>
+    </div>
+    <br><br>
+</section>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        <div class="medium-8 columns">
+            <h4>Fairtrade School</h4>
+            <p>The Fairtrade Schools Award is a campaign that gives primary and secondary school students the opportunity to develop their knowledge and understanding of global issues and the fact that fair trade is the solution for so many farmers and producers. The award aims to teach students how they can be involved in changing the world around them, encouraging them and empowering them to make a difference.</p>
+
+            <h5>Park Community School has been awarded</h5>
+            <ul class="circle">
+              <li>FairAware School</li>
+              <li>FairActive School</li>
+            </ul>
+
+            <p>Visit <a href="//schools.fairtrade.org.uk/" target="_blank">Fairtrade Schools</a> for more information.</p>
+
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/fairtrade.png" alt="Park Community School Fairtrade Awards - FairAware and FairActive"></div>
+    </div>
+    <br><br>
+</section>
+
+<!-- End Awards -->
 <section class="grey-bg">
     <div class="row">
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
