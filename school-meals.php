@@ -45,7 +45,8 @@
             <br>
             <img src="images/schoolmeals/schoolmeals-01.jpg" alt="Our Head Chief, Hard at Work">
         </div>
-    </div><br>
+    </div>
+    <br><br>
 </section>
 <!-- Awards -->
 
