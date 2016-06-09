@@ -33,22 +33,10 @@
         <br>
             <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/logo/office365.svg" alt="Office 365"><br>Office 365</li>
-              <li class="bullet-item">Email</li>
+              <li class="bullet-item">Email &amp; OneDrive</li>
               <li class="bullet-item">Office Applications</li>
-              <li class="bullet-item">Cloud Storage</li>
+              <li class="bullet-item">SharePoint</li>
               <li class="cta-button"><a class="button radius" href="//login.microsoftonline.com/login.srf" target="_blank">Open</a></li>
-            </ul>
-        <br>
-        </div>
-
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
-        <br>
-            <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/logo/sharepoint.svg" alt="Sharepoint 2013"><br>The Portal</li>
-              <li class="bullet-item">Resources</li>
-              <li class="bullet-item">Intranet</li>
-              <li class="bullet-item">Team Sites</li>
-              <li class="cta-button"><a class="button radius" href="https://portal.pcs.hants.sch.uk/" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>
