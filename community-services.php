@@ -97,7 +97,7 @@
             <ul class="no-bullet">
                 <li>Telephone: 02392 489 811</li>
                 <br>
-                <li>Email: <a href="javascript:location='mailto:\u0063\u006f\u006d\u006d\u0075\u006e\u0069\u0074\u0079\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Community</a></li>
+                <li>Email: <a href="javascript:location='mailto:\u0062\u006f\u006f\u006b\u0069\u006e\u0067\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Bookings</a></li>
             </ul>
 
         </div>
