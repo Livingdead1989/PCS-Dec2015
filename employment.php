@@ -28,7 +28,9 @@
             <div class="panel" data-equalizer-watch>
                 <h4>Teaching Roles</h4>
                 <ul class="no-bullet">
-                  <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
+                  <li>Science NQT<br><span class="subheader"><a href="assets/recruitment/ScienceNQT.pdf" target="_blank">Position Details</a></span></li>
+                  <li>Art &amp; Photography NQT<br><span class="subheader"><a href="assets/recruitment/ArtPhotographyNQT.pdf" target="_blank">Position Details</a></span></li>
+                  <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
                 </ul>
                 <hr>
                 <h5><small>Information about School Direct visit<br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>

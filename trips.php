@@ -95,25 +95,6 @@
                 <hr>
             </li>
 
-
-            <li>
-                <h3>Year 7 Mary Poppins - TRIP NOW FULL</h3>
-                <p>Thursday 9th June 2016</p>
-                <p>Lead Teacher – Miss Chuter</p>
-                <p>Cost £20.00</p>
-                <p>Trip Information only available for those attending.</p>
-                <hr>
-            </li>
-
-            <li>
-                <h3>Year 7 Boulogne Trip</h3>
-                <p>Tuesday 21st June 2016</p>
-                <p>Lead Teacher – Mrs Hutchin</p>
-                <p>Cost - £15.00</p>
-                <p>Deadline for Payment - Friday 22nd April</p>
-                <hr>
-            </li>
-
             <li>
                 <h3>Thorpe Park</h3>
                 <p>Wednesday 13th July 2016</p>
