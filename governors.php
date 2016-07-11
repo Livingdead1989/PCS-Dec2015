@@ -100,31 +100,6 @@
 
 
             <div class="medium-4 columns text-center  team-member-container">
-                <a href="#" data-reveal-id="Governor-04">
-                  <img src="images/governors/a-wilde.jpg" alt="Chair of Administration Governor" class="team-member">
-                <p>Mr A Wilde</p>
-                Governor Details</a>
-                        <div id="Governor-04" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Mr A Wilde</h2>
-                          <p class="lead">Term Expires: 08.07.2018</p>
-                          <p>Category: CO-OPTED</p>
-                          <p>Committee Membership:</p>
-                            <ul class="circle">
-                                <li>Chair of Admin Committee</li>
-                            </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>Chair of Resources at Bidbury Infants School</li>
-                            </ul>
-
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-            </div>
-
-
-            <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-06">
                   <img src="images/governors/t-short.jpg" alt="Vice Chair and SEN Governor" class="team-member">
                 <p>Mrs T Short</p>
