@@ -87,15 +87,6 @@
             </li>
 
             <li>
-                <h3>Apple Pi Filming, York</h3>
-                <p>Monday 28th June – Saturday 2nd July 2016</p>
-                <p>Lead Teacher – Mr Eacott</p>
-                <p>Cost - £30.00</p>
-                <p>Payment is due before trip date</p>
-                <hr>
-            </li>
-
-            <li>
                 <h3>Thorpe Park</h3>
                 <p>Wednesday 13th July 2016</p>
                 <p>Lead Teacher – Miss Norman</p>
@@ -104,15 +95,8 @@
             </li>
 
             <li>
-                <h3>Big Bang Fair</h3>
-                <p>Wednesday 29th June 2016</p>
-                <p>Lead Teacher – Mr Payne</p>
-                <p>Cost - £6.00</p>
-                <hr>
-            </li>
-
-            <li>
                 <h3>Family Trips 2016</h3>
+				<p><u>Trips now closed for payments</u></p>
                 <table>
                   <tr>
                     <th>Dickens</th>
@@ -132,7 +116,15 @@
                 <hr>
             </li>
 
-
+			<li>
+                <h3>New York</h3>
+                <p>February Half Term 2017</p>
+                <p>Lead Teacher – Mr Roberson</p>
+                <p>Cost - approx. £625-700</p>
+				<p>Payment schedule to be confirmed</p>
+				<p><strong>Deadline for NON-REFUNDABLE deposit has now passed</strong></p>
+                <hr>
+            </li>
 
         </ul>
 
