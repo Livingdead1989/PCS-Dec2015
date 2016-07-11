@@ -26,6 +26,11 @@
         <div class="medium-12 columns">
         <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
+				<li>
+                  <ul class="circle">July 2016<hr>
+                      <li><a href="/assets/letters/july-2016/BadHair-EndStartAcademicYear-BehaviourPolicy.pdf" target="_blank">Bad Hair Week, Academic Year and Behaviour Policy</a></li>
+                  </ul>
+              </li>
               <li>
                   <ul class="circle">June 2016<hr>
                       <li><a href="/assets/letters/june-2016/FreshersWeek.pdf" target="_blank">Fresher Week</a></li>
