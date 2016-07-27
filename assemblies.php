@@ -30,6 +30,11 @@
 
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
               <li>
+                <ul class="circle">Autumn 2016
+                  <li><a href="assets/assemblies/autumn-2016/SMSC.pdf" target="_blank">SMSC (Spiritual, Moral, Social and Cultural)</a></li>
+                </ul>
+              </li>
+              <li>
                 <ul class="circle">Summer 2016
                   <li><a href="assets/assemblies/summer-2016/Intellectual-Virtues.pdf" target="_blank">Intellectual Virtues</a></li>
                   <li><a href="assets/assemblies/summer-2016/Intellectual-Virtues-2.pdf" target="_blank">Intellectual Virtues 2</a></li>
