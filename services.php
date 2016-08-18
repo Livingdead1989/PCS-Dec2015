@@ -44,11 +44,11 @@
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
         <br>
             <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/logo/microsoft.svg" alt="Microsoft RDS"><br>Remote Access</li>
-              <li class="bullet-item">Remote Applications</li>
-              <li class="bullet-item">Virtual Desktops</li>
-              <li class="bullet-item">Self Service</li>
-              <li class="cta-button"><a class="button radius" href="https://rds.pcs.hants.sch.uk/rdweb" target="_blank">Launch</a></li>
+              <li class="title"><img class="fixed-size-100" src="images/cogs.png" alt="Manage Engine Self Service Portal - Password Reset"><br>Self Service</li>
+              <li class="bullet-item">Password Resets</li>
+              <li class="bullet-item">Self Service Portal</li>
+              <li class="bullet-item">Manage Engine</li>
+              <li class="cta-button"><a class="button radius" href="https://ad.pcs.hants.sch.uk/rdweb" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>

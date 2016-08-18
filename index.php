@@ -76,12 +76,11 @@
                         </li>
                         <li>
                             <a href="https://ad.pcs.hants.sch.uk" target="_blank">
-                                <img class="fixed-size-100" src="/images/SelfService.png" alt="Password Reset Self Service Portal">
+                                <img class="fixed-size-100" src="/images/cogs.png" alt="Password Reset Self Service Portal">
                                 <p>Self Service</p>
                             </a>
                         </li>
                     </ul>
-                    <p class="subheader"><a href="/partners.php">View the Full list...</a></p>
                     <br>
                 </div>
             </div>
