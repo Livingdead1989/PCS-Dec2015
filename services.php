@@ -48,7 +48,7 @@
               <li class="bullet-item">Password Resets</li>
               <li class="bullet-item">Self Service Portal</li>
               <li class="bullet-item">Manage Engine</li>
-              <li class="cta-button"><a class="button radius" href="https://ad.pcs.hants.sch.uk/rdweb" target="_blank">Open</a></li>
+              <li class="cta-button"><a class="button radius" href="https://ad.pcs.hants.sch.uk" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>
