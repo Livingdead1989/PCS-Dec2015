@@ -68,11 +68,16 @@
                                 <p><span class="show-for-sr">The Solent SCITT </span>Teacher Training</p>
                             </a>
                         </li>
-
                         <li>
                             <a href="http://www.myedschoolapp.com/" target="_blank">
                                 <img class="fixed-size-100" src="/images/myed.png" alt="The My Ed app shows you up to date information about all aspects of your child’s school life.">
                                 <p>My Ed Parent App</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://ad.pcs.hants.sch.uk" target="_blank">
+                                <img class="fixed-size-100" src="/images/SelfService.png" alt="Password Reset Self Service Portal">
+                                <p>Self Service</p>
                             </a>
                         </li>
                     </ul>
