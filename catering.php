@@ -40,7 +40,7 @@
         <br><br>
             <a href="/assets/schoolmeals/menu.pdf" target="_blank">
                 <img class="border-grey-radius" src="images/schoolmeals/menu.jpg" alt="Park Community School Kitchen - The Watering Hole Menu">
-                <p class="text-center">Our Sample Menu</p>
+                <p class="text-center">2016-17 Menu</p>
             </a>
             <br>
             <img src="images/schoolmeals/schoolmeals-01.jpg" alt="Our Head Chief, Hard at Work">
@@ -48,7 +48,48 @@
     </div>
     <br><br>
 </section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+            <h4>Local &amp; Organic Food</h4>
+            <p>From summer 2016 Park Community School kitchens are now using seasonal, local and organic produce.</p>
+
+            <h4>Our Suppliers</h4>
+            <ul>
+              <li><a href="//www.tuppennybarn.co.uk/" target="_blank">Tuppenny Barn</a> - Providing Fruit and Vegetables.</li>
+              <li><a href="//www.goodwood.com/estate/home-farm/" target="_blank">Goodwood Home Farm</a> - Providing Dairy.</li>
+            </ul>
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/organic-standards.jpg" alt="Park Community School using local and organic produce in their school menu."></div>
+    </div>
+    <br><br>
+</section>
+
+
 <!-- Awards -->
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        <div class="medium-8 columns">
+            <h4>Educatering Excellence Award</h4>
+            <p>Newcomer of the Year - <strong>Steven Cross</strong></p>
+            <p>Employees who are new to a company or are in a new role within their existing company who have made an impact within the past 2 years.</p>
+            <p>Judges look for evidence based examples of how the individual has shown outstanding commitment to their new roles and enhanced the performance of the school meal provision.</p>
+
+            <p>For more information about Educatering Awards please visit their <a href="//educateringawards.co.uk/">website</a>.</p>
+
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/educatering.jpg" alt="Park Community School Educatering Excellence Awards - Newcomer of the Year"></div>
+    </div>
+    <br><br>
+</section>
 
 <section class="grey-bg">
     <div class="row">
