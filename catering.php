@@ -63,6 +63,7 @@
             <ul>
               <li><a href="//www.tuppennybarn.co.uk/" target="_blank">Tuppenny Barn</a> - Providing Fruit and Vegetables.</li>
               <li><a href="//www.goodwood.com/estate/home-farm/" target="_blank">Goodwood Home Farm</a> - Providing Dairy.</li>
+              <li><a href="//www.shipton-mill.com/" target="_blank">Shipton Mill</a> - Flour.</li>
             </ul>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/organic-standards.jpg" alt="Park Community School using local and organic produce in their school menu."></div>
