@@ -61,8 +61,8 @@
 
             <h4>Our Suppliers</h4>
             <ul>
-              <li><a href="//www.tuppennybarn.co.uk/" target="_blank">Tuppenny Barn</a> - Providing Fruit and Vegetables.</li>
-              <li><a href="//www.goodwood.com/estate/home-farm/" target="_blank">Goodwood Home Farm</a> - Providing Dairy.</li>
+              <li><a href="//www.tuppennybarn.co.uk/" target="_blank">Tuppenny Barn</a> - Fruit and Vegetables.</li>
+              <li><a href="//www.goodwood.com/estate/home-farm/" target="_blank">Goodwood Home Farm</a> - Dairy Products.</li>
               <li><a href="//www.shipton-mill.com/" target="_blank">Shipton Mill</a> - Flour.</li>
             </ul>
         </div>
