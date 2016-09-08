@@ -28,7 +28,7 @@
         <br>
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
                 <li>Accessibility</li>
-                <li><a href="/assets/policies/admissions-2015-2016.pdf" target="_blank">Admissions 2015 - 2016</a></li>
+                <li><a href="/assets/policies/admissions-2017-2018.pdf" target="_blank">Admissions 2017 - 2018</a></li>
                 <li><a href="/assets/policies/admissions-2016-2017.pdf" target="_blank">Admissions 2016 - 2017</a></li>
                 <li><a href="/assets/policies/attendance.pdf" target="_blank">Attendance</a></li>
                 <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour for Learning</a></li>
