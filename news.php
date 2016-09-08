@@ -31,22 +31,22 @@
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
 
                 <li>
-                    <a href="assets/news/parkPost/Issue03-Apr2016.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue03-Apr2016.jpg" alt="Park Post Issue 03 Frontcover">
-                        <p>Issue 03 - 2016</p>
+                    <a href="assets/news/parkPost/Issue06-Jul2016.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue06-Jul2016.jpg" alt="Park Post Issue 06 Frontcover">
+                        <p>Issue 06 - 2016</p>
                     </a>
                 </li>
                 <li class="hide-for-small-only">
-                    <a href="assets/news/parkPost/Issue02-Dec2015.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue02-Dec2015.jpg" alt="Park Post Issue 02 Frontcover">
-                        <p>Issue 02 - 2015</p>
+                    <a href="assets/news/parkPost/Issue05-Jun2016.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue05-Jun2016.jpg" alt="Park Post Issue 04 Frontcover">
+                        <p>Issue 05 - 2016</p>
                     </a>
                 </li>
 
                 <li class="hide-for-small-only">
-                    <a href="assets/news/parkPost/Issue01-Oct2015.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue01-Oct2015.jpg" alt="Park Post Issue 01 Frontcover">
-                        <p>Issue 01 - 2015</p>
+                    <a href="assets/news/parkPost/Issue04-May2016.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue04-May2016.jpg" alt="Park Post Issue 04 Frontcover">
+                        <p>Issue 04 - 2016</p>
                     </a>
                 </li>
 
