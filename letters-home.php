@@ -26,7 +26,13 @@
         <div class="medium-12 columns">
         <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
-				<li>
+              <li>
+                  <ul class="circle">September 2016<hr>
+                      <li><a href="/assets/letters/september-2016/Behaviour-System.pdf" target="_blank">Behaviour System</a></li>
+                      <li><a href="/assets/letters/september-2016/Results.pdf" target="_blank">Results</a></li>
+                  </ul>
+              </li>
+				      <li>
                   <ul class="circle">July 2016<hr>
                       <li><a href="/assets/letters/july-2016/BadHair-EndStartAcademicYear-BehaviourPolicy.pdf" target="_blank">Bad Hair Week, Academic Year and Behaviour Policy</a></li>
                   </ul>
@@ -53,7 +59,7 @@
                       <li><a href="/assets/letters/february-2016/MyEdApp-DressCode-Keydates.pdf" target="_blank">My Ed App, Dress code &amp; Keydates</a></li>
                   </ul>
               </li>
-                  
+
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Can't see what your looking for please ask at <a href="/contact.php">the school reception</a>.</small></h5>
         </div>
