@@ -52,13 +52,6 @@
                 <li class="accordion-navigation">
                     <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Year 7 - National Curriculum</a>
                     <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
-                        <p class="text-capitaliz">Year 7 STEM Projects</p>
-                        <ul class="circle">
-                                    <li>Fire and Forget - Catapults.</li>
-                                    <li>To Infinity and beyond - Rockets.</li>
-                                    <li>Standing Tall - Structures.</li>
-                                    <li>Its what’s inside that counts - Food and Nutrition.</li>
-                        </ul>
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
                             <li>Health and Safety.</li>
@@ -205,7 +198,70 @@
                             <li>Research into types of finish.</li>
                             <li>Planning for manufacture.</li>
                         </ul>
-                    </div>
+                    </div>            
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel7d" role="tab" id="panel7d-heading" aria-controls="panel7d">Year 11 - Catering</a>
+                    <div id="panel7d" class="content" role="tabpanel" aria-labelledby="panel7d-heading">
+                        <p class="text-capitalize">Main topics students study:</p>
+                        
+                            <ul class="circle">
+                                <br>
+                                <li>Students will follow a course to further their skills in all aspects of catering. They will develop a better understanding of Hygiene and Safety when working in an industrial kitchen dealing with the public.</li>
+                                <li>They will be introduced to Catering terminology and job roles within Catering, with a view to being able to work in the hospitality industry.</li>
+                                <li>All aspects of food preparation are covered with a view to developing skills such as food preparation, cooking and presentation of a wide variety of dishes.</li>
+                                <li>Ongoing evaluation.</li>
+                                <li>They will be shown how to use a wide range of fresh and pre-made commodities and be able to cater for small numbers.</li>
+                                <li>Nutrition will be covered in greater depth to increase the students’ knowledge of different diets with reference to medical, ethical and religious needs.</li>
+                                <li>There are 2 pieces of coursework to be completed both of which consist of a practical 2 hour assessment as well as between 10-25 hours of written work followed by a 1 ¼ hour exam at the end of the course.</li>
+                                <li>Students will develop all skills needed in food preparation from basic chopping and slicing to advanced decorating and presentation skills.</li>
+                                <li>An understanding of food safety and hygiene will be developed with reference to requirements set down by law in the hospitality sector.</li>
+                                <li>During practical sessions different cooking methods eg creaming, whisking, baking and steaming will be practised and developed. Students will be encouraged to present food well and understand the importance of this.</li>
+                                <li>They will also develop the skills needed to plan and cost meals.</li>
+                            </ul>
+                        </div>
+                </li>
+
+
+                   <li class="accordion-navigation">
+                    <a href="#panel8" role="tab" id="panel8-heading" aria-controls="panel8">Year 11 Resistant Materials</a>
+                    <div id="panel8" class="content" role="tabpanel" aria-labelledby="panel8-heading">
+                        <p class="text-capitalize">Main topics students study:</p>
+                        <ul class="circle">
+                            <li>Making
+                                <ul>
+                                    <li>The type of project undertaken will determine the making activities that the student will encounter.</li>
+                                    <li>Mock examination.</li>
+                                    <li>Testing and evaluation.</li>
+                                </ul>
+                            </li>
+                            <br>
+                            <li>Possible activities
+                                <ul>
+                                    <li>Ongoing evaluation.</li>
+                                    <li>Client testing.</li>
+                                    <li>Final evaluation against the specification.</li>
+                                    <li>Final examination.</li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <br>
+                        <p class="text-capitalize">Main topics students study:</p>
+                        <ul class="circle">
+                            <li>Analysis of the design context.</li>
+                            <li>Product evaluation and market research</li>
+                            <li>Target market research: questionnaires, interviews, anthropometric data, letters, e-mails, mood boards.</li>
+                            <li>Design specification.</li>
+                            <li>Developing ideas by sketching.</li>
+                            <li>Developing ideas by modelling.</li>
+                            <li>Developing ideas through CAD.</li>
+                            <li>Research into materials.</li>
+                            <li>Research into methods of manufacture.</li>
+                            <li>Research into types of finish.</li>
+                            <li>Planning for manufacture.</li>
+                        </ul>
+                    </div>            
                 </li>
 
                 
