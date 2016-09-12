@@ -193,6 +193,7 @@
                         </div>
 
             </div>
+
             <div class="medium-4 columns text-center  team-member-container end">
                 <a href="#" data-reveal-id="Governor-10">
                   <img src="images/slt/c-anders.jpg" alt="C Anders Governor" class="team-member">
@@ -220,6 +221,89 @@
 
             </div>
 
+            <div class="medium-4 columns text-center  team-member-container end">
+                <a href="#" data-reveal-id="Governor-11">
+                  <img src="images/governors/person.jpg" alt="Placeholder Image" class="team-member">
+                <p>Ms J Hughes</p>
+                Governor Details</a>
+                        <div id="Governor-11" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Ms J Hughes</h2>
+                          <p><strong>Details Pending Governors Meeting</strong></p>
+                          <p class="lead">Appointed: </p>
+                          <p>Category: </p>
+                          <p>Committee Membership:</p>
+                            <ul class="circle">
+                                <li></li>
+                                <li></li>
+                            </ul>
+                          <p>Pecuniary Interests:</p>
+                            <ul class="circle">
+                              <li></li>
+                              <li></li>
+                              <li></li>
+                            </ul>
+
+
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
+
+            </div>
+
+            <div class="medium-4 columns text-center  team-member-container end">
+                <a href="#" data-reveal-id="Governor-12">
+                  <img src="images/governors/person.jpg" alt="Placeholder Image" class="team-member">
+                <p>Mr C Larkin</p>
+                Governor Details</a>
+                        <div id="Governor-12" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Mr C Larkin</h2>
+                          <p><strong>Details Pending Governors Meeting</strong></p>
+                          <p class="lead">Appointed: </p>
+                          <p>Category: </p>
+                          <p>Committee Membership:</p>
+                            <ul class="circle">
+                                <li></li>
+                                <li></li>
+                            </ul>
+                          <p>Pecuniary Interests:</p>
+                            <ul class="circle">
+                              <li></li>
+                              <li></li>
+                              <li></li>
+                            </ul>
+
+
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
+
+            </div>
+
+            <div class="medium-4 columns text-center  team-member-container end">
+                <a href="#" data-reveal-id="Governor-13">
+                  <img src="images/governors/person.jpg" alt="Placeholder Image" class="team-member">
+                <p>Mr R Cousins</p>
+                Governor Details</a>
+                        <div id="Governor-13" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Mr R Cousins</h2>
+                          <p><strong>Details Pending Governors Meeting</strong></p>
+                          <p class="lead">Appointed: </p>
+                          <p>Category: </p>
+                          <p>Committee Membership:</p>
+                            <ul class="circle">
+                                <li></li>
+                                <li></li>
+                            </ul>
+                          <p>Pecuniary Interests:</p>
+                            <ul class="circle">
+                              <li></li>
+                              <li></li>
+                              <li></li>
+                            </ul>
+
+
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
+
+            </div>
 
         </div>
     </div>
@@ -235,8 +319,9 @@
 
         <div class="medium-6 columns">
             <h4>The Governor's Report</h4>
-            <p>Below you can find a link to the current Governor's report</p>
+            <p>Below you can find a link to the current Governor's report<br><small>2016 Report Due October 2016</small></p>
             <a href="/assets/governors-report.pdf" target="_blank" class="button radius success">Governor's Report</a>
+
 
             <h4>Meeting Attendance</h4>
             <p>Records of the governor meetings.</p>
