@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Drama</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -56,21 +56,33 @@
                 <li>Personal, learning and thinking skills (being independent enquirers, creative thinkers, reflective learners, teamworkers, self managers and effective participants).</li>
             </ul>
 
-            
+
             <h3>Areas of Study</h3>
-            <p>In Key Stage 3 students are introduced to the basic conventions of theatre and storytelling, exploring the ‘mythical quest’ of Coriander a child tasked with embarking on a journey of discovery. In these lessons, students will develop group work and problem-solving abilities alongside dramatic techniques.</p>
+            <h4>Key Stage 3</h4>
+            <p>In Year 7 students are introduced to the basic conventions of theatre and storytelling, exploring the ‘mythical quest’ of Coriander a child tasked with embarking on a journey of discovery. In these lessons, students will develop group work and problem-solving abilities alongside dramatic techniques. The emphasis is on mastering the skills required to perform in-role, with confidence to a small audience of their peers.</p>
+            <p>Once in Year 8, all students explore more complex forms of devising theatre and develop their skills in structuring full length (up to 10 minutes) Drama performances. The topic of study in the compulsory unit is 'Stranded', inspired by 'Lord of the Flies' and a selection of other stimuli. Students must enhance their piece through more imaginative Dramatic devices and consider character motivations. A focus on audience awareness prepares students for the demands of GCSE work.</p>
+            <p>If students select Drama as their Arts 'mini-option' in the second half of the year, they will also cover units on scripted performance where they must consider the role of the theatre Director. They will learn to interpret the work of playwrights, including Shakespeare, and will explore the technical logistics of staging performance. The year culminates in the creation of an original performance that students will devise themselves from a given stimulus.</p>
 
-            <p>In their second unit of Year 7, students explore the causes, types and effects of bullying, considering their own place in society. This unit covers non-naturalistic drama conventions that help to present more mature, complex emotions.</p>
+            <h4>OCR GCSE Drama</h4>
+            <p>In the first year of the GCSE students are introduced to varied styles of performance, exploring Theatrical conventions throughout history and learning where contemporary practitioners take their inspiration from. Styles of theatre covered include Greek, Commedia Dell Arte, Naturalism, Epic Theatre and Physical Theatre. This year aims to introduce pupils to the demands of the course without the need for formal assessment.</p>
+            <p>Pupils will be invited to attend a Theatre performance and will begin to develop their ability to analyse how meaning is communicated in drama.<br>In Year 10 students will complete an inspirational workshop with a professional company before embarking on their first assessed unit. Here they must create an original devised work based around a stimulus given by the exam board. The final performance is supported by a Portfolio of evidence, detailing the journey from exploration to creation and performance. This portfolio can be presented through a range of media, including footage of rehearsals and the written word.</p>
+            <p><a href="//www.ocr.org.uk/Images/242631-unit-j316-01-02-devising-drama-sample-assessment-material.pdf" target="_blank">Example of the Devising Drama assessment task</a></p>
+            <p>Students will also begin exploring their set text, researching characters, relationships, plot narrative the context of the work in preparation for their Performance and Response exam in Year 11. They will finish the year by completing a mock Presenting and Performing text unit, which culminates in a public performance of their work.</p>
+            <p>In the final year of the course, students will explore and stage 2 extracts from a published play script, performing initially to an invited audience and then to a visiting examiner. Students are able to select monologues, duologues or group scenes for this examination.</p>
+            <p>The remainder of the year focusses on preparation for the final written examination, in which they must answer questions on their set text and review an aspect of a live, professional performance.</p>
+            <p><a href="//www.ocr.org.uk/Images/242648-unit-j316-04-drama-performance-and-response-sample-assessment-material.pdf" target="_blank">Example of the Exam Paper</a></p>
+            <p><a href="//www.ocr.org.uk/Images/231466-gcse-9-1-drama-summary-brochure.pdf" target="_blank">Detailed Breakdown of how the Course is Assessed</a></p>
 
-            <p>Once in Year 8, students are introduced to script interpretation and the process of taking text from ‘page to stage’ through directorial skill development. Students study ‘Macbeth’, considering character motivations, audience awareness, and stage design.</p>
-            <p>In their final compulsory unit, students explore methods of creating in-depth characters and atmospheric performance in a traditional piece in the Horror genre. They will have the opportunity to consider technical effects and can present through either live or filmed performance.</p>
-            <p>The BTEC in Acting is a primarily practical course that covers 3 units of study. The first unit, Acting Skills, covers the fundementals of acting technique. Students complete a range of workshop activities and consider work from a varied range of historical styles. The second unit, Preparation, Performance and Production sees the students working collaboratively to perform a substantial piece to a public audience. The course culminates in the ‘Individual showcase’ unit, a solo presentation of the learners skills and knowledge through an audition piece set by the exam board.</p>
-            <p>At GCSE students are quickly introduced to more abstract styles of performance, including Physical Theatre. They must complete 2 performance units, 1 on devised original work and a further looking at a published text. Students must perform to the moderator. The course finishes with a formal written exam focussing on describing, explaining, analysing and evaluating their acting skills in development, rehearsal and performance of work. </p>
+            <h4>Additional Courses and Experiences available</h4>
 
-            <h3>Additional courses and experiences available</h3>
-            <p><strong>LAMDA lessons and examinations</strong> - LAMDA Graded Examinations in Performance: Acting is designed to develop the skills necessary to communicate dramatic text to an audience. Learners who prepare themselves appropriately will develop Interpretative skills, technical skills and knowledge of the performance process. These lessons are additional to the  standard drama curriculum and examination fees apply (with concession for those in receipt of Free School Meals).</p>
-            <p><strong>BTEC In production Skills</strong> – A new course, this allows students who already participate in the school technical crew the opportunity to achieve a qualification, focussed on Lighting, Sound, Set, Costume, Make-up or Mask Design.</p>
-            <p><strong>Arts Award</strong> – Alongside the projects run in extra-curricular Drama, students have the opportunity to work towards their Arts Award in Bronze or Silver.</p>
+            <p><strong>LAMDA lessons and examinations in Acting</strong> - Examinations designed to develop the skills necessary to communicate dramatic text to an audience. Learners who prepare themselves appropriately will develop Interpretative skills, technical skills and knowledge of the performance process. These lessons are additional to the standard drama curriculum and examination fees apply (with concession for those in receipt of Free School Meals).</p>
+
+            <p><a href="//www.lamda.org.uk/examinations/all-examinations/performance-examinations" target="_blank">Further Information</a></p>
+
+            <p><strong>Drama Ambassadors</strong> -  Students who demonstrate exceptional commitment and skill in Drama are offered the opportunity to assist in delivering workshops and performances to our feeder schools as well as being considered first for enrichment experiences such as trips and workshops.</p>
+            <p><strong>School Production (Autumn Term)</strong> -  Each year, the Performing Arts faculty produces a full scale musical performance open to the public. The aim is to give pupils experience of working in a disciplined and highly focused manner, encouraging them to develop the attributes of a professional performer. Auditions are held for both lead and ensemble performers and are open to students from all years. Recent shows include 'High School Musical', 'Grease' and 'Oliver!'</p>
+            <p><strong>Additional projects</strong>: In recent years, students have also participated in National and local projects such as Shakespeare Schools Festival and National Connections.</p>
+
 
             <ul class="accordion" data-accordion role="tablist">
 
@@ -133,7 +145,7 @@
 
     </div>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
