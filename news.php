@@ -33,20 +33,20 @@
                 <li>
                     <a href="assets/news/parkPost/Issue06-Jul2016.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue06-Jul2016.jpg" alt="Park Post Issue 06 Frontcover">
-                        <p>Issue 06 - 2016</p>
+                        <p>Issue 06 - July 2016</p>
                     </a>
                 </li>
                 <li class="hide-for-small-only">
                     <a href="assets/news/parkPost/Issue05-Jun2016.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue05-Jun2016.jpg" alt="Park Post Issue 04 Frontcover">
-                        <p>Issue 05 - 2016</p>
+                        <p>Issue 05 - June 2016</p>
                     </a>
                 </li>
 
                 <li class="hide-for-small-only">
                     <a href="assets/news/parkPost/Issue04-May2016.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue04-May2016.jpg" alt="Park Post Issue 04 Frontcover">
-                        <p>Issue 04 - 2016</p>
+                        <p>Issue 04 - April 2016</p>
                     </a>
                 </li>
 
@@ -69,18 +69,24 @@
             <p>Primary Link is available in downloadable PDF format.</p>
 
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
-
-                <li>
-                    <a href="assets/news/primaryLink/Issue1 - Autumn 2015.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primaryLink/covers/issue1.jpg" alt="Primary Link Issue 1 Frontcover">
-                        <p>Issue 01 - 2015</p>
+                <li class="hide-for-small-only">
+                    <a href="assets/news/primaryLink/Issue3-Summer2016.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primaryLink/covers/issue3.jpg" alt="Park Post Issue 03 Frontcover">
+                        <p>Issue 03 - Summer 2016</p>
                     </a>
                 </li>
 
                 <li class="hide-for-small-only">
-                    <a href="assets/news/primaryLink/Issue2 - Spring 2016.pdf" target="_blank">
+                    <a href="assets/news/primaryLink/Issue2-Spring2016.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/primaryLink/covers/issue2.jpg" alt="Park Post Issue 02 Frontcover">
-                        <p>Issue 02 - 2016</p>
+                        <p>Issue 02 - Spring 2016</p>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="assets/news/primaryLink/Issue1-Autumn2015.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primaryLink/covers/issue1.jpg" alt="Primary Link Issue 1 Frontcover">
+                        <p>Issue 01 - Autumn 2015</p>
                     </a>
                 </li>
 
