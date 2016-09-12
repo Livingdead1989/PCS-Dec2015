@@ -24,7 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-12 columns">
-            <h3>Park Post</h3>
+            <h3 id="park-post">Park Post</h3>
             <p>Park Post is our magazine, celebrating all that is great about Park Community School!</p>
             <p>Park Post is available in downloadable PDF format.</p>
 
@@ -64,7 +64,7 @@
     <div class="row">
 
         <div class="medium-12 columns">
-            <h3>Primary Link</h3>
+            <h3 id="primary-link">Primary Link</h3>
             <p>Primary Link magazine is all about the schools in our local area.</p>
             <p>Primary Link is available in downloadable PDF format.</p>
 
