@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Uniform</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -44,14 +44,14 @@
                 <li>Green 'V' neck sweatshirt with school logo.</li>
                 <ul>
                 <li>Optional black blazer with school logo.</li></ul>
-            
+
                 <li>White shirt with collar capable of taking a tie.</li>
                 <li>School tie colour based on year group.</li>
                 <br>
                 <li>Black full length trousers.</li>
                 <ul>
                     <li>Girls may wear a black skirt.</li>
-                    <li>Girls may wear black or tan tights.</li>
+                    <li>Girls may wear black or opaque tights.</li>
                 </ul>
                 <li>Plain black shoes with sensible heels.</li>
                 <br>
@@ -78,7 +78,7 @@
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-11.jpg" alt="Uniform to suit all year round"></div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
