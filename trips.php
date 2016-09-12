@@ -25,7 +25,7 @@
         <br>
         <div class="medium-12 columns">
 
-        <ul class="medium-block-grid-1 large-block-grid-2">
+        <ul class="medium-block-grid-1 large-block-grid-1">
 
             <li>
                 <h3>Disneyland Paris 2017 - INVITE ONLY</h3>
@@ -33,7 +33,7 @@
                 <p>Lead Teacher – Mrs Butler</p>
                 <p>Cost - £280.00</p>
 
-                <table>
+                <table style="width:100%;">
                   <tr>
                     <th>Disneyland Paris</th>
                     <th>Payment<br>by</th>
@@ -86,44 +86,16 @@
                 <hr>
             </li>
 
-            <li>
-                <h3>Thorpe Park</h3>
-                <p>Wednesday 13th July 2016</p>
-                <p>Lead Teacher – Miss Norman</p>
-                <p>Cost - £30.00</p>
-                <hr>
-            </li>
 
-            <li>
-                <h3>Family Trips 2016</h3>
-				<p><u>Trips now closed for payments</u></p>
-                <table>
-                  <tr>
-                    <th>Dickens</th>
-                    <th>Austen</th>
-                    <th>Brunel</th>
-                    <th>Nelson</th>
-                  </tr>
-                  <tr>
-                    <td>Spectrum<br>Monday 18th July<br>Lead Teacher – Mr Crowley<br>Cost - £15.00</td>
-                    <td>Splashdowns<br>Monday 18th<br>July<br>Lead Teacher – Miss<br>Wingham<br>Cost - £15.00</td>
-                    <td>Marwell Zoo<br>Monday 18th<br>July<br>Lead Teacher – Miss<br>Harris<br>Cost - £15.00</td>
-                    <td>Monkey World<br>Monday 18th<br>July<br>Lead Teacher – Miss<br>Smith<br>Cost - £15.00</td>
-                  </tr>
-                </table>
 
-                <p>Deadline for Payment - Monday 20th June</p>
-                <hr>
-            </li>
-
-			<li>
-                <h3>New York</h3>
-                <p>February Half Term 2017</p>
-                <p>Lead Teacher – Mr Roberson</p>
-                <p>Cost - approx. £625-700</p>
-				<p>Payment schedule to be confirmed</p>
-				<p><strong>Deadline for NON-REFUNDABLE deposit has now passed</strong></p>
-                <hr>
+			      <li>
+              <h3>New York</h3>
+              <p>February Half Term 2017</p>
+              <p>Lead Teacher – Mr Roberson</p>
+              <p>Cost - approx. £625-700</p>
+				      <p>Payment schedule to be confirmed</p>
+				      <p><strong>Deadline for NON-REFUNDABLE deposit has now passed</strong></p>
+              <hr>
             </li>
 
         </ul>
