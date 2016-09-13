@@ -29,6 +29,16 @@
     </div>
 </header>
 
+<!-- NOTIFICATION -->
+<section class="page-notification">
+  <div class="row">
+    <div class="large-12 columns">
+      <p><strong>Open Evening</strong> - Thursday 22nd September 2016 - Starts 16:30 till 20:30</p>
+    </div>
+  </div>
+</section>
+
+
 <!-- CONTENT -->
 <section>
     <div class="row">
@@ -58,6 +68,7 @@
                     <br>
                 </div>
             </div>
+
             <div class="row">
                 <div class="large-11 columns"><br class="show-for-large-up">
                     <ul class="small-block-grid-2 medium-block-grid-4 text-center">
