@@ -98,11 +98,30 @@
 
             </ul>
             <br>
-            <h4>Option choices offered include</h4>
-            <ul>
-                <li>Art, Catering, Child Development, Computer Science, Dance, Drama, Food Technology, French, Geography, History, IT, Leisure &amp; Tourism, Media Studies, Music, Photography, PE, Psychology, Spanish.</li>
-                <li>Most courses are GCSE.</li>
+            <h4>Option choices offered include<br>
+            <small>Most courses are GCSE.</small></h4>
+
+            <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-4">
+              <li>Art</li>
+              <li>Catering</li>
+              <li>Child Development</li>
+              <li>Computer Science</li>
+              <li>Dance</li>
+              <li>Drama</li>
+              <li>Food Technology</li>
+              <li>French</li>
+              <li>Geography</li>
+              <li>History</li>
+              <li>IT</li>
+              <li>Leisure &amp; Tourism</li>
+              <li>Media Studies</li>
+              <li>Music</li>
+              <li>Photography</li>
+              <li>PE</li>
+              <li>Psychology</li>
+              <li>Spanish</li>
             </ul>
+
             <h4>Year 8 Options</h4>
             <p>At the start of Year 8, students get the chance to target their education through their options. Please take the time to view <a href="/assets/curriculum/yr8-options.pdf" target="_blank">the available year 8 options.</a>.</p>
             <br>
