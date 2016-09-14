@@ -36,48 +36,48 @@
                 <table style="width:100%;">
                   <tr>
                     <th>Disneyland Paris</th>
-                    <th>Payment<br>by</th>
+                    <th>Payment Due</th>
                     <th>Amount</th>
                     <th>Total</th>
                   </tr>
                   <tr>
-                    <td>Non-refundable<br>Deposit</td>
+                    <td>Non-refundable Deposit</td>
                     <td>29/04/16</td>
                     <td>£70.00</td>
                     <td>£210.00</td>
                   </tr>
                   <tr>
-                    <td>First<br>payment</td>
+                    <td>First Payment</td>
                     <td>31/05/16</td>
                     <td>£35.00</td>
                     <td>£175.00</td>
                   </tr>
                   <tr>
-                    <td>Second payment</td>
+                    <td>Second Payment</td>
                     <td>30/06/16</td>
                     <td>£35.00</td>
                     <td>£140.00</td>
                   </tr>
                   <tr>
-                    <td>Third payment</td>
+                    <td>Third Payment</td>
                     <td>20/07/16</td>
                     <td>£35.00</td>
                     <td>£105.00</td>
                   </tr>
                   <tr>
-                    <td>Fourth payment</td>
+                    <td>Fourth Payment</td>
                     <td>07/09/16</td>
                     <td>£35.00</td>
                     <td>£70.00</td>
                   </tr>
                   <tr>
-                    <td>Fifth payment</td>
+                    <td>Fifth Payment</td>
                     <td>03/10/16</td>
                     <td>£35.00</td>
                     <td>£35.00</td>
                   </tr>
                   <tr>
-                    <td>Final payment</td>
+                    <td>Final Payment</td>
                     <td>01/11/16</td>
                     <td>£35.00</td>
                     <td>-</td>
@@ -93,8 +93,39 @@
               <p>February Half Term 2017</p>
               <p>Lead Teacher – Mr Roberson</p>
               <p>Cost - approx. £625-700</p>
-				      <p>Payment schedule to be confirmed</p>
-				      <p><strong>Deadline for NON-REFUNDABLE deposit has now passed</strong></p>
+
+              <table style="width:100%;">
+                <tr>
+                  <th>Disneyland Paris</th>
+                  <th>Payment Due</th>
+                  <th>Amount</th>
+                  <th>Total</th>
+                </tr>
+                <tr>
+                  <td colspan="2"><strong>Deadline for non-refundable deposit has now passed</strong></td>
+                  <td>£150.00</td>
+                  <td>£511.00</td>
+                </tr>
+                <tr>
+                  <td>First Payment</td>
+                  <td>09/09/16</td>
+                  <td>£171.00</td>
+                  <td>£340.00</td>
+                </tr>
+                <tr>
+                  <td>Second Payment</td>
+                  <td>07/10/16</td>
+                  <td>£170.00</td>
+                  <td>£170.00</td>
+                </tr>
+                <tr>
+                  <td>Final Payment</td>
+                  <td>04/11/16</td>
+                  <td>£170.00</td>
+                  <td style="text-align:center;">-</td>
+                </tr>
+              </table>
+
               <hr>
             </li>
 
