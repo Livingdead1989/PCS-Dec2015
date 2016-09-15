@@ -35,7 +35,9 @@
             <p>The purpose of religious education (R.E) in Hampshire, Portsmouth and Southampton is to support students in developing their own coherent patterns of values and principles, and to support their spiritual, moral, social, and cultural development. In Park Community School the name ‘Beliefs and Cultures’ is used to signify our focus on the development of personal patterns of values in the light of contemporary ethical and social issues facing our society and culture, alongside an exploration of the culture and values of others.</p>
 
             <p>The agreed syllabus which provides the legal framework for R.E states that “we have to understand how and why people live differently from each other and respect their right to do so. Living Difference identifies that respecting difference requires us to engage with difference confidently. We need to identify how and why we have different beliefs, attitudes and practices from other people. By doing this, we can gain respect from others. Accepting difference does not imply agreement; nor does it imply that all difference is acceptable. It is important that students make reasoned and informed judgements about difference and that these are based on beliefs and values that they sincerely hold, and that they can express and defend in reasoned debate. Teachers have a responsibility for helping students to develop their beliefs and values, in relation to those values that society prizes. As a result, the agreed syllabus places particular importance upon the spiritual, moral, social and cultural development of students."</p>
-            <cite>Agreed Syllabus, ‘Living Difference’, for Hampshire, Portsmouth and Southampton</cite>
+
+            <p><cite><strong>"Agreed Syllabus, ‘Living Difference’, for Hampshire, Portsmouth and Southampton"</strong></cite></p>
+
             <p>The purpose of Beliefs and Cultures at Park is therefore to promote pupils spiritual, moral, social and cultural development through an awareness and appreciation of diversity and difference of beliefs and values, cultures and societies within the UK and the wider world. As part of this pupils are offered the chance to respond and in so doing develop their own sense of self and place in the local, national and global community.</p>
 
             <h3>Aims</h3>
@@ -46,7 +48,6 @@
                 <li>B.C aims to foster mutual understanding between students of differing religious and cultural backgrounds.</li>
                 <li>B.C aims to promote an awareness of differing understandings of human experience and ways in which religions view the purpose of life.</li>
                 <li>Pupils and students are encouraged to develop their own concepts to interpret their own experiences, and explain the experiences of others in the wider world.</li>
-                <li></li>
             </ul>
 
             <h3>Areas of Study</h3>
