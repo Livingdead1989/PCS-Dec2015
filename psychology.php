@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Psychology</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -49,7 +49,7 @@
                 <li>Develop an understanding of the contribution of psychology to individual, social and cultural diversity.</li>
                 <li>Develop a critical approach to scientific evidence and methods.</li>
             </ul>
-            
+
             <h3>Areas of Study</h3>
 
             <p>Year 9</p>
@@ -78,12 +78,14 @@
             <p><strong>Research Methods</strong> - This unit includes how psychological research is conducted and how to evaluate the results provided.  Students will carry out a piece of psychological research to gain a practical insight into these questions.  They will follow the steps used in carrying out research and will consider the pros and cons of different methods and styles of study.</p>
 
             <p><strong>Revision</strong> - Students will have the chance to reflect on the topics from year 9 and 10 in light of what they have learnt through their research methods unit.  They will look at practical ways of applying this and develop their own study and revision techniques based on their learning.</p>
+
+            <p><em>Note: Year 9 students will be following the new G.C.S.E specification.  Details to be confirmed.</em></p>
             <br>
         </div>
 
     </div>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
