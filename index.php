@@ -33,7 +33,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p><strong>Open Evening</strong> - Thursday 22nd September 2016 - Starts 16:30 till 20:30</p>
+      <p><strong>Open Evening</strong> - Thursday 22nd September 2016 - Starts 18:30 till 20:30</p>
     </div>
   </div>
 </section>
