@@ -34,7 +34,7 @@
                 <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour for Learning</a></li>
                 <li><a href="/assets/policies/charging-and-remissions.pdf" target="_blank">Charging and Remissions</a></li>
                 <li><a href="/assets/policies/child-protection.pdf" target="_blank">Child Protection</a></li>
-                <li><a href="/assets/policies/safeguarding.pdf" target="_blank">Child Protection</a></li>
+                <li><a href="/assets/policies/safeguarding.pdf" target="_blank">Safeguarding</a></li>
                 <li>Complaints</li>
                 <li><a href="/assets/policies/data-protection.pdf" target="_blank">Data Protection</a></li>
                 <li><a href="/assets/policies/dress-code-for-students.pdf" target="_blank">Dress Code for Students</a></li>
