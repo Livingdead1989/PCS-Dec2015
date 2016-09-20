@@ -153,6 +153,24 @@
                             <p>Springwood Park Nursery</p>
                         </a></div>
                 </li>
+                <li>
+                    <div class="menu-box"><a href="/nursery.php">
+                            <img src="images/suite/sontronics.jpg" alt="The Suite - Much More Than Just a School">
+                            <p>The Suite</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="/nursery.php">
+                            <img src="images/scitt/scitt-logo.jpg" alt="The Scolent SCITT - Much More Than Just a School">
+                            <p>The Solent SCITT</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="/nursery.php">
+                            <img src="images/apex/apex-01.jpg" alt="The Apex Centre - Much More Than Just a School">
+                            <p>The Apex Centre</p>
+                        </a></div>
+                </li>
             </ul>
 
             <br>

@@ -122,7 +122,7 @@
           <ul>
             <li>Private Practice Space</li>
             <li>Suitable for 4/5piece band</li>
-            <li>Hirable Drumkit, Guitars and Bass'</li>
+            <li>Hireable Drumkit, Guitars and Bass'</li>
           </ul>
 
         </div>
