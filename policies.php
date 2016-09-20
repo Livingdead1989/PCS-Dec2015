@@ -34,7 +34,6 @@
                 <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour for Learning</a></li>
                 <li><a href="/assets/policies/charging-and-remissions.pdf" target="_blank">Charging and Remissions</a></li>
                 <li><a href="/assets/policies/child-protection.pdf" target="_blank">Child Protection</a></li>
-                <li><a href="/assets/policies/safeguarding.pdf" target="_blank">Safeguarding</a></li>
                 <li>Complaints</li>
                 <li><a href="/assets/policies/data-protection.pdf" target="_blank">Data Protection</a></li>
                 <li><a href="/assets/policies/dress-code-for-students.pdf" target="_blank">Dress Code for Students</a></li>
@@ -43,9 +42,10 @@
                 <li><a href="/assets/policies/Health-and-Safety.pdf" target="_blank">Health and Safety</a></li>
                 <li><a href="/assets/policies/Homework.pdf" target="_blank">Homework</a></li>
                 <li><a href="/assets/policies/medical-statement.pdf" target="_blank">Medical Statement</a></li>
-                <li>Sex Education</li>
-                <li><a href="/assets/policies/send-policy.pdf" target="_blank">SEN Information Report</a></li>
                 <li><a href="/assets/policies/Prevention-of-Radicalisation-and-Extremism - Jan-2016.pdf" target="_blank">Prevention of Radicalisation and Extremism</a></li>
+                <li><a href="/assets/policies/safeguarding.pdf" target="_blank">Safeguarding</a></li>
+                <li><a href="/assets/policies/send-policy.pdf" target="_blank">SEN Information Report</a></li>
+                <li>Sex Education</li>
             </ul>
             <br>
             <h5 class="subheader text-capitalize text-center"><small>Policies are available in downloadable PDF format</small></h5>
