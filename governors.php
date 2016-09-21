@@ -162,7 +162,7 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li>Trustee of Communitas, who deliver youth work in schools.</li>
+                              <li>Executive Trustee of Communitas, supplying youth workers.</li>
                             </ul>
 
 
