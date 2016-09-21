@@ -80,14 +80,14 @@
     </div>
     <div class="row">
         <br>
-        <div class="medium-6 medium-push-6 columns">
+        <div class="medium-7 medium-push-5 columns">
           <h3>Park Radio and News</h3>
           <p>The Studio plays host to the Schools weekly news broadcast.</p>
           <p>Butterfly Broadcast a news show written, filmed and produced by the pupils of Park Community School with the intention of informing and educating their fellow peers.</p>
           <p>The pupil led radio station grants students the opportunity to showcase their interviewing, presenting and research skills. Whilst entertaining the community with the latest tracks in the charts.</p>
 
         </div>
-        <div class="medium-pull-6 medium-offset-0 medium-6 columns"><br class="show-for-medium-up"><img src="images/suite/suite-02.jpg" alt="The Suite - Video and Audio Recording Studio"></div>
+        <div class="medium-pull-7 medium-offset-0 medium-5 columns"><br class="show-for-medium-up"><img src="images/suite/studentRadio.jpg" alt="The Suite - Video and Audio Recording Studio"></div>
     </div>
     <br><br><br>
 </section>
