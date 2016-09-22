@@ -33,7 +33,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p><strong>Open Evening</strong> - Thursday 22nd September 2016 - Starts 18:30 till 20:30</p>
+      <p><strong>Year 7 Settling In and Year 11 Parents Evening</strong> - Thursday 29nd September 2016 - Starts 16:30 till 19:30</p>
     </div>
   </div>
 </section>
@@ -57,10 +57,10 @@
                         <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Headteacher's Welcome</h2>
                           <p class="lead">Mr Christopher Anders</p>
-                          <p>We recently completed the building work and refurbished buildings in science and technology.  Over the last seven years we have planned and then constructed our new school. The fantastic facilities now support students’ learning and enrich their time at school.  Two-thirds of the school has been rebuilt with the remaining third refurbished.</p>
-                          <p>We have a wonderful new theatre, lecture theatre, restaurant and outdoor areas. The Watering Hole restaurant serves the best school meals prepared by our qualified chefs and their catering team, all at affordable prices. Our classrooms include the latest large touch-screen technology. We have invested heavily in computers, laptops, iPads and software to allow students to use a wide range of electronic devices. Our science labs and technology rooms have all been refurbished and house new equipment, including 3D printers and a laser cutter, as well as an industrial catering room.</p>
-                          <p>The school provides an expansive park environment which encourages our young people to discover what they love. We have themed the areas of the school around ‘Parks of the World’, using supersized photos to brighten corridors and show what an exciting world we live in.</p>
-                          <p>I hope that this website gives you some idea of our vision and principles, as well as the facilities, and curriculum that we offer to students.  It also includes details of other activities we undertake, such as teacher training through the Solent SCITT, and printing and enterprise through our industrial unit and construction skills centre.</p>
+                          <p>Welcome to Park Community School.  Our school now provides an expansive park environment.  Through a wide variety of lessons and other opportunities to learn, we encourage our young people to discover what they love. We have themed the areas of the school around ‘Parks of the World’, using supersized photos to brighten corridors and show what an exciting world we live in.  As well as the school site, we have three other facilities to provide a great curriculum and exciting places in which to learn.  Our school focuses on three areas of learning, we describe these as attainment, resilience and autonomy.</p>
+                          <p>Over the last seven years we have planned and then constructed our new school.  Two-thirds of the school has been rebuilt with the remaining third refurbished.  The fantastic buildings now support students’ learning and enrich their time at school.  </p>
+                          <p>We have a wonderful theatre, lecture theatre, restaurant and outdoor areas, including a floodlit STP (synthetic turf pitch). The Watering Hole restaurant serves award-winning school meals, prepared by our chefs and their catering team, all at affordable prices. Our classrooms include the latest large touch-screen technology. We have invested heavily in computers, laptops, iPads and software to allow students to use a comprehensive range of electronic devices. Our science labs and technology rooms have all been refurbished and house new equipment, including 3D printers and a laser cutter, as well as an industrial catering room.</p>
+                          <p>I hope that the information on this website gives you some idea of our vision and principles, as well as the facilities, and curriculum that we offer to students.  It also includes details of other activities we undertake, such as teacher training through the Solent SCITT, and printing and enterprise through our industrial unit and construction skills centre.</p>
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
                         </div>
