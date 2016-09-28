@@ -32,7 +32,7 @@
         <div class="large-12 columns">
         <br>
 
-        <h3>Key stage 3 - Year 7</h3>
+        <h3>Key Stage 3 - Year 7</h3>
         <p>Timeless themes that run through the course of history forms the structure of our Key Stage 3 curriculum; within this, there is a clear chronology that
         allows pupils to develop their sense of time. In Year 7, the first theme studied is ‘ordinary lives’.</p>
         <p>This unit sees the study of:</p>
