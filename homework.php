@@ -126,7 +126,6 @@
           <h3>External Resources</h3>
           <ul class="circle">
             <li><a href="//www.understood.org/en/school-learning/learning-at-home/homework-study-skills/7-tips-for-improving-your-childs-homework-and-study-skills" target="_blank">Top 10 Homework Tips</a></li>
-            <li><a href="//www.helpguide.org/articles/learning-disabilities/helping-children-with-learning-disabilities.htmhttp:/www.helpguide.org/articles/learning-disabilities/helping-children-with-learning-disabilities.htm" target="_blank">7 Tips for Improving Your Child’s Homework and Study Skills</a></li>
             <li><a href="//www.bdadyslexia.org.uk/parent/homework-tips" target="_blank">Helping Children with Learning Disabilities</a></li>
             <li><a href="//www.bdadyslexia.org.uk/parent/homework-tips" target="_blank">British Dyslexia Association</a></li>
             <li><a href="//www.bbc.co.uk/education/levels/z4kw2hv" target="_blank">Keystage 3 Bitesize</a></li>

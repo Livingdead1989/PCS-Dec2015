@@ -366,8 +366,8 @@
 
                         <p>For more information on the AQA science qualifications, please visit the website below:</p>
                         <ul>
-                          <li><a href="www.aqa.org.uk/subjects/science/gcse/science-a-4405" target="_blank">Core</a></li>
-                          <li><a href="www.aqa.org.uk/subjects/science/gcse/additional-science-4408" target="_blank">Additional</a></li>
+                          <li><a href="//www.aqa.org.uk/subjects/science/gcse/science-a-4405" target="_blank">Core</a></li>
+                          <li><a href="//www.aqa.org.uk/subjects/science/gcse/additional-science-4408" target="_blank">Additional</a></li>
                         </ul>
                         <br>
 
