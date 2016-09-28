@@ -40,7 +40,7 @@
                 <li><a href="/assets/statutory/ethos-values.pdf" target="_blank">Ethos and Values</a></li>
             </ul>
             <br>
-            <h5 class="subheader text-capitalize text-center"><small>Policies are available in downloadable PDF format<br>our <a href="/policies.php">Policies page</a></small></h5>
+            <h5 class="subheader text-capitalize text-center"><small>Policies are available in downloadable PDF format <br>our <a href="/policies.php">Policies page</a></small></h5>
         </div>
         <div class="hide-for-small medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-12.jpg" alt="Park Community School - Our Staff are committed to providing the very best for our students"></div>
     </div><br>

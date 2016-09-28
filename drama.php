@@ -69,7 +69,7 @@
             <p><a href="//www.ocr.org.uk/Images/242631-unit-j316-01-02-devising-drama-sample-assessment-material.pdf" target="_blank">Example of the Devising Drama assessment task</a></p>
             <p>Students will also begin exploring their set text, researching characters, relationships, plot narrative the context of the work in preparation for their Performance and Response exam in Year 11. They will finish the year by completing a mock Presenting and Performing text unit, which culminates in a public performance of their work.</p>
             <p>In the final year of the course, students will explore and stage 2 extracts from a published play script, performing initially to an invited audience and then to a visiting examiner. Students are able to select monologues, duologues or group scenes for this examination.</p>
-            <p>The remainder of the year focusses on preparation for the final written examination, in which they must answer questions on their set text and review an aspect of a live, professional performance.</p>
+            <p>The remainder of the year focuses on preparation for the final written examination, in which they must answer questions on their set text and review an aspect of a live, professional performance.</p>
             <p><a href="//www.ocr.org.uk/Images/242648-unit-j316-04-drama-performance-and-response-sample-assessment-material.pdf" target="_blank">Example of the Exam Paper</a></p>
             <p><a href="//www.ocr.org.uk/Images/231466-gcse-9-1-drama-summary-brochure.pdf" target="_blank">Detailed Breakdown of how the Course is Assessed</a></p>
 

@@ -33,7 +33,7 @@
 
             <p>For the past two years Steven has worked in Emsworth, at a local pub, in partnership with the owner to step up the quality. He achieved great success.</p>
 
-            <p>Steven wanted a change and to experience new areas of catering so thought Park would be a great challenge and opportunity. Steven has worked incredibly hard to redefine school meals at Park Community School, and to date is recieving excellent results.</p>
+            <p>Steven wanted a change and to experience new areas of catering so thought Park would be a great challenge and opportunity. Steven has worked incredibly hard to redefine school meals at Park Community School, and to date is receiving excellent results.</p>
 
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
@@ -100,7 +100,7 @@
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
             <h4>Soil Association Food for Life</h4>
-            <p>Park Community School has been awarded the Bronze award which means that our food is ethical, sustainable and fresh, free from nasty additives and transfats and meets school food standards.</p>
+            <p>Park Community School has been awarded the Bronze award which means that our food is ethical, sustainable and fresh, free from nasty additives and trans fats and meets school food standards.</p>
 
             <h5>Bronze Standards include</h5>
               <ul class="circle">

@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Springwood Park Nursery</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -71,14 +71,14 @@
                 <br>
                 <li>Email: <a href="javascript:location='mailto:\u006e\u0075\u0072\u0073\u0065\u0072\u0079\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Springwood Preschool &amp; Nursery</a></li>
                 <br>
-                <li>Website: <a href="//springwoodpreschoolandnursery.co.uk" target="_blank">www.springwoodpreschoolandnursery.co.uk</a></li>
+                <li>Website: <a href="//springwoodpreschoolandnursery.co.uk" target="_blank">www.SpringwoodPreschoolAndNursery.co.uk</a></li>
             </ul>
-            
+
         </div>
         <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/nursery/nursery-04.jpg" alt="Springwood Nursery - Friendly, Professional Staff"></div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 

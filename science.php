@@ -322,14 +322,14 @@
                           </tr>
                           <tr>
                             <td>SCA1FP/HP</td>
-                            <td>B1.1 Keeping Healthy,<br>B1.2 Nerves and Hormones,<br>B1.3 Use and abuse of drugs,<br>C1.1 Fundamental ideas,<br>C1.2<br>Limestone and building materials</td>
-                            <td>C1.3 Metals and their uses<br>C1.4 Crude oil and fuels<br>P1.1 Energy transfers<br>P1.2 Energy and efficiency<br>P1.3 Usefulness of electrical appliances</td>
+                            <td>B1.1 Keeping Healthy, <br>B1.2 Nerves and Hormones, <br>B1.3 Use and abuse of drugs, <br>C1.1 Fundamental ideas, <br>C1.2 <br>Limestone and building materials</td>
+                            <td>C1.3 Metals and their uses <br>C1.4 Crude oil and fuels <br>P1.1 Energy transfers <br>P1.2 Energy and efficiency <br>P1.3 Usefulness of electrical appliances</td>
                             <td style="text-align:right;">35</td>
                           </tr>
                           <tr>
                             <td>SCA2FP/HP</td>
-                            <td>B1.4 Independence and adaptations,<br>B1.5 Energy and biomass,<br>B1.7 Genetic variation and its<br>control,<br>B1.8 Evolution,<br>C1.5<br>Useful substances from crude oil</td>
-                            <td>C1.6 Plant oil and their uses<br>C1.7 Change in Earth’s atmosphere<br>P1.4 Methods used to generate electricity<br>P1.5 Uses of waves for communication</td>
+                            <td>B1.4 Independence and adaptations, <br>B1.5 Energy and biomass, <br>B1.7 Genetic variation and its <br>control, <br>B1.8 Evolution, <br>C1.5 <br>Useful substances from crude oil</td>
+                            <td>C1.6 Plant oil and their uses <br>C1.7 Change in Earth’s atmosphere <br>P1.4 Methods used to generate electricity <br>P1.5 Uses of waves for communication</td>
                             <td style="text-align:right;">40</td>
                           </tr>
                           <tr>
@@ -348,14 +348,14 @@
                           </tr>
                           <tr>
                             <td>AS1FP/HP</td>
-                            <td>B2.1 – Cells and simple transport<br>B2.2 – Tissues, organs and organ systems<br>B2.3 – Photosynthesis<br>B2.4 – Organisms and their environment<br>C2.1 – Structure ad bonding</td>
-                            <td>C2.2 – How structure influences properties and uses<br>C2.3 – Atomic structure, analysis and quantitative chemistry<br>P2.1 – Forces and their effects<br>P2.2 – The kinetic energy of objects<br>P2.3 – Currents in electrical circuits</td>
+                            <td>B2.1 – Cells and simple transport <br>B2.2 – Tissues, organs and organ systems <br>B2.3 – Photosynthesis <br>B2.4 – Organisms and their environment <br>C2.1 – Structure ad bonding</td>
+                            <td>C2.2 – How structure influences properties and uses <br>C2.3 – Atomic structure, analysis and quantitative chemistry <br>P2.1 – Forces and their effects <br>P2.2 – The kinetic energy of objects <br>P2.3 – Currents in electrical circuits</td>
                             <td style="text-align:right;">35</td>
                           </tr>
                           <tr>
                             <td>AS2FP/HP</td>
-                            <td>B2.5 – Proteins<br>B2.6 – Respiration<br>B2.7 – Cell division and inheritance<br>B2.8 – Speciation<br>C2.4 – Rates of reaction<br>C2.5 – Exothermic and endothermic</td>
-                            <td>C2.6 – Acids, bases and salts<br>C2.7 – Electrolysis<br>P2.4 – Using mains electricity safely and the power of electrical appliances<br>P2.5 – What happens when radioactive substances decay, and uses and dangers of their emissions<br>P2.6 – Nuclear fusion and nuclear fission</td>
+                            <td>B2.5 – Proteins <br>B2.6 – Respiration <br>B2.7 – Cell division and inheritance <br>B2.8 – Speciation <br>C2.4 – Rates of reaction <br>C2.5 – Exothermic and endothermic</td>
+                            <td>C2.6 – Acids, bases and salts <br>C2.7 – Electrolysis <br>P2.4 – Using mains electricity safely and the power of electrical appliances <br>P2.5 – What happens when radioactive substances decay, and uses and dangers of their emissions <br>P2.6 – Nuclear fusion and nuclear fission</td>
                             <td style="text-align:right;">40</td>
                           </tr>
                           <tr>
@@ -380,17 +380,17 @@
                             <th style="text-align:center;">Percentage (%)</th>
                           </tr>
                           <tr>
-                            <td>BH1HP,<br>BH2HP,<br>BH3HP,<br>BH4P</td>
-                            <td>B3.1 Movement of molecules in and<br>out of cells,<br>B3.2 Transport systems in plants<br>and animals,<br>B3.3 Homeostasis,<br>B3.4<br>Humans and their environment</td>
-                            <td rowspan="3" style="text-align:center;">Each exam<br>is worth 25%<br>for each GCSE.</td>
+                            <td>BH1HP, <br>BH2HP, <br>BH3HP, <br>BH4P</td>
+                            <td>B3.1 Movement of molecules in and <br>out of cells, <br>B3.2 Transport systems in plants <br>and animals, <br>B3.3 Homeostasis, <br>B3.4 <br>Humans and their environment</td>
+                            <td rowspan="3" style="text-align:center;">Each exam <br>is worth 25% <br>for each GCSE.</td>
                           </tr>
                           <tr>
-                            <td>CH1HP,<br>CH2HP,<br>CH3HP,<br>CH4P</td>
-                            <td>C3.1 The periodic table,<br>C3.2 Water,<br>C3.3 Calculating and explaining energy change,<br>C2.4 Further analysis and quantitative chemistry,<br>C2.5 The production of ammonia,<br>C2.6 Alcohols, carboxylic acids and esters</td>
+                            <td>CH1HP, <br>CH2HP, <br>CH3HP, <br>CH4P</td>
+                            <td>C3.1 The periodic table, <br>C3.2 Water, <br>C3.3 Calculating and explaining energy change, <br>C2.4 Further analysis and quantitative chemistry, <br>C2.5 The production of ammonia, <br>C2.6 Alcohols, carboxylic acids and esters</td>
                           </tr>
                           <tr>
-                            <td>PH1HP,<br>PH2HP,<br>PH3HP,<br>PH4P</td>
-                            <td>P3.1 Medical applications pf physics,<br>P3.2 Using physics to make things work,<br>P3.3 Keeping things moving</td>
+                            <td>PH1HP, <br>PH2HP, <br>PH3HP, <br>PH4P</td>
+                            <td>P3.1 Medical applications pf physics, <br>P3.2 Using physics to make things work, <br>P3.3 Keeping things moving</td>
                           </tr>
                         </table>
 

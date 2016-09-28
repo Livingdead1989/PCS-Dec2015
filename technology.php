@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Technology</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -36,7 +36,7 @@
 
             <h3>Aims</h3>
             <p>All pupils will develop their creative, technical and practical skills to be able to partake in using new technologies successfully. Students will need to develop their knowledge and understanding of the subject so that they are able to design high-quality products and prototypes for a variety of end users. Most importantly students will learn to have a critical eye when looking at a product to analyse their strengths, weaknesses and suggest possible improvements, as well as evaluate the success of their work.</p>
-            
+
             <h3>Areas of Study</h3>
             <p>Students will learn why conducting extensive research from a range of cultures and being able to understand a variety of needs is important when designing.</p>
             <p>Being able to produce a design brief and understanding how this is used in industry will enable students to keep their design focused and relevant.</p>
@@ -45,7 +45,7 @@
             <p>A range of materials will be considered and will enable students to be critical but selective with their decision-making process to create a final outcome.</p>
             <p>Analysis of past and present designs will assist the students in understanding the limitations and possibilities that designing and creating can present.</p>
             <p>Testing and learning about new technologies are important parts of learning as this will enable students to show that they are becoming thoughtful designers. They will use their knowledge and responsibility as an environmentally considerate designer to create a sustainable product.</p>
-            <p>Whilst developing their skills as designers students will need to be able to describe why a good technical understanding will help them create a more effective outcome. Individuals will be responsibile for learning about the changes in circuitry and how programmable components can be tailored to suit different individual needs.</p>
+            <p>Whilst developing their skills as designers students will need to be able to describe why a good technical understanding will help them create a more effective outcome. Individuals will be responsible for learning about the changes in circuitry and how programmable components can be tailored to suit different individual needs.</p>
 
             <ul class="accordion" data-accordion role="tablist">
 
@@ -198,14 +198,14 @@
                             <li>Research into types of finish.</li>
                             <li>Planning for manufacture.</li>
                         </ul>
-                    </div>            
+                    </div>
                 </li>
 
                 <li class="accordion-navigation">
                     <a href="#panel7d" role="tab" id="panel7d-heading" aria-controls="panel7d">Year 11 - Catering</a>
                     <div id="panel7d" class="content" role="tabpanel" aria-labelledby="panel7d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
-                        
+
                             <ul class="circle">
                                 <br>
                                 <li>Students will follow a course to further their skills in all aspects of catering. They will develop a better understanding of Hygiene and Safety when working in an industrial kitchen dealing with the public.</li>
@@ -261,19 +261,19 @@
                             <li>Research into types of finish.</li>
                             <li>Planning for manufacture.</li>
                         </ul>
-                    </div>            
+                    </div>
                 </li>
 
-                
 
-                
+
+
             </ul>
             <br>
         </div>
 
     </div>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 

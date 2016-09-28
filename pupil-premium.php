@@ -195,7 +195,7 @@
             <br>
             <p><strong>If you believe your son/daughter is entitled to Free School Meals or you are uncertain as to whether they qualify for Free School Meals, Reception staff are happy to talk to you.</strong></p>
             <p><strong>If you would like some advice and/or support on completing the Free School Meal application form, please come into Reception at any time to talk to staff, who are happy to help.</strong></p>
-            <p><strong>You can also find further information on eligibility and how to apply by visting our <a href="/catering.php">Catering</a> page.</strong></p>
+            <p><strong>You can also find further information on eligibility and how to apply by visiting our <a href="/catering.php">Catering</a> page.</strong></p>
 
             <p><a href="/assets/important-information-pp-fsm.pdf" target="_blank">Important Information Regarding Pupil Premium and Free School Meals</a></p>
             <p><a href="/assets/qa-pp-adopted-children.pdf" target="_blank">Adopted Children Questions and Answers</a></p>
@@ -216,7 +216,7 @@
                 <li>This is used to provide additional support for reading for 47 year 7 students.</li>
             </ul>
             <ul class="circle">£40,500 Summer School Funding
-                <li>126 year 6-7 students benefitted from our Summer School in August 2014.  Of these students, 71 were in receipt of Pupil premium funding and of these 43 attended every day.</li>
+                <li>126 year 6-7 students benefited from our Summer School in August 2014.  Of these students, 71 were in receipt of Pupil premium funding and of these 43 attended every day.</li>
             </ul>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-03.jpg" alt="Park Community School - Supportive Teachers boost student's learning"></div>

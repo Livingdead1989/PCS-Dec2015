@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Contact Information</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -55,7 +55,7 @@
                     <hr>
                     <li><a href="javascript:location='mailto:\u0061\u0064\u006d\u0069\u0073\u0073\u0069\u006f\u006e\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Admissions</a><br><h5 class="subheader"><small>Questions about applying for a place at Park</small></h5></li>
                     <hr>
-                    <li><a href="javascript:location='mailto:\u0062\u006f\u006f\u006b\u0069\u006e\u0067\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Bookings</a><br><h5 class="subheader"><small>Queries about our commmunity services</small></h5></li>
+                    <li><a href="javascript:location='mailto:\u0062\u006f\u006f\u006b\u0069\u006e\u0067\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Bookings</a><br><h5 class="subheader"><small>Queries about our community services</small></h5></li>
                 </ul>
             </div>
         </div>
@@ -84,7 +84,7 @@
     </div>
     <br><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 

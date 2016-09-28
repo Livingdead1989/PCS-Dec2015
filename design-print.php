@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Design and Print</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -41,7 +41,7 @@
     </div>
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
-            
+
             <p>Organisations outside education have embraced the ideology of PDP and we now receive work from them. PDP is based away from the school site in an industrial unit in Leigh Park.</p>
 
             <p>The unit allows PDP to develop, design, create, and offer our services to both internal and external customers. We produce printed mugs, canvas prints, badges, T-shirts, diaries and calendars all at affordable prices and on a scale which allows many to commission our services.</p>
@@ -63,8 +63,8 @@
                     <li>Monday - Friday: 9am - 4:30pm</li>
                     <li>Saturday: Closed</li>
                     <li>Sunday: Closed</li>
-                </ul>            
-                <p><small>* Closed Bank Holidays, any quieries please contact for information.</small></p>
+                </ul>
+                <p><small>* Closed Bank Holidays, any queries please contact for information.</small></p>
             <h4>Address</h4>
             <hr>
             <ul class="no-bullet">
@@ -81,12 +81,12 @@
                 <br>
                 <li>Email: <a href="javascript:location='mailto:\u0070\u0064\u0070\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Park Design and Print</a></li>
             </ul>
-            
+
         </div>
         <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/unit/unit-04.jpg" alt="Park Community School, Design and Print - Offering students real life expierences"></div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 

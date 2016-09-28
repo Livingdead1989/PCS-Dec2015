@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | SCITT</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -28,7 +28,7 @@
             <p>Park Community School is committed to training the next generation of outstanding teachers.</p>
             <p>We have a long history of training teachers and work with other partnership providers for subjects we do not run for The Solent SCITT.</p>
             <p>As a SCITT, we are also a school which is able to train teachers and award Qualified Teacher Status (QTS) and we offer places through our core provision routes.</p>
-                
+
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><br><img style="width:400px; height:200px;" src="images/scitt/scitt.svg" alt="The Solent School Centred Initial Teacher Training (SCITT)"></div>
     </div><br>
@@ -46,7 +46,7 @@
 
             <blockquote>"My mentor has been brilliant and was very helpful and available whenever needed. The PT programme has been very wide-ranging and useful."
             <cite>Science Trainee</cite></blockquote>
-            
+
         </div>
         <div class="medium-6 columns">
             <blockquote>"I have been supported and guided to a high level, with helpful advice. My mentor has provided me with a secure and enriched experience."
@@ -72,14 +72,14 @@
 
             <p>Read through the process and top tips for applying on the <a href="//www.education.gov.uk/get-into-teaching/teacher-training-options/school-based-training/school-direct/applying.aspx" target="_blank">Department of Education</a> website which also has a direct link to the applications page.</p>
 
-            <p>For more information please visit <a href="//thesolentscitt.co.uk" target="_blank">www.thesolentscitt.co.uk</a>.</p>
+            <p>For more information please visit <a href="//thesolentscitt.co.uk" target="_blank">www.TheSolentSCITT.co.uk</a>.</p>
 
 
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/scitt/scitt-01.jpg" alt="Excellent Teacher Training offered by The Solent SCITT"></div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
