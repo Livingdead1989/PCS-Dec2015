@@ -28,6 +28,10 @@
             <ul class="small-block-grid-1 medium-block-grid-2">
               <li>
                   <ul class="circle">September 2016<hr>
+                      <li><a href="/assets/letters/september-2016/Year-11-parents-key-information.pdf" target="_blank">Year 11 Parents Key Information</a></li>
+                      <li><a href="/assets/letters/september-2016/Year-11-students-key information.pdf" target="_blank">Year 11 Students Key Information</a></li>
+                      <li><a href="/assets/letters/september-2016/Y10-English-Literature exam.pdf" target="_blank">Year 10 English Literature Exam</a></li>
+                      <li><a href="/assets/letters/september-2016/Year-10-attendance-and-P6-sessions.pdf" target="_blank">BYear 10 Attendance and P6 Sessions</a></li>
                       <li><a href="/assets/letters/september-2016/Behaviour-System.pdf" target="_blank">Behaviour System</a></li>
                       <li><a href="/assets/letters/september-2016/Results.pdf" target="_blank">Results</a></li>
                   </ul>
