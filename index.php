@@ -30,13 +30,12 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p><strong>Year 7 Settling In and Year 11 Parents Evening</strong> - Thursday 29nd September 2016 - Starts 16:30 till 19:30</p>
     </div>
   </div>
-</section>
+</section> -->
 
 
 <!-- CONTENT -->
