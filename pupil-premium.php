@@ -149,14 +149,9 @@
     </div>
     <div class="row">
       <div class="medium-8 columns">
-        <h4>Catch-up Funding for Year 7</h4>
-        <h5>2014 - 2015 we received</h5>
-        <ul class="circle">£17,500 Year 7 Catch Up Funding
-            <li>This is used to provide additional support for reading for 47 year 7 students.</li>
-        </ul>
-        <ul class="circle">£40,500 Summer School Funding
-            <li>126 year 6-7 students benefited from our Summer School in August 2014.  Of these students, 71 were in receipt of Pupil premium funding and of these 43 attended every day.</li>
-        </ul>
+        <h4>Catch-up Funding for Year 7 2015-2016</h4>
+        <p>We received £20,500 catch up funding (in 2014-2015 it was £17,500).</p>
+        <p>We are not expecting to receive any funding in 2016/2017.</p>
       </div>
       <div class="small-10 small-centered medium-uncentered medium-pull-0 medium-offset-0 medium-4 columns">
         <br><img src="images/general/general-02.jpg" alt="Park Community School - Students studying hard in the classroom"></div>
@@ -174,7 +169,6 @@
         <p>If you would like some advice and/or support on completing the Free School Meal application form, please come into Reception at any time to talk to staff, who are happy to help.</p>
         <p>You can also find further information on eligibility and how to apply by visiting our <a href="/catering.php">Catering</a> page.</p>
 
-        <p><a href="/assets/important-information-pp-fsm.pdf" target="_blank">Important Information Regarding Pupil Premium and Free School Meals</a></p>
         <p><a href="/assets/qa-pp-adopted-children.pdf" target="_blank">Adopted Children Questions and Answers</a></p>
       </div>
       <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-09.jpg" alt="Park Community School - Students enjoy the freedom to read real books"></div>
