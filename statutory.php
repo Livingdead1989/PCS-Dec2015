@@ -35,7 +35,8 @@
                 <li><a href="/curriculum.php">Curriculum</a></li>
                 <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour Policy</a></li>
                 <li><a href="/pupil-premium.php">Pupil Premium</a></li>
-                <li><a href="/assets/policies/send-policy.pdf" target="_blank">SEN Information Report</a></li>
+                <li><a href="/assets/statutory/SEND-Information-Report.pdf" target="_blank">SEND Information Report</a></li>
+                <li><a href="/assets/statutory/send-policy.pdf" target="_blank">SEND Policy Report</a></li>
                 <li><a href="/assets/policies/charging-and-remissions.pdf" target="_blank">Charging and Remissions</a></li>
                 <li><a href="/assets/statutory/ethos-values.pdf" target="_blank">Ethos and Values</a></li>
                 <li><a href="/assets/statutory/Complaints_Procedure.pdf" target="_blank">Complaints Procedure</a></li>

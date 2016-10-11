@@ -37,11 +37,9 @@
                     <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Year 7</a>
                     <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
                         <ul>
-                            <li>STAR which includes: English, French, Spanish, Geography, History and RE.</li>
-                            <li>STEM which includes Maths, Science and Technology.</li>
-                            <li>Other National Curriculum lessons in: Art, Dance, Drama, Music, PE.</li>
-                            <li>Mentoring and Personal Development at points through the week and year.</li>
-                        </ul>
+                            <li>Year 7 students study a broad and balanced curriculum.</li>
+                            <li>Subjects studied are English, maths, science, history, geography, RE (Beliefs and Cultures), Spanish, technology, art, music, dance, drama and PE.</li>
+                            </ul>
                     </div>
                 </li>
 
