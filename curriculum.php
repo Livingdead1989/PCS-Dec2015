@@ -37,9 +37,13 @@
                     <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Year 7</a>
                     <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
                         <ul>
-                            <li>Year 7 students study a broad and balanced curriculum.</li>
-                            <li>Subjects studied are English, maths, science, history, geography, RE (Beliefs and Cultures), Spanish, technology, art, music, dance, drama and PE.</li>
-                            </ul>
+                            <li>Core Subjects: English, Maths and Science</li>
+                            <li>Cultural: Geography, History, RE, Spanish</li>
+                            <li>The Arts: Art, Dance, Drama, Music</li>
+                            <li>Design and Technology: Food and Design Technology</li>
+                            <li>IT opportunities are built in across our curriculum</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
+                        </ul>
                     </div>
                 </li>
 
@@ -47,9 +51,12 @@
                     <a href="#panel2d" role="tab" id="panel2d-heading" aria-controls="panel2d">Year 8</a>
                     <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
                         <ul>
-                            <li>Discrete core subject lessons in: English, Maths and Science.</li>
-                            <li>Other National Curriculum lessons in: Art, Dance, Drama, French, Spanish, Geography, History, Music, PE, RE and Technology.</li>
-                            <li>Mentoring and Personal Development at points through the week and year.</li>
+                            <li>Core Subjects: English, Maths and Science</li>
+                            <li>Cultural: Geography, History, RE, Spanish, French</li>
+                            <li>The Arts: Art, Dance, Drama, Music</li>
+                            <li>Design and Technology: Food and Design Technology</li>
+                            <li>IT opportunities are built in across our curriculum</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
                         </ul>
                     </div>
                 </li>
@@ -58,12 +65,11 @@
                     <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Year 9</a>
                     <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
                         <ul>
-                            <li>GCSE subject lessons in: English Language and English Literature and Maths.</li>
-                            <li>BTEC or GCSE Science or Biology, Chemistry and Physics.</li>
-                            <li>Core PE and RE.</li>
-                            <li>One Option Choice (1st year of 2 year course).</li>
-                            <li>Three Options Choices (1st year of 3 year course).</li>
-                            <li>Mentoring and Personal Development at points through the week and year.</li>
+                            <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
+                            <li>GCSE Science and Additional Science or Physics, Biology and Chemistry</li>
+                            <li>3 option courses</li>
+                            <li>Core PE and RE</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
                         </ul>
                     </div>
                 </li>
@@ -72,11 +78,12 @@
                     <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 10</a>
                     <div id="panel4d" class="content" role="tabpanel" aria-labelledby="panel4d-heading">
                         <ul>
-                            <li>GCSE Subject lessons: English Language and English Literature, Maths.</li>
-                            <li>BTEC or GCSE Science or Biology, Chemistry and Physics.</li>
-                            <li>Core PE and RE.</li>
-                            <li>Three Options Choices (2nd year of 3 year courses).</li>
-                            <li>Mentoring and Personal Development at points through the week and year.</li>
+                            <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
+                            <li>GCSE Science and Additional Science or Physics, Biology and Chemistry</li>
+                            <li>2 or 3 option courses</li>
+                            <li>Core PE and RE</li>
+                            <li>ECDL (European Computer Driving License): An IT based qualification</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
                         </ul>
                     </div>
                 </li>
@@ -85,11 +92,12 @@
                     <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 11</a>
                     <div id="panel5d" class="content" role="tabpanel" aria-labelledby="panel5d-heading">
                         <ul>
-                            <li>GCSE Subject lessons in English or English Language and English Literature, Maths.</li>
-                            <li>BTEC or GCSE Science or Biology, Chemistry and Physics.</li>
-                            <li>Core PE and RE.</li>
-                            <li>Two or Three Options courses and additional English, Maths or Science lessons.</li>
-                            <li>Mentoring and Personal Development at points through the week and year.</li>
+                            <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
+                            <li>GCSE Science and Additional Science or Physics, Biology and Chemistry</li>
+                            <li>2 or 3 option courses</li>
+                            <li>Core PE and RE</li>
+                            <li>ECDL (European Computer Driving License): An IT qualification</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
                         </ul>
                     </div>
                 </li>
@@ -100,24 +108,24 @@
             <small>Most courses are GCSE.</small></h4>
 
             <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-4">
-              <li>Art</li>
-              <li>Catering</li>
-              <li>Child Development</li>
-              <li>Computer Science</li>
-              <li>Dance</li>
-              <li>Drama</li>
-              <li>Food Technology</li>
-              <li>French</li>
-              <li>Geography</li>
-              <li>History</li>
-              <li>IT</li>
-              <li>Leisure &amp; Tourism</li>
-              <li>Media Studies</li>
-              <li>Music</li>
-              <li>Photography</li>
-              <li>PE</li>
-              <li>Psychology</li>
-              <li>Spanish</li>
+                <li>Art</li>
+                <li>Computer Science</li>
+                <li>Dance</li>
+                <li>Drama</li>
+                <li>Graphics</li>
+                <li>Horticulture</li>
+                <li>Food</li>
+                <li>French</li>
+                <li>Geography</li>
+                <li>History</li>
+                <li>IT</li>
+                <li>Media Studies</li>
+                <li>Music</li>
+                <li>Photography</li>
+                <li>PE</li>
+                <li>Psychology</li>
+                <li>Resistant Materials</li>
+                <li>Spanish</li>
             </ul>
 
             <h4>Year 8 Options</h4>
