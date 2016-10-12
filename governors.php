@@ -319,7 +319,7 @@
 
         <div class="medium-6 columns">
             <h4>The Governor's Report</h4>
-            <p>Below you can find a link to the current Governor's report<br><small>2016 Report Due October 2016</small></p>
+            <p>Below you can find a link to the current Governor's report</p>
             <a href="/assets/governors/governors-report.pdf" target="_blank" class="button radius success">Governor's Report</a>
 
 
