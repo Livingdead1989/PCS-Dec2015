@@ -66,7 +66,7 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li>Director of Park Community Enterprises Ltd</li>
+                              <li>Director of <a href="/park-enterprises.php" target="_blank">Park Community Enterprises Ltd</a></li>
                             </ul>
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -162,7 +162,7 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li>Executive Trustee of Communitas, supplying youth workers.</li>
+                              <li>Executive Trustee of <a href="//www.communitas-youth.com/" target="_blank">Communitas</a>, supplying youth workers.</li>
                             </ul>
 
 
@@ -210,7 +210,7 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li>Director Park Community Enterprises Ltd</li>
+                              <li>Director <a href="/park-enterprises.php" target="_blank">Park Community Enterprises Ltd</a></li>
                               <li>Trustee of EBP South</li>
                               <li>Trustee Shekinah Trust.</li>
                             </ul>
@@ -223,7 +223,7 @@
 
             <div class="medium-4 columns text-center  team-member-container end">
                 <a href="#" data-reveal-id="Governor-11">
-                  <img src="images/governors/person.jpg" alt="Placeholder Image" class="team-member">
+                  <img src="images/governors/j-hughes.jpg" alt="Placeholder Image" class="team-member">
                 <p>Ms J Hughes</p>
                 Governor Details</a>
                         <div id="Governor-11" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
@@ -238,9 +238,7 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li></li>
-                              <li></li>
-                              <li></li>
+                              <li>NIL</li>
                             </ul>
 
 
@@ -251,7 +249,7 @@
 
             <div class="medium-4 columns text-center  team-member-container end">
                 <a href="#" data-reveal-id="Governor-12">
-                  <img src="images/governors/person.jpg" alt="Placeholder Image" class="team-member">
+                  <img src="images/governors/c-larkin.jpg" alt="Placeholder Image" class="team-member">
                 <p>Mr C Larkin</p>
                 Governor Details</a>
                         <div id="Governor-12" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
@@ -279,7 +277,7 @@
 
             <div class="medium-4 columns text-center  team-member-container end">
                 <a href="#" data-reveal-id="Governor-13">
-                  <img src="images/governors/person.jpg" alt="Placeholder Image" class="team-member">
+                  <img src="images/governors/r-cousins.jpg" alt="Placeholder Image" class="team-member">
                 <p>Mr R Cousins</p>
                 Governor Details</a>
                         <div id="Governor-13" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
@@ -294,9 +292,7 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li></li>
-                              <li></li>
-                              <li></li>
+                              <li>Governor of <a href="//www.trosnantschools.co.uk" target="_blank">Trosnant School</a></li>
                             </ul>
 
 
