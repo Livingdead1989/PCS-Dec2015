@@ -320,7 +320,7 @@
         <div class="medium-6 columns">
             <h4>The Governor's Report</h4>
             <p>Below you can find a link to the current Governor's report<br><small>2016 Report Due October 2016</small></p>
-            <a href="/assets/governors-report.pdf" target="_blank" class="button radius success">Governor's Report</a>
+            <a href="/assets/governors/governors-report.pdf" target="_blank" class="button radius success">Governor's Report</a>
 
 
             <h4>Meeting Attendance</h4>
