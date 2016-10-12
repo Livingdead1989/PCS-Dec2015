@@ -151,7 +151,7 @@
       <div class="medium-8 columns">
         <h4>Catch-up Funding for Year 7 2015-2016</h4>
         <p>We received £20,500 catch up funding (in 2014-2015 it was £17,500).</p>
-        <p>We are not expecting to receive any funding in 2016/2017.</p>
+        <p>Funding of £500 per eligible pupil is expected to be received in 2016/2017.</p>
       </div>
       <div class="small-10 small-centered medium-uncentered medium-pull-0 medium-offset-0 medium-4 columns">
         <br><img src="images/general/general-02.jpg" alt="Park Community School - Students studying hard in the classroom"></div>
