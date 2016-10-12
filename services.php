@@ -36,7 +36,7 @@
               <li class="bullet-item">Email &amp; OneDrive</li>
               <li class="bullet-item">Office Applications</li>
               <li class="bullet-item">SharePoint</li>
-              <li class="cta-button"><a class="button radius" href="//login.microsoftonline.com/login.srf" target="_blank">Open</a></li>
+              <li class="cta-button"><a class="button radius" href="//login.microsoftonline.com" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>

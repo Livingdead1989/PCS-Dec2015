@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Park Archive</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -34,10 +34,11 @@
         <div class="medium-12 columns">
             <h3>Park Post</h3>
             <p>Previous editions</p>
-            
+
             <ul class="small-only-text-center small-block-grid-2 medium-block-grid-4 large-block-grid-6">
-                <li><a href="assets/news/parkPost/Issue05-Apr2016.pdf" target="_blank">Issue 05 - 2016</a></li>
-                <li><a href="assets/news/parkPost/Issue04-Apr2016.pdf" target="_blank">Issue 04 - 2016</a></li>
+                <li><a href="assets/news/parkPost/Issue06-Jul2016.pdf" target="_blank">Issue 06 - 2016</a></li>
+                <li><a href="assets/news/parkPost/Issue05-Jun2016.pdf" target="_blank">Issue 05 - 2016</a></li>
+                <li><a href="assets/news/parkPost/Issue04-May2016.pdf" target="_blank">Issue 04 - 2016</a></li>
                 <li><a href="assets/news/parkPost/Issue03-Apr2016.pdf" target="_blank">Issue 03 - 2016</a></li>
                 <li><a href="assets/news/parkPost/Issue02-Dec2015.pdf" target="_blank">Issue 02 - 2015</a></li>
                 <li><a href="assets/news/parkPost/Issue01-Oct2015.pdf" target="_blank">Issue 01 - 2015</a></li>
@@ -57,13 +58,14 @@
             <p>Previous editions</p>
 
             <ul class="small-only-text-center small-block-grid-2 medium-block-grid-4 large-block-grid-6">
-                <li><a href="assets/news/primaryLink/Issue2 - Spring 2016.pdf" target="_blank">Issue 02 - 2016</a></li>
-                <li><a href="assets/news/primaryLink/Issue1 - Autumn 2015.pdf" target="_blank">Issue 01 - 2015</a></li>
+                <li><a href="assets/news/primaryLink/Issue3-Summer2016.pdf" target="_blank">Issue 03 - Summer 2016</a></li>
+                <li><a href="assets/news/primaryLink/Issue2-Spring2016.pdf" target="_blank">Issue 02 - Spring 2016</a></li>
+                <li><a href="assets/news/primaryLink/Issue1-Autumn2015.pdf" target="_blank">Issue 01 - Autumn 2015</a></li>
             </ul>
         </div>
     </div><br>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
