@@ -90,9 +90,9 @@
 
 			      <li>
               <h3>New York</h3>
-              <p>February Half Term 2017</p>
+              <p>Friday 17 February – Tuesday 21 February 2017</p>
               <p>Lead Teacher – Mr Roberson</p>
-              <p>Cost - approx. £625-700</p>
+              <p>Cost - £661.00</p>
 
               <table style="width:100%;">
                 <tr>
