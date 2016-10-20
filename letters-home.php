@@ -60,12 +60,12 @@
               </li>
               <li>
                   <ul class="circle">February 2016<hr>
-                      <li><a href="/assets/letters/february-2016/MyEdApp-DressCode-Keydates.pdf" target="_blank">My Ed App, Dress code &amp; Keydates</a></li>
+                      <li><a href="/assets/letters/february-2016/MyEdApp-DressCode-Keydates.pdf" target="_blank">My Ed App, Dress code &amp; Key dates</a></li>
                   </ul>
               </li>
 
             </ul>
-            <h5 class="subheader text-capitalize text-center"><small>Can't see what your looking for please ask at <a href="/contact.php">the school reception</a>.</small></h5>
+            <h5 class="subheader text-capitalize text-center"><small>Can't see what you're looking for please ask at <a href="/contact.php">the school reception</a>.</small></h5>
         </div>
     </div><br>
 </section>

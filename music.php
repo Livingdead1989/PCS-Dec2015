@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | Music</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -36,11 +36,11 @@
 
             <h3>Aims</h3>
             <p>Our aim is to provide a challenging and rewarding course that is taught in mixed ability groups throughout Years 7 and 8, and is optional in upper school. We follow an essentially practical experience for students that develop performing, listening and composing across a range of musical periods. Students are encouraged to sing, compose on their own and with others, and learn a musical instrument. During the process students will understand and explore how music is created and communicated and express their opinions using musical vocabulary. As a creative subject it helps to achieve a balance in the curriculum.</p>
-            
-            <h3>Areas of Study</h3>
-            <p>The Key Stage 3 curriculum at Park is broad and enables students to build up a good repertoire of songs and improve their vocal skills, learn basic keyboard skills and progress to playing two hands together. In Year 7 and 8, projects last between 5 to 7 weeks, and include performing, composing, and listening activities. Pupils the opportunity to work individually, in pairs, and in larger groups. They are encouraged to evaluate and improve their ideas, as well as discuss the work of their peers in a positive, supportive atmosphere. Students will have the opportunity to experience a range of instruments, learning about a wide variety of topics including world music, popular music as well as the fundamentals of western music. Examples of units of work include Keyboard skills, Ukulele Skills and the X Factor.</p>
 
-            <p>We set homework at KS3 which is a research-based assignment and, as work is largely practical, we ask pupils to practice anything they are currently working on in lessons. Many students use the music facilities before and after school and all are welcome.</p>
+            <h3>Areas of Study</h3>
+            <p>The Key Stage 3 curriculum at Park is broad and enables students to build up a good repertoire of songs and improve their vocal skills, learn basic keyboard skills and progress to playing two hands together. In Year 7 and 8, projects last between 5 to 7 weeks, and include performing, composing, and listening activities. Pupils have the opportunity to work individually, in pairs, and in larger groups. They are encouraged to evaluate and improve their ideas, as well as discuss the work of their peers in a positive, supportive atmosphere. Students will have the opportunity to experience a range of instruments, learning about a wide variety of topics including world music, popular music as well as the fundamentals of western music. Examples of units of work include Keyboard skills, Ukulele Skills and the X Factor.</p>
+
+            <p>We set homework at KS3 which is a research-based assignment and, as work is largely practical, we ask pupils to practise anything they are currently working on in lessons. Many students use the music facilities before and after school and all are welcome.</p>
 
             <p>KS4 music is a natural progression for any student who has enjoyed music in Year 7 and 8 and develops the skills and experiences gained at KS3. We offer BTEC Performing and GCSE Music that are aimed to develop students’ understanding and appreciation of a wide range of musical styles from Classical/Baroque, Blues/Pop, Film Music, and Bangra. This focuses on the development of skills in Performing, Composing and Listening. We follow the AQA GCSE specification where 50% is performance based, so the course is highly weighted towards practical skills.</p>
 
@@ -126,7 +126,7 @@
 
     </div>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 

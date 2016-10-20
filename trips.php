@@ -131,7 +131,7 @@
 
         </ul>
 
-        <p>Payments can now be made Online via <a href="//www.scopay.com/pcs" target="_blank">SCO Online Payments</a></p>
+        <p>Payments can now be made Online via <a href="//www.scopay.com/pcs" target="_blank">SCO Online Payments</a>.</p>
         <a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
 
         </div>

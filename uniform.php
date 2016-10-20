@@ -71,8 +71,8 @@
         <div class="medium-8 columns">
             <h4>Purchasing Uniform</h4>
             <p>Park Community School partners with Skoolkit to bring all of our uniform to one place and reduce costs.</p>
-            <p>Skoolkit are a family run business that has been providing school uniform in the UK for over 20 years, with all our garments embroidered in-house.</p>
-            <p>Skoolkit have a wonderful website where you can purchase all of your uniform requirements and even collect in-store.</p>
+            <p>Skoolkit is a family run business that has been providing school uniform in the UK for over 20 years, with all our garments embroidered in-house.</p>
+            <p>Skoolkit is a wonderful website where you can purchase all of your uniform requirements and even collect in-store.</p>
             <a href="//www.skoolkit.co.uk/" target="_blank" class="button radius">Purchase Now!</a>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-11.jpg" alt="Uniform to suit all year round"></div>

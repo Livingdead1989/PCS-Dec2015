@@ -25,7 +25,7 @@
         <br>
         <div class="medium-8 columns">
             <h3>Our Chef <small>- Steven Cross</small></h3>
-            <p>For the past 16 years Steven has worked within the catering trade, after leaving school he went straight to Southdowns college and studied catering for 4 years. Cooking has always been his passion and from a very young age he cooked at home with his mother who is also a chef.</p>
+            <p>For the past 16 years Steven has worked within the catering trade, after leaving school he went straight to Southdowns College and studied catering for 4 years. Cooking has always been his passion and from a very young age he cooked at home with his mother who is also a chef.</p>
 
             <p>Steven really loved college and the food he produced. He was rewarded with work placements in Buckingham Palace and Windsor castle, which was a great opportunity and a great honour working with some very talented chefs.</p>
 
@@ -164,7 +164,7 @@
 
             <p>For more information regarding Free School Meals please visit the <a href="//www3.hants.gov.uk/hc3s/freeschoolmeals.htm" target="_blank">Hampshire County Council website</a>.</p>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/schoolmeals-02.jpg" alt="Sweet treats, lovenly prepared"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/schoolmeals-02.jpg" alt="Sweet treats, lovingly prepared"></div>
     </div>
     <br><br>
 </section>

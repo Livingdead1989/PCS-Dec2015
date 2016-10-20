@@ -58,7 +58,7 @@
         <br>
         <div class="medium-7 medium-push-0 columns">
             <h3>Sontronics Partnership</h3>
-            <p>The Suite are proud to have a partnership with British microphone manufacturers <a href="//sontronics.com/" target="_blank">Sontronics</a>, allowing us to offer the very best in high quality audio capturing enhancing your bands sound.</p>
+            <p>The Suite are proud to have a partnership with British microphone manufacturers <a href="//sontronics.com/" target="_blank">Sontronics</a>, allowing us to offer the very best in high quality audio capturing enhancing your band's sound.</p>
 
             <p>Examples of hardware available</p>
             <ul>

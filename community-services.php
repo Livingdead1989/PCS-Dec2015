@@ -28,7 +28,7 @@
             <p>This ensures that the school can be open in the evenings up until 10pm, weekends and holidays.</p>
 
             <br>
-            <p>Click here for more information about our parties</p>
+            <p>Click here for more information about our parties.</p>
 
             <div class="small-only-text-center">
                 <a href="assets/Park-Party-Leaflet.pdf" target="_blank" class="button radius">Party Flyer</a>

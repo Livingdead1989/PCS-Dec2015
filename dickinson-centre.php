@@ -40,7 +40,7 @@
     </div>
     <div class="row">
         <div class="medium-push-6 medium-6 columns">
-            <p>The rooms are competitively priced</p>
+            <p>The rooms are competitively priced.</p>
             <ul class="circle text-capitalize">
                 <li>Single room for £10 per hour</li>
                 <li>Two rooms for £16 per hour</li>

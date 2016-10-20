@@ -70,7 +70,7 @@
             <p>Applications should be made directly through UCAS.</p>
             <a href="//www.ucas.com/apply/teacher-training" target="_blank" class="button radius">Start Your Application</a>
 
-            <p>Read through the process and top tips for applying on the <a href="//www.education.gov.uk/get-into-teaching/teacher-training-options/school-based-training/school-direct/applying.aspx" target="_blank">Department of Education</a> website which also has a direct link to the applications page.</p>
+            <p>Read through the process and top tips for applying on the <a href="//www.education.gov.uk/get-into-teaching/teacher-training-options/school-based-training/school-direct/applying.aspx" target="_blank">Department for Education's</a> website which also has a direct link to the applications page.</p>
 
             <p>For more information please visit <a href="//thesolentscitt.co.uk" target="_blank">www.TheSolentSCITT.co.uk</a>.</p>
 
