@@ -150,11 +150,16 @@
     <div class="row">
       <div class="medium-8 columns">
         <h4>Catch-up Funding for Year 7 2015-2016</h4>
-        <p>We received £20,500 catch up funding (in 2014-2015 it was £17,500).</p>
-        <p>Funding of £500 per eligible pupil is expected to be received in 2016/2017.</p>
+        <p>In 2015 - 2016 we received £20,500 catch up funding which was used to provide:</p>
+        <p>One to One reading, spelling and literacy intervention for 33 Year 7 students - with some students being in receipt of more than 1 round of intervention.</p>
+        <p>Additional classroom support for one class.</p>
+        <p>In total more than 41 students benefitted from this intervention. The impact of this support was measured through: student and parent feedback, Year 7 progress data, reading and spelling data.</p>
+        <p>All students receiving intervention demonstrated improvement in their reading with 24 making double ratio gains. Alongside this, 25 students also made progress in both their spelling and reading with 19 continuing to make further above chronological gains demonstrating the mastery of key skills enabling them to continue to make progress.</p>
+        <p>Parent and student feedback demonstrated positive increases regarding confidence and perception of ability alongside willingness to engage in additional learning outside of the classroom.</p>
+        <p>In 2016 - 2017 we expect to receive £500 for each eligible Year 7 student. <br>This will be used to help these students secure and close gaps in their literacy or numeracy through small group intervention, 1 to 1 intervention and in class support.</p>
       </div>
-      <div class="small-10 small-centered medium-uncentered medium-pull-0 medium-offset-0 medium-4 columns">
-        <br><img src="images/general/general-02.jpg" alt="Park Community School - Students studying hard in the classroom"></div>
+      <div class="hide-for-small-only medium-uncentered medium-pull-0 medium-offset-0 medium-4 columns">
+        <br><img src="images/general/general-16.jpg" alt="Park Community School - Catch up funding allows us to provided extra classroom support and resources."></div>
     </div>
     <br><br><br>
 </section>
