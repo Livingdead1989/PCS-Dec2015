@@ -27,6 +27,13 @@
         <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
               <li>
+                  <ul class="circle">October 2016<hr>
+                      <li><a href="/assets/letters/october-2016/Halloween-NonUniform-Punctuality-ClownCraze-KeyDates.pdf" target="_blank">Halloween, Non-Uniform Day, Punctuality, Clown Craze and Key Dates</a></li>
+                      <li><a href="/assets/letters/october-2016/Y11College-Apprenticeship-interviews.pdf" target="_blank">Year 11 College and Apprenticeship Interviews</a></li>
+                      <li><a href="/assets/letters/october-2016/Y11ParentsEvening-9Nov2016.pdf" target="_blank">Year 11 Parents Evening 9th Nov 2016</a></li>
+                  </ul>
+              </li>
+              <li>
                   <ul class="circle">September 2016<hr>
                       <li><a href="/assets/letters/september-2016/Year-11-parents-key-information.pdf" target="_blank">Year 11 Parents Key Information</a></li>
                       <li><a href="/assets/letters/september-2016/Year-11-students-key information.pdf" target="_blank">Year 11 Students Key Information</a></li>
