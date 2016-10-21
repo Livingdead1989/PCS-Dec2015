@@ -229,12 +229,11 @@
                         <div id="Governor-11" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Ms J Hughes</h2>
                           <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: </p>
-                          <p>Category: </p>
+                          <p class="lead">Appointed: 18.05.2016</p>
+                          <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li></li>
-                                <li></li>
+                                <li>Member of Performance Committee</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -255,18 +254,15 @@
                         <div id="Governor-12" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr C Larkin</h2>
                           <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: </p>
-                          <p>Category: </p>
+                          <p class="lead">Appointed: 18.05.2016</p>
+                          <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li></li>
-                                <li></li>
+                                <li>Member of Administration Committee</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li></li>
-                              <li></li>
-                              <li></li>
+                              <li>NIL</li>
                             </ul>
 
 
@@ -283,12 +279,11 @@
                         <div id="Governor-13" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr R Cousins</h2>
                           <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: </p>
-                          <p>Category: </p>
+                          <p class="lead">Appointed: 06.07.2016</p>
+                          <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li></li>
-                                <li></li>
+                                <li>Member of Administration Committee</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
