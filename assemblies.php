@@ -31,6 +31,7 @@
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
               <li>
                 <ul class="circle">Autumn 2016
+                  <li><a href="assets/assemblies/autumn-2016/SMSC2.pdf" target="_blank">SMSC-2 (Thoughtful, Caring, Tolerant and Courteous)</a></li>
                   <li><a href="assets/assemblies/autumn-2016/SMSC.pdf" target="_blank">SMSC (Spiritual, Moral, Social and Cultural)</a></li>
                 </ul>
               </li>
