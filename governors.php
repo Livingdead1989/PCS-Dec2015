@@ -306,6 +306,79 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
+      <div class="columns">
+        <h4>Committees Responsibilities</h4>
+        <div class="row">
+          <div class="medium-6 columns">
+            <h5>Administration Committee</h5>
+            <p>The Administration Committee is responsible for the following:</p>
+            <ul class="circle">
+              <li>Finance</li>
+              <li>Premises</li>
+              <li>Health &amp; Safety</li>
+              <li>Personnel Inc. Performance Management</li>
+              <li>Safeguarding</li>
+            </ul>
+          </div>
+          <div class="medium-6 columns">
+            <h5>Performance Committee</h5>
+            <p>The Performance Committee is responsible for the following:</p>
+            <ul class="circle">
+              <li>Standards</li>
+              <li>Curriculum</li>
+              <li>Attainment</li>
+              <li>Teaching &amp; Learning</li>
+              <li>SEN</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br><br>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
+
+        <div class="medium-push-6 medium-6 columns">
+          <h4>Becoming a Governor</h4>
+          <p>Becoming a Governor at Park Community School couldn't be simpler, simply fill in the provided form and send it in.</p>
+          <!-- When vancanies are available from the class alert and replace with success -->
+          <a href="#" target="_blank" class="button radius alert" data-reveal-id="GovernorPositionsAvailable">View Vacancies</a>
+          <p>Alternatively, anybody wishing to be a governor, can write to the Clerk to Governors requesting consideration.</p>
+          <p>Parent Governors must submit their application using the form as these governors are elected in a vote.</p>
+
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-pull-6 medium-6 columns"><img src="images/general/general-24.jpg" alt="Park Community School - Become a governor and help support the school"></div>
+    </div>
+    <br><br><br>
+</section>
+
+<div id="GovernorPositionsAvailable" class="reveal-modal" data-reveal aria-labelledby="GovernorPositionsAvailable" aria-hidden="true" role="dialog">
+  <h2 id="GovernorPositionsAvailable">Governor Vacancies</h2>
+  <!-- NO POSITIONS AVAILABLE -->
+  <p class="lead">Unfortunately, there are currently no positions available, make sure to check back later.</p>
+  <p><small>Application Form and Contact Email are shown when vacancies are available.</small></p>
+
+  <!-- POSITIONS AVAILABLE -->
+  <!-- <p class="lead">Below are the currently available governor positions.</p>
+  <ol>
+    <li></li>
+  </ol>
+  <p>Please complete the <a href="assets/governors/SchoolGovernorApplicationForm-October2016.doc" target="_blank">Application Form</a> and submit to our <a href="javascript:location='mailto:\u0065\u002e\u0068\u0061\u006c\u006c\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Clerk to Governors</a> for consideration.</p> -->
+
+  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+<!-- END -->
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
     <br>
 
         <div class="medium-6 columns">
