@@ -45,12 +45,19 @@
                 <li><a href="/assets/policies/safeguarding.pdf" target="_blank">Safeguarding</a></li>
                 <li>Sex Education</li>
             </ul>
-            <br>
             <h5 class="subheader text-capitalize text-center"><small>Policies are available in downloadable PDF format</small></h5>
             <h5 class="subheader text-capitalize text-center"><small>Non-linked Policies please enquire at <a href="/contact.php">the school reception</a>.</small></h5>
+            <br>
+
+
         </div>
         <div class="hide-for-small medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-10.jpg" alt="Park Community School student enjoying a large selection of books"></div>
-    </div><br>
+    <div class="columns">
+      <p>If, as a parent of a student attending this school, you require a paper copy of the information on this website, we shall provide this free of charge. Please enquire at <a href="/contact.php">the school reception</a>.</p>
+    </div>
+    </div>
+
+    <br>
 </section>
 
 <!-- FOOTER -->
