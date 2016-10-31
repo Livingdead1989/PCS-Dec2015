@@ -39,7 +39,7 @@
     </div>
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
-            <p>The student cab undertake a construction skills course leading to a Laser Level 1 in Construction Skills. The qualification is a Certification for Learning, Employability and Progression (LEAP). The course will take 60 sessions over a 2-year period to complete depending on ability.</p>
+            <p>The student can undertake a construction skills course leading to a Laser Level 1 in Construction Skills. The qualification is a Certification for Learning, Employability and Progression (LEAP). The course will take 60 sessions over a 2-year period to complete depending on ability.</p>
             <p>The units of study will include:</p>
             <ol>
               <li>Brickwork/Blockwork</li>
