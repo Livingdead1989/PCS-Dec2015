@@ -83,6 +83,7 @@
                     <td>-</td>
                   </tr>
                 </table>
+                <p><strong>Deadline for Final Payment has now passed.</strong></p>
                 <hr>
             </li>
 
@@ -125,6 +126,7 @@
                   <td style="text-align:center;">-</td>
                 </tr>
               </table>
+              <p><strong>Deadline for Final Payment has now passed.</strong></p>
 
               <hr>
             </li>
