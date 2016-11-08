@@ -46,7 +46,7 @@
                 <li>Optional black blazer with school logo.</li></ul>
 
                 <li>White shirt with collar capable of taking a tie.</li>
-                <li>School tie colour based on year group.</li>
+                <li>School tie colour based on family.</li>
                 <br>
                 <li>Black full length trousers.</li>
                 <ul>
