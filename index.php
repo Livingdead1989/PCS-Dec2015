@@ -30,12 +30,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!-- <section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
+      <p>View our <a href="assets/FestiveEventsAtPark.pdf" target="_blank">Festive Events at Park</a>, something for all the family!</p>
     </div>
   </div>
-</section> -->
+</section>
 
 
 <!-- CONTENT -->
