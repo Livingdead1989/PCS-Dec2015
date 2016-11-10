@@ -24,8 +24,21 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
-            <p>We have a purpose-built nursery and pre-school on the outskirts of the school campus that offers flexible hours to suit busy parents. We open at 7.30 and close at 6.00pm. </p>
-            <p>You can choose to book a 39-week contract if required, and the price includes all food, prepared by our qualified chefs.</p>
+            <p>
+              Open 51 weeks of the year we offer Term Time, All Year &amp; Holiday Club spaces, opening from 7:30am-6:00pm Monday-Friday and are registered to take children 0-8 years old.
+            </p>
+            <p>
+              Our Friendly welcoming staff, fully qualified level 2 &amp; 3 practitioners, are fully trained in relevant SEN, Safeguarding, Food Hygiene and First Aid.
+            </p>
+            <p>
+              We are fortunate to have access to the adjacent Park Community School where we are able to take part in PE, Maths, Science lessons and have regular visits to see the school goats and chickens.
+            </p>
+            <p>
+              Lunch is provided in the school restaurant where freshly cooked hot nutritious meals are available every day.
+            </p>
+            <p>
+              Both Nursery and Pre-school rooms are fully equipped with superb learning areas and resources, all age appropriate.
+            </p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/nursery/nursery-logo.svg" alt="Park Community School - Springwood Nursery"></div>
     </div>
@@ -68,10 +81,11 @@
             <hr>
             <ul class="no-bullet">
                 <li>Telephone: 023 9248 9830</li>
+                <li>Alt Tel: 074 9777 2507</li>
                 <br>
                 <li>Email: <a href="javascript:location='mailto:\u006e\u0075\u0072\u0073\u0065\u0072\u0079\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Springwood Preschool &amp; Nursery</a></li>
                 <br>
-                <li>Website: <a href="//springwoodpreschoolandnursery.co.uk" target="_blank">www.SpringwoodPreschoolAndNursery.co.uk</a></li>
+                <li>Website: <a href="//springwoodpreschoolandnursery.co.uk/park-community" target="_blank">www.SpringwoodPreschoolAndNursery.co.uk</a></li>
             </ul>
 
         </div>
