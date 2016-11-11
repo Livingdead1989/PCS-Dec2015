@@ -33,7 +33,8 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p>View our <a href="assets/FestiveEventsAtPark.pdf" target="_blank" style="color:black;">Festive Events at Park</a>, something for all the family!</p>
+      <p>View our <a href="assets/FestiveEventsAtPark.pdf" target="_blank" style="color:black;">Festive Events at Park</a><span class="hide-for-small-only">, something for all the family!</span></p>
+      <p>Chance to <strong>Win £50!</strong> with our <a href="assets/LogoQuiz.pdf" target="_blank" style="color:black;">Logo Quiz</a></p>
     </div>
   </div>
 </section>
