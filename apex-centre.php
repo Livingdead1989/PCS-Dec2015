@@ -59,7 +59,7 @@
     <br>
 	<div class="row">
         <div class="medium-8 columns">
-            <h2>Much More than just a school doing Much More than just Rowing </h2>
+            <h2 style="color:#FFF;">Much More than just a school doing Much More than just Rowing </h2>
             <p>Park Community School are delighted to be working in partnership with Oarsome Chance Foundation (OCF) who have developed a Schools Coastal Rowing project and over the summer the school has taken part in several programmes increasing student engagement.</p>
             <ol>
               <li>During Freshers Week, the new intake for the school, 180 students were able to build model skiffs, competitively row a set distance using Concept 2 rowing machines. 45 students then had the opportunity to row on the water using the OCF St. Ayles skiffs in Langstone Harbour. Everyone had a great time, leaving them wanting more.</li>
@@ -69,7 +69,7 @@
             <p>Oarsome Chance Foundation are able to provide a variety of opportunities for our students both to assist in their academic success and also for enjoyment and relaxation.</p>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-4 columns"><img src="images/apex/apex-04.jpg" alt="Park Community School Apex Centre - Oarsome"></div>
+        <div class="small-8 small-pull-2 medium-4 medium-pull-0 columns"><img src="images/apex/apex-04.jpg" alt="Park Community School Apex Centre - Oarsome"></div>
     </div>
     <br><br>
 </section>
