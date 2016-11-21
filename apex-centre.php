@@ -56,15 +56,9 @@
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/apex/apex-02.jpg" alt="Park Community School Apex Centre - Bricklaying, Plastering, Tiling, Painting and Car Mechanics"></div>
     </div>
-    <br><br>
-</section>
-
-<section class="grey-bg">
-    <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
-    </div>
-    <div class="row">
-        <div class="medium-push-4 medium-8 columns">
+    <br>
+	<div class="row">
+        <div class="medium-8 columns">
             <h2>Much More than just a school doing Much More than just Rowing </h2>
             <p>Park Community School are delighted to be working in partnership with Oarsome Chance Foundation (OCF) who have developed a Schools Coastal Rowing project and over the summer the school has taken part in several programmes increasing student engagement.</p>
             <ol>
@@ -75,7 +69,7 @@
             <p>Oarsome Chance Foundation are able to provide a variety of opportunities for our students both to assist in their academic success and also for enjoyment and relaxation.</p>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/apex/apex-04.jpg" alt="Park Community School Apex Centre - Oarsome"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-4 columns"><img src="images/apex/apex-04.jpg" alt="Park Community School Apex Centre - Oarsome"></div>
     </div>
     <br><br>
 </section>
