@@ -24,9 +24,10 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
-            <p>We are keen to introduce practical, hands-on courses for students who wish to work in the trades industries, whilst ensuring that curriculum requirements are met.</p>
-            <p>The recent government changes to school examinations and accreditations dictate that from 2016 non-academic courses have no ‘league table value’ to schools. A consequence of this is that schools now need to ensure any time spent on vocational learning is highly relevant to a student’s needs.</p>
-            <p>Park Community Enterprises Ltd has leased facilities named The Apex Centre, to accommodate this. This Centre is situated to the north east of the central shopping district of Leigh Park and is within fifteen minutes walking distance from Park Community School. It is within the school’s catchment area. The Apex Centre is just two minutes walk from the industrial unit we already lease.</p>
+            <p>At the Apex Centre we are now providing practical, hands-on courses for students from Park Community School and a variety of other schools in the area and beyond. Our aim is to give students the opportunity to learn a whole range of construction skills, whilst ensuring that curriculum requirements are met.</p>
+            <p>This has been possible because Park Community Enterprises Ltd have leased facilities named The Apex Centre, to accommodate this. This Centre is situated to the north east of the central shopping district of Leigh Park and is within fifteen minutes walking distance from Park Community School. It is within the school’s catchment area. The Apex Centre is just two minutes walk from the industrial unit we already lease.</p>
+            <p>The recent government changes to school examinations and accreditations dictate that from 2016 non-academic courses have no ‘league table value’ to schools. A consequence of this is that schools now need to ensure any time spent on vocational learning is highly relevant to the student’s needs.</p>
+   
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/apex/apex-01.jpg" alt="Apex Centre - Trade Skills for Life"></div>
     </div>
@@ -39,7 +40,7 @@
     </div>
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
-            <p>The student can undertake a construction skills course leading to a Laser Level 1 in Construction Skills. The qualification is a Certification for Learning, Employability and Progression (LEAP). The course will take 60 sessions over a 2-year period to complete depending on ability.</p>
+            <p>The student cab undertake a construction skills course leading to a Laser Level 1 in Construction Skills. The qualification is a Certification for Learning, Employability and Progression (LEAP). The course will take 60 sessions over a 2-year period to complete depending on ability.</p>
             <p>The units of study will include:</p>
             <ol>
               <li>Brickwork/Blockwork</li>
@@ -54,6 +55,27 @@
 
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/apex/apex-02.jpg" alt="Park Community School Apex Centre - Bricklaying, Plastering, Tiling, Painting and Car Mechanics"></div>
+    </div>
+    <br><br>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+            <h2>Much More than just a school doing Much More than just Rowing </h2>
+            <p>Park Community School are delighted to be working in partnership with Oarsome Chance Foundation (OCF) who have developed a Schools Coastal Rowing project and over the summer the school has taken part in several programmes increasing student engagement.</p>
+            <ol>
+              <li>During Freshers Week, the new intake for the school, 180 students were able to build model skiffs, competitively row a set distance using Concept 2 rowing machines. 45 students then had the opportunity to row on the water using the OCF St. Ayles skiffs in Langstone Harbour. Everyone had a great time, leaving them wanting more.</li>
+              <li>12 students from Years 8/9 during summer term 2016 learnt to row and race skiffs resulting in them winning the inaugural Youth St. Ayles Regatta at Cobnor Activities Centre in Chichester Harbour. Students were extremely proud of their achievements and rightly so as none of them had ever taken part in an activity like this before.</li>
+              <li>Oarsome Chance “Kids Build Boats” project provides our students the opportunity to develop practical and life skills to aid them through their education and beyond. November 2016 Year 7 students will have the opportunity to build 4 Oarsome Skiffs at Park’s offsite Apex Training Centre and Summer 2017 students will row and race their built skiffs at Northney Harbour, Hayling Island.</li>
+            </ol>
+            <p>Oarsome Chance Foundation are able to provide a variety of opportunities for our students both to assist in their academic success and also for enjoyment and relaxation.</p>
+
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/apex/apex-04.jpg" alt="Park Community School Apex Centre - Oarsome"></div>
     </div>
     <br><br>
 </section>
