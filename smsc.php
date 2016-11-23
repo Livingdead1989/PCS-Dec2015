@@ -45,13 +45,13 @@
             <p><strong>Challenge days</strong> – Challenge days are whole days off curriculum where students learn and take part in activities that are over and above their normal working day. The topics covered include Britishness, tolerance, Sex and relationships education, citizenship, making informed choices with regards alcohol and drugs as well as career choices.  They get to listen to outside speakers with real life experiences in the fields that they are exploring which broadens their horizons in so that they are fully equipped to face the world when they leave school.</p>
             <p><strong>A Rights Respecting School</strong> – In a Rights Respecting School the pupils have an opportunity to learn about the United Nations Convention on the Rights of the Child through family assemblies and pupil led groups. As a rights respecting school we do not only teach our pupils about children’s rights but we also model rights and respect in all our relationships: between staff, between staff and pupils, and between pupils.</p>
 
-                <li class="accordion-navigation">
-                    <p class="text-capitalize">Main skills students develop:</p>
+                    <h4>Main skills students develop:</h4>
                         <ul class="circle">
                             <li>Developing the pupils' social, moral, cultural and spiritual development.</li>
                             <li>Understanding of their own rights and responsibilities.</li>
                             <li>Participating actively in promoting the UNCRC articles and RRR school events.</li>
-            </ul>
+                    </ul>
+                    
              <p><strong>Families</strong> – The overall aim of the Family system is to connect all year groups within the school, providing them with the opportunity to further develop skills and experiences in order to become confident and well-rounded individuals. Families aim to get students to work to help each other build confidence through collaboration; persevering through a task; taking risks as a group to achieve a common goal and learning to be enquiring and creative in a safe atmosphere. Families aim to do this by providing Family members with enjoyable and competitive Family events as well as learning about the UNCRC and raising awareness of those in need.</p>
             
             <ul class="accordion" data-accordion role="tablist">
