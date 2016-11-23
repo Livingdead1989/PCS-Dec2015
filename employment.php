@@ -28,6 +28,8 @@
       <ul class="no-bullet">
         <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
         <li>Science Teacher<br><span class="subheader"><a href="assets/recruitment/ScienceTeacher.pdf" target="_blank">Position Details</a></span></li>
+        <li>Behaviour Support and Guidance Manager <br><span class="subheader"><a href="assets/recruitment/BehaviourSupportandGuidanceManager.pdf" target="_blank">HCC Details</a></span><br><span class="subheader"><a href="assets/recruitment/HCCPupilSupportandGuidanceManager.pdf" target="_blank">HCC Details</a></span></li>
+
         <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
       </ul>
       <hr>
