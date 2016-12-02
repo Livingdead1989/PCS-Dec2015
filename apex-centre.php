@@ -27,7 +27,7 @@
             <p>At the Apex Centre we are now providing practical, hands-on courses for students from Park Community School and a variety of other schools in the area and beyond. Our aim is to give students the opportunity to learn a whole range of construction skills, whilst ensuring that curriculum requirements are met.</p>
             <p>This has been possible because Park Community Enterprises Ltd have leased facilities named The Apex Centre, to accommodate this. This Centre is situated to the north east of the central shopping district of Leigh Park and is within fifteen minutes walking distance from Park Community School. It is within the school’s catchment area. The Apex Centre is just two minutes walk from the industrial unit we already lease.</p>
             <p>The recent government changes to school examinations and accreditations dictate that from 2016 non-academic courses have no ‘league table value’ to schools. A consequence of this is that schools now need to ensure any time spent on vocational learning is highly relevant to the student’s needs.</p>
-   
+
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/apex/apex-01.jpg" alt="Apex Centre - Trade Skills for Life"></div>
     </div>
@@ -54,17 +54,14 @@
             <p>We believe we are best placed to address these needs of our students and other providers who are not yet aware of the implications of the forthcoming changes.</p>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/apex/apex-02.jpg" alt="Park Community School Apex Centre - Bricklaying, Plastering, Tiling, Painting and Car Mechanics"></div>
+        <div class="small-10 small-centered medium-uncentered medium-pull-8 medium-4 columns"><img src="images/apex/apex-02.jpg" alt="Park Community School Apex Centre - Bricklaying, Plastering, Tiling, Painting and Car Mechanics"></div>
     </div>
-    <br><br>
+    <br><br><br>
 </section>
 
 <section class="grey-bg">
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
-    </div>
-    <div class="row">
-        <div class="medium-push-4 medium-8 columns">
+        <div class="medium-8 medium-push-4 columns">
             <h4>Much More than just a school doing Much More than just Rowing </h4>
             <p>Park Community School are delighted to be working in partnership with Oarsome Chance Foundation (OCF) who have developed a Schools Coastal Rowing project and over the summer the school has taken part in several programmes increasing student engagement.</p>
             <ol>
@@ -75,7 +72,7 @@
             <p>Oarsome Chance Foundation are able to provide a variety of opportunities for our students both to assist in their academic success and also for enjoyment and relaxation.</p>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/apex/apex-04.jpg" alt="Park Community School Apex Centre - Oarsome"></div>
+        <div class="small-10 small-centered medium-uncentered medium-4 medium-pull-8 columns"><img src="images/apex/apex-04.jpg" alt="Park Community School Apex Centre - Oarsome"></div>
     </div>
     <br><br>
 </section>
