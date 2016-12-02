@@ -30,9 +30,14 @@
 
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
               <li>
+                <ul class="circle">Spring 2017
+                  <li><a href="assets/assemblies/spring-2017/SMSC1.pdf" target="_blank">SMSC-1</a></li>
+                </ul>
+              </li>
+              <li>
                 <ul class="circle">Autumn 2016
-                  <li><a href="assets/assemblies/autumn-2016/SMSC2.pdf" target="_blank">SMSC-2 (Thoughtful, Caring, Tolerant and Courteous)</a></li>
-                  <li><a href="assets/assemblies/autumn-2016/SMSC.pdf" target="_blank">SMSC (Spiritual, Moral, Social and Cultural)</a></li>
+                  <li><a href="assets/assemblies/autumn-2016/SMSC2.pdf" target="_blank">SMSC-2</a></li>
+                  <li><a href="assets/assemblies/autumn-2016/SMSC.pdf" target="_blank">SMSC</a></li>
                 </ul>
               </li>
               <li>
@@ -49,7 +54,7 @@
                 </ul>
               </li>
 
-              <li>
+              <!-- <li>
                 <ul class="circle">Autumn 2015
                   <li><a href="assets/assemblies/autumn-2015/Civic-MoralVirtues.pdf" target="_blank">Civic and Moral Virtues</a></li>
 
@@ -79,7 +84,7 @@
 
                     <li><a href="assets/assemblies/autumn-2014/Morality.pdf" target="_blank">Morality</a></li>
                   </ul>
-              </li>
+              </li> -->
 
             </ul>
 
