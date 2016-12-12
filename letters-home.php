@@ -27,6 +27,11 @@
         <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
               <li>
+                  <ul class="circle">December 2016<hr>
+                      <li><a href="/assets/letters/december-2016/EndStartofTerm-SchoolDayChange-Uniform-KeyDates.pdf" target="_blank">December 2016 - End and Start of Term, School Day Changes, Uniform and Key Dates</a></li>
+                  </ul>
+              </li>
+              <li>
                   <ul class="circle">November 2016<hr>
                       <li><a href="/assets/letters/november-2016/november-2016-behaviour-system.pdf" target="_blank">November 2016 - Behaviour System</a></li>
                   </ul>
