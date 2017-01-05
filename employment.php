@@ -28,6 +28,7 @@
       <ul class="no-bullet">
         <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
         <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/EnglishTeacher.pdf" target="_blank">Position Details</a></span></li>
+        <li>Catering Assistant<br><span class="subheader"><a href="assets/recruitment/CateringAssistant.pdf" target="_blank">Position Details</a></span></li>
         <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
       </ul>
       <hr>
