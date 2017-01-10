@@ -27,8 +27,13 @@
       <h4 class="text-capitilise">Vacancies</h4>
       <ul class="no-bullet">
         <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
-        <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/EnglishTeacher.pdf" target="_blank">Position Details</a></span></li>
-        <li>Catering Assistant<br><span class="subheader"><a href="assets/recruitment/CateringAssistant.pdf" target="_blank">Position Details</a></span></li>
+        <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/EnglishTeacher.pdf" target="_blank">Position Details</a></span></li><br>
+        <li>Catering Assistant<br><span class="subheader"><a href="assets/recruitment/CateringAssistant.pdf" target="_blank">Position Details</a></span></li><br>
+
+
+        <li>Science Teacher<br><span class="subheader"><a href="assets/recruitment/ScienceTeacher.pdf" target="_blank">Position Details</a></span></li><br>
+        <li>Humanities Teacher<br><span class="subheader"><a href="assets/recruitment/HumanitiesTeacher.pdf" target="_blank">Position Details</a></span></li><br>
+        <li>MFL Teacher<br><span class="subheader"><a href="assets/recruitment/MFLTeacher.pdf" target="_blank">Position Details</a></span></li>
         <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
       </ul>
       <hr>
