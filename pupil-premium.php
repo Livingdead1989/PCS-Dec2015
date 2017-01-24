@@ -228,7 +228,7 @@
               <td>-0.18</td>
               <td>-0.47</td>
               <td>-0.43</td>
-              <td>_0.38</td>
+              <td>-0.38</td>
             </tr>
             </table>
             <p>Attendance: 128 PA who are PP and 46 who are non PP. Of the 112 PAs who have improved their attendance 80 were PP and 6 of those now have attendance of above 90%.</p>
