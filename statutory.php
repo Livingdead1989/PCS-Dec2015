@@ -40,6 +40,7 @@
                 <li><a href="/assets/policies/charging-and-remissions.pdf" target="_blank">Charging and Remissions</a></li>
                 <li><a href="/assets/statutory/ethos-values.pdf" target="_blank">Ethos and Values</a></li>
                 <li><a href="/assets/statutory/Complaints_Procedure.pdf" target="_blank">Complaints Procedure</a></li>
+                <li><a href="/assets/statutory/Leaver-Destinations.pdf" target="_blank">Leaver Destinations</a></li>
             </ul>
             <br>
             <h5 class="subheader text-capitalize text-center"><small>Policies are available in downloadable PDF format <br>our <a href="/policies.php">Policies page</a></small></h5>
