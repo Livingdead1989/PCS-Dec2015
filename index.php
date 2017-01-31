@@ -74,23 +74,33 @@
                     <ul class="small-block-grid-2 medium-block-grid-4 text-center">
 
                         <li>
-                            <a href="/scitt.php">
-                                <img class="fixed-size-100" src="images/scitt/scitt.svg" alt="The Solent SCITT - Teacher Training">
-                                <p><span class="show-for-sr">The Solent SCITT </span>Teacher Training</p>
-                            </a>
+                          <a href="//login.microsoftonline.com" target="_blank">
+                              <img class="fixed-size-100" src="images/logo/office365.svg" alt="Microsoft Office 365">
+                              <p>Office 365</p>
+                          </a>
                         </li>
+
                         <li>
-                            <a href="http://www.myedschoolapp.com/" target="_blank">
-                                <img class="fixed-size-100" src="/images/myed.png" alt="The My Ed app shows you up to date information about all aspects of your child’s school life.">
-                                <p>My Ed Parent App</p>
-                            </a>
+                          <a href="https://ss.pcs.hants.sch.uk" target="_blank">
+                              <img class="fixed-size-100" src="/images/cogs.png" alt="Password Reset Self Service Portal">
+                              <p>Self Service</p>
+                          </a>
                         </li>
+
                         <li>
-                            <a href="https://ss.pcs.hants.sch.uk" target="_blank">
-                                <img class="fixed-size-100" src="/images/cogs.png" alt="Password Reset Self Service Portal">
-                                <p>Self Service</p>
-                            </a>
+                          <a href="//www.myedschoolapp.com/" target="_blank">
+                              <img class="fixed-size-100" src="/images/myed.png" alt="The My Ed app shows you up to date information about all aspects of your child’s school life.">
+                              <p>My Ed</p>
+                          </a>
                         </li>
+
+                        <li>
+                          <a href="/scitt.php">
+                              <img class="fixed-size-100" src="images/scitt/scitt.svg" alt="The Solent SCITT - Teacher Training">
+                              <p><span class="show-for-sr">The Solent SCITT </span>Teacher Training</p>
+                          </a>
+                        </li>
+
                     </ul>
                     <br>
                 </div>
