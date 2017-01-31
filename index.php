@@ -71,33 +71,33 @@
 
             <div class="row">
                 <div class="large-11 columns"><br class="show-for-large-up">
-                    <ul class="small-block-grid-2 medium-block-grid-4 text-center">
+                    <ul class="small-block-grid-2 medium-block-grid-4 text-center hp-quicklinks">
 
                         <li>
                           <a href="//login.microsoftonline.com" target="_blank">
                               <img class="fixed-size-100" src="images/logo/office365.svg" alt="Microsoft Office 365">
-                              <p>Office 365</p>
+                              <p style="color: #333;">Office 365</p>
                           </a>
                         </li>
 
                         <li>
                           <a href="https://ss.pcs.hants.sch.uk" target="_blank">
                               <img class="fixed-size-100" src="/images/cogs.png" alt="Password Reset Self Service Portal">
-                              <p>Self Service</p>
+                              <p style="color: #333;">Self Service</p>
                           </a>
                         </li>
 
                         <li>
                           <a href="//www.myedschoolapp.com/" target="_blank">
                               <img class="fixed-size-100" src="/images/myed.png" alt="The My Ed app shows you up to date information about all aspects of your child’s school life.">
-                              <p>My Ed</p>
+                              <p style="color: #333;">My Ed</p>
                           </a>
                         </li>
 
                         <li>
                           <a href="/scitt.php">
                               <img class="fixed-size-100" src="images/scitt/scitt.svg" alt="The Solent SCITT - Teacher Training">
-                              <p><span class="show-for-sr">The Solent SCITT </span>Teacher Training</p>
+                              <p style="color: #333;"><span class="show-for-sr">The Solent SCITT </span>Teacher Training</p>
                           </a>
                         </li>
 
