@@ -82,7 +82,7 @@
 
                         <li>
                           <a href="https://ss.pcs.hants.sch.uk" target="_blank">
-                              <img class="fixed-size-100" src="/images/cogs.png" alt="Password Reset Self Service Portal">
+                              <img class="fixed-size-100" src="/images/cogs.svg" alt="Password Reset Self Service Portal">
                               <p>Self Service</p>
                           </a>
                         </li>

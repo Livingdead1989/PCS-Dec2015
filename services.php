@@ -44,7 +44,7 @@
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
         <br>
             <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/cogs.png" alt="Manage Engine Self Service Portal - Password Reset"><br>Self Service</li>
+              <li class="title"><img class="fixed-size-100" src="images/cogs.svg" alt="Manage Engine Self Service Portal - Password Reset"><br>Self Service</li>
               <li class="bullet-item">Password Resets</li>
               <li class="bullet-item">Self Service Portal</li>
               <li class="bullet-item">Manage Engine</li>
