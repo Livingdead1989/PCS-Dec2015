@@ -5,7 +5,7 @@
         <?php include("includes/head.html") ?>
         <link rel="stylesheet" href="css/bounce.min.css">
     </head>
-    <body class="page-base">
+<body class="page-base">
 
 <!-- NAVIGATION -->
 <?php include("includes/topnav.html") ?>
@@ -71,33 +71,33 @@
 
             <div class="row">
                 <div class="large-11 columns"><br class="show-for-large-up">
-                    <ul class="small-block-grid-2 medium-block-grid-4 text-center hp-quicklinks">
+                    <ul class="small-block-grid-2 medium-block-grid-4 text-center">
 
                         <li>
                           <a href="//login.microsoftonline.com" target="_blank">
                               <img class="fixed-size-100" src="images/logo/office365.svg" alt="Microsoft Office 365">
-                              <p style="color: #333;">Office 365</p>
+                              <p>Office 365</p>
                           </a>
                         </li>
 
                         <li>
                           <a href="https://ss.pcs.hants.sch.uk" target="_blank">
                               <img class="fixed-size-100" src="/images/cogs.png" alt="Password Reset Self Service Portal">
-                              <p style="color: #333;">Self Service</p>
+                              <p>Self Service</p>
                           </a>
                         </li>
 
                         <li>
                           <a href="//www.myedschoolapp.com/" target="_blank">
                               <img class="fixed-size-100" src="/images/myed.png" alt="The My Ed app shows you up to date information about all aspects of your child’s school life.">
-                              <p style="color: #333;">My Ed</p>
+                              <p>My Ed</p>
                           </a>
                         </li>
 
                         <li>
                           <a href="/scitt.php">
                               <img class="fixed-size-100" src="images/scitt/scitt.svg" alt="The Solent SCITT - Teacher Training">
-                              <p style="color: #333;"><span class="show-for-sr">The Solent SCITT </span>Teacher Training</p>
+                              <p><span class="show-for-sr">The Solent SCITT </span>Teacher Training</p>
                           </a>
                         </li>
 
@@ -110,7 +110,7 @@
             <div>
                 <br><br><br>
                 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/ParkSchSocial" data-widget-id="672042040872542208" data-chrome="nofooter noborders">Tweets by @ParkSchSocial</a>
-                <script src="js/twitter.js"></script>
+                <script src="js/twitter.min.js"></script>
             </div>
         </div>
     </div>

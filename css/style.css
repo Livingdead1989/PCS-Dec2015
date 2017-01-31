@@ -135,7 +135,7 @@ header h1 {
 header h1, header h3, header p {
     color: #FFF;
 }
-.page-base .side-nav li a:not(.button), .page-base a, .page-base footer a:active, .page-base footer a:focus, .page-base footer a:hover {
+.page-base .side-nav li a:not(.button), .page-base a, .page-base footer a:active, .page-base footer a:focus, .page-base footer a:hover, {
     color: #A3CD42;
 }
 .page-base footer a {
