@@ -34,22 +34,6 @@
           </li>   -->
 
           <li>
-            <h3>Chichester College ‘Intermezzo’</h3>
-            <p>Limited Spaces - first come first serve</p>
-            <p>Friday 3rd February 2017</p>
-            <p>Lead Teacher – Miss Chuter</p>
-            <p>Cost - £1.00</p>
-            <p><strong>DEADLINE FOR TRIP HAS NOW PASSED (09/01/17)</strong></p>
-          </li>
-
-          <li>
-            <h3>BFI Exam Course – London TV Studios</h3>
-            <p>Tuesday 7th February 2017</p>
-            <p>Lead Teacher – Miss Loake</p>
-            <p>Cost - £11.00</p>
-          </li>
-
-          <li>
             <h3>Houses of Parliament</h3>
             <p>Wednesday 15th February 2017</p>
             <p>Lead Teacher – Mrs Coles</p>
@@ -63,28 +47,7 @@
             <p>Cost - £23.00</p>
             <p><strong>4 SPACES CURRENTLY AVAILABLE (19/01/17)</strong></p>
           </li>
-
-          <li>
-            <h3>Creating Aspirations for the Future – Krakow, Poland</h3>
-            <p>Wednesday 29th – Friday 31st March 2017</p>
-            <p>Lead Teacher – Miss Wingham</p>
-            <p>Cost - £380.00</p>
-            <p><strong>10 SPACES AVAILABLE (30/01/17)</strong></p>
-            <table>
-              <tr>
-                <td>Non-refundable Desposit</td>
-                <td>Due by</td>
-                <td>Final Payment</td>
-                <td>Due by</td>
-              </tr>
-              <tr>
-                <td>£180.00</td>
-                <td>01/02/2017</td>
-                <td>£200.00</td>
-                <td>01/03/2017</td>
-              </tr>
-            </table>
-          </li>
+          
         </ul>
 
         <p>Payments can now be made Online via <a href="//www.scopay.com/pcs" target="_blank">SCO Online Payments</a>.</p>
