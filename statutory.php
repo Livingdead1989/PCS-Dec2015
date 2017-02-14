@@ -29,7 +29,7 @@
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
                 <li><a href="/contact.php">Contact Details</a></li>
                 <li><a href="/admissions.php">Admission Arrangements</a></li>
-                <li><a href="/assets/statutory/ofsted-report-2015.pdf" target="_blank">Ofsted Report</a></li>
+                <li><a href="/assets/statutory/ofsted-report-2017.pdf" target="_blank">Ofsted Report</a></li>
                 <li><a href="/assets/statutory/ks4-results.pdf" target="_blank">Key Stage 4 Results</a></li>
                 <li><a href="//www.education.gov.uk/cgi-bin/schools/performance/school.pl?urn=116473" target="_blank">Performance Tables</a></li>
                 <li><a href="/curriculum.php">Curriculum</a></li>
