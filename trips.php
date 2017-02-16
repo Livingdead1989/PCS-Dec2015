@@ -34,13 +34,6 @@
           </li>   -->
 
           <li>
-            <h3>Houses of Parliament</h3>
-            <p>Wednesday 15th February 2017</p>
-            <p>Lead Teacher – Mrs Coles</p>
-            <p>Cost - £10.00</p>
-          </li>
-
-          <li>
             <h3>Curious Incident of Dog</h3>
             <p>Thursday 30th March 2017</p>
             <p>Lead Teacher – Miss Spies</p>
