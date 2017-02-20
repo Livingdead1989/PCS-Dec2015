@@ -32,6 +32,7 @@
               <li>
                 <ul class="circle">Spring 2017
                   <li><a href="assets/assemblies/spring-2017/SMSC1.pdf" target="_blank">SMSC-1</a></li>
+                  <li><a href="assets/assemblies/spring-2017/SMSC2.pdf" target="_blank">SMSC-2</a></li>
                 </ul>
               </li>
               <li>
@@ -53,38 +54,6 @@
                     <li><a href="assets/assemblies/spring-2016/Performance-MoralVirtues-2.pdf" target="_blank">Performance and Moral Virtues 2</a></li>
                 </ul>
               </li>
-
-              <!-- <li>
-                <ul class="circle">Autumn 2015
-                  <li><a href="assets/assemblies/autumn-2015/Civic-MoralVirtues.pdf" target="_blank">Civic and Moral Virtues</a></li>
-
-                  <li><a href="assets/assemblies/autumn-2015/Intellectual-CivicVirtues.pdf" target="_blank">Intellectual and Civic Virtues</a></li>
-                </ul>
-              </li>
-
-              <li>
-                <ul class="circle">Summer 2015
-                    <li><a href="assets/assemblies/summer-2015/Futures.pdf" target="_blank">Futures</a></li>
-
-                    <li><a href="assets/assemblies/summer-2015/Communication.pdf" target="_blank">Communication</a></li>
-                </ul>
-              </li>
-
-              <li>
-                  <ul class="circle">Spring 2015
-                    <li><a href="assets/assemblies/spring-2015/Tolerance.pdf" target="_blank">Tolerance</a></li>
-
-                    <li><a href="assets/assemblies/spring-2015/Politics.pdf" target="_blank">Politics</a></li>
-                  </ul>
-              </li>
-
-              <li>
-                  <ul class="circle">Autumn 2014
-                    <li><a href="assets/assemblies/autumn-2014/Relationships.pdf" target="_blank">Relationships</a></li>
-
-                    <li><a href="assets/assemblies/autumn-2014/Morality.pdf" target="_blank">Morality</a></li>
-                  </ul>
-              </li> -->
 
             </ul>
 
