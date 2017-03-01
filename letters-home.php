@@ -27,6 +27,14 @@
         <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
               <li>
+                  <ul class="circle">February 2017<hr>
+                      <li><a href="/assets/letters/february-2017/ESafety.pdf" target="_blank">ESafety</a></li>
+                      <li><a href="/assets/letters/february-2017/Ofsted-School-Meal-price-increase.pdf" target="_blank">Ofsted, School Meal Price Increase</a></li>
+                      <li><a href="/assets/letters/february-2017/Statement-from-the-Governing-Bodies-and-Headteachers-of-Havant-Federation-of-Secondary-Schools.pdf" target="_blank">Statement from the Governing Bodies and Headteachers of Havant Federation of Secondary Schools</a></li>
+                      <li><a href="/assets/letters/february-2017/Y11-mocks-provisional-exam-timetable-and-the-Prom.pdf" target="_blank">Y11 mocks, provisional exam timetable and the Prom</a></li>
+                  </ul>
+              </li>
+              <li>
                   <ul class="circle">December 2016<hr>
                       <li><a href="/assets/letters/december-2016/EndStartofTerm-SchoolDayChange-Uniform-KeyDates.pdf" target="_blank">End and Start of Term, School Day Changes, Uniform and Key Dates</a></li>
                   </ul>
