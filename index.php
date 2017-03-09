@@ -14,9 +14,10 @@
 <header id="homepage-hero">
     <div class="row">
         <div class="medium-7 large-8 columns">
-            <h1 class="text-capitalize brandfont">Park Community School</h1><br>
-            <h3 class="text-capitalize brandfont">Much more than just a school...</h3><br>
-
+            <h1 class="text-capitalize brandfont">Park Community School</h1>
+            <h3 class="text-capitalize brandfont">Much more than just a school...</h3>
+            <p><em>‘The headteacher’s vision is to create ‘more than just a school’ by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life. This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain.’ - </em>Ofsted January 2017</p>
+            <a href="assets/statutory/Ofsted-Report-2017.pdf" target="_blank" class="button success">Full Ofsted Report</a>
         </div>
         <div class="small-offset-2 small-8 small-pull-2 medium-offset-0 medium-5 medium-pull-0 large-4 columns">
             <br class="show-for-small-only">
@@ -49,7 +50,8 @@
                 <br>
                 <h3>Welcome to Park...</h3>
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
-                      <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4_9icLT-LuUzDuInfzsBwP2ufiveUdQ5&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                      <!-- <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4_9icLT-LuUzDuInfzsBwP2ufiveUdQ5&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+                      <video src="assets/ofstedcomments.mp4" controls poster="assets/OfstedCommentsPoster.png"></video>
                     </div>
                     <div class="text-center">
                         <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">The Headteacher's Welcome</a>
@@ -64,6 +66,26 @@
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
                         </div>
+
+                        <a class="small button radius success" href="#" data-reveal-id="WelcomeYr6">Year 6 Welcome</a>
+                          <div id="WelcomeYr6" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                            <div class="small-8 column">
+                              <h2 id="modalTitle">Year 6 Welcome</h2>
+                              <p class="lead">Welcome to Park Community School!</p>
+                              <p>We are delighted that your son/daughter will be joining us as a Year 7 in September 2017.
+                              <br>You will soon be sent some key dates about when they will be coming to visit us in the Summer Term of Year 6.
+                              <br>We will also be visiting them in their current schools during the Summer Term.</p>
+                              <p>We are looking forward to meeting you soon.</p>
+                              <p class="lead">Mr Anders <br>Headteacher</p>
+                            </div>
+                            <div class="small-4 column">
+                              <br><br>
+                              <img src="images/park-logo.svg" alt="">
+                            </div>
+
+                            <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                          </div>
+
                     </div>
                     <br>
                 </div>
