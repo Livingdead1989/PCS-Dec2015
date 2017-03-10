@@ -29,9 +29,9 @@
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
                 <li>Accessibility</li>
                 <li>
-                  <p>Admissions<br>
-                    <a href="/assets/policies/admissions-2016-2017.pdf" target="_blank">2016-17</a>
-                    <a href="/assets/policies/admissions-2017-2018.pdf" target="_blank">2017-18</a>
+                  Admissions<br>
+                    <a href="/assets/policies/admissions-2016-2017.pdf" target="_blank">2016-17</a> /
+                    <a href="/assets/policies/admissions-2017-2018.pdf" target="_blank">2017-18</a> /
                     <a href="/assets/policies/admissions-2018-2019.pdf" target="_blank">2018-19</a>
                   </li>
                 <li><a href="/assets/policies/attendance.pdf" target="_blank">Attendance</a></li>
