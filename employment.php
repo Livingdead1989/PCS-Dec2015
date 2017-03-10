@@ -14,7 +14,7 @@
     <div class="row">
         <div class="medium-8 large-8 columns">
             <h1>Employment</h1>
-            <p class="text-capitalize">You could make a difference...</p>
+            <p class="text-capitalize"><em>“There are good opportunities for staff to develop professionally.”</em> - Ofsted</p>
         </div>
     </div>
 </header>
@@ -48,37 +48,56 @@
   </div>
   <div class="row">
     <div class="large-12 columns">
-      <h4>Documentation</h4>
-      <ul class="medium-block-grid-2">
-        <li>
-          <ul>Information
-            <li><a href="assets/recruitment/documentation/applicant-information.pdf" target="_blank">Applicant Information</a></li>
-            <li><a href="assets/recruitment/documentation/staff-dress-code.pdf" target="_blank">Staff Dress Code</a></li>
-            <li><a href="assets/recruitment/documentation/privacy-statement.pdf" target="_blank">Privacy Statement</a></li>
-          </ul>
-        </li>
-        <li>
-          <ul>Forms | <small>Downloadable Word Documents</small>
-            <li><a href="assets/recruitment/documentation/equalities-form.docx" target="_blank">Equalities Form</a></li>
-            <li><a href="assets/recruitment/documentation/teaching-application-form.docx" target="_blank">Teaching Application Form</a></li>
-            <li><a href="assets/recruitment/documentation/support-application-form.docx" target="_blank">Support Application Form</a></li>
-          </ul>
-        </li>
-      </ul>
-      <hr>
-      <br>
-      <p>Note: for legal reasons, we cannot accept CVs as a form of application, and therefore ask all applicants to complete our application form and Equal Opportunities Monitoring Form. Completed forms can be sent to <a href="javascript:location='mailto:\u0072\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void%200">Recruitment @ pcs.hants.sch.uk</a>.</p>
-      <p>Park Community School and Hampshire County Council are committed to safeguarding and promoting the welfare of children and young people and expect all staff and volunteers to share this commitment. We will ensure that all our recruitment and selection practices reflect this commitment.</p>
-      <p>All successful candidates will be subject to satisfactory references and other relevant pre-employment checks including Disclosure and Barring Services (DBS) and medical clearance.</p>
-      <p>View our Child Protection Policy on our <a href="/policies.php">policies page</a>.</p>
+      <blockquote>
+        “Staff are very positive about the high-quality support they receive, especially the coaching programme, which enables them to become self-reflective and identify accurately their areas for development.”
+        <br><br>
+        “The highly motivated staff fully subscribe to the ethos of the school and are ambitious for their pupils.”
+         - <cite>Ofsted January 2017</cite>
+      </blockquote>
     </div>
   </div>
   <br><br><br>
 </section>
-<!-- Terms -->
+
+
 <section>
   <div class="row">
       <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+  </div>
+    <div class="row">
+      <div class="large-12 columns">
+        <h4>Documentation</h4>
+        <ul class="medium-block-grid-2">
+          <li>
+            <ul>Information
+              <li><a href="assets/recruitment/documentation/applicant-information.pdf" target="_blank">Applicant Information</a></li>
+              <li><a href="assets/recruitment/documentation/staff-dress-code.pdf" target="_blank">Staff Dress Code</a></li>
+              <li><a href="assets/recruitment/documentation/privacy-statement.pdf" target="_blank">Privacy Statement</a></li>
+            </ul>
+          </li>
+          <li>
+            <ul>Forms | <small>Downloadable Word Documents</small>
+              <li><a href="assets/recruitment/documentation/equalities-form.docx" target="_blank">Equalities Form</a></li>
+              <li><a href="assets/recruitment/documentation/teaching-application-form.docx" target="_blank">Teaching Application Form</a></li>
+              <li><a href="assets/recruitment/documentation/support-application-form.docx" target="_blank">Support Application Form</a></li>
+            </ul>
+          </li>
+        </ul>
+        <hr>
+        <br>
+        <p>Note: for legal reasons, we cannot accept CVs as a form of application, and therefore ask all applicants to complete our application form and Equal Opportunities Monitoring Form. Completed forms can be sent to <a href="javascript:location='mailto:\u0072\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void%200">Recruitment @ pcs.hants.sch.uk</a>.</p>
+        <p>Park Community School and Hampshire County Council are committed to safeguarding and promoting the welfare of children and young people and expect all staff and volunteers to share this commitment. We will ensure that all our recruitment and selection practices reflect this commitment.</p>
+        <p>All successful candidates will be subject to satisfactory references and other relevant pre-employment checks including Disclosure and Barring Services (DBS) and medical clearance.</p>
+        <p>View our Child Protection Policy on our <a href="/policies.php">policies page</a>.</p>
+      </div>
+    </div>
+    <br><br><br>
+</section>
+
+<!-- Terms -->
+<section class="grey-bg">
+  <div class="row">
+      <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
   </div>
     <div class="row">
         <div class="small-12 medium-7 large-8 columns">
@@ -92,10 +111,18 @@
           <img src="images/general/general-25.jpg" alt="Park Community School, much more than just a school" />
         </div>
     </div>
+    <br><br><br>
+</section>
+
+
+
+<section>
+  <div class="row">
+      <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+  </div>
     <div class="row">
-      <br>
       <div class="large-12 columns">
-        <h5>Helpful Resources</h5>
+        <h4>Helpful Resources</h4>
         <ul class="medium-block-grid-2 large-block-grid-3">
           <li><a href="//www3.hants.gov.uk/hampshirecountycouncil/portal-help/hr/salaryexpensesbenefits.htm#step-2" target="_blank">HCC – Salary and Employee Benefits</a></li>
           <li><a href="//www3.hants.gov.uk/education/educationjobshampshire.htm" target="_blank">Hampshire Jobs in Education</a></li>
@@ -104,7 +131,7 @@
 
       </div>
     </div>
-    <br><br><br>
+    <br><br>
 </section>
 
 <!-- FOOTER -->
