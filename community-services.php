@@ -31,7 +31,8 @@
             <p>Click here for more information about our parties.</p>
 
             <div class="small-only-text-center">
-                <a href="assets/Park-Party-Leaflet.pdf" target="_blank" class="button radius">Party Flyer</a>
+                <a href="assets/community/PartyLeaflet.pdf" target="_blank" class="button radius">Party Flyer</a>
+                <a href="assets/community/AdvertisingFlyer.pdf" target="_blank" class="button radius">Awards Presentations</a>
             </div>
 
 
