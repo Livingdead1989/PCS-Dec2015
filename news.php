@@ -151,17 +151,22 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-8 columns">
+        <div class="medium-6 columns">
             <h4>BBC News Day</h4>
-            <ul class="circle">
-                <li><a href="/bbcnewsday.php">2016 Submissions</a></li>
-            </ul>
-
+            <p>BBC News School Report gives 11-16 year-old students in the UK the chance to make their own news reports for a real audience.</p>
+            <p>View our submissions and follow along with the day.</p>
+            <div class="text-center">
+              <a class="button success" href="/bbcnewsday.php">Submissions</a>
+              <br><br>
+              <img src="images/news/bbcnewsday.jpg" style="height: 200px; width: 200px;" alt="BBC School News Day">
+              <br><br>
+            </div>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
-            <br class="hide-for-small-only"><img src="images/news/bbcnewsday.jpg" alt="BBC News Day"><br><br>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns">
+            <a class="twitter-timeline" data-height="600" data-dnt="true" href="https://twitter.com/BBCSchoolReport">Tweets by BBCSchoolReport</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
     </div>
+    <br><br>
 </section>
 
 <!-- FOOTER -->
