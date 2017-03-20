@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" >
     <head>
-        
+
         <title>Park Community School | BBC News Day</title>
         <?php include("includes/head.html") ?>
     </head>
@@ -24,13 +24,27 @@
     <div class="row">
         <br>
         <div class="medium-12 columns">
-            <h3>Awaiting Content</h3>
-            <p>please come back soon for the uploaded content.</p>
+            <h3>BBC News Day 2017</h3>
+            <video src="assets/news/bbcschoolnews/2017-ExamStress.mp4" controls>Exam Stress</video>
+            <p>Exam Stress</p>
+            <br>
+
+            <video src="assets/news/bbcschoolnews/2017-RoyalFamily.mp4" controls>Royal Family</video>
+            <p>Royal Family</p>
+            <br>
+
+            <video src="assets/news/bbcschoolnews/2017-ScienceWeek.mp4" controls>Science Week</video>
+            <p>Science Week</p>
+            <br>
+
+            <video src="assets/news/bbcschoolnews/2017-TheFivePoundNote.mp4" controls>The Five Pound Note</video>
+            <p>The Five Pound Note</p>
+            <br>
 
 
     </div>
 </section>
-    
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
