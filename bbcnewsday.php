@@ -25,19 +25,31 @@
         <br>
         <div class="medium-12 columns">
             <h3>BBC News Day 2017</h3>
-            <video src="assets/news/bbcschoolnews/2017-ExamStress.mp4" controls>Exam Stress</video>
+
+            <div class="flex-video widescreen border-radius-5">
+              <video src="assets/news/bbcschoolnews/2017-ExamStress.mp4" controls>Exam Stress</video>
+            </div>
             <p>Exam Stress</p>
             <br>
 
-            <video src="assets/news/bbcschoolnews/2017-RoyalFamily.mp4" controls>Royal Family</video>
+
+            <div class="flex-video widescreen border-radius-5">
+              <video src="assets/news/bbcschoolnews/2017-RoyalFamily.mp4" controls>Royal Family</video>
+            </div>
             <p>Royal Family</p>
             <br>
 
-            <video src="assets/news/bbcschoolnews/2017-ScienceWeek.mp4" controls>Science Week</video>
+
+            <div class="flex-video widescreen border-radius-5">
+              <video src="assets/news/bbcschoolnews/2017-ScienceWeek.mp4" controls>Science Week</video>
+            </div>
             <p>Science Week</p>
             <br>
 
-            <video src="assets/news/bbcschoolnews/2017-TheFivePoundNote.mp4" controls>The Five Pound Note</video>
+
+            <div class="flex-video widescreen border-radius-5">
+              <video src="assets/news/bbcschoolnews/2017-TheFivePoundNote.mp4" controls>The Five Pound Note</video>
+            </div>
             <p>The Five Pound Note</p>
             <br>
 
