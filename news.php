@@ -169,6 +169,37 @@
     <br><br>
 </section>
 
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row" id="BloodHoundEvent2017">
+        <div class="medium-12 columns">
+            <h4>Race for the Line - BLOODHOUND Project</h4>
+            <p>The BLOODHOUND project is aimed to inspire students in science with a hands on expierence making and using rocket cars with the aid of a <a href="//microbit.org/" target="_blank">BBCMicroBit</a> to record data. for more information about the BLOODHOUND project visit their website <a href="//www.bloodhoundssc.com/" target="_blank">BLOODHOUNDSSC</a>.</p>
+            <div class="flex-video widescreen border-radius-5">
+              <iframe src='https://pcshantssch.sharepoint.com/portals/hub/_layouts/15/VideoEmbedHost.aspx?chId=12c9fbcf%2Dd8a1%2D4e36%2D91fe%2D8f198140b87e&amp;vId=af04c4ef%2Ddc1e%2D4221%2Db6e7%2D6c9bfe134026&amp;width=853&amp;height=480&amp;autoPlay=false&amp;showInfo=false' allowfullscreen></iframe>
+            </div>
+
+            <ul class="medium-block-grid-4 small-block-grid-2 text-center">
+              <p>Follow the BLOODHOUND Project</p>
+                <li><i class="fa fa-facebook-official"></i> <a href="//www.facebook.com/BLOODHOUNDSSC" target="_blank">Facebook</a></li>
+                <li><i class="fa fa-twitter-square"></i> <a href="//twitter.com/BLOODHOUND_SSC" target="_blank">Twitter</a></li>
+                <li><i class="fa fa-instagram"></i> <a href="//www.youtube.com/user/1050mph" target="_blank">YouTube</a></li>
+                <li><i class="fa fa-instagram"></i> <a href="//www.flickr.com/photos/stefanmarjoram/sets/72157627819481179/" target="_blank">Flickr</a></li>
+            </ul>
+        </div>
+    </div>
+    <br><br><br>
+</section>
+
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
