@@ -183,10 +183,10 @@
 
             <ul class="medium-block-grid-4 small-block-grid-2 text-center">
               <p>Follow the BLOODHOUND Project</p>
-                <li><i class="fa fa-facebook-official"></i> <a href="//www.facebook.com/BLOODHOUNDSSC" target="_blank">Facebook</a></li>
-                <li><i class="fa fa-twitter-square"></i> <a href="//twitter.com/BLOODHOUND_SSC" target="_blank">Twitter</a></li>
-                <li><i class="fa fa-instagram"></i> <a href="//www.youtube.com/user/1050mph" target="_blank">YouTube</a></li>
-                <li><i class="fa fa-instagram"></i> <a href="//www.flickr.com/photos/stefanmarjoram/sets/72157627819481179/" target="_blank">Flickr</a></li>
+                <li><i class="fa fa-facebook-official" aria-hidden="true"></i> <a href="//www.facebook.com/BLOODHOUNDSSC" target="_blank">Facebook</a></li>
+                <li><i class="fa fa-twitter-square" aria-hidden="true"></i> <a href="//twitter.com/BLOODHOUND_SSC" target="_blank">Twitter</a></li>
+                <li><i class="fa fa-instagram" aria-hidden="true"></i> <a href="//www.youtube.com/user/1050mph" target="_blank">YouTube</a></li>
+                <li><i class="fa fa-flickr" aria-hidden="true"></i> <a href="//www.flickr.com/photos/stefanmarjoram/sets/72157627819481179/" target="_blank">Flickr</a></li>
             </ul>
         </div>
     </div>
