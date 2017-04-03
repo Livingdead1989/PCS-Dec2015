@@ -34,13 +34,43 @@
           </li>   -->
 
           <li>
-            <h3>Curious Incident of Dog</h3>
-            <p>Thursday 30th March 2017</p>
-            <p>Lead Teacher – Miss Spies</p>
-            <p>Cost - £23.00</p>
-            <p><strong>4 SPACES CURRENTLY AVAILABLE (19/01/17)</strong></p>
+            <h3>Creating Aspirations for the Future – Krakow, Poland</h3>
+            <p>Wednesday 15th – Friday 17th November 2017</p>
+            <p>Trip Leader – Miss Wingham</p>
+            <p>Cost - £380.00</p>
+            <p><strong>20 SPACES AVAILABLE (YEAR 9 ONLY)</strong></p>
           </li>
-          
+          <table>
+            <tr>
+              <td>Non-refundable Deposit</td>
+              <td>Due by</td>
+            </tr>
+            <tr>
+              <td>£100.00</td>
+              <td>31.03.2017</td>
+            </tr>
+            <tr>
+              <td>Instalments</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>£70.00</td>
+              <td>28.04.2017</td>
+            </tr>
+            <tr>
+              <td>£70.00</td>
+              <td>26.05.2017</td>
+            </tr>
+            <tr>
+              <td>£70.00</td>
+              <td>30.06.2017</td>
+            </tr>
+            <tr>
+              <td>£70.00</td>
+              <td>21.07.2017</td>
+            </tr>
+          </table>
+
         </ul>
 
         <p>Payments can now be made Online via <a href="//www.scopay.com/pcs" target="_blank">SCO Online Payments</a>.</p>
