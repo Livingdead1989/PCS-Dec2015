@@ -27,6 +27,11 @@
         <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
               <li>
+                  <ul class="circle">April 2017<hr>
+                      <li><a href="/assets/letters/april-2017/RaceatOurPlace-Y11Y10exams-uniform-absenceNotification.pdf" target="_blank">Race at Our Place, Yr11 Yr10 exams, uniform and absence notification</a></li>
+                  </ul>
+              </li>
+              <li>
                   <ul class="circle">February 2017<hr>
                       <li><a href="/assets/letters/february-2017/ESafety.pdf" target="_blank">ESafety</a></li>
                       <li><a href="/assets/letters/february-2017/Statement-from-the-Governing-Bodies-and-Headteachers-of-Havant-Federation-of-Secondary-Schools.pdf" target="_blank">Statement from the Governing Bodies and Headteachers of Havant Federation of Secondary Schools</a></li>
