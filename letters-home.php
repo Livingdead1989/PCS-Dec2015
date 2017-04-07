@@ -29,6 +29,7 @@
               <li>
                   <ul class="circle">April 2017<hr>
                       <li><a href="/assets/letters/april-2017/RaceatOurPlace-Y11Y10exams-uniform-absenceNotification.pdf" target="_blank">Race at Our Place, Yr11 Yr10 exams, uniform and absence notification</a></li>
+                      <li><a href="/assets/letters/april-2017/KA4Reports-InsetDay10July2017.pdf" target="_blank">KA4 Reports and Inset Day 10th July 2017</a></li>
                   </ul>
               </li>
               <li>
@@ -47,50 +48,6 @@
               <li>
                   <ul class="circle">November 2016<hr>
                       <li><a href="/assets/letters/november-2016/november-2016-behaviour-system.pdf" target="_blank">Behaviour System</a></li>
-                  </ul>
-              </li>
-              <li>
-                  <ul class="circle">October 2016<hr>
-                      <li><a href="/assets/letters/october-2016/Halloween-NonUniform-Punctuality-ClownCraze-KeyDates.pdf" target="_blank">Halloween, Non-Uniform Day, Punctuality, Clown Craze and Key Dates</a></li>
-                      <li><a href="/assets/letters/october-2016/Y11College-Apprenticeship-interviews.pdf" target="_blank">Year 11 College and Apprenticeship Interviews</a></li>
-                      <li><a href="/assets/letters/october-2016/Y11ParentsEvening-9Nov2016.pdf" target="_blank">Year 11 Parents Evening 9th Nov 2016</a></li>
-                  </ul>
-              </li>
-              <li>
-                  <ul class="circle">September 2016<hr>
-                      <li><a href="/assets/letters/september-2016/Year-11-parents-key-information.pdf" target="_blank">Year 11 Parents Key Information</a></li>
-                      <li><a href="/assets/letters/september-2016/Year-11-students-key information.pdf" target="_blank">Year 11 Students Key Information</a></li>
-                      <li><a href="/assets/letters/september-2016/Y10-English-Literature exam.pdf" target="_blank">Year 10 English Literature Exam</a></li>
-                      <li><a href="/assets/letters/september-2016/Year-10-attendance-and-P6-sessions.pdf" target="_blank">Year 10 Attendance and P6 Sessions</a></li>
-                      <li><a href="/assets/letters/september-2016/Behaviour-System.pdf" target="_blank">Behaviour System</a></li>
-                      <li><a href="/assets/letters/september-2016/Results.pdf" target="_blank">Results</a></li>
-                  </ul>
-              </li>
-				      <li>
-                  <ul class="circle">July 2016<hr>
-                      <li><a href="/assets/letters/july-2016/BadHair-EndStartAcademicYear-BehaviourPolicy.pdf" target="_blank">Bad Hair Week, Academic Year and Behaviour Policy</a></li>
-                  </ul>
-              </li>
-              <li>
-                  <ul class="circle">June 2016<hr>
-                      <li><a href="/assets/letters/june-2016/FreshersWeek.pdf" target="_blank">Fresher Week</a></li>
-                  </ul>
-              </li>
-              <li>
-                  <ul class="circle">May 2016<hr>
-                      <li><a href="/assets/letters/may-2016/KA5Data-Holidays-Exams-SchoolUniform.pdf" target="_blank">KA5 Data, Holidays in term time, Exams and School Uniform</a></li>
-                  </ul>
-              </li>
-              <li>
-                  <ul class="circle">March 2016<hr>
-                      <li><a href="/assets/letters/march-2016/Assessment-Guidance-2016.pdf" target="_blank">Assessment Guidance for Parents 2016</a></li>
-                      <li><a href="/assets/letters/march-2016/Spring-Term-Highlights.pdf" target="_blank">Spring Term Highlights</a></li>
-                      <li><a href="/assets/letters/march-2016/Year-10-and-11-Exams.pdf" target="_blank">Year 10 and 11 Exams</a></li>
-                  </ul>
-              </li>
-              <li>
-                  <ul class="circle">February 2016<hr>
-                      <li><a href="/assets/letters/february-2016/MyEdApp-DressCode-Keydates.pdf" target="_blank">My Ed App, Dress code &amp; Key dates</a></li>
                   </ul>
               </li>
 
