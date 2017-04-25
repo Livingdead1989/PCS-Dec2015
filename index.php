@@ -31,13 +31,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p>Munch over Easter - <a style="color: #000000;" href="/assets/munchFlyer.pdf" target="_blank">View the PDF</a></p>
+      <p></p>
     </div>
   </div>
-</section>
+</section> -->
 
 
 <!-- CONTENT -->
