@@ -37,6 +37,7 @@
                 <li><a href="/assets/policies/attendance.pdf" target="_blank">Attendance</a></li>
                 <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour for Learning</a></li>
                 <li><a href="/assets/policies/CEIAG.pdf" target="_blank">Careers Education, Information, Advice and Guidance</a></li>
+                    <li><a href="/assets/policies/StudentEntitlementIAG.pdf" target="_blank">Student Entitlement in IAG</a></li>
                 <li><a href="/assets/policies/charging-and-remissions.pdf" target="_blank">Charging and Remissions</a></li>
                 <li><a href="/assets/policies/child-protection.pdf" target="_blank">Child Protection</a></li>
                 <li><a href="/assets/policies/data-protection.pdf" target="_blank">Data Protection</a></li>
