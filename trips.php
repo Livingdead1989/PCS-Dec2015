@@ -33,43 +33,90 @@
             <p>Cost - £00.00</p>
           </li>   -->
 
+          <!-- Poland Trip -->
           <li>
             <h3>Creating Aspirations for the Future – Krakow, Poland</h3>
             <p>Wednesday 15th – Friday 17th November 2017</p>
             <p>Trip Leader – Miss Wingham</p>
             <p>Cost - £380.00</p>
             <p><strong>20 SPACES AVAILABLE (YEAR 9 ONLY)</strong></p>
+            <table>
+              <tr>
+                <td>Non-refundable Deposit</td>
+                <td>Due by</td>
+              </tr>
+              <tr>
+                <td>£100.00</td>
+                <td>31.03.2017</td>
+              </tr>
+              <tr>
+                <td>Instalments</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>£70.00</td>
+                <td>28.04.2017</td>
+              </tr>
+              <tr>
+                <td>£70.00</td>
+                <td>26.05.2017</td>
+              </tr>
+              <tr>
+                <td>£70.00</td>
+                <td>30.06.2017</td>
+              </tr>
+              <tr>
+                <td>£70.00</td>
+                <td>21.07.2017</td>
+              </tr>
+            </table>
           </li>
-          <table>
-            <tr>
-              <td>Non-refundable Deposit</td>
-              <td>Due by</td>
-            </tr>
-            <tr>
-              <td>£100.00</td>
-              <td>31.03.2017</td>
-            </tr>
-            <tr>
-              <td>Instalments</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>£70.00</td>
-              <td>28.04.2017</td>
-            </tr>
-            <tr>
-              <td>£70.00</td>
-              <td>26.05.2017</td>
-            </tr>
-            <tr>
-              <td>£70.00</td>
-              <td>30.06.2017</td>
-            </tr>
-            <tr>
-              <td>£70.00</td>
-              <td>21.07.2017</td>
-            </tr>
-          </table>
+          <!-- End Poland Trip -->
+
+          <!-- Disneyland Trip -->
+          <li>
+            <h3>Disneyland Paris 2018</h3>
+            <p>Tuesday 30th January to Friday 2nd February 2018</p>
+            <p>Trip Leader – Mrs Butler</p>
+            <p>Cost - £299</p>
+            <p><strong>Year 8 Trip Only - First Come First Served - LIMITED SPACES</strong></p>
+            <table>
+              <tr>
+                <td>Non-refundable Deposit</td>
+                <td>Due by</td>
+              </tr>
+              <tr>
+                <td>£99.00</td>
+                <td>26.05.2017</td>
+              </tr>
+              <tr>
+                <td>Instalments</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>£40.00</td>
+                <td>30.06.2017</td>
+              </tr>
+              <tr>
+                <td>£40.00</td>
+                <td>25.07.2017</td>
+              </tr>
+              <tr>
+                <td>£40.00</td>
+                <td>08.09.2017</td>
+              </tr>
+              <tr>
+                <td>£40.00</td>
+                <td>06.10.2017</td>
+              </tr>
+              <tr>
+                <td>£40.00</td>
+                <td>10.11.2017</td>
+              </tr>
+            </table>
+          </li>
+          <!-- End Disneyland Trip -->
+          
 
         </ul>
 
