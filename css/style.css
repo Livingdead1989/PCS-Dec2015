@@ -1,3 +1,6 @@
+.hidden {
+    display: none !important;
+}
 .hr-logo, .menu-box p, header {
     position: relative;
 }
