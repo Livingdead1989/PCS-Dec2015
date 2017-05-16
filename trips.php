@@ -39,7 +39,8 @@
             <p>Lead Teacher – Mrs Lawrence</p>
             <p>Cost - £17.00</p>
             <p><strong>Payment due by Thursday 25th May</strong></p>
-          </li>  
+          </li> 
+          <hr> 
 
           <li>
             <h3>Dickens &amp; Brunel Family Trip to Calshot Activity Centre</h3>
@@ -49,6 +50,7 @@
             <p><strong>Payment due by Friday 9th June</strong></p>
             <p><strong>FIRST COME FIRST SERVED – LIMITED SPACES</strong></p>
           </li>  
+          <hr> 
 
           <li>
             <h3>Austin &amp; Nelson Family Trip to Longleat</h3>
@@ -58,6 +60,7 @@
             <p><strong>Payment due by Friday 9th June</strong></p>
             <p><strong>FIRST COME FIRST SERVED – LIMITED SPACES</strong></p>
           </li>  
+          <hr> 
 
           <!-- Poland Trip -->
           <li>
@@ -97,6 +100,7 @@
               </tr>
             </table>
           </li>
+          <hr> 
           <!-- End Poland Trip -->
 
           <!-- Disneyland Trip -->
@@ -141,6 +145,7 @@
               </tr>
             </table>
           </li>
+          <hr> 
           <!-- End Disneyland Trip -->
           
 
