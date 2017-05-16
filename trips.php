@@ -33,6 +33,32 @@
             <p>Cost - £00.00</p>
           </li>   -->
 
+          <li>
+            <h3>Photography Trip to Kew Gardens</h3>
+            <p>Wednesday 7th June 2017</p>
+            <p>Lead Teacher – Mrs Lawrence</p>
+            <p>Cost - £17.00</p>
+            <p><strong>Payment due by Thursday 25th May</strong></p>
+          </li>  
+
+          <li>
+            <h3>Dickens &amp; Brunel Family Trip to Calshot Activity Centre</h3>
+            <p>Monday 24th July 2017</p>
+            <p>Lead Teacher – Miss Smith &amp; Mr Taylor</p>
+            <p>Cost - £27.00</p>
+            <p><strong>Payment due by Friday 9th June</strong></p>
+            <p><strong>FIRST COME FIRST SERVED – LIMITED SPACES</strong></p>
+          </li>  
+
+          <li>
+            <h3>Austin &amp; Nelson Family Trip to Longleat</h3>
+            <p>Monday 24th July 2017</p>
+            <p>Lead Teacher – Miss Wingham</p>
+            <p>Cost - £12.00</p>
+            <p><strong>Payment due by Friday 9th June</strong></p>
+            <p><strong>FIRST COME FIRST SERVED – LIMITED SPACES</strong></p>
+          </li>  
+
           <!-- Poland Trip -->
           <li>
             <h3>Creating Aspirations for the Future – Krakow, Poland</h3>
