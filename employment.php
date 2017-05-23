@@ -29,6 +29,10 @@
         <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
         <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
         <li>School Medical Officer<br><span class="subheader"><a href="assets/recruitment/SchoolMedicalOfficer.pdf" target="_blank">Position Details</a></span></li>
+
+        <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/English.pdf" target="_blank">Position Details</a></span></li>
+        <li>Computer Science Teacher<br><span class="subheader"><a href="assets/recruitment/ComputerScience.pdf" target="_blank">Position Details</a></span></li>
+        <li>Science Teacher<br><span class="subheader"><a href="assets/recruitment/Science.pdf" target="_blank">Position Details</a></span></li>
       </ul>
       <hr>
       <h5><small>Information about School Direct visit <br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>
