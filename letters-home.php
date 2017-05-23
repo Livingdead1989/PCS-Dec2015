@@ -26,6 +26,11 @@
         <div class="medium-12 columns">
         <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
+            	<li>
+                  <ul class="circle">May 2017<hr>
+                      <li><a href="/assets/letters/2017-05/yr11_exams.pdf" target="_blank">Year 11 Exams</a></li>
+                  </ul>
+              </li>
               <li>
                   <ul class="circle">April 2017<hr>
                       <li><a href="/assets/letters/april-2017/RaceatOurPlace-Y11Y10exams-uniform-absenceNotification.pdf" target="_blank">Race at Our Place, Yr11 Yr10 exams, uniform and absence notification</a></li>
