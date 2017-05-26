@@ -31,6 +31,7 @@
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
               <li>
                 <ul class="circle">Summer 2017
+                  <li><a href="assets/assemblies/summer-2017/SMSC2.pdf" target="_blank">Industrious, Tenacity, Resilient and Confident</a></li>
                   <li><a href="assets/assemblies/summer-2017/SMSC1.pdf" target="_blank">Mistakes, Tenacity, Resilience and Confidence</a></li>
                 </ul>
               </li>
