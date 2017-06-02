@@ -72,11 +72,7 @@
                 <div class="large-11 columns">
                 <br>
                 <h3>Welcome to Park...</h3>
-                    <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
-                      <!-- <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4_9icLT-LuUzDuInfzsBwP2ufiveUdQ5&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-                      <video src="assets/ofstedcomments.mp4" controls poster="assets/OfstedCommentsPoster.png"></video>
-                    </div>
-                    <div class="text-center">
+                <div class="text-center">
                         <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">The Headteacher's Welcome</a>
 
                         <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
@@ -95,10 +91,8 @@
                             <div class="small-8 column">
                               <h2 id="modalTitle">Year 6 Welcome</h2>
                               <p class="lead">Welcome to Park Community School!</p>
-                              <p>We are delighted that your son/daughter will be joining us as a Year 7 in September 2017.
-                              <br>You will soon be sent some key dates about when they will be coming to visit us in the Summer Term of Year 6.
-                              <br>We will also be visiting them in their current schools during the Summer Term.</p>
-                              <p>We are looking forward to meeting you soon.</p>
+                              <p>We are delighted that your son/daughter will be joining us as a Year 7 in September 2017. You will soon be sent some key dates about when they will be coming to visit us in the Summer Term of Year 6. We will also be visiting them in their current schools during the Summer Term. We are looking forward to meeting you soon.
+                              </p>
                               <p class="lead">Mr Anders <br>Headteacher</p>
                             </div>
                             <div class="small-4 column">
@@ -110,6 +104,11 @@
                           </div>
 
                     </div>
+                    <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
+                      <!-- <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4_9icLT-LuUzDuInfzsBwP2ufiveUdQ5&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+                      <video src="assets/ofstedcomments.mp4" controls poster="assets/OfstedCommentsPoster.png"></video>
+                    </div>
+                    
                     <br>
                 </div>
             </div>
