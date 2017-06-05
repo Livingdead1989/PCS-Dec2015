@@ -27,8 +27,15 @@
         <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
             	<li>
+                  <ul class="circle">June 2017<hr>
+                      <li><a href="/assets/letters/2017-06/2017-18_Uniform_Policy.pdf" target="_blank">2017/18 Uniform Policy</a></li>
+                      <li><a href="/assets/letters/2017-06/Discount_Week_Information.pdf" target="_blank">Discount Week Information</a></li>
+                  </ul>
+              </li>
+              <li>
                   <ul class="circle">May 2017<hr>
                       <li><a href="/assets/letters/2017-05/yr11_exams.pdf" target="_blank">Year 11 Exams</a></li>
+                      <li><a href="/assets/letters/2017-05/Blazers.pdf" target="_blank">Blazers</a></li>
                   </ul>
               </li>
               <li>
