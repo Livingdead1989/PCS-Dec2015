@@ -34,13 +34,6 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p>Hungry? <a href="assets/munch.pdf" target="_blank" style="color:black;">Munch</a> over the holidays.</p>
-    </div>
-  </div>
-</section>
-<!-- <section class="page-notification">
-  <div class="row">
-    <div class="large-12 columns">
       <p>Parent notification about <a href="#" style="color:black;" data-reveal-id="page-notification-modal">fidget toys</a>.</p>
     </div>
   </div>
@@ -59,7 +52,7 @@
 
 
   <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-</div> -->
+</div>
 <!-- END NOTIFICATION -->
 
 

@@ -39,11 +39,7 @@
 	            <p>Info</p>
 	          </li>   -->
 
-	          <li>
-	            <h3><a href="assets/munch.pdf" target="_blank">Munch</a></h3>
-	            <p>30th May 2017 – 2nd June 2017</p>
-	            <p>Free two course meals over the holiday, Munch is free to those in receipt of free school meals, for others we suggest an optional donation of £2.<br> For more information please view the <a href="assets/munch.pdf" target="_blank">PDF</a>.</p>
-	          </li>
+	          
 	          <hr>
 
 	        </ul>
