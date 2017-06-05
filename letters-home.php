@@ -35,7 +35,7 @@
               <li>
                   <ul class="circle">May 2017<hr>
                       <li><a href="/assets/letters/2017-05/yr11_exams.pdf" target="_blank">Year 11 Exams</a></li>
-                      <li><a href="/assets/letters/2017-05/Blazers.pdf" target="_blank">Blazers</a></li>
+                      <li><a href="/assets/letters/2017-05/Blazer.pdf" target="_blank">Blazers</a></li>
                   </ul>
               </li>
               <li>
