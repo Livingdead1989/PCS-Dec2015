@@ -35,7 +35,7 @@
 
           <li>
             <h3>Photography Trip to Kew Gardens</h3>
-            <p>Wednesday 7th June 2017</p>
+            <p>Wednesday 19th July 2017</p>
             <p>Lead Teacher – Mrs Lawrence</p>
             <p>Cost - £17.00</p>
             <p><strong>Payment due by Thursday 25th May</strong></p>
