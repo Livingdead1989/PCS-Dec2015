@@ -28,7 +28,7 @@
             <ul class="small-block-grid-1 medium-block-grid-2">
             	<li>
                   <ul class="circle">June 2017<hr>
-                      <li><a href="/assets/letters/2017-06/Discount_Week_Information.pdf" target="_blank">Skool Discount Week Information</a></li>
+                      <li><a href="/assets/letters/2017-06/Discount_Week_Information.pdf" target="_blank">Skoolkit Discount Week Information</a></li>
                   </ul>
               </li>
               <li>
