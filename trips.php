@@ -38,7 +38,7 @@
             <p>Wednesday 19th July 2017</p>
             <p>Lead Teacher – Mrs Lawrence</p>
             <p>Cost - £17.00</p>
-            <p><strong>Payment due by Thursday 25th May</strong></p>
+            <p><strong>Payment due by Friday 30th June</strong></p>
           </li> 
           <hr> 
 
