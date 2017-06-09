@@ -31,7 +31,6 @@
 
         <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/English.pdf" target="_blank">Position Details</a></span></li><br>
         <li>Computer Science Teacher<br><span class="subheader"><a href="assets/recruitment/ComputerScience.pdf" target="_blank">Position Details</a></span></li><br>
-        <li>Science Teacher<br><span class="subheader"><a href="assets/recruitment/Science.pdf" target="_blank">Position Details</a></span></li><br>
       </ul>
       <hr>
       <h5><small>Information about School Direct visit <br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>
