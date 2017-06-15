@@ -31,6 +31,9 @@
 
         <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/English.pdf" target="_blank">Position Details</a></span></li><br>
         <li>Computer Science Teacher<br><span class="subheader"><a href="assets/recruitment/ComputerScience.pdf" target="_blank">Position Details</a></span></li><br>
+
+        <li>Medical Officer<br><span class="subheader"><a href="assets/recruitment/medical-officer.pdf" target="_blank">Position Details</a></span></li><br>
+        <li>Site Assistant<br><span class="subheader"><a href="assets/recruitment/site-assistant.pdf" target="_blank">Position Details</a></span></li><br>
       </ul>
       <hr>
       <h5><small>Information about School Direct visit <br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>
