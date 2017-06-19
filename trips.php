@@ -47,7 +47,6 @@
             <p>Monday 24th July 2017</p>
             <p>Lead Teacher – Miss Smith &amp; Mr Taylor</p>
             <p>Cost - £27.00</p>
-            <p><strong>Payment due by Friday 9th June</strong></p>
             <p><strong>FIRST COME FIRST SERVED – LIMITED SPACES</strong></p>
           </li>  
           <hr> 
@@ -57,7 +56,6 @@
             <p>Monday 24th July 2017</p>
             <p>Lead Teacher – Miss Wingham</p>
             <p>Cost - £12.00</p>
-            <p><strong>Payment due by Friday 9th June</strong></p>
             <p><strong>FIRST COME FIRST SERVED – LIMITED SPACES</strong></p>
           </li>  
           <hr> 
