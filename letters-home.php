@@ -28,8 +28,9 @@
             <ul class="small-block-grid-1 medium-block-grid-2">
             	<li>           	
                   <ul class="circle">June 2017<hr>
-                      <li><a href="/assets/letters/2017-06/Discount_Week_Information.pdf" target="_blank">Skoolkit Discount Week Information</a></li>
-                      <li><a href="/assets/letters/2017-06/yr11-leavers-2017.pdf" target="_blank">Year 11 Leavers 2017</a></li>
+                  	<li><a href="/assets/letters/2017-06/key_events_to_end_of_academic_year.pdf" target="_blank">Key Events to end of Academic Year</a></li>
+                    <li><a href="/assets/letters/2017-06/Discount_Week_Information.pdf" target="_blank">Skoolkit Discount Week Information</a></li>
+                    <li><a href="/assets/letters/2017-06/yr11-leavers-2017.pdf" target="_blank">Year 11 Leavers 2017</a></li>
                   </ul>
               </li>
               <li>
