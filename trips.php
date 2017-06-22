@@ -47,7 +47,7 @@
             <p>Monday 24th July 2017</p>
             <p>Lead Teacher – Miss Smith &amp; Mr Taylor</p>
             <p>Cost - £27.00</p>
-            <p><strong>FIRST COME FIRST SERVED – LIMITED SPACES</strong></p>
+            <p><strong>TRIP IS NOW FULL</strong></p>
           </li>  
           <hr> 
 
