@@ -30,7 +30,7 @@
         <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
 
         
-		<li>Business Manager PA<br><span class="subheader"><a href="assets/recruitment/pa_business_manager.pdf" target="_blank">Position Details</a></span></li><br>
+		<li>PA to Business and Community Manager<br><span class="subheader"><a href="assets/recruitment/pa_business_manager.pdf" target="_blank">Position Details</a></span></li><br>
         <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/English.pdf" target="_blank">Position Details</a></span></li><br>
         <li>Computer Science Teacher<br><span class="subheader"><a href="assets/recruitment/ComputerScience.pdf" target="_blank">Position Details</a></span></li><br>
 
