@@ -32,7 +32,7 @@
               <a class="small button radius success" href="assets/homework/homework-timetable.pdf" target="_blank">Homework Timetable</a>
             </div>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/general/general-23.jpg" alt="Park Community School - Understanding and Mastery of Subjects"></div>
+        <div class="small-offset-2 small-pull-2 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/general/general-02.jpg" alt="Park Community School - Understanding and Mastery of Subjects"></div>
     </div>
     <br><br><br>
 </section>
