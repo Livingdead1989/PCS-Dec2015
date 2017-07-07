@@ -32,7 +32,6 @@
         
 		<li>PA to Business and Community Manager<br><span class="subheader"><a href="assets/recruitment/pa_business_manager.pdf" target="_blank">Position Details</a></span></li><br>
         <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/English.pdf" target="_blank">Position Details</a></span></li><br>
-        <li>Computer Science Teacher<br><span class="subheader"><a href="assets/recruitment/ComputerScience.pdf" target="_blank">Position Details</a></span></li><br>
 
         <li>Medical Officer<br><span class="subheader"><a href="assets/recruitment/medical-officer.pdf" target="_blank">Position Details</a></span></li><br>
         <li>Site Assistant<br><span class="subheader"><a href="assets/recruitment/site-assistant.pdf" target="_blank">Position Details</a></span></li><br>
