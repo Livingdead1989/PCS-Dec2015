@@ -43,7 +43,15 @@
 	            <h3>Havant Family Support Service</h3>
 	            <p>Summer Timetable 2017</p>
 	            <p><a href="assets/events/fss-summer-timetable.pdf" target="_blank">Click to Learn More</a></p>
-	          </li>  
+	          </li>
+
+              <hr>
+
+              <li>
+                <h3>Munch</h3>
+                <p>Summer 2017</p>
+                <p><a href="assets/events/munch-summer2017.pdf" target="_blank">Click to Learn More</a></p>
+              </li>  
 
 	          
 	          <hr>
