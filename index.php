@@ -34,25 +34,10 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p>Parent notification about <a href="#" style="color:black;" data-reveal-id="page-notification-modal">fidget toys</a>.</p>
+      <p><a href="assets/events/munch-summer2017.pdf" target="_blank" style="color:#474747;">Summer Holiday Munch &amp; The New Munch Fridge</a>.</p>
     </div>
   </div>
 </section>
-
-
-
-<div id="page-notification-modal" class="reveal-modal" data-reveal aria-labelledby="Notification" aria-hidden="true" role="dialog">
-  <h2 id="page-notification-modal">Fidget Toys</h2>
-  
-	<p class="lead">Dear Parents</p>
-
-	<p>By now you are likely to have seen the new fidget toys - the cubes and the spinners.</p>
-	<p>Many students with them are not actually aware as to how they are used to support concentration and promote learning rather than being a distraction so they may require your guidance on this. Students using them shouldn't be fixated with looking at them when fiddling / spinning, the concept is that they provide something for their hands to do (like doodling) in order to help them better focus on what they are watching or listening to. They are intended for students who struggle to focus or to maintain focus and are specifically designed to support students with ADHD and autistic spectrum condition.</p>
-	<p>We do not wish to ban them from school, however some designs do cause concern and should not be bought into school. Spinners with sharp edges or points should not be in school nor should those with flashing lights which will be a greater distraction to other students. Spinners may be confiscated if their use or design causes concern.</p>
-
-
-  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-</div>
 <!-- END NOTIFICATION -->
 
 
