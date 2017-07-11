@@ -29,7 +29,7 @@
         <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
         <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
 
-        
+        <li>Construction Skills Instructor/Co-ordinator<br><span class="subheader"><a href="assets/recruitment/construction-skills.pdf" target="_blank">Position Details</a></span></li><br>
 		<li>PA to Business and Community Manager<br><span class="subheader"><a href="assets/recruitment/pa_business_manager.pdf" target="_blank">Position Details</a></span></li><br>
         <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/English.pdf" target="_blank">Position Details</a></span></li><br>
         <li>Site Assistant<br><span class="subheader"><a href="assets/recruitment/site-assistant.pdf" target="_blank">Position Details</a></span></li><br>
