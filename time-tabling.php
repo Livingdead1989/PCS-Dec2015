@@ -30,7 +30,7 @@
                 <br>
                 <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
                 <br>
-                <li><a href="/assets/timetabling/exams-2016.pdf" target="_blank">Exams Timetable - <br>Years 10 &amp; 11 - May to June 2016.</a></li>
+                <li>Exams Timetable - <br>N/A</li>
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Available in downloadable and printable PDF format.</small></h5>
         </div>
