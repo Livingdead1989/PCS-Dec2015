@@ -97,10 +97,15 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
 
+	<div class="row">
+		<div class="column">
+			<h4>Soil Association Food for Life</h4>
+            <p>Park Community School has been awarded the Bronze award which means that our food is local, ethical, sustainable and fresh.</p>
+		<br>
+		</div>
+	</div>
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
-            <h4>Soil Association Food for Life</h4>
-            <p>Park Community School has been awarded the Bronze award which means that our food is ethical, sustainable and fresh, free from nasty additives and trans fats and meets school food standards.</p>
 
             <h5>Bronze Standards include</h5>
               <ul class="circle">
@@ -111,12 +116,29 @@
                 <li>Compliance with national standards or guidelines on food and nutrition</li>
               </ul>
 
-            <p>For a full list please visit the <a href="//www.soilassociation.org/certification/the-food-for-life-catering-mark/business-support-for-award-holders/standards/bronze-standards/" target="_blank">Soil Association website</a>.</p>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/SoilAssociation-Bronze.png" alt="Soil Association Food for Life - Bronze School Award"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/soilassociation-bronze.png" alt="Soil Association Food for Life - Bronze School Award"><br><br></div>
     </div>
-    <br><br>
+
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+            
+            <h5>Silver Standards include</h5>
+              <ul class="circle">
+                <li>Ethical and environmentally friendly food</li>
+                <li>Making healthy eating easy</li>
+                <li>Championing local producers</li>
+              </ul>
+
+            <p>For a full list please visit the <a href="//www.soilassociation.org/certification/the-food-for-life-catering-mark/business-support-for-award-holders/standards/" target="_blank">Soil Association website</a>.</p>
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/soilassociation-silver.png" alt="Soil Association Food for Life - Silver School Award"></div>
+    </div>
+    <br><br><br>
 </section>
+
+
+
 
 <section>
     <div class="row">
