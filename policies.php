@@ -47,6 +47,7 @@
                 <li><a href="/assets/policies/Health-and-Safety.pdf" target="_blank">Health and Safety</a></li>
                 <li><a href="/assets/policies/Homework.pdf" target="_blank">Homework</a></li>
                 <li><a href="/assets/policies/Administration-of-Medicines.pdf" target="_blank">Administration of Medicines</a></li>
+                <li><a href="/assets/policies/medical-conditions.pdf" target="_blank">Supporting Students with Medical Conditions</a></li>
                 <li><a href="/assets/policies/Prevention-of-Radicalisation-and-Extremism - Jan-2016.pdf" target="_blank">Prevention of Radicalisation and Extremism</a></li>
                 <li><a href="/assets/policies/safeguarding.pdf" target="_blank">Safeguarding</a></li>
                 <li>Sex Education</li>
