@@ -34,15 +34,6 @@
           </li>   -->
 
           <li>
-            <h3>Photography Trip to Kew Gardens</h3>
-            <p>Wednesday 19th July 2017</p>
-            <p>Lead Teacher – Mrs Lawrence</p>
-            <p>Cost - £17.00</p>
-            <p><strong>Payment due by Friday 30th June</strong></p>
-          </li> 
-          <hr> 
-
-          <li>
             <h3>Dickens &amp; Brunel Family Trip to Calshot Activity Centre</h3>
             <p>Monday 24th July 2017</p>
             <p>Lead Teacher – Miss Smith &amp; Mr Taylor</p>
@@ -59,47 +50,6 @@
             <p><strong>FIRST COME FIRST SERVED – LIMITED SPACES</strong></p>
           </li>  
           <hr> 
-
-          <!-- Poland Trip -->
-          <li>
-            <h3>Creating Aspirations for the Future – Krakow, Poland</h3>
-            <p>Wednesday 15th – Friday 17th November 2017</p>
-            <p>Trip Leader – Miss Wingham</p>
-            <p>Cost - £380.00</p>
-            <p><strong>20 SPACES AVAILABLE (YEAR 9 ONLY)</strong></p>
-            <table>
-              <tr>
-                <td>Non-refundable Deposit</td>
-                <td>Due by</td>
-              </tr>
-              <tr>
-                <td>£100.00</td>
-                <td>31.03.2017</td>
-              </tr>
-              <tr>
-                <td>Instalments</td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>£70.00</td>
-                <td>28.04.2017</td>
-              </tr>
-              <tr>
-                <td>£70.00</td>
-                <td>26.05.2017</td>
-              </tr>
-              <tr>
-                <td>£70.00</td>
-                <td>30.06.2017</td>
-              </tr>
-              <tr>
-                <td>£70.00</td>
-                <td>21.07.2017</td>
-              </tr>
-            </table>
-          </li>
-          <hr> 
-          <!-- End Poland Trip -->
 
           <!-- Disneyland Trip -->
           <li>
