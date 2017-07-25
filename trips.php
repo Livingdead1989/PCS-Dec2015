@@ -33,24 +33,6 @@
             <p>Cost - £00.00</p>
           </li>   -->
 
-          <li>
-            <h3>Dickens &amp; Brunel Family Trip to Calshot Activity Centre</h3>
-            <p>Monday 24th July 2017</p>
-            <p>Lead Teacher – Miss Smith &amp; Mr Taylor</p>
-            <p>Cost - £27.00</p>
-            <p><strong>2 SPACES AVAILABLE</strong></p>
-          </li>  
-          <hr> 
-
-          <li>
-            <h3>Austin &amp; Nelson Family Trip to Longleat</h3>
-            <p>Monday 24th July 2017</p>
-            <p>Lead Teacher – Miss Wingham</p>
-            <p>Cost - £12.00</p>
-            <p><strong>FIRST COME FIRST SERVED – LIMITED SPACES</strong></p>
-          </li>  
-          <hr> 
-
           <!-- Disneyland Trip -->
           <li>
             <h3>Disneyland Paris 2018</h3>
