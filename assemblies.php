@@ -29,24 +29,35 @@
         <br><br>
 
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
-              <li>
-                <ul class="circle">Summer 2017
-                  <li><a href="assets/assemblies/summer-2017/SMSC2.pdf" target="_blank">Industrious, Tenacity, Resilient and Confident</a></li>
-                  <li><a href="assets/assemblies/summer-2017/SMSC1.pdf" target="_blank">Mistakes, Tenacity, Resilience and Confidence</a></li>
-                </ul>
-              </li>
-              <li>
-                <ul class="circle">Spring 2017
-                  <li><a href="assets/assemblies/spring-2017/SMSC1.pdf" target="_blank">SMSC-1</a></li>
-                  <li><a href="assets/assemblies/spring-2017/SMSC2.pdf" target="_blank">SMSC-2</a></li>
-                </ul>
-              </li>
-              <li>
-                <ul class="circle">Autumn 2016
-                  <li><a href="assets/assemblies/autumn-2016/SMSC2.pdf" target="_blank">SMSC-2</a></li>
-                  <li><a href="assets/assemblies/autumn-2016/SMSC.pdf" target="_blank">SMSC</a></li>
-                </ul>
-              </li>
+            	<li>
+					<ul class="circle">Autumn 2017
+					  <li><a href="assets/assemblies/autumn-2017/SMSC1.pdf" target="_blank">New Beginnings &amp; Good Choices</a></li>
+					</ul>
+				</li>
+				<li>
+					<ul class="circle">Summer 2017
+					  <li><a href="assets/assemblies/summer-2017/SMSC2.pdf" target="_blank">Industrious, Tenacity, Resilient and Confident</a></li>
+					  <li><a href="assets/assemblies/summer-2017/SMSC1.pdf" target="_blank">Mistakes, Tenacity, Resilience and Confidence</a></li>
+					</ul>
+				</li>
+				<li>
+					<ul class="circle">Summer 2017
+					  <li><a href="assets/assemblies/summer-2017/SMSC2.pdf" target="_blank">Industrious, Tenacity, Resilient and Confident</a></li>
+					  <li><a href="assets/assemblies/summer-2017/SMSC1.pdf" target="_blank">Mistakes, Tenacity, Resilience and Confidence</a></li>
+					</ul>
+				</li>
+				<li>
+					<ul class="circle">Spring 2017
+					  <li><a href="assets/assemblies/spring-2017/SMSC1.pdf" target="_blank">SMSC-1</a></li>
+					  <li><a href="assets/assemblies/spring-2017/SMSC2.pdf" target="_blank">SMSC-2</a></li>
+					</ul>
+				</li>
+				<li>
+					<ul class="circle">Autumn 2016
+					  <li><a href="assets/assemblies/autumn-2016/SMSC2.pdf" target="_blank">SMSC-2</a></li>
+					  <li><a href="assets/assemblies/autumn-2016/SMSC.pdf" target="_blank">SMSC</a></li>
+					</ul>
+				</li>
 
             </ul>
 
