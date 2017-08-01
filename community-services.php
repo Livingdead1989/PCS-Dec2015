@@ -26,13 +26,12 @@
     <div class="row">
         <br>
         <div class="medium-6 columns">
-            <p>The role of the Community Department is to provide a whole range of activities for our students and the wider community.</p>
+            <p>Community &amp; Services Department provides a range of activities for our students and the wider community.</p>
             <p>This ensures that the school can be open in the evenings up until 10pm, weekends and holidays.</p>
-            <br>
-            <p>Click here for more information about our parties.</p>
-            <div class="small-only-text-center">
-                <a href="assets/community/PartyLeaflet.pdf" target="_blank" class="button radius">Party Flyer</a>
+            <div class="text-center">
+                <a href="assets/community/price_list.pdf" target="_blank" class="button success radius">Full Price List PDF</a>
             </div>
+            <p>Below you will find details of services and packages we can provide.</p>
         </div>
         <div class="small-8 small-offset-2 small-pull-2 medium-pull-0 medium-offset-0 medium-6 columns">
         	<img src="images/community/community-01.jpg" alt="Park Community - Laser Tag perfect for Parties">
