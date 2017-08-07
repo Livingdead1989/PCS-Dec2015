@@ -41,12 +41,9 @@
     <div class="row">
         <div class="medium-push-6 medium-6 columns">
             <p>The rooms are competitively priced.</p>
-            <ul class="circle text-capitalize">
-                <li>Single room for £10 per hour</li>
-                <li>Two rooms for £16 per hour</li>
-                <li>All three opened out to £24 per hour</li>
-            </ul>
-            <p>These facilities are available for use at all times.</p>
+            <div class="text-center">
+                <a href="assets/community/price_list.pdf" target="_blank" class="button success radius">Full Price List PDF</a>
+            </div>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-6 medium-offset-0 medium-6 columns"><img src="images/dickinsoncentre/dickinson-centre-03.jpg" alt="Dickinson Centre - Competitively Priced Rooms for Hire"></div>
     </div>
