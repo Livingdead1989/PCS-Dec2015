@@ -40,6 +40,7 @@
     </div>
     <div class="row">
         <div class="medium-push-6 medium-6 columns">
+            <p>These facilities are available for use at all times.</p>
             <p>The rooms are competitively priced.</p>
             <div class="text-center">
                 <a href="assets/community/price_list.pdf" target="_blank" class="button success radius">Full Price List PDF</a>
