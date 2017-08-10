@@ -36,6 +36,8 @@
             <p>Previous editions</p>
 
             <ul class="small-only-text-center small-block-grid-2 medium-block-grid-4 large-block-grid-6">
+                <li><a href="assets/news/parkPost/Issue12-Jul2017.pdf" target="_blank">Issue 12 - 2017</a></li>
+                <li><a href="assets/news/parkPost/Issue11-Jun2017.pdf" target="_blank">Issue 11 - 2017</a></li>
                 <li><a href="assets/news/parkPost/Issue10-Apr2017.pdf" target="_blank">Issue 10 - 2017</a></li>
                 <li><a href="assets/news/parkPost/Issue09-Feb2017.pdf" target="_blank">Issue 09 - 2017</a></li>
                 <li><a href="assets/news/parkPost/Issue08-Dec2016.pdf" target="_blank">Issue 08 - 2016</a></li>
