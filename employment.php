@@ -30,7 +30,10 @@
         <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
 
         <li>English Teacher<br><span class="subheader"><a href="assets/recruitment/english_teacher.pdf" target="_blank">Position Details</a></span></li>
+        <hr>
         <li>Teaching Assistant(s)<br><span class="subheader"><a href="assets/recruitment/teaching_assistant.pdf" target="_blank">Position Details</a></span></li>
+        <hr>
+        <li>Medical Officer<br><span class="subheader"><a href="assets/recruitment/medical_officer.pdf" target="_blank">Position Details</a></span></li>
       </ul>
       <hr>
       <h5><small>Information about School Direct visit <br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>
