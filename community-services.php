@@ -59,9 +59,9 @@
                 <li>Lecture Theatre - seating 180</li>
                 <li>3G FIFA accredited Synthetic Turf Pitch (STP)</li>
                 <li>4 Badminton court sized Sports Hall</li>
-                <li>Media Suite</li>
-                <li>Dickinson Centre, a perfect conference and training venue</li>
-                <li>Nursery and pre-school on site</li>
+                <li><a href="suite.php">Media Suite</a></li>
+                <li><a href="dickinson-centre.php">Dickinson Centre</a>, a perfect conference and training venue</li>
+                <li><a href="nursery.php">Nursery and pre-school</a> on site</li>
                 <li>Wide variety of room sizes and outdoor spaces available to hire.</li>
             </ul>
         </div>
@@ -78,59 +78,95 @@
 	</div>
     <div class="row">
         <div class="column text-center">
-        	<h2>Party Packages</h2>
+        	<h2>Children Party Packages</h2>
         </div>
     </div>
     <br>
     <div class="row">
     	<div class="large-12 columns">
-            <ul class="text-center large-block-grid-4 medium-block-grid-4 small-block-grid-2">
+            <ul class="text-center large-block-grid-4 medium-block-grid-3 small-block-grid-2">
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-LaserTag">
-                            <img src="http://placehold.it/400" alt="">
+                            <img src="images/community/lasertag.jpg" alt="">
                             <p>Laser Tag</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-BouncyCastle">
-                            <img src="http://placehold.it/400" alt="">
+                            <img src="images/community/bouncycastle.jpg" alt="">
                             <p>Bouncy Castle</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-SoftPlay">
-                            <img src="http://placehold.it/400" alt=" ">
+                            <img src="images/community/softplay.jpg" alt=" ">
                             <p>Bouncy Castle &amp; Soft Play</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-Zorb">
-                            <img src="http://placehold.it/400" alt="">
+                            <img src="images/community/zorb.jpg" alt="">
                             <p>Inflatable Zorb &amp; Bouncy Castle</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-AssaultCourse">
-                            <img src="http://placehold.it/400" alt="">
+                            <img src="images/community/assaultcourse.jpg" alt="">
                             <p>Assault Course &amp; Bouncy Castle</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-TreasureHunt">
-                            <img src="http://placehold.it/400" alt=" ">
+                            <img src="images/community/treasurehunt.jpg" alt=" ">
                             <p>Teasure Hunt Play 'n' Slide &amp; Bouncy Castle</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-PartySpace">
-                            <img src="http://placehold.it/400" alt="">
+                            <img src="images/community/venuespace.jpg" alt="">
                             <p>Party Venue Space</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-Extras">
-                            <img src="http://placehold.it/400" alt="">
+                            <img src="images/community/optionalextras.jpg" alt="">
                             <p>Optional Extras</p>
+                        </a></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="column text-center">
+            <h2>Adult Party Packages</h2>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="large-12 columns">
+            <ul class="text-center large-block-grid-4 medium-block-grid-3 small-block-grid-2">
+                <li>
+                    <div class="menu-box"><a href="#" data-reveal-id="pty-">
+                            <img src="http://placehold.it/400" alt="">
+                            <p>Adult Party 1</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="#" data-reveal-id="pty-">
+                            <img src="http://placehold.it/400" alt="">
+                            <p>Adult Party 2</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="#" data-reveal-id="pty-">
+                            <img src="http://placehold.it/400" alt=" ">
+                            <p>Adult Party 3</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="#" data-reveal-id="pty-">
+                            <img src="http://placehold.it/400" alt=" ">
+                            <p>Adult Party 4</p>
                         </a></div>
                 </li>
             </ul>
@@ -247,11 +283,16 @@
     <h2 class="text-center" id="modalTitle">Laser Tag Party Package</h2>
     <hr>
 
+    <p class="lead">Description</p>
+    <p>Laser Tag is a tag game played with guns which fire infra-red beams at targets worn on each player. This takes place in our darkened theatre with large inflatable obstacles to hide behind. It is fast and furious and lots of fun.</p>
+    <hr>
+    
     <p class="lead">Includes</p>
     <ul class="circle">
         <li>1 hour play</li>
+        <li>Staff member to assist throughout with the party and create the games</li>
         <li>30 minutes after to eat in our restaurant</li>
-        <li>Staff members to assist with the party</li>
+        <li>Party Table Coverings Provided and Jugs of Water</li>
     </ul>
     <hr>
 
@@ -265,6 +306,10 @@
     <p class="lead">Available Days &amp; Times</p>
     <p>Saturdays, Sundays and School Holidays</p>
     <p>10:30 - 12:30 &amp; 13:00 - 15:00</p>
+    <p><em>Two hours includes setting up and clearing away.</em></p>
+    <hr>
+
+    <p class="lead">Optional Extras are Available.</p>
     <hr>
 
     <p class="lead text-right">Cost: £175</p>
@@ -277,21 +322,35 @@
     <h2 class="text-center" id="modalTitle">Bouncy Castle Party Package</h2>
     <hr>
 
+    <p class="lead">Description</p>
+    <p>This party takes place in the theatre and we supply a large inflatable bouncy castle 6.8m x 5.7m x3.95m</p>
+    <hr>
+
     <p class="lead">Includes</p>
     <ul class="circle">
-        
+        <li>1 Bouncy castle</li>
+        <li>We supply a variety of background music</li>
+        <li>Two tables that sit 24 children and covered with party table coverings</li>
+        <li>Hot water pots and water jugs available on request</li>
+        <li>Party host can bring their own food and it can be eaten in the theatre or if you prefer in the restaurant</li>
     </ul>
     <hr>
 
     <p class="lead">Limitations</p>
     <ul class="circle">
-        
+        <li>Children need to wear socks at all times and to remove glasses and jewellery for everyone’s safety</li>
+        <li>Bouncy castle can have 8 children at a time up to the height of 1.65metres</li>
+        <li>Maximum attending of 15 children</li>
     </ul>
     <hr>
 
     <p class="lead">Available Days &amp; Times</p>
     <p>Saturdays, Sundays and School Holidays</p>
     <p>10:30 - 12:30 &amp; 13:00 - 15:00</p>
+    <p><em>Two hours includes setting up and clearing away.</em></p>
+    <hr>
+
+    <p class="lead">Optional Extras are Available.</p>
     <hr>
 
     <p class="lead text-right">Cost: £100</p>
@@ -305,21 +364,35 @@
     <p class="text-center">Ideal for younger children.</p>
     <hr>
 
+    <p class="lead">Description</p>
+    <p>This party takes place in our Activity Studio close to reception. We supply a matted area for children to play with our toys and bouncy castle. <br>This party is recommended for young children.</p>
+    <hr>
+
     <p class="lead">Includes</p>
     <ul class="circle">
-        
+        <li>Bouncy castle </li>
+        <li>A soft matted area with an assortment of soft toys for children to play with</li>
+        <li>We supply a variety of background music</li>
+        <li>2 tables covered with party coverings to sit 24 children</li>
+        <li>Hot water pots and water jugs available on request</li>
+        <li>Party host can bring their own food or if you prefer please see are optional extras for food to be provided</li>
     </ul>
     <hr>
 
     <p class="lead">Limitations</p>
     <ul class="circle">
-        
+        <li>Children need to wear socks at all times and to remove glasses and jewellery for everyone’s safety</li>
+        <li>4.3m x 3.3m x 2.7m with a maximum of 1.2metre high and maximum of 6 children at a time</li>
     </ul>
     <hr>
 
     <p class="lead">Available Days &amp; Times</p>
     <p>Saturdays, Sundays and School Holidays</p>
     <p>10:00 - 12:00 &amp; 13:00 - 15:00</p>
+    <p><em>Two hours includes setting up and clearing away.</em></p>
+    <hr>
+
+    <p class="lead">Optional Extras are Available.</p>
     <hr>
 
     <p class="lead text-right">Cost: £120</p>
@@ -332,9 +405,19 @@
     <h2 class="text-center" id="modalTitle">Inflatable Zorb &amp; Bouncy Castle Party Package</h2>
     <hr>
 
+    <p class="lead">Description</p>
+    <p>This party takes in the Sport Hall and the children can play an assortment of games inside the Zorbs or just bounce around on the castle</p>
+    <hr>
+
     <p class="lead">Includes</p>
     <ul class="circle">
         <li>Staff members to assist with the party</li>
+        <li>10 Zorbs provided</li>
+        <li>1 Bouncy castle 6.8m x 5.7m x3.95m</li>
+        <li>We supply a variety of background music</li>
+        <li>Two tables that sit 24 children and covered with party table coverings</li>
+        <li>Hot water pots and water jugs available on request</li>
+        <li>Party host can bring their own food and it can be eaten in the sports hall</li>
     </ul>
     <hr>
 
@@ -342,6 +425,8 @@
     <ul class="circle">
         <li>Minimum age of 6 years</li>
         <li>Maximum attending of 20 children</li>
+        <li>Children need to wear socks at all times and to remove glasses and jewellery for everyone’s safety</li>
+        <li>Bouncy castle can have 8 children at a time up to the height of 1.65metres</li>
     </ul>
     <hr>
 
@@ -349,6 +434,10 @@
     <p><em>Saturday Early Bird, <strong>10% Discount</strong> - 9:30 - 11:30</em></p>
     <p>Saturdays, 12:00 - 14:00 &amp; 14:30 - 16:30</p>
     <p>Sundays, 11:00 - 13:00 &amp; 13:00 - 15:30</p>
+    <p><em>Two hours includes setting up and clearing away.</em></p>
+    <hr>
+
+    <p class="lead">Optional Extras are Available.</p>
     <hr>
 
     <p class="lead text-right">Cost: £175</p>
@@ -362,9 +451,18 @@
     <p class="text-center">Assault Course is 24 Metres Long!</p>
     <hr>
 
+    <p class="lead">Description</p>
+    <p>Assault Course and Bouncy Castle Party Package. This is amazing value with a 3 piece assault course 24 metres long and a large bouncy castle.</p>
+    <hr>
+
     <p class="lead">Includes</p>
     <ul class="circle">
-        <li>Staff members to assist with the party</li>
+        <li>Assault course 24 metres long</li>
+        <li>1 Bouncy castle 6.8m x 5.7m x3.95m</li>
+        <li>We supply a variety of background music</li>
+        <li>Two tables that sit 24 children and covered with party table coverings</li>
+        <li>Hot water pots and water jugs available on request</li>
+        <li>Party host can bring their own food and it can be eaten in the sports hall</li>
     </ul>
     <hr>
 
@@ -372,6 +470,8 @@
     <ul class="circle">
         <li>Minimum age of 6 years</li>
         <li>Maximum attending of 20 children</li>
+        <li>Children need to wear socks at all times and to remove glasses and jewellery for everyone’s safety</li>
+        <li>Bouncy castle can have 8 children at a time up to the height of 1.65metres</li>
     </ul>
     <hr>
 
@@ -379,6 +479,10 @@
     <p><em>Saturday Early Bird, <strong>10% Discount</strong> - 9:30 - 11:30</em></p>
     <p>Saturdays, 12:00 - 14:00 &amp; 14:30 - 16:30</p>
     <p>Sundays, 11:00 - 13:00 &amp; 13:00 - 15:30</p>
+    <p><em>Two hours includes setting up and clearing away.</em></p>
+    <hr>
+
+    <p class="lead">Optional Extras are Available.</p>
     <hr>
 
     <p class="lead text-right">Cost: £150</p>
@@ -391,19 +495,52 @@
     <h2 class="text-center" id="modalTitle">Treasure Hunt Play 'n' Slide &amp; Bouncy Castle Party Package</h2>
     <hr>
 
+    <p class="lead">Description</p>
+    <p>This party takes place in our theatre and includes an inflatable with a huge variety of obstacles, objects and a fantastic slide. It is incredibly safe vibrantly coloured in a pirate theme with a matching bouncy castle.</p>
+    <hr>
+
     <p class="lead">Includes</p>
     <ul class="circle">
+        <li>1 Inflatable Obstacle/Assault Course with slide 7m x 7m</li>
+        <li>1 Bouncy Castle 5.9m x 4.7m x 3.45m</li>
+        <li>We supply a variety of background music</li>
+        <li>Two tables that sit 24 children and covered with party table coverings</li>
+        <li>Hot water pots and water jugs available on request</li>
+        <li>Party host can bring their own food and it can be eaten in the theatre, or alternatively in the restaurant</li>
     </ul>
     <hr>
 
     <p class="lead">Limitations</p>
     <ul class="circle">
+        <li>Maximum user height you can have on the Treasure Hunt Play ‘n’ Slide
+            <ul>
+                <li>14 users at 1.0m</li>
+                <li>12 users at 1.2m</li>
+                <li>10 users at 1.5m</li>
+                <li>7 users at 1.8m</li>
+            </ul>
+        </li>
+        <li>Bouncy castle
+            <ul>
+                <li>12 users at 1.0m</li>
+                <li>9 users at 1.2m</li>
+                <li>7 users at 1.5m</li>
+                <li>6 users at 1.8m</li>
+            </ul>
+        </li>
+        <li>Minimum age of 3 Maximum age of 8 years</li>
+        <li>Maximum attending of 20 children</li>
+        <li>Children need to wear socks at all times and to remove glasses and jewellery for everyone’s safety</li>
     </ul>
     <hr>
 
     <p class="lead">Available Days &amp; Times</p>
     <p>Saturdays, Sundays and School Holidays</p>
     <p>10:00 - 12:00 &amp; 13:00 - 15:00</p>
+    <p><em>Two hours includes setting up and clearing away.</em></p>
+    <hr>
+
+    <p class="lead">Optional Extras are Available.</p>
     <hr>
 
     <p class="lead text-right">Cost: £150</p>
@@ -414,6 +551,10 @@
 <!-- PartySpace -->
 <div id="pty-PartySpace" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
     <h2 class="text-center" id="modalTitle">Party Venue Space</h2>
+    <hr>
+
+    <p class="lead">Description</p>
+    <p></p>
     <hr>
 
     <p class="lead">Includes</p>
@@ -430,6 +571,9 @@
     <p class="lead">Available Days &amp; Times</p>
     <hr>
 
+    <p class="lead">Optional Extras are Available.</p>
+    <hr>
+
     <p class="lead text-right">Cost: £54 - £90</p>
 
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -437,8 +581,30 @@
 
 <!-- Extras -->
 <div id="pty-Extras" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-    <h2 id="modalTitle"></h2>
-    <p class="lead"></p>
+    <h2 id="modalTitle">Optional Extras</h2>
+    <p class="lead">Hot or Cold food can be prepared by our chief, or you can bring your own.</p>
+    <hr>
+        <p><strong>Children's Cold Party Box</strong> | £65</p>
+        <p>for a minimum of 20 children. Food options can be selected from our menu.</p>
+    <hr>
+        <p><strong>Children's Hot Party Dinners</strong> | £90</p>
+        <p>for a minimum of 20 children. Food options can be selected from our menu.</p>
+    <hr>
+        <p><strong>Adult Buffet Platter</strong> | £45</p>
+        <p>Mixed selection buffet for 10 Adults.</p>
+    <hr>
+        <p><strong>Blank Invitations</strong> | £3.50</p>
+        <p>30 guest invitations professionally printed in pink or blue.</p>
+    <hr>
+        <p><strong>Personalised Invitations</strong> | £6.00</p>
+        <p>30 personalised guest invitations professionally printed in pink or blue.</p>
+    <hr>
+        <p><strong>Party Bags</strong> | £1.00 each</p>
+        <p>Children's party bags containing 3 toys, chocolate bar and more.</p>
+    <hr>
+        <p><strong>Staff Assistant</strong> | £25.00</p>
+        <p>Assistant with Party needs for 2 Hours.</p>
+    <hr>
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
 

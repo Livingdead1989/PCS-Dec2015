@@ -288,6 +288,131 @@ header h1, header h3, header p {
 .compact-grouped-list .side-nav {
     padding: 0 0 10px;
 }
+.event-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row wrap;
+      flex-flow: row wrap;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+.event-container .feature-event {
+  -webkit-box-ordinal-group: -1;
+      -ms-flex-order: -2;
+          order: -2;
+}
+.event-container .feature-event::before {
+  content: "Feature!";
+  color: #FFFFFF;
+  padding: 10px;
+  position: absolute;
+  left: -10px;
+  top: -10px;
+  -webkit-transform: rotate(-7deg);
+          transform: rotate(-7deg);
+  background-color: #e21364;
+  border: 2px outset #EE3A80;
+  border-radius: 100%;
+}
+.event-container .sticky-event {
+  -webkit-box-ordinal-group: 0;
+      -ms-flex-order: -1;
+          order: -1;
+}
+.event-container .sticky-event::before {
+  content: "Sticky";
+  color: #FFFFFF;
+  padding: 10px;
+  position: absolute;
+  left: -10px;
+  top: -10px;
+  -webkit-transform: rotate(-7deg);
+          transform: rotate(-7deg);
+  background-color: #32a9e4;
+  border: 2px outset #5FBCEA;
+  border-radius: 100%;
+}
+.event-container .event-wrap {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 1 calc(50% - 10px);
+          flex: 0 1 calc(50% - 10px);
+  position: relative;
+  min-width: 270px;
+  max-width: calc(50% - 10px);
+  margin: 5px;
+  padding: 10px;
+  border: 3px solid #A3CD42;
+}
+.event-container .event-wrap .date-wrap {
+  background-color: #A3CD42;
+  padding: 5px 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border-radius: 0 0 0 3px;
+  text-align: right;
+}
+.event-container .event-wrap .date-wrap .event-date {
+  padding: 0;
+  margin: 0;
+  color: #FFFFFF;
+}
+.event-container .event-wrap .date-wrap .event-time {
+  padding: 0;
+  margin: 0;
+  font-size: 0.8em;
+  color: #FFFFFF;
+}
+.event-container .event-wrap .event-title {
+  padding: 0;
+  margin-bottom: 2px;
+  margin-top: 40px;
+  font-size: 1.8em;
+}
+.event-container .event-wrap .event-subheader {
+  margin-top: 0;
+  color: #789a29;
+}
+.event-container .event-wrap .event-description {
+  overflow: auto;
+  height: 140px;
+}
+.event-container .event-wrap .link-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.event-container .event-wrap .bottom-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border-top: 1px solid #666666;
+  color: #666666;
+  margin-top: 10px;
+  padding: 10px 0 5px 0;
+}
+.event-container .event-wrap .bottom-wrap a {
+  text-decoration: none;
+  color: #666666;
+}
+.event-container .event-wrap .bottom-wrap .location-wrap::before {
+  padding-right: 4px;
+  font-family: FontAwesome;
+  content: "\f041";
+}
+.event-container .event-wrap .bottom-wrap .cost-wrap::before {
+  padding-right: 4px;
+  font-family: FontAwesome;
+  content: "\f154";
+}
+
 #site-footer {
     background-color: #333;
     padding: 40px 0 10px;
@@ -354,28 +479,34 @@ header h1, header h3, header p {
     text-align: center;
 }
 @media only screen and (max-width:40em) {
-    footer#site-footer {
+  .event-container .event-wrap {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    max-width: 100%;
+  }
+  footer#site-footer {
     text-align: center;
-}
-footer#site-footer ul.footer-social {
+  }
+  footer#site-footer ul.footer-social {
     float: none;
     margin: 0 0 20px;
     text-align: center;
     height: 44px;
     display: inline-block;
     width: 290px;
-}
-footer#site-footer [class*=block-grid-]>li {
+  }
+  footer#site-footer [class*=block-grid-]>li {
     padding: 0 .4rem 1.25rem;
-}
-footer#site-footer .footer-social li a i {
+  }
+  footer#site-footer .footer-social li a i {
     margin-right: 2px;
     margin-left: 2px;
-}
-footer#site-footer ul.footer-address .fa {
+  }
+  footer#site-footer ul.footer-address .fa {
     display: none!important;
-}
-footer#site-footer p.copyright {
+  }
+  footer#site-footer p.copyright {
     margin: 40px 0 0;
-}
+  }
 }
