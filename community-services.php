@@ -605,6 +605,12 @@
         <p><strong>Staff Assistant</strong> | £25.00</p>
         <p>Assistant with Party needs for 2 Hours.</p>
     <hr>
+        <p><strong>Site Team</strong> | £25.00 per hour</p>
+        <p>For those times when the booking goes beyond our opening times.</p>
+    <hr>
+        <p><strong>Security Personnel</strong> | £15 per hour</p>
+        <p>Required when bar in operation.</p>
+    <hr>
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
 
