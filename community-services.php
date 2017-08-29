@@ -136,42 +136,6 @@
             </ul>
         </div>
     </div>
-    <div class="row">
-        <div class="column text-center">
-            <h2>Adult Party Packages</h2>
-        </div>
-    </div>
-    <br>
-    <div class="row">
-        <div class="large-12 columns">
-            <ul class="text-center large-block-grid-4 medium-block-grid-3 small-block-grid-2">
-                <li>
-                    <div class="menu-box"><a href="#" data-reveal-id="pty-">
-                            <img src="http://placehold.it/400" alt="">
-                            <p>Adult Party 1</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="#" data-reveal-id="pty-">
-                            <img src="http://placehold.it/400" alt="">
-                            <p>Adult Party 2</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="#" data-reveal-id="pty-">
-                            <img src="http://placehold.it/400" alt=" ">
-                            <p>Adult Party 3</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="#" data-reveal-id="pty-">
-                            <img src="http://placehold.it/400" alt=" ">
-                            <p>Adult Party 4</p>
-                        </a></div>
-                </li>
-            </ul>
-        </div>
-    </div>
     <br>
     <div class="row">
             <div class="column text-center">
@@ -554,27 +518,53 @@
     <hr>
 
     <p class="lead">Description</p>
-    <p></p>
+    <p>Wanting to create your own party, we can provide you the space you require. Prices vary depending on the size of room you have.</p>
+    <table>
+        <tr>
+            <th>Venue</th>
+            <th>Capacity</th>
+            <th>Cost</th>
+            <th>Notes</th>
+        </tr>
+        <tr>
+            <td>Theatre</td>
+            <td>20 guests (max)</td>
+            <td>£60 for 3 hours.</td>
+            <td rowspan="2">Guest capacity may be lowered depending on any equipment being brought.</td>
+        </tr>
+        <tr>
+            <td>Main Theatre</td>
+            <td>50 guests (max)</td>
+            <td>£90 for 3 hours.</td>
+        </tr>
+    </table>
+
     <hr>
 
     <p class="lead">Includes</p>
     <ul class="circle">
         <li>3 Hour Space Hire</li>
+        <li>We can supply tables and chairs</li>
+        <li>We can supply a variety of background music</li>
+        <li>Party host can bring their own food and it can be eaten in either venue</li>
+        <li>Hot water pots and water jugs available on request</li>
     </ul>
     <hr>
 
     <p class="lead">Limitations</p>
     <ul class="circle">
+        <li>No candy floss or popcorn machines</li>
+        <li>If hiring a DJ or Entertainer – their public liability insurance of £5million needs to be provided</li>
     </ul>
     <hr>
 
     <p class="lead">Available Days &amp; Times</p>
+    <p>Weekday Evenings from 17:00</p>
+    <p>Weekends from 09:00 - 16:00</p>
+    <p>School Holidays from 09:00-17:00</p>
     <hr>
 
     <p class="lead">Optional Extras are Available.</p>
-    <hr>
-
-    <p class="lead text-right">Cost: £54 - £90</p>
 
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
