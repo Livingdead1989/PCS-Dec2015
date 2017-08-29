@@ -75,7 +75,7 @@
               <div class="event-wrap">
                 <div class="date-wrap">
                   <p class="event-date">27th Sept 2017</p>
-                  <p class="event-time">09:00-18:00</p>
+                  <p class="event-time">09:00-16:00</p>
                 </div>
                 <h2 class="event-title">First Aid Course</h2>
                 <p class="event-subheader">Emergency First Aid at Work</p>
