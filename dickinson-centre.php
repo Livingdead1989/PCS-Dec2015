@@ -40,13 +40,11 @@
     </div>
     <div class="row">
         <div class="medium-push-6 medium-6 columns">
-            <p>The rooms are competitively priced.</p>
-            <ul class="circle text-capitalize">
-                <li>Single room for £10 per hour</li>
-                <li>Two rooms for £16 per hour</li>
-                <li>All three opened out to £24 per hour</li>
-            </ul>
             <p>These facilities are available for use at all times.</p>
+            <p>The rooms are competitively priced.</p>
+            <div class="text-center">
+                <a href="assets/community/price_list.pdf" target="_blank" class="button success radius">Full Price List PDF</a>
+            </div>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-6 medium-offset-0 medium-6 columns"><img src="images/dickinsoncentre/dickinson-centre-03.jpg" alt="Dickinson Centre - Competitively Priced Rooms for Hire"></div>
     </div>
@@ -73,7 +71,7 @@
             <ul class="no-bullet">
                 <li>Telephone: 02392 489 811</li>
                 <br>
-                <li>Email: <a href="javascript:location='mailto:\u0063\u006f\u006d\u006d\u0075\u006e\u0069\u0074\u0079\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Community</a></li>
+                <li>Email: <a href="javascript:location='mailto:\u0062\u006f\u006f\u006b\u0069\u006e\u0067\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Bookings</a></li>
             </ul>
 
         </div>
