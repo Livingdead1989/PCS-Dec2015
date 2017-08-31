@@ -30,7 +30,6 @@
                 <li>Accessibility</li>
                 <li>
                   Admissions<br>
-                    <a href="/assets/policies/admissions-2016-2017.pdf" target="_blank">2016-17</a> /
                     <a href="/assets/policies/admissions-2017-2018.pdf" target="_blank">2017-18</a> /
                     <a href="/assets/policies/admissions-2018-2019.pdf" target="_blank">2018-19</a>
                   </li>
