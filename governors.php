@@ -125,29 +125,6 @@
 
             </div>
             <div class="medium-4 columns text-center  team-member-container">
-                <a href="#" data-reveal-id="Governor-07">
-                  <img src="images/governors/c-braiden.jpg" alt="Performance Committee Governor" class="team-member">
-                <p>Mr C Braiden</p>
-                Governor Details</a>
-                        <div id="Governor-07" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Mr C Braiden</h2>
-                          <p class="lead">Term Expires: 01.11.2017</p>
-                          <p>Category: Parent</p>
-                          <p>Committee Membership:</p>
-                            <ul class="circle">
-                                <li>Member of Performance Committee</li>
-                            </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
-
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-            </div>
-            <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-08">
                   <img src="images/governors/b-barron.jpg" alt="Administration Committee Governor" class="team-member">
                 <p>Mr B Barron</p>
@@ -247,31 +224,6 @@
             </div>
 
             <div class="medium-4 columns text-center  team-member-container end">
-                <a href="#" data-reveal-id="Governor-12">
-                  <img src="images/governors/c-larkin.jpg" alt="Placeholder Image" class="team-member">
-                <p>Mr C Larkin</p>
-                Governor Details</a>
-                        <div id="Governor-12" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Mr C Larkin</h2>
-                          <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: 18.05.2016</p>
-                          <p>Category: CO-OPTED</p>
-                          <p>Committee Membership:</p>
-                            <ul class="circle">
-                                <li>Member of Administration Committee</li>
-                            </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
-
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-            </div>
-
-            <div class="medium-4 columns text-center  team-member-container end">
                 <a href="#" data-reveal-id="Governor-13">
                   <img src="images/governors/r-cousins.jpg" alt="Placeholder Image" class="team-member">
                 <p>Mr R Cousins</p>
@@ -288,6 +240,54 @@
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
                               <li>Governor of <a href="//www.trosnantschools.co.uk" target="_blank">Trosnant School</a></li>
+                            </ul>
+
+
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
+
+            </div>
+
+            <div class="medium-4 columns text-center  team-member-container end">
+                <a href="#" data-reveal-id="Governor-amays">
+                  <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
+                <p>Ms A Mays</p>
+                Governor Details</a>
+                        <div id="Governor-amays" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Ms A Mays</h2>
+                          <p><strong>Details Pending Governors Meeting</strong></p>
+                          <p class="lead">Appointed: 01.05.2017</p>
+                          <p>Category: CO-OPTED</p>
+                          <p>Committee Membership:</p>
+                            <ul class="circle">
+                                <li></li>
+                            </ul>
+                          <p>Pecuniary Interests:</p>
+                            <ul class="circle">
+                            </ul>
+
+
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
+
+            </div>
+
+            <div class="medium-4 columns text-center  team-member-container end">
+                <a href="#" data-reveal-id="Governor-jrankin">
+                  <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
+                <p>Ms J Rankin</p>
+                Governor Details</a>
+                        <div id="Governor-jrankin" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Ms J Rankin</h2>
+                          <p><strong>Details Pending Governors Meeting</strong></p>
+                          <p class="lead">Appointed: 01.05.2017</p>
+                          <p>Category: Parent Governor</p>
+                          <p>Committee Membership:</p>
+                            <ul class="circle">
+                                <li></li>
+                            </ul>
+                          <p>Pecuniary Interests:</p>
+                            <ul class="circle">
                             </ul>
 
 
