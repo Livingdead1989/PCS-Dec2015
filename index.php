@@ -31,13 +31,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p><a href="assets/events/munch-summer2017.pdf" target="_blank" style="color:#474747;">Summer Holiday Munch &amp; The New Munch Fridge</a>.</p>
+      <p></p>
     </div>
   </div>
-</section>
+</section> -->
 <!-- END NOTIFICATION -->
 
 

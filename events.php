@@ -52,24 +52,7 @@
               </div> -->
 <!--                  Event box -->
 
-<!--                    Event Box  -->
-              <div class="event-wrap feature-event">
-                <div class="date-wrap">
-                  <p class="event-date">Summer Holiday 2017</p>
-                  <p class="event-time">12:00-13:30</p>
-                </div>
-                <h2 class="event-title">MUNCH</h2>
-                <p class="event-subheader">Free Meal during the Holidays</p>
-                <p class="event-description">Providing a two course meal without charge for children attending ANY school in Leigh Park who are in receipt of free school meals during every holiday.</p>
-                <div class="link-wrap">
-                  <a href="assets/events/munch-summer2017.pdf" target="_blank" class="button success radius">MUNCH PDF</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School/@50.87005,-1.0034217,17z/data=!3m1!4b1!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box -->
+
 
 <!--                    Event Box  -->
               <div class="event-wrap">
@@ -107,48 +90,7 @@
                   <div class="cost-wrap">Free</div>
                 </div>
               </div>
-<!--                  Event box -->
-
-<!--                    Event Box  -->
-              <div class="event-wrap feature-event">
-                <div class="date-wrap">
-                  <p class="event-date">29th-31st Aug &amp; 4th Sept</p>
-                  <p class="event-time"></p>
-                </div>
-                <h2 class="event-title">Buy your Blazer</h2>
-                <p class="event-subheader">One-off Special</p>
-                <p class="event-description"><strong>Date &amp; Time</strong>: 29th August to 31st August 2017, 10:00 - 12:00 and 16:00-18:00
-                    <br><strong>Date &amp; Time</strong>: Monday 4th September 2017, 13:00 - 17:00
-                    <br><strong>Size Costs</strong>: 28"-36" - £13.50, 38"-54" - £17.00</p>
-                <div class="link-wrap">
-                  <a href="assets/letters/2017-07/crazy_hair_week-end_start_of_term-blazers.pdf" target="_blank" class="button success radius">Read More...</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.co.uk/maps/@50.8674568,-0.9880073,18z/data=!4m5!3m4!1s0x0:0x752700d80a79aac1!8m2!3d50.8674568!4d-0.9858186" target="_blank">Apex Centre</a></div>
-                  <div class="cost-wrap">...</div>
-                </div>
-              </div>
-<!--                  Event box -->
-
-<!--                    Event Box  -->
-              <div class="event-wrap sticky-event">
-                <div class="date-wrap">
-                  <p class="event-date">Summer 2017</p>
-                  <p class="event-time"></p>
-                </div>
-                <h2 class="event-title">Havant Family Support</h2>
-                <p class="event-subheader">Summer Timetable 2017</p>
-                <p class="event-description">Places to get Support and Advice during the Summer Holidays.</p>
-                <div class="link-wrap">
-                  <a href="/assets/events/fss-summer-timetable.pdf" target="_blank" class="button success radius">Read More...</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap">...</div>
-                  <div class="cost-wrap">...</div>
-                </div>
-              </div>
-<!--                  Event box -->
-              
+<!--                  Event box -->           
 
             </div>
               
