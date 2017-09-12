@@ -53,7 +53,6 @@
                 <h4>Documentation</h4>
                     <ul class="no-bullet">
                         <li class="subheader">Information</li>
-                        <li><a href="assets/studentRecruitment/documentation/positionsandPay.pdf" target="_blank">Positions &amp; Pay</a></li>
                     </ul>
                     <ul class="no-bullet">
                         <li class="subheader">Forms<br><small>Downloadable Word Documents</small></li>
