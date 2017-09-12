@@ -41,9 +41,9 @@
         <div class="medium-push-4 medium-8 columns">
             <h4>The Uniform</h4>
             <ul class="circle">
-                <li>Green 'V' neck sweatshirt with school logo.</li>
+                <li>Park Black Blazer (Compulsory).</li>
                 <ul>
-                <li>Optional black blazer with school logo.</li></ul>
+                <li>Park cardigan, sweatshirt or jumper may be worn under a blazer.</li></ul>
 
                 <li>White shirt with collar capable of taking a tie.</li>
                 <li>School tie colour based on family.</li>
