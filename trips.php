@@ -33,6 +33,55 @@
             <p>Cost - £00.00</p>
           </li>   -->
 
+          <!-- Winchester -->
+          <li>
+            <h3>Winchester &amp; Leigh Park Gardens</h3>
+            <p>Wednesday 20th – Thursday 21st September 2017</p>
+            <p>Trip Leader – Miss Smith &amp; Mrs Williams</p>
+            <p>Cost - £6.00</p>
+            <p><strong>To be paid by Monday 11th September – NOW OUTSTANDING</strong></p>
+            <p><strong>YEAR 7 TRIP ONLY</strong></p>
+          </li>
+
+          <!-- New York -->
+          <li>
+            <h3>New York - ALL PLACES ALLOCATED - INFO ONLY</h3>
+            <p>Thursday 8th – Tuesday 13th February 2018</p>
+            <p>Trip Leader – Mr Roberson</p>
+            <p>Cost – £795.00</p>
+            <p><strong>YEAR 11 TRIP ONLY</strong></p>
+            <table>
+              <tr>
+                <td>Non-refundable Deposit</td>
+                <td>Due by</td>
+              </tr>
+              <tr>
+                <td>£155.00</td>
+                <td>14.07.2017</td>
+              </tr>
+              <tr>
+                <td>Instalments</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>£160.00</td>
+                <td>05.09.2017</td>
+              </tr>
+              <tr>
+                <td>£160.00</td>
+                <td>02.10.2017</td>
+              </tr>
+              <tr>
+                <td>£160.00</td>
+                <td>01.11.2017</td>
+              </tr>
+              <tr>
+                <td>£160.00</td>
+                <td>04.12.2017</td>
+              </tr>
+            </table>
+          </li>
+
           <!-- Disneyland Trip -->
           <li>
             <h3>Disneyland Paris 2018</h3>
