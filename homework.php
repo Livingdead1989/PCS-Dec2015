@@ -95,11 +95,6 @@
         <div class="medium-12 columns">
           <h3>Homework Documents</h3>
           <p><strong>Venture Learning</strong> - In Years 7 and 8, students also receive three-week Venture Learning projects designed to offer choice, promote independence and the chance to explore ideas creatively. These projects are timetabled across the year to ensure students have the chance to complete them for all subjects.</p>
-          <ul class="circle">
-            <li><a href="assets/homework/VL-Year7Timetable.pdf" target="_blank">Venture Learning Year 7 Timetable</a></li>
-            <li><a href="assets/homework/VL-Year8Timetable.pdf" target="_blank">Venture Learning Year 8 Timetable</a></li>
-          </ul>
-
         </div>
     </div>
     <br><br><br>

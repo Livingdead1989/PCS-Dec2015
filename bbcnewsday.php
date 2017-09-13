@@ -27,28 +27,28 @@
             <h3>BBC News Day 2017</h3>
 
             <div class="flex-video widescreen border-radius-5">
-              <video src="assets/news/bbcschoolnews/2017-ExamStress.mp4" controls>Exam Stress</video>
+              <iframe src="https://www.youtube.com/embed/vrfmgK-iSxo" frameborder="0" allowfullscreen></iframe>
             </div>
             <p>Exam Stress</p>
             <br>
 
 
             <div class="flex-video widescreen border-radius-5">
-              <video src="assets/news/bbcschoolnews/2017-RoyalFamily.mp4" controls>Royal Family</video>
+              <iframe src="https://www.youtube.com/embed/mKM_4w9OD7Q" frameborder="0" allowfullscreen></iframe>
             </div>
             <p>Royal Family</p>
             <br>
 
 
             <div class="flex-video widescreen border-radius-5">
-              <video src="assets/news/bbcschoolnews/2017-ScienceWeek.mp4" controls>Science Week</video>
+              <iframe src="https://www.youtube.com/embed/dQJXwpbLllM" frameborder="0" allowfullscreen></iframe>
             </div>
             <p>Science Week</p>
             <br>
 
 
             <div class="flex-video widescreen border-radius-5">
-              <video src="assets/news/bbcschoolnews/2017-TheFivePoundNote.mp4" controls>The Five Pound Note</video>
+              <iframe src="https://www.youtube.com/embed/TfnrRnf_bsc" frameborder="0" allowfullscreen></iframe>
             </div>
             <p>The Five Pound Note</p>
             <br>

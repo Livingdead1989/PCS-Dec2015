@@ -31,7 +31,7 @@
             <div class="small-only-text-center">
                 <a href="/policies.php" class="button radius">Policies Page</a>
             </div>
-            <h4>Outside the normal round</h4>
+            <h4>Outside the main admission round</h4>
             <p>If you wish to apply for a place at Park Community School outside of the usual admission round, you can either:</p>
             <div class="small-only-text-center">
                 <a href="//www.hants.gov.uk/admissions" target="_blank" class="button radius">Apply Online</a>
