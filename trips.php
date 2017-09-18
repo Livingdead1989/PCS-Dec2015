@@ -42,7 +42,27 @@
             <p><strong>To be paid by Monday 11th September – NOW OUTSTANDING</strong></p>
             <p><strong>YEAR 7 TRIP ONLY</strong></p>
           </li>
-
+          <hr>
+          <!-- Brighton -->
+          <li>
+            <h3>Brighton – GCSE Geography Field trip</h3>
+            <p>Friday 29th September</p>
+            <p>Lead Teacher – Ms Hopkins</p>
+            <p>Cost - £11.00</p>
+            <p><strong>To be paid by Friday 22nd September</strong></p>
+            <p><strong>Applicable to GCSE Students only</strong></p>
+          </li>  
+          <hr>
+          <!-- London -->
+          <li>
+            <h3>History Trip to London</h3>
+            <p>Wednesday 18th October</p>
+            <p>Lead Teacher – Miss Last</p>
+            <p>Cost - £15.00</p>
+            <p><strong>To be paid by Thursday 28th September</strong></p>
+            <p><strong>ONLY 35 SPACES AVAILABLE</strong></p>
+          </li> 
+          <hr>
           <!-- New York -->
           <li>
             <h3>New York - ALL PLACES ALLOCATED - INFO ONLY</h3>
@@ -81,7 +101,7 @@
               </tr>
             </table>
           </li>
-
+          <hr>
           <!-- Disneyland Trip -->
           <li>
             <h3>Disneyland Paris 2018</h3>
