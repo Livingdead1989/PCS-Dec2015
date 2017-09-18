@@ -91,7 +91,28 @@
                   <div class="cost-wrap">Free</div>
                 </div>
               </div>
-<!--                  Event box -->   
+<!--                  Event box -->  
+
+
+
+<!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date">28th Sept 2017</p>
+                  <p class="event-time">18:00-19:30</p>
+                </div>
+                <h2 class="event-title">Year 11 Revision Evening</h2>
+                <p class="event-subheader">for Student &amp; Parents</p>
+                <p class="event-description">Springboard for success in this summer’s exams. There will be a short motivational and inspirational talk, from key note speakers. All students who attend will be placed in to a prize draw raffle receiving £150 towards the cost of the prom.</p>
+                <div class="link-wrap">
+                  <a href="letters-home.php" target="_blank" class="button success radius">Letters Home Page</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School/@50.87005,-1.0034217,17z/data=!3m1!4b1!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Free</div>
+                </div>
+              </div>
+<!--                  Event box --> 
 
 <!--                    Event Box  -->
               <div class="event-wrap">
@@ -110,7 +131,26 @@
                   <div class="cost-wrap">11.00 EB</div>
                 </div>
               </div>
-<!--                  Event box -->        
+<!--                  Event box --> 
+
+<!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date">9th Nov 2017</p>
+                  <p class="event-time">16:30-19:30</p>
+                </div>
+                <h2 class="event-title">Year 11 Parents Evening</h2>
+                <p class="event-subheader">Appointment Only</p>
+                <p class="event-description">Appointments with subject teachers to discuss mock results and current progress.</p>
+                <div class="link-wrap">
+                  <a href="letters-home.php" target="_blank" class="button success radius">Letters Home Page</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School/@50.87005,-1.0034217,17z/data=!3m1!4b1!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Free</div>
+                </div>
+              </div>
+<!--                  Event box -->       
 
             </div>
               

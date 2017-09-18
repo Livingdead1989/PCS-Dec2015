@@ -27,6 +27,11 @@
         <p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
             <li>           	
+			  <ul class="circle">September 2017<hr>
+			  	<li><a href="/assets/letters/2017-09/yr11_parents_evening.pdf" target="_blank">Year 11 Parents Evening</a></li>
+			  </ul>
+			</li>
+            <li>           	
                   <ul class="circle">July 2017<hr>
                   	<li><a href="/assets/letters/2017-07/crazy_hair_week-end_start_of_term-blazers.pdf" target="_blank">Crazy Hair Week, End &amp; Start of Term and Blazers</a></li>
                   </ul>
