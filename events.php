@@ -74,26 +74,6 @@
               </div>
 <!--                  Event box -->
 
-<!--                    Event Box  -->
-              <div class="event-wrap feature-event">
-                <div class="date-wrap">
-                  <p class="event-date">21st Sept 2017</p>
-                  <p class="event-time">18:30-20:30</p>
-                </div>
-                <h2 class="event-title">Open Evening</h2>
-                <p class="event-subheader">Park Community School</p>
-                <p class="event-description">Invitation to all Year 6 parents and students to come and have a look around.</p>
-                <div class="link-wrap">
-                  <a data-reveal-id="event-openevening"" class="button success radius">Read More...</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School/@50.87005,-1.0034217,17z/data=!3m1!4b1!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box -->  
-
-
 
 <!--                    Event Box  -->
               <div class="event-wrap">

@@ -39,6 +39,7 @@
                     <li><a href="/assets/policies/StudentEntitlementIAG.pdf" target="_blank">Student Entitlement in IAG</a></li>
                 <li><a href="/assets/policies/charging-and-remissions.pdf" target="_blank">Charging and Remissions</a></li>
                 <li><a href="/assets/policies/child-protection.pdf" target="_blank">Child Protection</a></li>
+                <li><a href="/assets/policies/confidentiality.pdf" target="_blank">Confidentiality</a></li>
                 <li><a href="/assets/policies/data-protection.pdf" target="_blank">Data Protection</a></li>
                 <li><a href="/assets/policies/dress-code-for-students.pdf" target="_blank">Dress Code for Students</a></li>
                 <li><a href="/assets/policies/equality.pdf" target="_blank">Equality</a></li>
