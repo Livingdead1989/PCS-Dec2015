@@ -30,6 +30,7 @@
         <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
         <li>Teacher of Food Technology<br><span class="subheader"><a href="assets/recruitment/foodtech_teacher.pdf" target="_blank">Position Details</a></span></li>
         <hr>
+        <li>Clerk to Governors<br><span class="subheader"><a href="assets/recruitment/clerk_to_governors.pdf" target="_blank">Position Details</a></span></li>
 
         
       </ul>

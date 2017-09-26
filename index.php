@@ -31,13 +31,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p><a href="/events.php" style="color:#156A9C">Open Evening - 21st Sept 18:30-20:30</a></p>
+      <p></p>
     </div>
   </div>
-</section>
+</section> -->
 <!-- END NOTIFICATION -->
 
 
