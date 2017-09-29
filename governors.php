@@ -84,6 +84,7 @@
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
+                            	<li>Vice Chair of Governors</li>
                             	<li>Chair of the Administration Committee</li>
                                 <li>Health and Safety Governor</li>
                                 <li>Member of Admin Committee</li>
@@ -111,9 +112,7 @@
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li>Vice Chair of Full Governing Body (FGB)</li>
                                 <li>SEN Governor</li>
-                                <li>Chair of Performance Committee</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -141,29 +140,6 @@
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
                               <li>Executive Trustee of <a href="//www.communitas-youth.com/" target="_blank">Communitas</a>, supplying youth workers.</li>
-                            </ul>
-
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-            </div>
-            <div class="medium-4 columns text-center  team-member-container">
-                <a href="#" data-reveal-id="Governor-09">
-                  <img src="images/governors/c-may.jpg" alt="Performance Committee Governor" class="team-member">
-                <p>Mr C May</p>
-                Governor Details</a>
-                        <div id="Governor-09" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Mr C May</h2>
-                          <p class="lead">Term Expires: 21.05.2017</p>
-                          <p>Category: Staff</p>
-                          <p>Committee Membership:</p>
-                            <ul class="circle">
-                                <li>Member of Performance Committee</li>
-                            </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
                             </ul>
 
 
@@ -211,7 +187,7 @@
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li>Member of Performance Committee</li>
+                                <li>Chair of the Performance Committee</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -241,6 +217,7 @@
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
                               <li>Governor of <a href="//www.trosnantschools.co.uk" target="_blank">Trosnant School</a></li>
+                              <li>Client of Park Design and Print</li>
                             </ul>
 
 
