@@ -24,6 +24,11 @@
     <div class="row">
         <br>
         <div class="medium-12 columns">
+        	<div class="column text-center">
+        		<p>Payments can be made Online via <a href="//www.scopay.com/pcs" target="_blank">SCO Online Payments</a>.</p>
+        		<a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
+        		<hr>
+        	</div>
 
         <ul class="medium-block-grid-1 large-block-grid-1">
           <!-- <li>
@@ -33,32 +38,14 @@
             <p>Cost - £00.00</p>
           </li>   -->
 
-          <!-- Winchester -->
-          <li>
-            <h3>Winchester &amp; Leigh Park Gardens</h3>
-            <p>Wednesday 20th – Thursday 21st September 2017</p>
-            <p>Trip Leader – Miss Smith &amp; Mrs Williams</p>
-            <p>Cost - £6.00</p>
-            <p><strong>To be paid by Monday 11th September – NOW OUTSTANDING</strong></p>
-            <p><strong>YEAR 7 TRIP ONLY</strong></p>
-          </li>
-          <hr>
-          <!-- Brighton -->
-          <li>
-            <h3>Brighton – GCSE Geography Field trip</h3>
-            <p>Friday 29th September</p>
-            <p>Lead Teacher – Ms Hopkins</p>
-            <p>Cost - £11.00</p>
-            <p><strong>To be paid by Friday 22nd September</strong></p>
-            <p><strong>Applicable to GCSE Students only</strong></p>
-          </li>  
-          <hr>
+        
           <!-- London -->
           <li>
             <h3>History Trip to London</h3>
             <p>Wednesday 18th October</p>
             <p>Lead Teacher – Miss Last</p>
             <p>Cost - £15.00</p>
+            <a class="button small radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
             <p><strong>To be paid by Thursday 28th September</strong></p>
             <p><strong>ONLY 35 SPACES AVAILABLE</strong></p>
           </li> 
@@ -69,6 +56,7 @@
             <p>Thursday 30th November – Friday 1st December</p>
             <p>Lead Teacher – Mrs Sykes</p>
             <p>Cost - £181.00</p>
+            <a class="button small radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
             <p><strong>Currently 20 Spaces Available</strong></p>
             <table>
             	<tr>
@@ -96,6 +84,7 @@
             <p>Thursday 8th – Tuesday 13th February 2018</p>
             <p>Trip Leader – Mr Roberson</p>
             <p>Cost – £795.00</p>
+            <a class="button small radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
             <p><strong>YEAR 11 TRIP ONLY</strong></p>
             <table>
               <tr>
@@ -135,6 +124,7 @@
             <p>Tuesday 30th January to Friday 2nd February 2018</p>
             <p>Trip Leader – Mrs Butler</p>
             <p>Cost - £299</p>
+            <a class="button small radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
             <p><strong>Year 8 Trip Only - First Come First Served - LIMITED SPACES</strong></p>
             <table>
               <tr>
@@ -176,10 +166,6 @@
           
 
         </ul>
-
-        <p>Payments can now be made Online via <a href="//www.scopay.com/pcs" target="_blank">SCO Online Payments</a>.</p>
-        <a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
-
         </div>
 
     </div><br>
