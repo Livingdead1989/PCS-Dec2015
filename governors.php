@@ -84,6 +84,7 @@
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
+                            	<li>Chair of the Administration Committee</li>
                                 <li>Health and Safety Governor</li>
                                 <li>Member of Admin Committee</li>
                             </ul>
