@@ -52,26 +52,6 @@
               </div> -->
 <!--                  Event box -->
 
-
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">29th Sept 2017</p>
-                  <p class="event-time">19:00+</p>
-                </div>
-                <h2 class="event-title">LDN Wrestling</h2>
-                <p class="event-subheader">Fun for all the Family</p>
-                <p class="event-description">LDN Wrestling tours the country putting on events the entire family can enjoy from theatres to town hall, and in 2012 it became the largest promotion in Europe staging well over 150 shows.</p>
-                <div class="link-wrap">
-                  <a href="//www.ldnwrestling.com/" target="_blank" class="button success radius">LDN Wrestling Website</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School/@50.87005,-1.0034217,17z/data=!3m1!4b1!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">11.00 EB</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
 <!--                    Event Box  -->
               <div class="event-wrap">
                 <div class="date-wrap">
