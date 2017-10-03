@@ -23,25 +23,43 @@
 <section>
   <div class="row">
     <br>
-    <div class="small-12 medium-6 columns">
-      <h4 class="text-capitilise">Vacancies</h4>
-      <ul class="no-bullet">
-        <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
-        <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
-        <li>Clerk to Governors<br><span class="subheader"><a href="assets/recruitment/clerk_to_governors.pdf" target="_blank">Position Details</a></span></li>
-        <hr>
-        <li>Medical Officer<br><span class="subheader"><a href="assets/recruitment/medical_officer.pdf" target="_blank">Position Details</a></span></li>
-        <hr>
-        
 
-        
-      </ul>
-      <hr>
-      <h5><small>Information about School Direct visit <br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>
-      <div class="show-for-small-only"><br></div>
-    </div>
-    <div class="small-10 small-centered medium-uncentered medium-6 columns">
-      <img src="/images/general/general-24.jpg" alt="Park Community School - A happy place to be">
+	    <div class="small-12 medium-6 columns">
+	      <h4 class="text-capitilise">Vacancies</h4>
+	      <ul class="no-bullet">
+	        <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
+	        <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
+	        <li>Clerk to Governors<br><span class="subheader"><a href="assets/recruitment/clerk_to_governors.pdf" target="_blank">Position Details</a></span></li>
+	        <hr>
+	        <li>Medical Officer<br><span class="subheader"><a href="assets/recruitment/medical_officer.pdf" target="_blank">Position Details</a></span></li>
+	      </ul>
+	      <hr>
+	      <br>
+	      <h5 class="text-center"><small>Information about School Direct visit <br><a href="//www.thesolentscitt.co.uk/" target="_blank">www.theSolentSCITT.co.uk</a></small></h5>
+	      <br>
+	      <div class="show-for-small-only"><br></div>
+	    </div>
+
+	    <div class="small-12 medium-6 columns">
+			<h4>Documentation</h4>
+			<ul class="medium-block-grid-2">
+			  <li>
+			    <ul style="line-height: 2;">Information | <small>PDF Files</small>
+			      <li><a href="assets/recruitment/documentation/applicant-information.pdf" target="_blank">Applicant Information</a></li>
+			      <li><a href="assets/recruitment/documentation/staff-dress-code.pdf" target="_blank">Staff Dress Code</a></li>
+			      <li><a href="assets/recruitment/documentation/privacy-statement.pdf" target="_blank">Privacy Statement</a></li>
+			    </ul>
+			  </li>
+			  <li>
+			    <ul style="line-height: 2;">Forms | <small>DOC Files</small>
+			      <li><a href="assets/recruitment/documentation/equalities-form.doc" target="_blank" download>Equalities Form</a></li>
+			      <li><a href="assets/recruitment/documentation/teaching-application-form.doc" target="_blank" download>Teaching Application Form</a></li>
+			      <li><a href="assets/recruitment/documentation/support-application-form.doc" target="_blank" download>Support Application Form</a></li>
+			    </ul>
+			  </li>
+			</ul>
+			<p>For legal reasons, we cannot accept CVs as a form of application, and therefore ask all applicants to complete our application form and Equal Opportunities Monitoring Form. Completed forms can be sent to <a href="javascript:location='mailto:\u0072\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void%200">Recruitment @ pcs.hants.sch.uk</a>.</p>
+	    </div>
     </div>
 
   </div>
@@ -71,27 +89,10 @@
       <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
   </div>
     <div class="row">
-      <div class="large-12 columns">
-        <h4>Documentation</h4>
-        <ul class="medium-block-grid-2">
-          <li>
-            <ul>Information
-              <li><a href="assets/recruitment/documentation/applicant-information.pdf" target="_blank">Applicant Information</a></li>
-              <li><a href="assets/recruitment/documentation/staff-dress-code.pdf" target="_blank">Staff Dress Code</a></li>
-              <li><a href="assets/recruitment/documentation/privacy-statement.pdf" target="_blank">Privacy Statement</a></li>
-            </ul>
-          </li>
-          <li>
-            <ul>Forms | <small>Downloadable Word Documents</small>
-              <li><a href="assets/recruitment/documentation/equalities-form.docx" target="_blank">Equalities Form</a></li>
-              <li><a href="assets/recruitment/documentation/teaching-application-form.docx" target="_blank">Teaching Application Form</a></li>
-              <li><a href="assets/recruitment/documentation/support-application-form.docx" target="_blank">Support Application Form</a></li>
-            </ul>
-          </li>
-        </ul>
-        <hr>
-        <br>
-        <p>Note: for legal reasons, we cannot accept CVs as a form of application, and therefore ask all applicants to complete our application form and Equal Opportunities Monitoring Form. Completed forms can be sent to <a href="javascript:location='mailto:\u0072\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void%200">Recruitment @ pcs.hants.sch.uk</a>.</p>
+      <div class="small-10 small-centered medium-uncentered medium-6 columns">
+      	<img src="/images/general/general-24.jpg" alt="Park Community School - A happy place to be">
+      </div>
+      <div class="small-12 medium-6 columns">
         <p>Park Community School and Hampshire County Council are committed to safeguarding and promoting the welfare of children and young people and expect all staff and volunteers to share this commitment. We will ensure that all our recruitment and selection practices reflect this commitment.</p>
         <p>All successful candidates will be subject to satisfactory references and other relevant pre-employment checks including Disclosure and Barring Services (DBS) and medical clearance.</p>
         <p>View our Child Protection Policy on our <a href="/policies.php">policies page</a>.</p>
@@ -103,7 +104,7 @@
 <!-- Terms -->
 <section class="grey-bg">
   <div class="row">
-      <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+      <div class="small-centered large-1 columns text-center hr-logo white-bg"></div>
   </div>
     <div class="row">
         <div class="small-12 medium-7 large-8 columns">
