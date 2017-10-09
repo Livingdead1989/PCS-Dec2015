@@ -50,34 +50,7 @@
             <p><strong>ONLY 35 SPACES AVAILABLE</strong></p>
           </li> 
           <hr>
-          <!-- Lille Markets -->
-          <li>
-            <h3>Lille Christmas Markets – MFL Trip</h3>
-            <p>Thursday 30th November – Friday 1st December</p>
-            <p>Lead Teacher – Mrs Sykes</p>
-            <p>Cost - £181.00</p>
-            <a class="button small radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
-            <p><strong>Currently 20 Spaces Available</strong></p>
-            <table>
-            	<tr>
-                	<td>Non-refundable Deposit</td>
-                	<td>Due by</td>
-            	</tr>
-            	<tr>
-            		<td>£100</td>
-            		<td>25.09.2017</td>
-            	</tr>
-            	<tr>
-                	<td>Instalments</td>
-                	<td></td>
-            	</tr>
-            	<tr>
-            		<td>£81.00</td>
-            		<td>20.10.2017</td>
-            	</tr>
-            </table>
-          </li> 
-          <hr>
+          
           <!-- New York -->
           <li>
             <h3>New York - ALL PLACES ALLOCATED - INFO ONLY</h3>

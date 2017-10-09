@@ -17,7 +17,19 @@
             <h1 class="text-capitalize brandfont">Park Community School</h1>
             <h3 class="text-capitalize brandfont">Much more than just a school...</h3>
             <p><em>‘The headteacher’s vision is to create ‘more than just a school’ by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life. This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain.’ - </em>Ofsted January 2017</p>
-            <a href="assets/statutory/Ofsted-Report-2017.pdf" target="_blank" class="button success">Full Ofsted Report</a>
+            <a class="small button radius success" href="assets/statutory/Ofsted-Report-2017.pdf" target="_blank">Full Ofsted Report</a>
+            <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">The Headteacher's Welcome</a>
+
+                        <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Headteacher's Welcome</h2>
+                          <p class="lead">Mr Christopher Anders</p>
+                          <p>Welcome to Park Community School.  Our school now provides an expansive park environment.  Through a wide variety of lessons and other opportunities to learn, we encourage our young people to discover what they love. We have themed the areas of the school around ‘Parks of the World’, using supersized photos to brighten corridors and show what an exciting world we live in.  As well as the school site, we have three other facilities to provide a great curriculum and exciting places in which to learn.  Our school focuses on three areas of learning, we describe these as attainment, resilience and autonomy.</p>
+                          <p>Over the last seven years we have planned and then constructed our new school.  Two-thirds of the school has been rebuilt with the remaining third refurbished.  The fantastic buildings now support students’ learning and enrich their time at school.  </p>
+                          <p>We have a wonderful theatre, lecture theatre, restaurant and outdoor areas, including a floodlit STP (synthetic turf pitch). The Watering Hole restaurant serves award-winning school meals, prepared by our chefs and their catering team, all at affordable prices. Our classrooms include the latest large touch-screen technology. We have invested heavily in computers, laptops, iPads and software to allow students to use a comprehensive range of electronic devices. Our science labs and technology rooms have all been refurbished and house new equipment, including 3D printers and a laser cutter, as well as an industrial catering room.</p>
+                          <p>I hope that the information on this website gives you some idea of our vision and principles, as well as the facilities, and curriculum that we offer to students.  It also includes details of other activities we undertake, such as teacher training through the Solent SCITT, and printing and enterprise through our industrial unit and construction skills centre.</p>
+
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
         </div>
         <div class="small-offset-2 small-8 small-pull-2 medium-offset-0 medium-5 medium-pull-0 large-4 columns">
             <br class="show-for-small-only">
@@ -51,40 +63,10 @@
                 <br>
                 <h3>Welcome to Park...</h3>
                 <div class="text-center">
-                        <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">The Headteacher's Welcome</a>
-
-                        <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Headteacher's Welcome</h2>
-                          <p class="lead">Mr Christopher Anders</p>
-                          <p>Welcome to Park Community School.  Our school now provides an expansive park environment.  Through a wide variety of lessons and other opportunities to learn, we encourage our young people to discover what they love. We have themed the areas of the school around ‘Parks of the World’, using supersized photos to brighten corridors and show what an exciting world we live in.  As well as the school site, we have three other facilities to provide a great curriculum and exciting places in which to learn.  Our school focuses on three areas of learning, we describe these as attainment, resilience and autonomy.</p>
-                          <p>Over the last seven years we have planned and then constructed our new school.  Two-thirds of the school has been rebuilt with the remaining third refurbished.  The fantastic buildings now support students’ learning and enrich their time at school.  </p>
-                          <p>We have a wonderful theatre, lecture theatre, restaurant and outdoor areas, including a floodlit STP (synthetic turf pitch). The Watering Hole restaurant serves award-winning school meals, prepared by our chefs and their catering team, all at affordable prices. Our classrooms include the latest large touch-screen technology. We have invested heavily in computers, laptops, iPads and software to allow students to use a comprehensive range of electronic devices. Our science labs and technology rooms have all been refurbished and house new equipment, including 3D printers and a laser cutter, as well as an industrial catering room.</p>
-                          <p>I hope that the information on this website gives you some idea of our vision and principles, as well as the facilities, and curriculum that we offer to students.  It also includes details of other activities we undertake, such as teacher training through the Solent SCITT, and printing and enterprise through our industrial unit and construction skills centre.</p>
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-                        <a class="small button radius success" href="#" data-reveal-id="WelcomeYr6">Year 6 Welcome</a>
-                          <div id="WelcomeYr6" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                            <div class="small-8 column">
-                              <h2 id="modalTitle">Year 6 Welcome</h2>
-                              <p class="lead">Welcome to Park Community School!</p>
-                              <p>We are delighted that your son/daughter will be joining us as a Year 7 in September 2017. You will soon be sent some key dates about when they will be coming to visit us in the Summer Term of Year 6. We will also be visiting them in their current schools during the Summer Term. We are looking forward to meeting you soon.
-                              </p>
-                              <p class="lead">Mr Anders <br>Headteacher</p>
-                            </div>
-                            <div class="small-4 column">
-                              <br><br>
-                              <img src="images/park-logo.svg" alt="">
-                            </div>
-
-                            <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                          </div>
-
                     </div>
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
-                      <!-- <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4_9icLT-LuUzDuInfzsBwP2ufiveUdQ5&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-                      <video src="assets/ofstedcomments.mp4" controls poster="assets/OfstedCommentsPoster.png"></video>
+                      <iframe src="https://www.youtube-nocookie.com/embed/ImDlGHRMYQo?rel=0" frameborder="0" allowfullscreen></iframe>
+                      <!-- <video src="assets/ofstedcomments.mp4" controls poster="assets/OfstedCommentsPoster.png"></video> -->
                     </div>
                     
                     <br>
