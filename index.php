@@ -43,13 +43,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!-- <section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p></p>
+      <p><a href="events.php" style="color:white;text-decoration:none;"><strong>MUNCH</strong> is Back this <strong>Half Term</strong>!</a></p>
     </div>
   </div>
-</section> -->
+</section>
 <!-- END NOTIFICATION -->
 
 
