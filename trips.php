@@ -39,18 +39,7 @@
           </li>   -->
 
         
-          <!-- London -->
-          <li>
-            <h3>History Trip to London</h3>
-            <p>Wednesday 18th October</p>
-            <p>Lead Teacher – Miss Last</p>
-            <p>Cost - £15.00</p>
-            <a class="button small radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
-            <p><strong>To be paid by Thursday 28th September</strong></p>
-            <p><strong>ONLY 35 SPACES AVAILABLE</strong></p>
-          </li> 
-          <hr>
-          
+                
           <!-- New York -->
           <li>
             <h3>New York - ALL PLACES ALLOCATED - INFO ONLY</h3>
