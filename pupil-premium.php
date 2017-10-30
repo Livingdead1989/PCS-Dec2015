@@ -308,7 +308,7 @@
         <p>If you would like some advice and/or support on completing the Free School Meal application form, please come into Reception at any time to talk to staff, who are happy to help.</p>
         <p>You can also find further information on eligibility and how to apply by visiting our <a href="/catering.php">Catering</a> page.</p>
 
-        <p><a href="/assets/qa-pp-adopted-children.pdf" target="_blank">Adopted Children Questions and Answers</a></p>
+        <p><a href="/assets/pupilpremium/qa-pp-adopted-children.pdf" target="_blank">Adopted Children Questions and Answers</a></p>
       </div>
       <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-09.jpg" alt="Park Community School - Students enjoy the freedom to read real books"></div>
     </div>

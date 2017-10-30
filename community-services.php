@@ -118,7 +118,7 @@
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-TreasureHunt">
                             <img src="images/community/treasurehunt.jpg" alt=" ">
-                            <p>Teasure Hunt Play 'n' Slide &amp; Bouncy Castle</p>
+                            <p>Treasure Hunt Play 'n' Slide &amp; Bouncy Castle</p>
                         </a></div>
                 </li>
                 <li>

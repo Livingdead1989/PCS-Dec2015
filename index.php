@@ -46,7 +46,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-      <p><a href="events.php" style="color:white;text-decoration:none;"><strong>MUNCH</strong> is Back this <strong>Half Term</strong>!</a></p>
+        <p><a href="events.php" style="color:white;text-decoration:none;"><strong>Free</strong> Christmas Day Lunch</a></p>
     </div>
   </div>
 </section>
