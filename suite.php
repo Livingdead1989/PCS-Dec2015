@@ -121,7 +121,7 @@
           <p>The smaller of the two spaces this room can either be used as a recording space or as a band rehearsal room. Perfect for 4/5 piece bands who like to make a BIG sound!</p>
           <ul>
             <li>Private Practice Space</li>
-            <li>Suitable for 4/5piece band</li>
+            <li>Suitable for 4/5 Piece Band</li>
             <li>Hireable Drumkit, Guitars and Bass'</li>
           </ul>
 

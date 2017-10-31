@@ -25,15 +25,17 @@
         <br>
         <div class="medium-8 columns">
             <h3>Our Chef <small>- Steven Cross</small></h3>
-            <p>For the past 16 years Steven has worked within the catering trade, after leaving school he went straight to Southdowns College and studied catering for 4 years. Cooking has always been his passion and from a very young age he cooked at home with his mother who is also a chef.</p>
+            <p>Cooking has always been our Head Chef’s passion and from a very young age Steven Cross cooked at home with his mother, who is also a chef.  After leaving school he went straight to South Downs College where he studied catering for four years.</p>
 
-            <p>Steven really loved college and the food he produced. He was rewarded with work placements in Buckingham Palace and Windsor castle, which was a great opportunity and a great honour working with some very talented chefs.</p>
+            <p>Steven relished his time studying at college. He was rewarded with work placements in Buckingham Palace and Windsor Castle, where he worked alongside some very talented chefs.</p>
 
-            <p>After leaving college Steven focused on the highest level possible in fine dining and started working within AA rosetted establishments and Michelin star restaurants. This was extremely hard work, but Steven loved the challenge, Steven has worked in such places as 36 On The Quay and JSW, in Petersfield.</p>
+            <p>On leaving college Steven focused on gaining experience at the highest level and worked within AA rosetted establishments and Michelin star restaurants. Although extremely hard work, Steven loved the challenge.  Steven worked in such places as 36 On The Quay in Emsworth and JSW in Petersfield.</p>
 
-            <p>For the past two years Steven has worked in Emsworth, at a local pub, in partnership with the owner to step up the quality. He achieved great success.</p>
+            <p>On joining Park Community School, Steven’s focus was to redefine school meals and ensure all our students got a healthy well balanced meal throughout the school day. Steven worked tirelessly to set up Park Catering Services and he is proud to say that good food for all has successfully been embedded within the school’s ethos.</p>
 
-            <p>Steven wanted a change and to experience new areas of catering so thought Park would be a great challenge and opportunity. Steven has worked incredibly hard to redefine school meals at Park Community School, and to date is receiving excellent results.</p>
+            <p>Steven runs the school farm growing a large percentage of our own fruit and vegetables which are used within the school kitchens.  We have also reared more than 80 pigs on the farm, the meat from which has been used for school lunches.  Steven has been instrumental in forging links with local food producers to increase our organic produce usage.</p>
+
+            <p>Looking to the future, Steven is now developing Park Catering Services to help our students and community to understand how to grow their own food, food processes and benefits of a healthy nutritious diet.</p>
 
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
@@ -78,16 +80,29 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-8 columns">
-            <h4>Educatering Excellence Award</h4>
+        <div class="columns">
+            <h4>Educatering Excellence Award 2017</h4>
+            <p>Secondary School Caterer of the Year - <strong>Steven Cross</strong></p>
+            
+
+            <h4>Educatering Excellence Award 2016</h4>
             <p>Newcomer of the Year - <strong>Steven Cross</strong></p>
             <p>Employees who are new to a company or are in a new role within their existing company who have made an impact within the past 2 years.</p>
             <p>Judges look for evidence based examples of how the individual has shown outstanding commitment to their new roles and enhanced the performance of the school meal provision.</p>
+            
+            <ul class="text-center small-block-grid-1 medium-block-grid-2">
+                <li>
+                    <img style="max-height: 320px;" src="images/schoolmeals/educatering-2016.jpg" alt="Park Community School Educatering Excellence Awards - Newcomer of the Year">
+                </li>
+
+                <li>
+                    <img style="max-height: 320px;" src="images/schoolmeals/educatering-2017.jpg" alt="Park Community School Educatering Excellence Awards - Secondary School Caterer of the Year">
+                </li>
+            </ul>
 
             <p>For more information about Educatering Awards please visit their <a href="//educateringawards.co.uk/">website</a>.</p>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/educatering.jpg" alt="Park Community School Educatering Excellence Awards - Newcomer of the Year"></div>
     </div>
     <br><br>
 </section>

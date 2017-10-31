@@ -40,7 +40,7 @@
     </div>
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
-            <p>The student cab undertake a construction skills course leading to a Laser Level 1 in Construction Skills. The qualification is a Certification for Learning, Employability and Progression (LEAP). The course will take 60 sessions over a 2-year period to complete depending on ability.</p>
+            <p>The student can undertake a construction skills course leading to a Laser Level 1 in Construction Skills. The qualification is a Certification for Learning, Employability and Progression (LEAP). The course will take 60 sessions over a 2-year period to complete depending on ability.</p>
             <p>The units of study will include:</p>
             <ol>
               <li>Brickwork/Blockwork</li>
@@ -59,15 +59,20 @@
     <br><br><br>
 </section>
 
-<section class="grey-bg">
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
     <div class="row">
         <div class="medium-8 medium-push-4 columns">
-            <h4>Much More than just a school doing Much More than just Rowing </h4>
+            <h4>Much More than just a school... <br>Much More than just Rowing </h4>
             <p>Park Community School are delighted to be working in partnership with Oarsome Chance Foundation (OCF) who have developed a Schools Coastal Rowing project and over the summer the school has taken part in several programmes increasing student engagement.</p>
             <ol>
               <li>During Freshers Week, the new intake for the school, 180 students were able to build model skiffs, competitively row a set distance using Concept 2 rowing machines. 45 students then had the opportunity to row on the water using the OCF St. Ayles skiffs in Langstone Harbour. Everyone had a great time, leaving them wanting more.</li>
+              
               <li>12 students from Years 8/9 during summer term 2016 learnt to row and race skiffs resulting in them winning the inaugural Youth St. Ayles Regatta at Cobnor Activities Centre in Chichester Harbour. Students were extremely proud of their achievements and rightly so as none of them had ever taken part in an activity like this before.</li>
-              <li>Oarsome Chance “Kids Build Boats” project provides our students the opportunity to develop practical and life skills to aid them through their education and beyond. November 2016 Year 7 students will have the opportunity to build 4 Oarsome Skiffs at Park’s offsite Apex Training Centre and Summer 2017 students will row and race their built skiffs at Northney Harbour, Hayling Island.</li>
+              
+              <li>Oarsome Chance “Kids Build Boats” project provided our students the opportunity to develop practical and life skills to aid them through their education and beyond. November 2016 Year 7 students had the opportunity to build 4 Oarsome Skiffs at Park’s offsite Apex Training Centre and Summer 2017 students will row and race their built skiffs at Northney Harbour, Hayling Island.</li>
             </ol>
             <p>Oarsome Chance Foundation are able to provide a variety of opportunities for our students both to assist in their academic success and also for enjoyment and relaxation.</p>
 
@@ -77,9 +82,9 @@
     <br><br>
 </section>
 
-<section>
+<section class="grey-bg">
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
         <div class="medium-8 columns">
@@ -94,6 +99,16 @@
         </div>
         <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/apex/apex-03.jpg" alt="Apex Centre - Continuing Education"></div>
     </div><br>
+</section>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        
+    </div>
+    <br><br>
 </section>
 
 <!-- FOOTER -->

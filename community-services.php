@@ -339,7 +339,7 @@
         <li>We supply a variety of background music</li>
         <li>2 tables covered with party coverings to sit 24 children</li>
         <li>Hot water pots and water jugs available on request</li>
-        <li>Party host can bring their own food or if you prefer please see are optional extras for food to be provided</li>
+        <li>Party host can bring their own food or if you prefer please see our optional extras for food to be provided</li>
     </ul>
     <hr>
 
@@ -370,7 +370,7 @@
     <hr>
 
     <p class="lead">Description</p>
-    <p>This party takes in the Sport Hall and the children can play an assortment of games inside the Zorbs or just bounce around on the castle</p>
+    <p>This party takes place in the Sport Hall and the children can play an assortment of games inside the Zorbs or just bounce around on the castle</p>
     <hr>
 
     <p class="lead">Includes</p>
@@ -572,7 +572,7 @@
 <!-- Extras -->
 <div id="pty-Extras" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
     <h2 id="modalTitle">Optional Extras</h2>
-    <p class="lead">Hot or Cold food can be prepared by our chief, or you can bring your own.</p>
+    <p class="lead">Hot or Cold food can be prepared by our chef, or you can bring your own.</p>
     <hr>
         <p><strong>Children's Cold Party Box</strong> | £65</p>
         <p>for a minimum of 20 children. Food options can be selected from our menu.</p>
@@ -593,7 +593,7 @@
         <p>Children's party bags containing 3 toys, chocolate bar and more.</p>
     <hr>
         <p><strong>Staff Assistant</strong> | £25.00</p>
-        <p>Assistant with Party needs for 2 Hours.</p>
+        <p>Assist with Party needs for 2 Hours.</p>
     <hr>
         <p><strong>Site Team</strong> | £25.00 per hour</p>
         <p>For those times when the booking goes beyond our opening times.</p>
