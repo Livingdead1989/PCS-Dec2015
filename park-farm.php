@@ -38,11 +38,13 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-push-6 medium-6 columns">
-            <p>The recently slaughtered pigs’ hearts, lungs and kidneys were used by the science department when teaching students anatomy.</p>
-            <p>Students are taught horticulture and follow our RHS accredited course. Horticulture lessons are also taught on the school site.</p>
+        <br>
+        <div class="medium-12 columns">
+          <!-- Park Farm Playlist Videos -->
+          <div class="flex-video widescreen border-radius-5">
+            <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4_9icLT-LuWGb9qMWYNzFHDa608hU-HN" frameborder="0" gesture="media" allowfullscreen></iframe>
+          </div>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-6 medium-offset-0 medium-6 columns"><img src="images/farm/farm-02.jpg" alt="Park Farm - Much more than just fruit and veg, we have livestock"></div>
     </div>
     <br><br><br>
 </section>
