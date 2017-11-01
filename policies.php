@@ -60,7 +60,7 @@
         </div>
         <div class="hide-for-small medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-10.jpg" alt="Park Community School student enjoying a large selection of books"></div>
     <div class="columns">
-      <p>If, as a parent of a student attending this school, you require a paper copy of the information on this website, we shall provide this free of charge. Please enquire at <a href="/contact.php">the school reception</a>.</p>
+      <p>If as a parent of a student attending this school you require a paper copy of the information on this website, we shall provide this free of charge. Please enquire at <a href="/contact.php">the school reception</a>.</p>
     </div>
     </div>
 

@@ -26,7 +26,13 @@
           <br>
             <p>At Park we recognise how difficult it is for young people to gain valuable work experience so we are opening our own Recruitment Agency for positions that can be filled by our students.</p>
 
-            <p>Students will go through a recruitment process including completing an application form in which they will need to obtain references, group task and interview. Vacancies will be advertised outside KD3.</p>
+            <p>Students will go through a recruitment process including:</p>
+            <ul class="circle">
+                <li>Completing an application form in which they will need to obtain references,</li>
+                <li>Group task and</li>
+                <li>Interview.</li>
+            </ul>
+            <p>Vacancies will be advertised outside KD3.</p>
 
             <p>The vacancies that will occur show the progression that can be made, through the different roles. More roles will be added as they become available.</p>
 
@@ -70,7 +76,7 @@
         <div class="large-12 columns">
             <p>Once a Student is successful they will receive the necessary training and equipment. In order to be paid they will require a bank account.</p>
 
-            <p>Please fill in the application form from the list above and return completed applications <a href="javascript:location='mailto:\u0073\u0074\u0075\u0064\u0065\u006e\u0074\u0052\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0"><script type="text/javascript">document.write('\u0073\u0074\u0075\u0064\u0065\u006e\u0074\u0052\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0020\u0040\u0020\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b')</script></a>.</p>
+            <p>Please fill in the application form from the list above and return completed applications to <a href="javascript:location='mailto:\u0073\u0074\u0075\u0064\u0065\u006e\u0074\u0052\u0065\u0063\u0072\u0075\u0069\u0074\u006d\u0065\u006e\u0074\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">StudentRecruitment</a>.</p>
             <br>
         </div>
     </div>
