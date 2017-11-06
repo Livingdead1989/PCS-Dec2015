@@ -32,6 +32,7 @@
             	<li>
 					<ul class="circle">Autumn 2017
 					  <li><a href="assets/assemblies/autumn-2017/SMSC1.pdf" target="_blank">New Beginnings &amp; Good Choices</a></li>
+                      <li><a href="assets/assemblies/autumn-2017/SMSC2.pdf" target="_blank">SMSC2</a></li>
 					</ul>
 				</li>
 				<li>

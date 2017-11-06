@@ -66,7 +66,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel2d" role="tab" id="panel2d-heading" aria-controls="panel2d">Year 8 - National Curriculum - Design</a>
+                    <a href="#panel2d" role="tab" id="panel2d-heading" aria-controls="panel2d">Year 8 - National Curriculum - Design &amp; Technology</a>
                     <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
@@ -82,8 +82,10 @@
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
-                            <li>Soldering</li>
-                            <li>Learning the functions of micro controllers, resistors and capacitors.</li>
+                            <li>Basic hand skills in woods and plastics</li>
+                            <li>Using hand tools and machinery safely</li>
+                            <li>Following a set of design plans accurately</li>
+                            <li>Create a product for stock materials</li>
                         </ul>
 
                     </div>
@@ -111,7 +113,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 9 - GCSE AQA - Design</a>
+                    <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 9 - GCSE AQA - Design &amp; Technology</a>
                     <div id="panel4d" class="content" role="tabpanel" aria-labelledby="panel4d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
@@ -139,7 +141,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 9-10 - GCSE - Catering</a>
+                    <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 9-10 - GCSE - Hospitality &amp; Catering</a>
                     <div id="panel5d" class="content" role="tabpanel" aria-labelledby="panel5d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
@@ -148,7 +150,7 @@
                             <li>All aspects of food preparation are covered with a view to developing skills such as food preparation, cooking and presentation of a wide variety of dishes.</li>
                             <li>They will be shown how to use a wide range of fresh and pre-made commodities and be able to cater for small numbers.</li>
                             <li>Nutrition will be covered in greater depth to increase the students’ knowledge of different diets with reference to medical, ethical and religious needs.</li>
-                            <li>There are 2 pieces of coursework to be completed both of which consist of a practical 2 hour assessment as well as between 10-25 hours of written work followed by a 1 ¼ hour exam at the end of the course.</li>
+                            <li>There are 2 pieces of controlled assessment to be completed both of which consist of a practical 3 hour assessment as well as an 18 hour piece of written work followed by a 1 and a half hour exam at the end of the course.</li>
                         </ul>
                         <br>
                         <p class="text-capitalize">Main topics students study:</p>
@@ -162,7 +164,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel6d" role="tab" id="panel6d-heading" aria-controls="panel6d">Year 10 - GCSE AQA - Design</a>
+                    <a href="#panel6d" role="tab" id="panel6d-heading" aria-controls="panel6d">Year 10 - GCSE AQA - Design &amp; Technology</a>
                     <div id="panel6d" class="content" role="tabpanel" aria-labelledby="panel6d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
@@ -202,7 +204,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel7d" role="tab" id="panel7d-heading" aria-controls="panel7d">Year 11 - Catering</a>
+                    <a href="#panel7d" role="tab" id="panel7d-heading" aria-controls="panel7d">Year 11 - Hospitality &amp; Catering</a>
                     <div id="panel7d" class="content" role="tabpanel" aria-labelledby="panel7d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
 
@@ -214,7 +216,7 @@
                                 <li>Ongoing evaluation.</li>
                                 <li>They will be shown how to use a wide range of fresh and pre-made commodities and be able to cater for small numbers.</li>
                                 <li>Nutrition will be covered in greater depth to increase the students’ knowledge of different diets with reference to medical, ethical and religious needs.</li>
-                                <li>There are 2 pieces of coursework to be completed both of which consist of a practical 2 hour assessment as well as between 10-25 hours of written work followed by a 1 ¼ hour exam at the end of the course.</li>
+                                <li>There are 2 pieces of controlled assessment to be completed both of which consist of a practical 3 hour assessment as well as an 18 hour piece of written work followed by a 1 and a half hour exam at the end of the course.</li>
                                 <li>Students will develop all skills needed in food preparation from basic chopping and slicing to advanced decorating and presentation skills.</li>
                                 <li>An understanding of food safety and hygiene will be developed with reference to requirements set down by law in the hospitality sector.</li>
                                 <li>During practical sessions different cooking methods eg creaming, whisking, baking and steaming will be practised and developed. Students will be encouraged to present food well and understand the importance of this.</li>
@@ -229,6 +231,8 @@
                     <div id="panel8" class="content" role="tabpanel" aria-labelledby="panel8-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
+                            <li>Students will complete a 45-hour piece of controlled assessment determined by the exam board. This includes a 20-hour practical assessment creating a product from stock materials and a 25-hour design folder. This work is internally and externally examined.</li>
+                            <li>Students will complete a 2-hour examination at the end of the course, this will be externally examined.</li>
                             <li>Making
                                 <ul>
                                     <li>The type of project undertaken will determine the making activities that the student will encounter.</li>
