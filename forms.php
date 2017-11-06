@@ -32,8 +32,16 @@
                 <li><a href="assets/forms/Free-School-Meals-Application.doc" target="_blank">Free School Meals Application Form</a></li>
                 <li><a href="assets/forms/Out-Round-Application-Inc-Guidance.docx" target="_blank">Application form for admission to a Hampshire school outside the main admission round</a></li>
                 <li><a href="assets/forms/Parental-Consent-Policy.pdf" target="_blank">Parental Consent Policy Booklet</a></li>
-                <li>Holiday Request</li>
             </ul>
+            <br>
+            <h3>How to Request Absence</h3>
+            <p>Download and Complete the “1. Leave of Absence” Request form. During your meeting we will complete the “2. Application Form to Request Absence” together but please feel free to download and bring it along with you.</p>
+            <ol>
+                <li><a href="assets/forms/leave_of_absence_request.doc" target="_blank">Leave of Absence Request</a></li>
+                <li><a href="assets/forms/application_form_to_request_absence.doc" target="_blank">Application Form to Request Absence</a></li>
+            </ol>
+
+
 
              <br><br><br>
 
