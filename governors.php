@@ -28,7 +28,7 @@
             <p>The Governors act as a ‘critical friend’ to the school by</p>
             <ul class="circle">
                 <li>Ensuring clarity of vision, ethos and strategic direction and supporting staff to achieve this.</li><br>
-                <li>Holding the headteacher to account for the educational performance of the school and its pupils.</li><br>
+                <li>Holding the Headteacher to account for the educational performance of the school and its pupils.</li><br>
                 <li>Overseeing the financial performance of the school and making sure money is well spent.</li>
             </ul>
         <br>
@@ -327,7 +327,7 @@
           <!-- When vancanies are available from the class alert and replace with success -->
           <a href="#" target="_blank" class="button radius alert" data-reveal-id="GovernorPositionsAvailable">View Vacancies</a>
           <p>Alternatively, anybody wishing to be a governor, can write to the Clerk to Governors requesting consideration.</p>
-          <p>Parent Governors must submit their application using the form as these governors are elected in a vote.</p>
+          <p>Parent Governors must submit their application using the form as these Governors are elected in a vote.</p>
 
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-pull-6 medium-6 columns"><img src="images/general/general-24.jpg" alt="Park Community School - Become a governor and help support the school"></div>
@@ -369,7 +369,7 @@
             <p>Records of the governor meetings.</p>
             <a href="assets/governors/governors-attendance.pdf" target="_blank" class="button radius success">Governor Attendance</a>
 
-              <p>For more information about school governors please visit the <br><a href="http://www.nga.org.uk/Home.aspx" target="_blank">National Governors' Association</a></p>
+              <p>For more information about school Governors please visit the <br><a href="http://www.nga.org.uk/Home.aspx" target="_blank">National Governors' Association</a></p>
             </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/general/general-06.jpg" alt="Park Community - Happy, Friendly Students Eager to Learn"></div>
     </div>

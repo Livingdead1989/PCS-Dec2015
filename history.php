@@ -45,7 +45,8 @@
           <li>an examination of industrial Britain and whether this was really progress for ‘ordinary’ people</li>
           <li>how life dramatically changed during the 20th century and which factors we attribute to this</li>
         </ul>
-        <p>The second theme for our year seven pupils is ‘power’. This follows the changes in kingship from Medieval to Tudor England and then the subsequent progress
+        <p>The second theme for our year seven pupils is focused on ‘why were people willing to die for their beliefs’. This includes the importance of religion in Medieval life and the turbulent changes in Tudor England that arose from England’s dramatic break with Rome in the 16th century and the consequences of this.</p>
+        <p>Finally, the theme of ‘power’ is studied. This follows the changes in kingship from Medieval to Tudor England and then the subsequent progress
         and change from monarchy to a democratic system that we have today.</p>
 
         <h3>Key Stage - Year 8</h3>
@@ -65,16 +66,9 @@
 
         <h3>Key Stage 4</h3>
 
-        <p>Key Stage 4 students are currently completing a three year course in GCSE History. We begin with a modern depth study of Weimar and Nazi Germany, examining
-        Hitler’s rise to power and how life changed for ordinary people in this period.</p>
-        <p>This is followed by our unit on the Cold War which examines the nuclear stand-off between the USA and Russia that dominated international affairs in the
-        latter part of the 20<sup>th</sup> century.</p>
-        <p>In year 10, Anglo-Saxon England in the Medieval depth study of choice, examining how the problem of succession led to England’s last full scale invasion
-        and the immediate repercussions of the Norman Conquest.</p>
-        <p>The final unit is a thematic unit focusing on Crime and Punishment over the course of a thousand years, starting in 1000AD. Within this topic, there is a
-        section solely focused on the historic place of Whitechapel during the late 19<sup>th</sup> century which includes the crimes of Jack the Ripper.</p>
-        <p>This varied and thought-provoking curriculum is designed to give pupils both depth and breadth of a range of areas to allow them to truly value the lessons
-        from the past and enjoy their learning.</p>
+        <p>Key Stage 4 students are currently completing a three year course in GCSE History. Paper 1 focuses on Crime and Punishment over the course of a thousand years, starting in 1000AD. Within this topic, there is a section solely focused on the historic place of Whitechapel during the late 19th century which includes the crimes of Jack the Ripper.</p>
+        <p>Paper 2 Section A is a unit on Superpower Relations 1941-1991 which examines the nuclear stand-off between the USA and Russia that dominated international affairs in the latter part of the 20th century. Section B of this paper is Elizabethan England 1558-1588 is the depth study of choice, studying the problems she encountered in her long reign and how these were dealt with.</p>
+        <p>Paper 3 solely focuses on a modern depth study of Weimar and Nazi Germany, examining Hitler’s rise to power and how life changed for ordinary people in this period. This varied and thought-provoking curriculum is designed to give pupils both depth and breadth of a range of areas to allow them to truly value the lessons from the past and enjoy their learning.</p>
 
         <br>
         </div>
