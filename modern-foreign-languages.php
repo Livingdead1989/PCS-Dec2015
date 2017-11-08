@@ -62,7 +62,7 @@
             <ul class="accordion" data-accordion role="tablist">
 
                 <li class="accordion-navigation">
-                    <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Year 7 - National Curriculum - French</a>
+                    <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Year 7 - National Curriculum - Spanish</a>
                     <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
@@ -90,7 +90,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel2d" role="tab" id="panel2d-heading" aria-controls="panel2d">Year 8 - National Curriculum - French</a>
+                    <a href="#panel2d" role="tab" id="panel2d-heading" aria-controls="panel2d">Year 8 - National Curriculum - Spanish</a>
                     <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
@@ -110,7 +110,7 @@
                             <li>Knowledge about language.</li>
                             <li>Language learning strategies.</li>
                             <li>e.g. Appropriate use of dictionaries and other resources.</li>
-                            <li>+ general study skills :
+                            <li>General study skills :
                                 <ul>
                                     <li>Perseverance</li>
                                     <li>Team working</li>
@@ -127,7 +127,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Year 9-10 - GCSE - French/Spanish</a>
+                    <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Year 9 - GCSE - French and Spanish</a>
                     <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
 
@@ -188,7 +188,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 9-11 - NVQ - French/Spanish</a>
+                    <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 10 - GCSE - French and Spanish</a>
                     <div id="panel4d" class="content" role="tabpanel" aria-labelledby="panel4d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
@@ -215,7 +215,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 11 - NVQ - Spanish</a>
+                    <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 11 - GCSE - French and Spanish</a>
                     <div id="panel5d" class="content" role="tabpanel" aria-labelledby="panel5d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">

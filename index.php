@@ -16,7 +16,7 @@
         <div class="medium-7 large-8 columns">
             <h1 class="text-capitalize brandfont">Park Community School</h1>
             <h3 class="text-capitalize brandfont">Much more than just a school...</h3>
-            <p><em>‘The headteacher’s vision is to create ‘more than just a school’ by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life. This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain.’ - </em>Ofsted January 2017</p>
+            <p><em>&#8220;<!-- The headteacher’s vision is to create ‘more than just a school’  -->by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life.<!--  This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain. -->&#8221; - </em>Ofsted January 2017</p>
             <a class="small button radius success" href="assets/statutory/Ofsted-Report-2017.pdf" target="_blank">Full Ofsted Report</a>
             <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">The Headteacher's Welcome</a>
 
@@ -84,23 +84,23 @@
                         </li>
 
                         <li>
-                          <a href="https://ss.pcs.hants.sch.uk" target="_blank">
-                              <img class="fixed-size-100" src="/images/cogs.svg" alt="Password Reset Self Service Portal">
-                              <p>Self Service</p>
+                          <a href="//my.milkapp.io/" target="_blank">
+                              <img class="fixed-size-100" src="/images/logo/milk.png" alt="Homework Online Management">
+                              <p>Milk Homework</p>
                           </a>
                         </li>
 
                         <li>
                           <a href="//www.myedschoolapp.com/" target="_blank">
-                              <img class="fixed-size-100" src="/images/myed.png" alt="The My Ed app shows you up to date information about all aspects of your child’s school life.">
-                              <p>My Ed</p>
+                              <img class="fixed-size-100" src="/images/logo/myed.png" alt="The My Ed app shows you up to date information about all aspects of your child’s school life.">
+                              <p>MyEd</p>
                           </a>
                         </li>
 
                         <li>
-                          <a href="/scitt.php">
-                              <img class="fixed-size-100" src="images/scitt/scitt.svg" alt="The Solent SCITT - Teacher Training">
-                              <p><span class="show-for-sr">The Solent SCITT </span>Teacher Training</p>
+                          <a href="//parents-booking.co.uk/parkcommunity">
+                              <img class="fixed-size-100" src="images/logo/parent-booking.png" alt="Parents Evening Online Booking">
+                              <p>Parents Evening</p>
                           </a>
                         </li>
 

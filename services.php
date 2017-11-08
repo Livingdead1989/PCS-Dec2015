@@ -41,7 +41,7 @@
         <br>
         </div>
 
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/cogs.svg" alt="Manage Engine Self Service Portal - Password Reset"><br>Self Service</li>
@@ -53,7 +53,7 @@
         <br>
         </div>
 
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/logo/parent-booking.png" alt="Parent Booking - Parents Evening"><br>Parents Booking</li>
@@ -65,7 +65,7 @@
         <br>
         </div>
 
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/logo/tucasi.png" alt="Tucasi - Online Payments"><br>Tucasi</li>
@@ -77,7 +77,7 @@
         <br>
         </div>
 
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/logo/milk.png" alt="Milk - Online Student Planner"><br>Milk</li>
@@ -88,6 +88,19 @@
             </ul>
         <br>
         </div>
+
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <br>
+            <ul class="pricing-table">
+              <li class="title"><img class="fixed-size-100" src="images/logo/myed.png" alt="Milk - Online Student Planner"><br>MyEd</li>
+              <li class="bullet-item">Free Messaging</li>
+              <li class="bullet-item">Key Dates</li>
+              <li class="bullet-item">Student Details</li>
+              <li class="cta-button"><a class="button radius" href="//www.myedschoolapp.com/" target="_blank">Open</a></li>
+            </ul>
+        <br>
+        </div>
+
     </div>
     <div class="row">
         <div class="large-12 columns">
