@@ -66,9 +66,10 @@
                     <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
                         <ul>
                             <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
-                            <li>GCSE Science and Additional Science or Physics, Biology and Chemistry</li>
+                            <li>GCSE Combined Science or Physics, Biology and Chemistry</li>
+                            <li>GCSE RE</li>
                             <li>3 option courses</li>
-                            <li>Core PE and RE</li>
+                            <li>Core PE </li>
                             <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
                         </ul>
                     </div>
@@ -79,10 +80,9 @@
                     <div id="panel4d" class="content" role="tabpanel" aria-labelledby="panel4d-heading">
                         <ul>
                             <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
-                            <li>GCSE Science and Additional Science or Physics, Biology and Chemistry</li>
+                            <li>GCSE Combined Science or Physics, Biology and Chemistry</li>
                             <li>2 or 3 option courses</li>
                             <li>Core PE and RE</li>
-                            <li>ECDL (European Computer Driving License): An IT based qualification</li>
                             <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
                         </ul>
                     </div>
@@ -93,10 +93,10 @@
                     <div id="panel5d" class="content" role="tabpanel" aria-labelledby="panel5d-heading">
                         <ul>
                             <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
-                            <li>GCSE Science and Additional Science or Physics, Biology and Chemistry</li>
+                            <li>GCSE Combined Science or Physics, Biology and Chemistry</li>
                             <li>2 or 3 option courses</li>
                             <li>Core PE and RE</li>
-                            <li>ECDL (European Computer Driving License): An IT qualification</li>
+                            <li>BTEC Sport</li>
                             <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
                         </ul>
                     </div>
@@ -110,15 +110,15 @@
             <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-4">
                 <li>Art</li>
                 <li>Computer Science</li>
+                <li>Construction</li>
                 <li>Dance</li>
                 <li>Drama</li>
                 <li>Graphics</li>
                 <li>Horticulture</li>
-                <li>Food</li>
+                <li>Food and Nutrition</li>
                 <li>French</li>
                 <li>Geography</li>
                 <li>History</li>
-                <li>IT</li>
                 <li>Media Studies</li>
                 <li>Music</li>
                 <li>Photography</li>
@@ -129,7 +129,8 @@
             </ul>
 
             <h4>Year 8 Options</h4>
-            <p>At the start of Year 8, students get the chance to target their education through their options. Please take the time to view <a href="/assets/curriculum/yr8-options.pdf" target="_blank">the available year 8 options.</a>.</p>
+            <p>At the start of Year 8, students get the chance to target their education through their options. Please take time to view the options that were available to our current Year 9s to select from at the end of Year 8.</p>
+            <p><a href="/assets/curriculum/options_booklet.pdf" target="_blank">Booklet - Courses for Years 9, 10 and 11 (2017-2020)</a></p>
             <br>
         </div>
 

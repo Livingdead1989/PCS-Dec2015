@@ -64,7 +64,7 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-8 columns">
+        <div class="medium-6 columns">
             <h4>Start Your Journey</h4>
 
             <p>Applications should be made directly through UCAS.</p>
@@ -76,7 +76,7 @@
 
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/scitt/scitt-01.jpg" alt="Excellent Teacher Training offered by The Solent SCITT"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/scitt/scitt-01.jpg" alt="Excellent Teacher Training offered by The Solent SCITT"></div>
     </div><br>
 </section>
 

@@ -54,7 +54,7 @@
         </div>
 
         <div class="small-10 small-centered medium-uncentered medium-5 columns">
-          <br><img src="../images/general/general-05.jpg" alt="Park Community School students enjoy school life." />
+          <br><img src="images/pupil-premium/pupil-premium-01.jpg" alt="Park Community School students enjoy school life." />
         </div>
     </div>
     <br><br><br>
@@ -93,7 +93,7 @@
         </div>
         <div class="hide-for-small-only medium-uncentered medium-4 medium-pull-8 columns">
           <br>
-          <img src="../images/general/general-13.jpg" alt="Park Community School creativity blooms." />
+          <img src="images/pupil-premium/pupil-premium-02.jpg" alt="Park Community School creativity blooms." />
         </div>
     </div>
     <br><br><br>
@@ -193,7 +193,7 @@
         </ul>
       </div>
       <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 large-4 columns">
-        <img src="images/general/general-12.jpg" alt="Teaching at Park Community School is an enjoyable experience.">
+        <img src="images/pupil-premium/pupil-premium-03.jpg" alt="Teaching at Park Community School is an enjoyable experience.">
       </div>
     </div>
     <br><br><br>
@@ -282,7 +282,7 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-      <div class="medium-8 columns">
+      <div class="medium-12 columns">
         <h4>Catch-up Funding for Year 7 2015-2016</h4>
         <p>In 2015 - 2016 we received £20,500 catch up funding which was used to provide:</p>
         <p>One to One reading, spelling and literacy intervention for 33 Year 7 students - with some students being in receipt of more than 1 round of intervention.</p>
@@ -292,8 +292,6 @@
         <p>Parent and student feedback demonstrated positive increases regarding confidence and perception of ability alongside willingness to engage in additional learning outside of the classroom.</p>
         <p>Any future funding will be used to help these students secure and close gaps in their literacy or numeracy through small group intervention, 1 to 1 intervention and in class support.</p>
       </div>
-      <div class="hide-for-small-only medium-uncentered medium-pull-0 medium-offset-0 medium-4 columns">
-        <br><img src="images/general/general-16.jpg" alt="Park Community School - Catch up funding allows us to provided extra classroom support and resources."></div>
     </div>
     <br><br><br>
 </section>
@@ -303,14 +301,14 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-      <div class="medium-push-4 medium-8 columns">
+      <div class="medium-push-5 medium-7 columns">
         <p>If you believe your son/daughter is entitled to Free School Meals or you are uncertain as to whether they qualify for Free School Meals, Reception staff are happy to talk to you.</p>
         <p>If you would like some advice and/or support on completing the Free School Meal application form, please come into Reception at any time to talk to staff, who are happy to help.</p>
         <p>You can also find further information on eligibility and how to apply by visiting our <a href="/catering.php">Catering</a> page.</p>
 
         <p><a href="/assets/pupilpremium/qa-pp-adopted-children.pdf" target="_blank">Adopted Children Questions and Answers</a></p>
       </div>
-      <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-09.jpg" alt="Park Community School - Students enjoy the freedom to read real books"></div>
+      <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-7 medium-offset-0 medium-5 columns"><img src="images/pupil-premium/pupil-premium-04.jpg" alt="Park Community School - Students enjoy the freedom to read real books"></div>
     </div>
     <br><br><br>
 </section>

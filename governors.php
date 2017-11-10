@@ -23,7 +23,7 @@
 <section>
     <div class="row">
         <br>
-        <div class="medium-8 columns">
+        <div class="medium-7 columns">
             <h3>What do the Governors do?</h3>
             <p>The Governors act as a ‘critical friend’ to the school by</p>
             <ul class="circle">
@@ -33,8 +33,8 @@
             </ul>
         <br>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
-            <br class="hide-for-small-only"><img src="images/general/general-19.jpg" alt="Park Community School - A Hive of Education"><br><br>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 columns">
+            <br class="hide-for-small-only"><img src="images/governors/governors-01.jpg" alt="Park Community School - A Hive of Education"><br><br>
         </div>
     </div>
     <br>
@@ -330,7 +330,7 @@
           <p>Parent Governors must submit their application using the form as these Governors are elected in a vote.</p>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-pull-6 medium-6 columns"><img src="images/general/general-24.jpg" alt="Park Community School - Become a governor and help support the school"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-pull-6 medium-6 columns"><img src="images/governors/governors-02.jpg" alt="Park Community School - Become a governor and help support the school"></div>
     </div>
     <br><br><br>
 </section>
@@ -359,7 +359,7 @@
     <div class="row">
     <br>
 
-        <div class="medium-6 columns">
+        <div class="medium-7 columns">
             <h4>The Governor's Report</h4>
             <p>Below you can find a link to the current Governor's report</p>
             <a href="/assets/governors/governors-report.pdf" target="_blank" class="button radius success">Governor's Report</a>
@@ -371,7 +371,7 @@
 
               <p>For more information about school Governors please visit the <br><a href="http://www.nga.org.uk/Home.aspx" target="_blank">National Governors' Association</a></p>
             </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/general/general-06.jpg" alt="Park Community - Happy, Friendly Students Eager to Learn"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/governors/governors-03.jpg" alt="Park Community - Happy, Friendly Students Eager to Learn"></div>
     </div>
     <br><br>
 </section>

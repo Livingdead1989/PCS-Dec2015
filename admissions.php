@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
-            <img src="images/general/general-21.jpg" alt="Park Community School Grounds">
+            <img src="images/admissions/admissions-01.jpg" alt="Park Community School Grounds">
             <p class="text-center"><a href="/assets/prospectus.pdf" target="_blank">View Our Prospectus</a></p>
 
 
@@ -62,7 +62,7 @@
             <p>You can find out more about this process or what to do if you are unhappy with your allocated place, at: <a href="//www3.hants.gov.uk/education/admissions/ad-guidance/main-admissions-round/ed-ad-mainround-process.htm" target="_blank">www.hants.gov.uk</a></p>
             <p>If you have any questions or would like any help with any of the above, please feel free to contact our admissions team at: <a href="javascript:location='mailto:\u0061\u0064\u006d\u0069\u0073\u0073\u0069\u006f\u006e\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0"><script type="text/javascript">document.write('\u0061\u0064\u006d\u0069\u0073\u0073\u0069\u006f\u006e\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b')</script></a></p>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-13.jpg" alt="Park Community School student selecting her library books"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/admissions/admissions-02.jpg" alt="Park Community School student creating her masterpiece"></div>
     </div>
     <br><br>
 </section>
@@ -72,7 +72,7 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-8 columns">
+        <div class="medium-7 columns">
             <h4>New Students Moving Up</h4>
             <p>Welcome to Park Community School, we have created a really useful booklet for parent, carers and students to help introduce you into Park.</p>
             <p>Please click the button below to open the booklet, it contains information such as:</p>
@@ -87,7 +87,7 @@
                 <a href="/assets/moving-up.pdf" target="_blank" class="button radius">Moving Up!</a>
             </div>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-09.jpg" alt="Park Community School Students"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/admissions/admissions-03.jpg" alt="Park Community School Students"></div>
     </div><br>
 </section>
 

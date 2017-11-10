@@ -132,55 +132,55 @@
             <ul class="text-center large-block-grid-3 medium-block-grid-2 small-block-grid-1">
                 <li>
                     <div class="menu-box"><a href="/park-farm.php">
-                            <img src="images/farm/farm-03.jpg" alt="Park Community School Farm - Much More Than Just a School">
+                            <img src="images/index/farm.jpg" alt="Park Community School Farm - Much More Than Just a School">
                             <p>Our Farm</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="/community-services.php">
-                            <img src="images/community/community-01.jpg" alt="Park Community - Much More Than Just a School">
+                            <img src="images/index/community.jpg" alt="Park Community - Much More Than Just a School">
                             <p>Community &amp; Services</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="/ventures.php">
-                            <img src="images/general/charity-01.jpg" alt="Park Community Ventures - Much More Than Just a School">
+                            <img src="images/index/charity.jpg" alt="Park Community Ventures - Much More Than Just a School">
                             <p>Charity</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="/design-print.php">
-                            <img src="images/unit/unit-03.jpg" alt="Park Community Enterprises - Much More Than Just a School">
+                            <img src="images/index/unit.jpg" alt="Park Community Enterprises - Much More Than Just a School">
                             <p>Design &amp; Print</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="/dickinson-centre.php">
-                            <img src="images/dickinsoncentre/dickinson-centre-01.jpg" alt="Park Community Dickinson Centre - Much More Than Just a School">
+                            <img src="images/index/dickinson-centre.jpg" alt="Park Community Dickinson Centre - Much More Than Just a School">
                             <p>Dickinson Centre</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="/nursery.php">
-                            <img src="images/nursery/nursery-logo.jpg" alt="Springwood Nursery - Much More Than Just a School">
+                            <img src="images/index/nursery-logo.jpg" alt="Springwood Nursery - Much More Than Just a School">
                             <p>Springwood Park Nursery</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="/suite.php">
-                            <img src="images/suite/sontronics.jpg" alt="The Suite - Much More Than Just a School">
+                            <img src="images/index/sontronics.jpg" alt="The Suite - Much More Than Just a School">
                             <p>The Suite</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="/scitt.php">
-                            <img src="images/scitt/scitt-logo.jpg" alt="The Scolent SCITT - Much More Than Just a School">
+                            <img src="images/index/scitt-logo.jpg" alt="The Scolent SCITT - Much More Than Just a School">
                             <p>The Solent SCITT</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="/apex-centre.php">
-                            <img src="images/apex/apex-01.jpg" alt="The Apex Centre - Much More Than Just a School">
+                            <img src="images/index/apex.jpg" alt="The Apex Centre - Much More Than Just a School">
                             <p>The Apex Centre</p>
                         </a></div>
                 </li>

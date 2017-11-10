@@ -28,7 +28,7 @@
             <p>Students are taught to grow vegetables and look after and rear animals. The vegetables, and in some cases meat from the farm, are used in the school kitchen. This not only promotes healthy eating but allows students to make the connection between what they eat and where and how it is grown.</p>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/enterprises/enterprises-01.jpg" alt="Park Community School Farm - Students grow their own food"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/farm/farm-01.jpg" alt="Park Community School Farm - Students grow their own food"></div>
     </div>
     <br><br><br>
 </section>
@@ -60,7 +60,7 @@
             <p>For questions and queries please visit Park Community School Reception on our <a href="/contact.php">Contact page</a></p>
 
         </div>
-        <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/farm/farm-04.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce"></div>
+        <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/farm/farm-03.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce"></div>
     </div><br><br>
 </section>
 

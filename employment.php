@@ -30,7 +30,6 @@
 	        <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
 	        <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
 	        <li>Teacher of Resistant Materials and Construction Skills<br><span class="subheader"><a href="assets/recruitment/resistantmaterials_constructionskills.pdf" target="_blank">Position Details</a></span></li>
-          <hr>
           
 	      </ul>
 	      <hr>
@@ -89,10 +88,10 @@
       <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
   </div>
     <div class="row">
-      <div class="small-10 small-centered medium-uncentered medium-6 columns">
-      	<img src="/images/general/general-24.jpg" alt="Park Community School - A happy place to be">
+      <div class="small-10 small-centered medium-uncentered medium-5 columns">
+      	<img src="/images/employment/employment-01.jpg" alt="Park Community School - A happy place to be">
       </div>
-      <div class="small-12 medium-6 columns">
+      <div class="small-12 medium-7 columns">
         <p>Park Community School and Hampshire County Council are committed to safeguarding and promoting the welfare of children and young people and expect all staff and volunteers to share this commitment. We will ensure that all our recruitment and selection practices reflect this commitment.</p>
         <p>All successful candidates will be subject to satisfactory references and other relevant pre-employment checks including Disclosure and Barring Services (DBS) and medical clearance.</p>
         <p>View our Child Protection Policy on our <a href="/policies.php">policies page</a>.</p>
@@ -115,7 +114,7 @@
 
         </div>
         <div class="small-centered small-6 medium-uncentered medium-5 large-4 columns">
-          <img src="images/general/general-25.jpg" alt="Park Community School, much more than just a school" />
+          <img src="/images/employment/employment-02.jpg" alt="Park Community School, much more than just a school" />
         </div>
     </div>
     <br><br><br>

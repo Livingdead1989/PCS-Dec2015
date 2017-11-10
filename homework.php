@@ -29,10 +29,10 @@
             <p>The expectations of new exam syllabuses and a move to terminal examinations in all subjects over the next three years, means that students must be supported to consolidate, review and revise learning outside of lessons in order to fully master the knowledge and skills they require. Homework is a vital part of this.</p>
 
             <div class="text-center">
-              <a class="small button radius success" href="assets/homework/homework-timetable.pdf" target="_blank">Homework Timetable</a>
+              <a class="button radius success" href="assets/homework/homework-timetable.pdf" target="_blank">Homework Timetable</a>
             </div>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/general/general-02.jpg" alt="Park Community School - Understanding and Mastery of Subjects"></div>
+        <div class="small-offset-2 small-pull-2 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/homework/homework-01.jpg" alt="Park Community School - Understanding and Mastery of Subjects"></div>
     </div>
     <br><br><br>
 </section>
@@ -63,7 +63,7 @@
     </div>
     <div class="row">
         <br>
-        <div class="medium-8 columns">
+        <div class="medium-7 columns">
           <h3>Tips &amp; Tricks | <small>Student &amp; Parent</small></h3>
           <p>Students are more successful in school when parents take an active interest in their homework — it shows students that what they do is important.</p>
           <p>How can you support your child:</p>
@@ -81,7 +81,7 @@
           <p>If your child has forgotten some facts or how to solve a maths problem, there will always be a <a href="//www.youtube.com/channel/UC3yA8nDwraeOfnYfBWun83g" target="_blank">YouTube</a> video on it that you can watch together.</p>
 
         </div>
-        <div class="medium-pull-0 medium-offset-0 medium-4 columns"><br class="show-for-medium-up"><img class="hide-for-small" src="images/general/general-12.jpg" alt="Park Community School - Encourage students to value their work"></div>
+        <div class="medium-pull-0 medium-offset-0 medium-5 columns"><br class="show-for-medium-up"><img class="hide-for-small" src="images/homework/homework-02.jpg" alt="Park Community School - Encourage students to value their work"></div>
     </div>
     <br><br><br>
 </section>
@@ -106,7 +106,7 @@
     </div>
     <div class="row">
         <br>
-        <div class="medium-8 columns">
+        <div class="medium-7 columns">
           <h3>Clubs and Support</h3>
           <p>Students are welcome to stay in school on any day to use facilities to complete homework.</p>
           <p>Study clubs and homework support clubs are available in all subjects</p>
@@ -117,7 +117,7 @@
           <p><a href="//my.milkapp.io/" target="_blank">MILK</a> provides an electronic version of homework which can be accessed from home</p>
         </div>
 
-        <div class="medium-pull-0 medium-offset-0 medium-4 columns">
+        <div class="medium-pull-0 medium-offset-0 medium-5 columns">
           <h3>External Resources</h3>
           <ul class="circle">
             <li><a href="//www.understood.org/en/school-learning/learning-at-home/homework-study-skills/7-tips-for-improving-your-childs-homework-and-study-skills" target="_blank">Top 10 Homework Tips</a></li>

@@ -23,13 +23,13 @@
 <section>
     <div class="row">
         <br>
-        <div class="medium-8 columns">
+        <div class="medium-7 columns">
             <h3>The Principle of Uniform</h3>
             <p>Students should take pride in their uniform, care in their appearance, and look smart at all times.</p>
             <p>School is a place of work and preparation for working life. The school uniform and appearance rules support good behaviour and discipline across the school.</p>
             <p>We wish to encourage some choice, however do avoid extremes or competition in fashion.</p>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-04.jpg" alt="Uniform helps students focus on their education"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/uniform/uniform-01.jpg" alt="Uniform helps students focus on their education"></div>
     </div><br><br><br>
 </section>
 
@@ -38,7 +38,7 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-push-4 medium-8 columns">
+        <div class="medium-push-5 medium-7 columns">
             <h4>The Uniform</h4>
             <ul class="circle">
                 <li>Park Black Blazer (Compulsory).</li>
@@ -58,7 +58,7 @@
             </ul>
             <p><small>For more detailed information please view the schools policy <a href="/policies.php">"Dress Code for Students"</a>.</small></p>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-09.jpg" alt="Happy Students in Uniform"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-7 medium-offset-0 medium-5 columns"><img src="images/uniform/uniform-02.jpg" alt="Happy Students in Uniform"></div>
     </div>
     <br><br>
 </section>
@@ -68,14 +68,14 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-8 columns">
+        <div class="medium-7 columns">
             <h4>Purchasing Uniform</h4>
             <p>Park Community School partners with Skoolkit to bring all of our uniform to one place and reduce costs.</p>
             <p>Skoolkit is a family run business that has been providing school uniform in the UK for over 20 years, with all our garments embroidered in-house.</p>
             <p>Skoolkit is a wonderful website where you can purchase all of your uniform requirements and even collect in-store.</p>
             <a href="//www.skoolkit.co.uk/" target="_blank" class="button radius">Purchase Now!</a>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-11.jpg" alt="Uniform to suit all year round"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/uniform/uniform-03.jpg" alt="Uniform to suit all year round"></div>
     </div><br>
 </section>
 

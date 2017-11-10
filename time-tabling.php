@@ -34,7 +34,7 @@
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Available in downloadable and printable PDF format.</small></h5>
         </div>
-        <div class="hide-for-small-only medium-6 columns"><img src="images/general/general-08.jpg" alt="Park Community School students sitting their exams"></div>
+        <div class="hide-for-small-only medium-6 columns"><img src="images/timetabling/timetabling-01.jpg" alt="Park Community School students studying hard for their exams"></div>
 
     </div><br>
 </section>

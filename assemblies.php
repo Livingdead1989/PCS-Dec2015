@@ -23,7 +23,7 @@
 <section>
     <div class="row">
         <br>
-        <div class="medium-7 columns">
+        <div class="medium-12 columns">
         <p>Our assembly programme means students have an assembly most days in year groups, key stage groups, or in our cross year families. In the assemblies we pick up on religious, political, cultural, moral and practical themes.</p>
 
         <br><br>
@@ -70,10 +70,8 @@
             <br>
 
         </div>
-
-        <div class="hide-for-small medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/general/general-14.jpg" alt="Park Community School - Students Talking about their Tanzania Expierence in a School Assembly"></div>
-
-    </div><br>
+    </div>
+    <br>
 </section>
 
 <!-- FOOTER -->

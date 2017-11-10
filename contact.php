@@ -79,7 +79,7 @@
 
     <div class="row">
         <div class="medium-push-1 medium-10 large-push-0 large-12 columns">
-            <img src="images/contact-01.jpg" alt="Aerial photograph of Park Community School">
+            <img src="images/contact/contact-01.jpg" alt="Aerial photograph of Park Community School">
         </div>
     </div>
     <br><br>

@@ -50,7 +50,7 @@
             <p>Our financial strategy means that all monies earned are used to further pursue the organisational objectives.</p>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/general/general-17.jpg" alt="Park Community School Grounds"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/enterprises/enterprises-01.jpg" alt="Park Community School Grounds"></div>
     </div>
     <br><br>
 </section>
@@ -68,7 +68,7 @@
             </ul>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/enterprises/enterprises-01.jpg" alt="Park Enterprises - Real life expierences for our Students"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/enterprises/enterprises-02.jpg" alt="Park Enterprises - Real life expierences for our Students"></div>
     </div>
     <br><br><br>
 </section>
@@ -90,7 +90,7 @@
             </ul>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/unit/unit-05.jpg" alt="Park Enterprises - Bringing new opportunities for Students and the Community"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/enterprises/enterprises-03.jpg" alt="Park Enterprises - Bringing new opportunities for Students and the Community"></div>
     </div>
     <br><br>
 </section>
@@ -119,7 +119,7 @@
             </ul>
             
         </div>
-        <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/general/general-20.jpg" alt="Park Community School - Range of Technology"></div>
+        <div class="hide-for-small-only medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/enterprises/enterprises-04.jpg" alt="Park Community School - Range of Technology"></div>
     </div><br>
 </section>
     

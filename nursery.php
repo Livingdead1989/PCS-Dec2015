@@ -23,7 +23,7 @@
 <section>
     <div class="row">
         <br>
-        <div class="medium-8 columns">
+        <div class="medium-7 columns">
             <p>
               Open 51 weeks of the year we offer Term Time, All Year &amp; Holiday Club spaces, opening from 7:30am-6:00pm Monday-Friday and are registered to take children 0-8 years old.
             </p>
@@ -40,7 +40,7 @@
               Both Nursery and Pre-school rooms are fully equipped with superb learning areas and resources, all age appropriate.
             </p>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/nursery/nursery-logo.svg" alt="Park Community School - Springwood Nursery"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/nursery/nursery-logo.svg" alt="Park Community School - Springwood Nursery"></div>
     </div>
     <br><br><br>
 </section>

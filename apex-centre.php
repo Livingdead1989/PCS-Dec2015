@@ -23,13 +23,13 @@
 <section>
     <div class="row">
         <br>
-        <div class="medium-8 columns">
+        <div class="medium-7 columns">
             <p>At the Apex Centre we are now providing practical, hands-on courses for students from Park Community School and a variety of other schools in the area and beyond. Our aim is to give students the opportunity to learn a whole range of construction skills, whilst ensuring that curriculum requirements are met.</p>
             <p>This has been possible because Park Community Enterprises Ltd have leased facilities named The Apex Centre, to accommodate this. This Centre is situated to the north east of the central shopping district of Leigh Park and is within fifteen minutes walking distance from Park Community School. It is within the school’s catchment area. The Apex Centre is just two minutes walk from the industrial unit we already lease.</p>
             <p>The recent government changes to school examinations and accreditations dictate that from 2016 non-academic courses have no ‘league table value’ to schools. A consequence of this is that schools now need to ensure any time spent on vocational learning is highly relevant to the student’s needs.</p>
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/apex/apex-01.jpg" alt="Apex Centre - Trade Skills for Life"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/apex/apex-01.jpg" alt="Apex Centre - Trade Skills for Life"></div>
     </div>
     <br><br><br>
 </section>
