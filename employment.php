@@ -30,6 +30,8 @@
 	        <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
 	        <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
 	        <li>Teacher of Resistant Materials and Construction Skills<br><span class="subheader"><a href="assets/recruitment/resistantmaterials_constructionskills.pdf" target="_blank">Position Details</a></span></li>
+          <hr>
+          <li>Behaviour Support and Guidance Manager<br><span class="subheader"><a href="assets/recruitment/behaviour_support_guidance_manager.pdf" target="_blank">Position Details</a></span></li>
           
 	      </ul>
 	      <hr>
