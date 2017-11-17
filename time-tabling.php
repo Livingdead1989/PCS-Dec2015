@@ -30,7 +30,7 @@
                 <br>
                 <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
                 <br>
-                <li>Exams Timetable - <br>N/A</li>
+                <li>Exams Timetable - <br><a href="assets/timetabling/mock_tt_y10.pdf" target="_blank">Mock TT Y10 - November 2017</a></li>
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Available in downloadable and printable PDF format.</small></h5>
         </div>
