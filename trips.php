@@ -38,7 +38,17 @@
             <p>Cost - £00.00</p>
           </li>   -->
 
-        
+		  <!-- French Creperie -->
+          <li>
+            <h3>French Creperie</h3>
+            <p>Wednesday 29th November</p>
+            <p><strong>YEAR 10 FRENCH STUDENTS ONLY</strong></p>
+            <p>Lead Teacher – Mrs Dermy</p>
+            <p>Cost - £10.50</p>
+            <p><strong>To be paid by Monday 27th November</strong></p>
+          </li>  
+
+        	<hr>
                 
           <!-- New York -->
           <li>
