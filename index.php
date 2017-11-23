@@ -46,7 +46,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a href="events.php" style="color:white;text-decoration:none;"><strong>Free</strong> Christmas Day Lunch</a></p>
+        <p><a href="public-health.php" style="color:white;text-decoration:none;">We are aware that we have a number of students are unwell at present because of a sickness bug. Please Click for more info.</a></p>
     </div>
   </div>
 </section>
