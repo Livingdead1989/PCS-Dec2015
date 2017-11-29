@@ -28,8 +28,8 @@
 	      <h4 class="text-capitilise">Vacancies</h4>
 	      <ul class="no-bullet">
 	        <!-- <li>Position<br><span class="subheader"><a href="assets/recruitment/file.pdf" target="_blank">Position Details</a></span></li> -->
-	        <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
-	        <li>Behaviour Support and Guidance Manager<br><span class="subheader"><a href="assets/recruitment/behaviour_support_guidance_manager.pdf" target="_blank">Position Details</a></span></li>
+	        <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
+	       
           
 	      </ul>
 	      <hr>
