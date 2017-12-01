@@ -60,9 +60,9 @@
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li>Chair of Full Governing Body (FGB)</li>
-                                <li>Member of Admin Committee</li>
-                                <li>Member of Performance Committee</li>
+                                <li>Chair of Full Governing Body (FGB).</li>
+                                <li>Member of Admin Committee.</li>
+                                <li>Member of Performance Committee.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -84,10 +84,10 @@
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                            	<li>Vice Chair of Governors</li>
-                            	<li>Chair of the Administration Committee</li>
-                                <li>Health and Safety Governor</li>
-                                <li>Member of Admin Committee</li>
+                            	<li>Vice Chair of Governors.</li>
+                            	<li>Chair of the Administration Committee.</li>
+                                <li>Health and Safety Governor.</li>
+                                <li>Member of Admin Committee.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -112,7 +112,7 @@
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li>SEN Governor</li>
+                                <li>SEN Governor.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -135,7 +135,7 @@
                           <p>Category: Parent</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li>Member of Admin Committee</li>
+                                <li>Member of Admin Committee.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -160,7 +160,7 @@
                           <p>Committee Membership:</p>
                             <ul class="circle">
                                 <li>Member of Admin Committee</li>
-                                <li>Member of Performance Committee</li>
+                                <li>Member of Performance Committee.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -185,7 +185,7 @@
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li>Chair of the Performance Committee</li>
+                                <li>Chair of the Performance Committee.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -209,7 +209,7 @@
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li>Member of Administration Committee</li>
+                                <li>Member of Administration Committee.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -231,11 +231,12 @@
                         <div id="Governor-amays" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Ms A Mays</h2>
                           <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: 01.05.2017</p>
+                          <p class="lead">Appointed: 13.09.2017</p>
+                          <p class="lead">Term Expires: 12.09.2021</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li></li>
+                                <li>Member of Performance Committee.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -256,11 +257,12 @@
                         <div id="Governor-jrankin" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Ms J Rankin</h2>
                           <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: 01.05.2017</p>
+                          <p class="lead">Appointed: 01.05.2017 </p>
+                          <p class="lead">Term Expires: 30.04.2021</p>
                           <p>Category: Parent Governor</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li></li>
+                                <li>Member of Administration Committee.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -281,12 +283,12 @@
                         <div id="Governor-cmay" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr C May</h2>
                           <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: </p>
+                          <p class="lead">Appointed: 20.05.2017</p>
                           <p class="lead">Term Expires: 21.05.2021</p>
-                          <p>Category: </p>
+                          <p>Category: Staff Member</p>
                           <p>Committee Membership: </p>
                             <ul class="circle">
-                                <li>Member of Performance Committee</li>
+                                <li>Member of Performance Committee.</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
