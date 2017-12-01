@@ -124,30 +124,84 @@
 
             <h5>Bronze Standards include</h5>
               <ul class="circle">
-                <li>No undesirable additives or trans fats</li>
-                <li>At least 75% of dishes are freshly prepared from unprocessed ingredients</li>
-                <li>Meat is from farms which satisfy UK welfare standards</li>
-                <li>Eggs are from cage-free hens</li>
-                <li>Compliance with national standards or guidelines on food and nutrition</li>
+                <li>No undesirable additives or trans fats.</li>
+                <li>At least 75% of dishes are freshly prepared from unprocessed ingredients.</li>
+                <li>Meat is from farms which satisfy UK welfare standards.</li>
+                <li>Eggs are from cage-free hens.</li>
+                <li>Compliance with national standards or guidelines on food and nutrition.</li>
               </ul>
 
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/soilassociation-bronze.png" alt="Soil Association Food for Life - Bronze School Award"><br><br></div>
     </div>
 
+    <br><br>
+
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
             
             <h5>Silver Standards include</h5>
               <ul class="circle">
-                <li>Ethical and environmentally friendly food</li>
-                <li>Making healthy eating easy</li>
-                <li>Championing local producers</li>
+                <li>Ethical and environmentally friendly food.</li>
+                <li>Making healthy eating easy.</li>
+                <li>Championing local producers.</li>
               </ul>
 
-            <p>For a full list please visit the <a href="//www.soilassociation.org/certification/the-food-for-life-catering-mark/business-support-for-award-holders/standards/" target="_blank">Soil Association website</a>.</p>
+            
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/soilassociation-silver.png" alt="Soil Association Food for Life - Silver School Award"></div>
+    </div>
+
+    <br><br>
+
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+
+            <h5>Gold Standards include</h5>
+              <ul class="circle">
+                <li>Double the points of Silver.</li>
+                <li>Sourcing ethical and environmentally friendly food.</li>
+                <li>Making healthy eating easier.</li>
+                <li>Sourcing free range pork and poultry.</li>
+                <li>Championing local food producers.</li>
+              </ul>
+
+
+            <p>For a full list please visit the <a href="//www.soilassociation.org/certification/catering/business-support-for-award-holders/standards/silver-and-gold-standards/" target="_blank">Soil Association website</a>.</p>
+
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/soilassociation-gold.png" alt="Soil Association Food for Life - Gold School Award"><br><br></div>
+    </div>
+    
+    <br><br>
+
+    <div class="row">
+        <div class="column text-center">
+            <a href="#" data-reveal-id="catering-pressRelease" class="button success radius">Gold Award - Press Release</a>
+
+                <div id="catering-pressRelease" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                  <h2 id="modalTitle">Soil Association - Gold Award</h2>
+                  <p>Park Community School are delighted to announce that they have been awarded the prestigious Food for Life Gold award which recognises that a healthy climate‐friendly food culture has been established within the school. Park is the only school in Hampshire with a valid Gold Award and within the UK one of only 3 secondary schools.</p>
+                  <p>Since joining Food for Life, Park Community School has shown that it is possible to transform school food culture when a whole school approach is taken. This has been driven by our Head Chef Steven Cross, our catering team and Student Food Ambassadors.</p>
+                  <p>Students of Park Community School assist in the rearing of pigs, chickens, ducks and quails and in the growing of vegetables and fruit for the school kitchen. Meetings take place regularly to discuss forthcoming menus and to sample the food, ensuring they meet all requirements. Thus, the school has seen a rise in the uptake of school meals proving that great school food combined with food education is best way to encourage children to eat more healthily.</p>
+
+                  <p><strong>James Cashmore, Director of Food for Life stated: </strong><br>
+                  "I'm delighted to announce that Park Community School has achieved the Food for Life Gold Award for creating a healthy, sustainable and enjoyable food culture within the school and its community to the benefit of everybody involved.</p>
+                  <p>The school shows what real 21st century education is all about, which is using real life experiences to teach the curriculum and providing the next generation with solutions to what threatens their future, namely climate change and the obesity crisis. By empowering the young people to make informed food choices and giving them the skills to grow and cook food for themselves and their families, Park Community School leads the way for a more sustainable future."</p>
+
+                  <p><strong>Head Chef, Steven Cross said: </strong><br>
+                  “The Restaurant has become the hub of the school and is well used by students, staff and our wider community every day. ‘What is for lunch’ is a regular topic of conversation as is ‘what else can we include in the daily menus’. Students enjoy visiting our farm and helping with our market garden and seeing the produce used in our school meals.”</p>
+
+                  <p>Christopher Anders, Headteacher appreciates the value of outside validation in all that we do. We believe we are “Much More Than Just a School” and this award further shows how much more.</p>
+                  <p>Within school the quality of our food reflects the passion we have to ensure our students have the best meals we can provide. We continually explore ways to expand our provision for students and their families. The market garden is a popular place for our students linking food to its source.</p>
+                  
+                  <img src="images/schoolmeals/goldaward_pressrelease.jpg" alt="Park Community School awarded the prestigious Food for Life Gold award">
+
+
+                  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                </div>
+
+        </div>
     </div>
     <br><br><br>
 </section>

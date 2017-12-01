@@ -139,7 +139,7 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li>Executive Trustee of <a href="//www.communitas-youth.com/" target="_blank">Communitas</a>, supplying youth workers.</li>
+                              <li>Executive Trustee of <a href="//www.communitas-youth.com/" target="_blank">Communitas</a>.</li>
                             </ul>
 
 
@@ -148,7 +148,7 @@
 
             </div>
 
-            <div class="medium-4 columns text-center  team-member-container end">
+            <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-10">
                   <img src="images/slt/c-anders.jpg" alt="C Anders Governor" class="team-member">
                 <p>Mr C Anders</p>
@@ -165,8 +165,7 @@
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
                               <li>Director <a href="/park-enterprises.php" target="_blank">Park Community Enterprises Ltd</a></li>
-                              <li>Trustee of EBP South</li>
-                              <li>Trustee Shekinah Trust.</li>
+                              <li>Trustee/Director of EBP South</li>
                             </ul>
 
 
@@ -175,14 +174,13 @@
 
             </div>
 
-            <div class="medium-4 columns text-center  team-member-container end">
+            <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-11">
                   <img src="images/governors/j-hughes.jpg" alt="Placeholder Image" class="team-member">
                 <p>Ms J Hughes</p>
                 Governor Details</a>
                         <div id="Governor-11" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Ms J Hughes</h2>
-                          <p><strong>Details Pending Governors Meeting</strong></p>
                           <p class="lead">Appointed: 18.05.2016</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
@@ -200,14 +198,13 @@
 
             </div>
 
-            <div class="medium-4 columns text-center  team-member-container end">
+            <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-13">
                   <img src="images/governors/r-cousins.jpg" alt="Placeholder Image" class="team-member">
                 <p>Mr R Cousins</p>
                 Governor Details</a>
                         <div id="Governor-13" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr R Cousins</h2>
-                          <p><strong>Details Pending Governors Meeting</strong></p>
                           <p class="lead">Appointed: 06.07.2016</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
@@ -226,7 +223,7 @@
 
             </div>
 
-            <div class="medium-4 columns text-center  team-member-container end">
+            <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-amays">
                   <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
                 <p>Ms A Mays</p>
@@ -242,6 +239,7 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
+                              <li>NIL</li>
                             </ul>
 
 
@@ -250,9 +248,9 @@
 
             </div>
 
-            <div class="medium-4 columns text-center  team-member-container end">
+            <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-jrankin">
-                  <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
+                  <img src="images/governors/j-rankin.jpg" alt="Governor Profile Image" class="team-member">
                 <p>Ms J Rankin</p>
                 Governor Details</a>
                         <div id="Governor-jrankin" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
@@ -266,6 +264,33 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
+                              <li>NIL</li>
+                            </ul>
+
+
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
+
+            </div>
+
+            <div class="medium-4 columns text-center  team-member-container end">
+                <a href="#" data-reveal-id="Governor-cmay">
+                  <img src="images/governors/c-may.jpg" alt="Governor Profile Image" class="team-member">
+                <p>Mr C May</p>
+                Governor Details</a>
+                        <div id="Governor-cmay" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Mr C May</h2>
+                          <p><strong>Details Pending Governors Meeting</strong></p>
+                          <p class="lead">Appointed: </p>
+                          <p class="lead">Term Expires: 21.05.2021</p>
+                          <p>Category: </p>
+                          <p>Committee Membership: </p>
+                            <ul class="circle">
+                                <li>Member of Performance Committee</li>
+                            </ul>
+                          <p>Pecuniary Interests:</p>
+                            <ul class="circle">
+                              <li>NIL</li>
                             </ul>
 
 
