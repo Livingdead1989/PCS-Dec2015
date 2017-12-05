@@ -29,7 +29,7 @@
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2 large-block-grid-3">
             
                 <li>* Accessibility</li>
-                <li><a href="/assets/policies/Administration-of-Medicines.pdf" target="_blank">Administration of Medicines</a></li>
+                <li><a href="/assets/policies/administration-of-medicines.pdf" target="_blank">Administration of Medicines</a></li>
                 <li>Admissions<br>
                     <a href="/assets/policies/admissions-2017-2018.pdf" target="_blank">2017-18</a> /
                     <a href="/assets/policies/admissions-2018-2019.pdf" target="_blank">2018-19</a></li>
@@ -37,7 +37,7 @@
             
                 <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour for Learning</a></li>
             
-                <li><a href="/assets/policies/CEIAG.pdf" target="_blank">Careers Education, Information, Advice and Guidance</a></li>
+                <li><a href="/assets/policies/ceiag.pdf" target="_blank">Careers Education, Information, Advice and Guidance</a></li>
                 <li><a href="/assets/policies/charging-and-remissions.pdf" target="_blank">Charging and Remissions</a></li>
                 <li><a href="/assets/policies/child-protection.pdf" target="_blank">Child Protection</a></li>
                 <li><a href="/assets/policies/confidentiality.pdf" target="_blank">Confidentiality</a></li>
@@ -49,13 +49,13 @@
             
                 <li>* Freedom of Information</li>
             
-                <li><a href="/assets/policies/Health-and-Safety.pdf" target="_blank">Health and Safety</a></li>
-                <li><a href="/assets/policies/Homework.pdf" target="_blank">Homework</a></li>
+                <li><a href="/assets/policies/health-and-safety.pdf" target="_blank">Health and Safety</a></li>
+                <li><a href="/assets/policies/homework.pdf" target="_blank">Homework</a></li>
 
-                <li><a href="/assets/policies/Prevention-of-Radicalisation-and-Extremism - Jan-2016.pdf" target="_blank">Prevention of Radicalisation and Extremism</a></li>
+                <li><a href="/assets/policies/prevention-of-radicalisation-and-extremism - Jan-2016.pdf" target="_blank">Prevention of Radicalisation and Extremism</a></li>
             
                 <li><a href="/assets/policies/medical-conditions.pdf" target="_blank">Supporting Students with Medical Conditions</a></li>
-                <li><a href="/assets/policies/StudentEntitlementIAG.pdf" target="_blank">Student Entitlement in IAG</a></li>
+                <li><a href="/assets/policies/studententitlementiag.pdf" target="_blank">Student Entitlement in IAG</a></li>
                 <li><a href="/assets/policies/safeguarding.pdf" target="_blank">Safeguarding</a></li>
                 <li>* Sex Education</li>
             </ul>

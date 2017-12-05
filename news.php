@@ -31,22 +31,22 @@
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
 
                 <li>
-                    <a href="assets/news/parkPost/Issue13-Oct2017.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue13-Oct2017.jpg" alt="Park Post Issue 13 Frontcover">
+                    <a href="assets/news/parkpost/issue13-oct2017.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue13-oct2017.jpg" alt="Park Post Issue 13 Frontcover">
                         <p>Issue 13 - October 2017</p>
                     </a>
                 </li>
 
                 <li class="hide-for-small-only">
-                    <a href="assets/news/parkPost/Issue12-Jul2017.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue12-Jul2017.jpg" alt="Park Post Issue 12 Frontcover">
+                    <a href="assets/news/parkpost/issue12-jul2017.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue12-jul2017.jpg" alt="Park Post Issue 12 Frontcover">
                         <p>Issue 12 - July 2017</p>
                     </a>
                 </li>
 
                 <li class="hide-for-small-only">
-                    <a href="assets/news/parkPost/Issue11-Jun2017.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkPost/covers/Issue11-Jun2017.jpg" alt="Park Post Issue 11 Frontcover">
+                    <a href="assets/news/parkpost/issue11-jun2017.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue11-jun2017.jpg" alt="Park Post Issue 11 Frontcover">
                         <p>Issue 11 - June 2017</p>
                     </a>
                 </li>
@@ -72,22 +72,22 @@
 
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
                 <li class="hide-for-small-only">
-                    <a href="assets/news/primaryLink/Issue3-Summer2016.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primaryLink/covers/issue3.jpg" alt="Park Post Issue 03 Frontcover">
+                    <a href="assets/news/primarylink/issue3-summer2016.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primarylink/covers/issue3.jpg" alt="Park Post Issue 03 Frontcover">
                         <p>Issue 03 - Summer 2016</p>
                     </a>
                 </li>
 
                 <li class="hide-for-small-only">
-                    <a href="assets/news/primaryLink/Issue2-Spring2016.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primaryLink/covers/issue2.jpg" alt="Park Post Issue 02 Frontcover">
+                    <a href="assets/news/primarylink/issue2-spring2016.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primarylink/covers/issue2.jpg" alt="Park Post Issue 02 Frontcover">
                         <p>Issue 02 - Spring 2016</p>
                     </a>
                 </li>
 
                 <li>
-                    <a href="assets/news/primaryLink/Issue1-Autumn2015.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primaryLink/covers/issue1.jpg" alt="Primary Link Issue 1 Frontcover">
+                    <a href="assets/news/primarylink/issue1-autumn2015.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primarylink/covers/issue1.jpg" alt="Primary Link Issue 1 Frontcover">
                         <p>Issue 01 - Autumn 2015</p>
                     </a>
                 </li>

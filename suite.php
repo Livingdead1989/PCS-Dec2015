@@ -45,7 +45,7 @@
             <p>This new desk allows our clients and engineers to get hands on and integrate with their audio projects.</p>
 
         </div>
-        <div class="medium-pull-5 medium-offset-0 medium-7 columns"><img src="images/suite/theRaven.jpg" alt="The Suite, Audio and Video Recording Studio"></div>
+        <div class="medium-pull-5 medium-offset-0 medium-7 columns"><img src="images/suite/theraven.jpg" alt="The Suite, Audio and Video Recording Studio"></div>
     </div>
     <br><br><br>
 </section>
@@ -87,7 +87,7 @@
           <p>The pupil led radio station grants students the opportunity to showcase their interviewing, presenting and research skills. Whilst entertaining the community with the latest tracks in the charts.</p>
 
         </div>
-        <div class="medium-pull-7 medium-offset-0 medium-5 columns"><br class="show-for-medium-up"><img src="images/suite/studentRadio.jpg" alt="The Suite - Video and Audio Recording Studio"></div>
+        <div class="medium-pull-7 medium-offset-0 medium-5 columns"><br class="show-for-medium-up"><img src="images/suite/studentradio.jpg" alt="The Suite - Video and Audio Recording Studio"></div>
     </div>
     <br><br><br>
 </section>
@@ -105,7 +105,7 @@
           <p>The Danemann baby grand piano is included in the hire of this room.</p>
 
         </div>
-        <div class="medium-pull-0 medium-offset-0 medium-7 columns"><br class="show-for-medium-up"><img src="images/suite/liveroomA.jpg" alt="The Suite - Professional Grade Modern Equipment"></div>
+        <div class="medium-pull-0 medium-offset-0 medium-7 columns"><br class="show-for-medium-up"><img src="images/suite/liverooma.jpg" alt="The Suite - Professional Grade Modern Equipment"></div>
     </div>
     <br><br><br>
 </section>
@@ -126,7 +126,7 @@
           </ul>
 
         </div>
-        <div class="medium-pull-5 medium-offset-0 medium-7 columns"><br class="show-for-medium-up"><img src="images/suite/liveroomB.jpg" alt="The Suite - Video and Audio Recording Studio"></div>
+        <div class="medium-pull-5 medium-offset-0 medium-7 columns"><br class="show-for-medium-up"><img src="images/suite/liveroomb.jpg" alt="The Suite - Video and Audio Recording Studio"></div>
     </div>
     <br><br><br>
 </section>

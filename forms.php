@@ -27,11 +27,11 @@
         <p>Any forms that you may require can be found below, please feel free to download and complete these forms, making sure to sign and date before handing into Park Community School Reception.</p>
         <br>
             <ul class="small-block-grid-1">
-                <li><a href="assets/forms/ConsentForm-Images-Biometrics-Internet-SchoolTrips.pdf" target="_blank">Consent Form for Images, Biometrics, Internet Access and School Trips</a></li>
-                <li><a href="assets/forms/Educational-Visit-Info-Inc-Consent.doc" target="_blank">Educational Visit Information and Consent Form</a></li>
-                <li><a href="assets/forms/Free-School-Meals-Application.doc" target="_blank">Free School Meals Application Form</a></li>
-                <li><a href="assets/forms/Out-Round-Application-Inc-Guidance.docx" target="_blank">Application form for admission to a Hampshire school outside the main admission round</a></li>
-                <li><a href="assets/forms/Parental-Consent-Policy.pdf" target="_blank">Parental Consent Policy Booklet</a></li>
+                <li><a href="assets/forms/consentform-images-biometrics-internet-schooltrips.pdf" target="_blank">Consent Form for Images, Biometrics, Internet Access and School Trips</a></li>
+                <li><a href="assets/forms/educational-visit-info-inc-consent.doc" target="_blank">Educational Visit Information and Consent Form</a></li>
+                <li><a href="assets/forms/free-school-meals-application.doc" target="_blank">Free School Meals Application Form</a></li>
+                <li><a href="assets/forms/out-round-application-inc-guidance.docx" target="_blank">Application form for admission to a Hampshire school outside the main admission round</a></li>
+                <li><a href="assets/forms/parental-consent-policy.pdf" target="_blank">Parental Consent Policy Booklet</a></li>
             </ul>
             <br>
             <h3>How to Request Absence</h3>
