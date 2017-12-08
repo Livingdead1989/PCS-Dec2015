@@ -28,17 +28,19 @@
 	      <h4 class="text-capitilise">Vacancies</h4>
         <hr>
 	      <ul class="no-bullet">
-	        <!-- <li><h4>Position</h4><p><em>Closing Date: Ddd Mmm YYYY</em></p><span class="subheader"><a href="assets/recruitment/#.pdf" target="_blank">Position Details</a></span></li> -->
-	        <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
+			<!-- <li>
+				<h4>Job Position</h4>  
+				<p><em>Closing Date: </em></p>
+
+				<span class="subheader">
+				<a href="assets/recruitment/#.pdf" target="_blank">Position Details</a>
+				</span>
+			</li> -->
+
+
+	        <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
 	       
-         <li>
-          <h4>Finance Assistant</h4>  
-          <p><em>Closing Date: 7th Dec 2017</em></p>
-          
-          <span class="subheader">
-            <a href="assets/recruitment/finance_assistant.pdf" target="_blank">Position Details</a>
-          </span>
-        </li>
+        
           
 	      </ul>
 	      <hr>
