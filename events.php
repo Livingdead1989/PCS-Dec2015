@@ -55,25 +55,6 @@
 <!--                    Event Box  -->
               <div class="event-wrap">
                 <div class="date-wrap">
-                  <p class="event-date">13th - 14th Dec</p>
-                  <p class="event-time">19:00</p>
-                </div>
-                <h2 class="event-title">Bugsy Malone</h2>
-                <p class="event-subheader">Park Community Presents</p>
-                <p class="event-description">Tickets: £6 Adults, £4 Children <br>£18 Family Ticket (2 Adult, 2 Children) <br>Box Office: 02392489800</p>
-                <div class="link-wrap">
-                  <a href="assets/events/bugsy.pdf" target="_blank" class="button success radius">PDF Poster</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School/@50.87005,-1.0034217,17z/data=!3m1!4b1!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">...</div>
-                </div>
-              </div>
-<!--                  Event box -->
-
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
                   <p class="event-date">25th Dec</p>
                   <p class="event-time">11:00 - 16:00</p>
                 </div>

@@ -38,16 +38,8 @@
 			</li> -->
 
 
-	        <!-- <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
+	        <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
 
-	        <li>
-				<h4>Finance Assistant</h4>  
-				<p><em>Closing Date: 14th Dec 2017</em></p>
-
-				<span class="subheader">
-				<a href="assets/recruitment/finance_assistant.pdf" target="_blank">Position Details</a>
-				</span>
-			</li>
 	       
         
           

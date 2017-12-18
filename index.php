@@ -47,6 +47,7 @@
   <div class="row">
     <div class="large-12 columns">
         <p><a href="events.php" style="color:white;text-decoration:none;"><strong>Free</strong> Christmas Day Lunch</a></p>
+        <!-- <p>Happy New Year!</p> -->
     </div>
   </div>
 </section>
@@ -64,8 +65,12 @@
                 <h3>Welcome to Park...</h3>
                 <div class="text-center">
                     </div>
-                    <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
+                    <!-- <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
                       <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4_9icLT-LuUzDuInfzsBwP2ufiveUdQ5" frameborder="0" gesture="media" allowfullscreen></iframe>
+                    </div> -->
+
+                    <div class="medium-offset-1 medium-10 large-offset-0 large-12">
+                      <img class="border-radius-5" src="images/happyholidays.jpg" alt="Happy Holidays 2017">
                     </div>
                     
                     <br>

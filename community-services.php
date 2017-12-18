@@ -583,10 +583,10 @@
         <p><strong>Adult Buffet Platter</strong> | £45</p>
         <p>Mixed selection buffet for 10 Adults.</p>
     <hr>
-        <p><strong>Blank Invitations</strong> | £3.50</p>
+        <p><strong>Blank Invitations</strong> | £3.85</p>
         <p>30 guest invitations professionally printed in pink or blue.</p>
     <hr>
-        <p><strong>Personalised Invitations</strong> | £6.00</p>
+        <p><strong>Personalised Invitations</strong> | £7.20</p>
         <p>30 personalised guest invitations professionally printed in pink or blue.</p>
     <hr>
         <p><strong>Party Bags</strong> | £1.00 each</p>
