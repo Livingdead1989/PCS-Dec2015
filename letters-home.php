@@ -27,6 +27,14 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1 medium-block-grid-2">
 
+            	<li>           	
+				  <ul class="circle">December 2017<hr>
+				  	<li><a href="/assets/letters/2017-12/holiday_requests_term_time.pdf" target="_blank">Holiday Requests in Term Time</a></li>
+				  	<li><a href="/assets/letters/2017-12/ka2_reports_keydates_springterm.pdf" target="_blank">KA2 Reports and Key Dates for Spring Term</a></li>
+				  	<li><a href="/assets/letters/2017-12/yr10_workexperience_summer2018.pdf" target="_blank">Year 10 Work Experience - Summer 2018</a></li>
+				  </ul>
+				</li>
+
 				<li>           	
 				  <ul class="circle">October 2017<hr>
 				  	<li><a href="/assets/letters/2017-10/y7y11parentevening_9november.pdf" target="_blank">Year 7 &amp; Year 11 Parent Evening</a></li>

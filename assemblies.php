@@ -27,8 +27,12 @@
         <p>Our assembly programme means students have an assembly most days in year groups, key stage groups, or in our cross year families. In the assemblies we pick up on religious, political, cultural, moral and practical themes.</p>
 
         <br><br>
-
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
+            	<li>
+					<ul class="circle">Spring 2018
+					  <li><a href="assets/assemblies/2018-spring/smsc1.pdf" target="_blank">Doing the Right Thing</a></li>
+					</ul>
+				</li>
             	<li>
 					<ul class="circle">Autumn 2017
 					  <li><a href="assets/assemblies/2017-autumn/smsc1.pdf" target="_blank">New Beginnings &amp; Good Choices</a></li>
