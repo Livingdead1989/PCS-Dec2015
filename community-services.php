@@ -412,7 +412,7 @@
 <!-- AssaultCourse -->
 <div id="pty-AssaultCourse" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
     <h2 class="text-center" id="modalTitle">Assault Course &amp; Bouncy Castle Party Package</h2>
-    <p class="text-center">Assault Course is 24 Metres Long!</p>
+    <p class="text-center">This is an Amazing Value Assault Course 20 Meters Long!</p>
     <hr>
 
     <p class="lead">Description</p>
