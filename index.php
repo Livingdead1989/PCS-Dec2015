@@ -43,14 +43,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a href="events.php" style="color:white;text-decoration:none;"><strong>Free</strong> Christmas Day Lunch</a></p>
-        <!-- <p>Happy New Year!</p> -->
+        <p></p>
     </div>
   </div>
-</section>
+</section> -->
 <!-- END NOTIFICATION -->
 
 
