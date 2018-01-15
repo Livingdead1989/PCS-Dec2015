@@ -30,6 +30,13 @@
 
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
 
+                <li class="hide-for-small-only">
+                    <a href="assets/news/parkpost/issue14-dec2017.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue14-dec2017.jpg" alt="Park Post Issue 14 Frontcover">
+                        <p>Issue 14 - December 2017</p>
+                    </a>
+                </li>
+
                 <li>
                     <a href="assets/news/parkpost/issue13-oct2017.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue13-oct2017.jpg" alt="Park Post Issue 13 Frontcover">
@@ -44,13 +51,7 @@
                     </a>
                 </li>
 
-                <li class="hide-for-small-only">
-                    <a href="assets/news/parkpost/issue11-jun2017.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue11-jun2017.jpg" alt="Park Post Issue 11 Frontcover">
-                        <p>Issue 11 - June 2017</p>
-                    </a>
-                </li>
-                
+                              
 
             </ul>
             <p>For older issues of Park Post visit our <a href="/park-archive.php">Archive</a>.</p>
