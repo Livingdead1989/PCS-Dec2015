@@ -59,6 +59,15 @@
 				<a href="assets/recruitment/science_teacher.pdf" target="_blank">Position Details</a>
 				</span>
 			</li>
+
+      <li>
+        <h4>Teaching Assistant</h4>  
+        <p><em>Closing Date: 30th Jan 2018</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/teaching_assistant.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
         
           
 	      </ul>
