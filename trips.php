@@ -127,7 +127,7 @@
 							<p>Year: 11</p>
 						</div>
 						<div class="columns clearfix">
-							<div class="left"><p>Notes: <em>Payable by 16th February 2018.</em></p></div>
+							<div class="left"><p>Notes: <em>Payable by Thursday 8th February 2018.</em></p></div>
 							<div class="right"><a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a></div>
 						</div>
 						<hr>
