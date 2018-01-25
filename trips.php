@@ -37,9 +37,9 @@
 				<div class="medium-5 columns">
 					
 					<div class="trip-slider">
-					    <div><img src="images/trips/newyork17.jpg" alt=""></div>
-					    <div><img src="images/trips/holocaust17.jpg" alt=""></div>
-					    <div><img src="images/trips/stepintosport17.jpg" alt=""></div>
+					    <div><img src="images/trips/newyork.jpg" alt=""></div>
+					    <div><img src="images/trips/kewgardens.jpg" alt=""></div>
+					    <div><img src="images/trips/tanzania.jpg" alt=""></div>
 					  </div>
 
 				</div>
