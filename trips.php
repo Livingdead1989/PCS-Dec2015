@@ -312,6 +312,27 @@
 					<h2>Non-Payable Trips</h2>
 					<hr>
 
+					<!-- Trip Template -->
+					<!-- <div class="row">
+						<div class="columns">
+							<h3></h3>
+						</div>
+						<div class="medium-8 columns">
+							<h4 class="subheader">Summary</h4>
+							<p></p>
+						</div>
+						<div class="medium-4 columns small-text-center medium-text-right">
+							<h4 class="subheader">Details</h4>
+							<p>Date: </p>
+							<p>Lead: </p>
+							<p>Cost: Free</p>
+							<p>Year: </p>
+							<br><br>
+						</div>
+						<hr>
+					</div> -->
+					<!-- End Trip Template -->
+
 
 					<!-- Trip Template -->
 					<div class="row">
@@ -535,7 +556,7 @@
 						<div class="medium-4 columns small-text-center medium-text-right">
 							<h4 class="subheader">Details</h4>
 							<p>Date: Tuesday 6th February</p>
-							<p>Lead: Miss Binns</p>
+							<p>Lead: Mrs Reynolds</p>
 							<p>Cost: Free</p>
 							<p>Year: 10</p>
 							<br><br>
@@ -543,6 +564,93 @@
 						<hr>
 					</div>
 					<!-- End Trip Template -->
+
+					<!-- Trip Template -->
+					<div class="row">
+						<div class="columns">
+							<h3>Mentoring Reward - Just Dessertz</h3>
+						</div>
+						<div class="medium-8 columns">
+							<h4 class="subheader">Summary</h4>
+							<p></p>
+						</div>
+						<div class="medium-4 columns small-text-center medium-text-right">
+							<h4 class="subheader">Details</h4>
+							<p>Date: Tuesday 6th February</p>
+							<p>Lead: Mr Crowley</p>
+							<p>Cost: Free</p>
+							<p>Year: </p>
+							<br><br>
+						</div>
+						<hr>
+					</div>
+					<!-- End Trip Template -->
+
+
+					<!-- Trip Template -->
+					<div class="row">
+						<div class="columns">
+							<h3>Federation Dance Workshop - Horndean Technology College</h3>
+						</div>
+						<div class="medium-8 columns">
+							<h4 class="subheader">Summary</h4>
+							<p>Students from Years 7-9 have been selected to take part in Dance &amp; Drama Workshops as part of a Federation Arts event coming up in June.</p>
+						</div>
+						<div class="medium-4 columns small-text-center medium-text-right">
+							<h4 class="subheader">Details</h4>
+							<p>Date: Thursday 1st &amp; Tuesday 6th February</p>
+							<p>Lead: Mrs Carter &amp; Mrs Bowman</p>
+							<p>Cost: Free</p>
+							<p>Year: 7, 8, 9</p>
+							<br><br>
+						</div>
+						<hr>
+					</div>
+					<!-- End Trip Template -->
+
+					<!-- Trip Template -->
+					<div class="row">
+						<div class="columns">
+							<h3>Guildford University – Dame Kelly Holmes Unlocking Potential</h3>
+						</div>
+						<div class="medium-8 columns">
+							<h4 class="subheader">Summary</h4>
+							<p>2 Year 11 students will travel to Guildford University to present their findings on their project so far.</p>
+						</div>
+						<div class="medium-4 columns small-text-center medium-text-right">
+							<h4 class="subheader">Details</h4>
+							<p>Date: Tuesday 27th February</p>
+							<p>Lead: Miss Norman</p>
+							<p>Cost: Free</p>
+							<p>Year: 11</p>
+							<br><br>
+						</div>
+						<hr>
+					</div>
+					<!-- End Trip Template -->
+
+					<!-- Trip Template -->
+					<div class="row">
+						<div class="columns">
+							<h3>Havant Rugby Club</h3>
+						</div>
+						<div class="medium-8 columns">
+							<h4 class="subheader">Summary</h4>
+							<p>Years 8 &amp; 9 Rugby Refereeing Workshop on the 6th March and Primary Rugby Tournament Year 9 and 10 to officiate on 14th March.</p>
+						</div>
+						<div class="medium-4 columns small-text-center medium-text-right">
+							<h4 class="subheader">Details</h4>
+							<p>Date: Tuesday 6th and Wednesday 14th March</p>
+							<p>Lead: Miss Norman</p>
+							<p>Cost: Free</p>
+							<p>Year: 9, 10</p>
+							<br><br>
+						</div>
+						<hr>
+					</div>
+					<!-- End Trip Template -->
+
+
 					</ul>
 				</div>
 			</div>
