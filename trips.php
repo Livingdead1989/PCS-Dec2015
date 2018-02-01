@@ -414,7 +414,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Friday 12th January</p>
 									<p>Lead: Miss Munoz</p>
-									<p>Cost: Free</p>
 									<p>Year: 11</p>
 									<br><br>
 								</div>
