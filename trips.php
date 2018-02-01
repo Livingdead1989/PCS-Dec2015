@@ -435,7 +435,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Tuesday 16th January</p>
 									<p>Lead: Ms Williams</p>
-									<p>Cost: Free</p>
 									<p>Year: 10</p>
 									<br><br>
 								</div>
@@ -456,7 +455,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Thursday 18th January</p>
 									<p>Lead: Miss Raines</p>
-									<p>Cost: Free</p>
 									<p>Year: 10</p>
 									<br><br>
 								</div>
@@ -477,7 +475,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Wednesday 24th January</p>
 									<p>Lead: Mrs Norman</p>
-									<p>Cost: Free</p>
 									<p>Year: All Years</p>
 									<br><br>
 								</div>
@@ -498,7 +495,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Wednesday 24th January</p>
 									<p>Lead: Mr Bye</p>
-									<p>Cost: Free</p>
 									<p>Year: 10</p>
 									<br><br>
 								</div>
@@ -519,7 +515,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Wednesday 24th January</p>
 									<p>Lead: Mr Folkins</p>
-									<p>Cost: Free</p>
 									<p>Year: 9, 10</p>
 									<br><br>
 								</div>
@@ -540,7 +535,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Thursday 25th January</p>
 									<p>Lead: Mrs Williams</p>
-									<p>Cost: Free</p>
 									<p>Year: 8 &amp; 9</p>
 									<br><br>
 								</div>
@@ -561,7 +555,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Friday 26th January</p>
 									<p>Lead: Mrs Clarke</p>
-									<p>Cost: Free</p>
 									<p>Year: 11</p>
 									<br><br>
 								</div>
@@ -582,7 +575,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Tuesday 30th January</p>
 									<p>Lead: Mrs Chuter</p>
-									<p>Cost: Free</p>
 									<p>Year: 10</p>
 									<br><br>
 								</div>
@@ -603,7 +595,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: Wednesday 31st January</p>
 									<p>Lead: Miss Binns</p>
-									<p>Cost: Free</p>
 									<p>Year: 8</p>
 									<br><br>
 								</div>
@@ -630,7 +621,6 @@
 									<h4 class="subheader">Details</h4>
 									<p>Date: 30th Jan to 2nd Feb 2018</p>
 									<p>Lead: Mrs Butler</p>
-									<p>Cost: £-</p>
 									<p>Year: 9</p>
 								</div>s
 								<hr>
