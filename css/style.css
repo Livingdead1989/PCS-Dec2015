@@ -29,6 +29,12 @@ a:active, a:focus, a:hover {
 .grey-bg blockquote, .grey-bg h1, .grey-bg h2, .grey-bg h3, .grey-bg h4, .grey-bg h5, .grey-bg h6, .grey-bg li, .grey-bg p, .grey-bg ul, section a.button, section a.button:active, section a.button:focus, section a.button:hover {
     color: #FFF;
 }
+#past-trips ul.accordion{
+  margin: 0;
+}
+.accordion p, .accordion h4, .accordion h3{
+  color: #222;
+}
 .brandfont {
     font-family: Muli, 'Open Sans', sans-serif;
 }
@@ -293,7 +299,9 @@ header h1, header h3, header p {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-flow: row wrap;
-      flex-flow: row wrap;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+          flex-flow: row wrap;
   -ms-flex-line-pack: center;
       align-content: center;
 }
@@ -310,7 +318,8 @@ header h1, header h3, header p {
   left: -10px;
   top: -10px;
   -webkit-transform: rotate(-7deg);
-          transform: rotate(-7deg);
+          -ms-transform: rotate(-7deg);
+      transform: rotate(-7deg);
   background-color: #e21364;
   border: 2px outset #EE3A80;
   border-radius: 100%;
@@ -328,7 +337,8 @@ header h1, header h3, header p {
   left: -10px;
   top: -10px;
   -webkit-transform: rotate(-7deg);
-          transform: rotate(-7deg);
+          -ms-transform: rotate(-7deg);
+      transform: rotate(-7deg);
   background-color: #32a9e4;
   border: 2px outset #5FBCEA;
   border-radius: 100%;

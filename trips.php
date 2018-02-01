@@ -17,7 +17,7 @@
 				</div>
 			</div>
 		</header>
-		<!-- CONTENT -->
+		<!-- TOP CONTENT -->
 		<section>
 			<div class="row">
 				<br>
@@ -30,6 +30,7 @@
 						<div class="columns">
 							<a class="button radius" href="#payable-trips">Payable Trips</a>
 							<a class="button radius" href="#non-payable-trips">Non-Payable Trips</a>
+							<a class="button radius" href="#past-trips">Past Trips</a>
 							<a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
 						</div>
 					</div>
@@ -47,6 +48,7 @@
 			<br><br>
 		</section>
 
+		<!-- PAYABLE TRIPS -->
 		<section class="grey-bg" id="payable-trips">
 		    <div class="row">
 		        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
@@ -224,77 +226,6 @@
 					</div>
 					<!-- End Trip Template -->
 
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Disneyland Paris 2018</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Year 9 STEM/Educational trip to Disneyland Paris - offering a safe, fun and fantastic environment - a great way for students to bond.</p>
-
-							<div class="small-text-center medium-text-left"><a class="button radius " href="#" data-reveal-id="modal-disney">Instalment Plan</a></div>
-
-							<div id="modal-disney" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-								<h2 id="modalTitle">Payment Instalments</h2>
-								<table width="100%">
-									<thead>
-										<tr>
-											<td>Non-refundable Deposit</td>
-											<td>Due By</td>
-										</tr>
-									</thead>
-									<tbody>
-										<tr>
-											<td>£99.00</td>
-											<td>26.05.17</td>
-										</tr>
-										<tr>
-											<th colspan="2">Instalments</th>
-										</tr>
-										<tr>
-											<td>£40.00</td>
-											<td>30.06.17</td>
-										</tr>
-										<tr>
-											<td>£40.00</td>
-											<td>25.07.17</td>
-										</tr>
-										<tr>
-											<td>£40.00</td>
-											<td>08.09.17</td>
-										</tr>
-										<tr>
-											<td>£40.00</td>
-											<td>06.10.17</td>
-										</tr>
-										<tr>
-											<td>£40.00</td>
-											<td>10.11.17</td>
-										</tr>
-									</tbody>
-								</table>
-							  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-							</div>
-
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: 30th January to 2nd February 2018</p>
-							<p>Lead: Mrs Butler</p>
-							<p>Cost: £299.00</p>
-							<p>Year: 9</p>
-						</div>
-						<div class="columns clearfix">
-							<div class="left"><p>Notes: <em>Limted Spaces</em></p></div>
-							<div class="right"><a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a></div>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-
-
-
 		        </div>
 		    </div>
 		    <div class="row">
@@ -303,6 +234,7 @@
 		    <br><br>
 		</section>
 
+		<!-- NON PAYABLE TRIPS -->
 		<section id="non-payable-trips">
 			<div class="row">
 		        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
@@ -334,215 +266,7 @@
 					<!-- End Trip Template -->
 
 
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Oxford University Visit</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>An opportunity for Year 11 students to visit St. Edmunds Hall at Oxford University to access a wide range of information, advice and guidance as well as the chance to take part in hands on activities and to meet and talk to students and staff from this University.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Friday 12th January</p>
-							<p>Lead: Miss Munoz</p>
-							<p>Cost: Free</p>
-							<p>Year: 11</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Hair &amp; Beauty at Chichester College</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Opportunity for Year 10 students to visit Chichester Campus for a Service Industry Taster day.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Tuesday 16th January</p>
-							<p>Lead: Ms Williams</p>
-							<p>Cost: Free</p>
-							<p>Year: 10</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>GCSE Dance Theory Workshop</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>GCSE Dance Theory Workshop for Year 10 students, that will involve a speaker from AQA GCSE Dance to come and deliver information to students about the new Dance Written paper.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Thursday 18th January</p>
-							<p>Lead: Miss Raines</p>
-							<p>Cost: Free</p>
-							<p>Year: 10</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
 					
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>'Step into Sport' at Mountbatten Centre</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Opportunity for Sports Ambassadors from all years to demonstrate their communication and organisational skills.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Wednesday 24th January</p>
-							<p>Lead: Mrs Norman</p>
-							<p>Cost: Free</p>
-							<p>Year: All Years</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-					
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>RHS Wisley Woking</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Horticulture students from Year 10 will visit Wisley Gardens (headquarters of the Royal Horticultural Society) for a Horticultural careers day and tour of the facility.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Wednesday 24th January</p>
-							<p>Lead: Mr Bye</p>
-							<p>Cost: Free</p>
-							<p>Year: 10</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-					
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Federation Debating Day</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Students from Year 9 and 10 will have the opportunity to develop speaking and listening skills that are essential to their study of English. They will also be given the chance to explore the workings of our national debating system as part of a team of debaters against other schools.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Wednesday 24th January</p>
-							<p>Lead: Mr Folkins</p>
-							<p>Cost: Free</p>
-							<p>Year: 9, 10</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-					
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Holocaust Memorial</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Humanities students will be delivering a short reading at Havant Cemetery and attending a reception afterward at the Public Service Plaza, where some of their artwork will be displayed.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Thursday 25th January</p>
-							<p>Lead: Mrs Williams</p>
-							<p>Cost: Free</p>
-							<p>Year: 8 &amp; 9</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-					
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>University of Portsmouth</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Selected Year 11 students will attend Revision Day, focusing on improving speaking, writing and memorisation skills in preparation for the Languages’ GCSE examinations.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Friday 26th January</p>
-							<p>Lead: Mrs Clarke</p>
-							<p>Cost: Free</p>
-							<p>Year: 11</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-					
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Dance at Winchester University</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Year 10 students to experience Dance at University level.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Tuesday 30th January</p>
-							<p>Lead: Mrs Chuter</p>
-							<p>Cost: Free</p>
-							<p>Year: 10</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-					
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>‘Get Inspired’ Trip</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Year 8 students will be able to take part in a wide range of activities that will give them exposure to the many diverse roles (professional, technical and craft) employed within these sectors. Students will have the opportunity to learn about the various educational options, training courses and apprenticeships from professional employer representatives, career and educational advisers.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Wednesday 31st January</p>
-							<p>Lead: Miss Binns</p>
-							<p>Cost: Free</p>
-							<p>Year: 8</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
 					
 					<!-- Trip Template -->
 					<div class="row">
@@ -659,6 +383,283 @@
 			</div>
 			<br><br>
 		</section>
+
+		<!-- PAST TRIPS -->
+		<section class="grey-bg" id="past-trips">
+		    <div class="row">
+		        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+		    </div>
+
+		    <div class="row">
+		        <div class="medium-12 columns">
+		        	<h2>Past Trips</h2>
+		        	<p>Below you can find our past trips, these are for archival purposes.</p>
+		        	<hr>
+
+					<ul class="accordion" data-accordion>
+					  <li class="accordion-navigation">
+					    <a href="#trips-panel1a">January 2018</a>
+					    <!-- TRIPS CONTAINER -->
+					    <div id="trips-panel1a" class="content">
+					      	<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Oxford University Visit</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>An opportunity for Year 11 students to visit St. Edmunds Hall at Oxford University to access a wide range of information, advice and guidance as well as the chance to take part in hands on activities and to meet and talk to students and staff from this University.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Friday 12th January</p>
+									<p>Lead: Miss Munoz</p>
+									<p>Cost: Free</p>
+									<p>Year: 11</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Hair &amp; Beauty at Chichester College</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Opportunity for Year 10 students to visit Chichester Campus for a Service Industry Taster day.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Tuesday 16th January</p>
+									<p>Lead: Ms Williams</p>
+									<p>Cost: Free</p>
+									<p>Year: 10</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>GCSE Dance Theory Workshop</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>GCSE Dance Theory Workshop for Year 10 students, that will involve a speaker from AQA GCSE Dance to come and deliver information to students about the new Dance Written paper.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Thursday 18th January</p>
+									<p>Lead: Miss Raines</p>
+									<p>Cost: Free</p>
+									<p>Year: 10</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+							
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>'Step into Sport' at Mountbatten Centre</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Opportunity for Sports Ambassadors from all years to demonstrate their communication and organisational skills.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Wednesday 24th January</p>
+									<p>Lead: Mrs Norman</p>
+									<p>Cost: Free</p>
+									<p>Year: All Years</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+							
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>RHS Wisley Woking</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Horticulture students from Year 10 will visit Wisley Gardens (headquarters of the Royal Horticultural Society) for a Horticultural careers day and tour of the facility.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Wednesday 24th January</p>
+									<p>Lead: Mr Bye</p>
+									<p>Cost: Free</p>
+									<p>Year: 10</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+							
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Federation Debating Day</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Students from Year 9 and 10 will have the opportunity to develop speaking and listening skills that are essential to their study of English. They will also be given the chance to explore the workings of our national debating system as part of a team of debaters against other schools.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Wednesday 24th January</p>
+									<p>Lead: Mr Folkins</p>
+									<p>Cost: Free</p>
+									<p>Year: 9, 10</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+							
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Holocaust Memorial</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Humanities students will be delivering a short reading at Havant Cemetery and attending a reception afterward at the Public Service Plaza, where some of their artwork will be displayed.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Thursday 25th January</p>
+									<p>Lead: Mrs Williams</p>
+									<p>Cost: Free</p>
+									<p>Year: 8 &amp; 9</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+							
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>University of Portsmouth</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Selected Year 11 students will attend Revision Day, focusing on improving speaking, writing and memorisation skills in preparation for the Languages’ GCSE examinations.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Friday 26th January</p>
+									<p>Lead: Mrs Clarke</p>
+									<p>Cost: Free</p>
+									<p>Year: 11</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+							
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Dance at Winchester University</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Year 10 students to experience Dance at University level.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Tuesday 30th January</p>
+									<p>Lead: Mrs Chuter</p>
+									<p>Cost: Free</p>
+									<p>Year: 10</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+							
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>‘Get Inspired’ Trip</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Year 8 students will be able to take part in a wide range of activities that will give them exposure to the many diverse roles (professional, technical and craft) employed within these sectors. Students will have the opportunity to learn about the various educational options, training courses and apprenticeships from professional employer representatives, career and educational advisers.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Wednesday 31st January</p>
+									<p>Lead: Miss Binns</p>
+									<p>Cost: Free</p>
+									<p>Year: 8</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+					    </div>
+					  </li>
+					  <li class="accordion-navigation">
+					    <a href="#trips-panel2a">February 2018</a>
+					    <!-- TRIPS CONTAINER -->
+					    <div id="trips-panel2a" class="content">
+					      
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Disneyland Paris 2018</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Year 9 STEM/Educational trip to Disneyland Paris - offering a safe, fun and fantastic environment - a great way for students to bond.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: 30th Jan to 2nd Feb 2018</p>
+									<p>Lead: Mrs Butler</p>
+									<p>Cost: £-</p>
+									<p>Year: 9</p>
+								</div>s
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+
+					    </div>
+					  </li>
+					</ul>
+
+					<br><br>
+		        </div>
+		    </div>
+		    <div class="row">
+				<div class="column text-right"><a href="#">Back to Top</a></div>
+			</div>
+		    <br><br>
+		</section>
+
+		<!-- BLANK -->
+		<section>
+			<div class="row">
+		        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+		    </div>
+			<div class="row">
+			</div>
+			<br><br>
+		</section>
+
 
 			<!-- FOOTER -->
 			<?php include("includes/footer.html") ?>
