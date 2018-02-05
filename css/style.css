@@ -205,9 +205,9 @@ header h1, header h3, header p {
     color: #D776BD;
 }
 #homepage-hero {
-    background: url() center center no-repeat fixed #156A9C;
+    background: url() center center no-repeat fixed #5FBCEA;
     background-size: cover;
-    padding: 80px 20px 20px;
+    padding: 30px 20px;
 }
 #homepage-hero h1 {
     font-weight: 700;
@@ -215,14 +215,6 @@ header h1, header h3, header p {
 }
 #homepage-hero h3 {
     text-shadow: 2px 2px 2px #000;
-}
-#homepage-hero .floating-logo {
-    min-width: 170px;
-    min-height: 170px;
-    max-width: 303px;
-    max-height: 303px;
-    display: block;
-    margin: auto;
 }
 #homepage-hero .bounce-arrow-container {
     max-height: 10px;

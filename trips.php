@@ -41,7 +41,7 @@
 					    <div><img src="images/trips/newyork.jpg" alt=""></div>
 					    <div><img src="images/trips/kewgardens.jpg" alt=""></div>
 					    <div><img src="images/trips/tanzania.jpg" alt=""></div>
-					  </div>
+					</div>
 
 				</div>
 			</div>
@@ -228,10 +228,7 @@
 
 		        </div>
 		    </div>
-		    <div class="row">
-				<div class="column text-right"><a href="#">Back to Top</a></div>
-			</div>
-		    <br><br>
+		    <?php include("includes/backtotop.html") ?>
 		</section>
 
 		<!-- NON PAYABLE TRIPS -->
@@ -378,10 +375,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="row">
-				<div class="column text-right"><a href="#">Back to Top</a></div>
-			</div>
-			<br><br>
+			<?php include("includes/backtotop.html") ?>
 		</section>
 
 		<!-- PAST TRIPS -->
@@ -633,10 +627,7 @@
 					<br><br>
 		        </div>
 		    </div>
-		    <div class="row">
-				<div class="column text-right"><a href="#">Back to Top</a></div>
-			</div>
-		    <br><br>
+		    <?php include("includes/backtotop.html") ?>
 		</section>
 
 		<!-- BLANK -->

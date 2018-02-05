@@ -31,7 +31,12 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose</h3>
+            
+            <h3>What we stand for</h3>
+            <p>We believe that Design, Technology, Food, Catering and Horticulture provide problem solvers of the future. A Park Design and Technologist innovates solutions through theoretical and practical application to develop creatively products from conception to conclusion. A learner’s problem solving ability is vital in employment and further education as well as working collaboratively in a team. A successful Design and Technologist can adapt their practise to work more efficiently, be decisive in their approach to learning new skills whilst applying them in education and in ‘real life’ situations. We believe that these skills will enhance our ambition for our learners to strive for excellence.</p> 
+
+
+            <h3>The Purpose of Food and Design Technology</h3>
             <p>Design and technology is an inspiring, rigorous and practical subject. Students studying it will use their creativity and imagination to design and make a range of products that solve a variety of issues. Whilst designing, students will take into account other individuals needs as well as their own to produce the most effective outcome. Design and Technology requires a broad subject knowledge that draws upon other areas of the curriculum, for example, science engineering and maths. Pupils learn how to take risks and are required to design innovatively to produce new and interesting products and concepts.</p>
 
             <h3>Aims</h3>
@@ -141,7 +146,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 9-10 - GCSE - Hospitality &amp; Catering</a>
+                    <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 9 - Vocational Level 2 Hospitality and Catering</a>
                     <div id="panel5d" class="content" role="tabpanel" aria-labelledby="panel5d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
@@ -268,6 +273,28 @@
                     </div>
                 </li>
 
+                <li class="accordion-navigation">
+                    <a href="#panel9" role="tab" id="panel9-heading" aria-controls="panel9">APEX - LASER Level 1 Certificate for Learning, Employability and Progression</a>
+                    <div id="panel9" class="content" role="tabpanel" aria-labelledby="panel9-heading">
+                        <p class="text-capitalize">Main topics students study:</p>
+                        <p>To achieve the LASER Level 1 Certificate for Learning, Employability and Progression the learner must achieve a minimum of 20 credits. The credits may be taken from any combination of units but a minimum of 11 credits must be at Level 1.</p> 
+
+                        <p>Here at Park community school we also offer the above course with specific credits awarded in different construction skills. These skills are delivered at our APEX construction skills centre in Leigh Park, Havant. This course is offered to students at Park Community School and it is also offered to other secondary schools in the local area.</p>
+
+                        <ul class="circle">Skills list include;
+                            <li>Brickwork</li>
+                            <li>Carpentry and Joinery</li>
+                            <li>Carpentry Hand Skills</li>
+                            <li>Health and Safety in construction</li>
+                            <li>Painting and Decorating skills</li>
+                            <li>Plastering and Wallpapering</li>
+                        </ul>
+                        <br>
+                        <p>For more information please contact Daniel Payne, Head of Design and Technology and oversight of APEX centre.</p>
+
+                    </div>
+                </li>
+
 
 
 
@@ -276,6 +303,7 @@
         </div>
 
     </div>
+    <?php include ("includes/backtotop.html") ?>
 </section>
 
 <!-- FOOTER -->
