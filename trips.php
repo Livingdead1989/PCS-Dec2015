@@ -202,29 +202,7 @@
 					</div>
 					<!-- End Trip Template -->
 
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Cass Sculpture Foundation</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>An opportunity for Year 11 students to view the sculptures on site and photograph them for their current ‘Structures’ coursework.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Tuesday 6th February</p>
-							<p>Lead: Miss Pitassi</p>
-							<p>Cost: £3</p>
-							<p>Year: 11</p>
-						</div>
-						<div class="columns clearfix">
-							<div class="left"><p>Notes: Payment due by Thursday 1st February.<em></em></p></div>
-							<div class="right"><a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a></div>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
+					
 
 		        </div>
 		    </div>
@@ -260,73 +238,6 @@
 						</div>
 						<hr>
 					</div> -->
-					<!-- End Trip Template -->
-
-
-					
-					
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Federation Careers Fair</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Year 10 Trip to speak with potential employers, training providers, local colleges etc. to gain an insight to their options when leaving school.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Tuesday 6th February</p>
-							<p>Lead: Mrs Reynolds</p>
-							<p>Cost: Free</p>
-							<p>Year: 10</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Mentoring Reward - Just Dessertz</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p></p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Tuesday 6th February</p>
-							<p>Lead: Mr Crowley</p>
-							<p>Cost: Free</p>
-							<p>Year: </p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
-					<!-- End Trip Template -->
-
-
-					<!-- Trip Template -->
-					<div class="row">
-						<div class="columns">
-							<h3>Federation Dance Workshop - Horndean Technology College</h3>
-						</div>
-						<div class="medium-8 columns">
-							<h4 class="subheader">Summary</h4>
-							<p>Students from Years 7-9 have been selected to take part in Dance &amp; Drama Workshops as part of a Federation Arts event coming up in June.</p>
-						</div>
-						<div class="medium-4 columns small-text-center medium-text-right">
-							<h4 class="subheader">Details</h4>
-							<p>Date: Thursday 1st &amp; Tuesday 6th February</p>
-							<p>Lead: Mrs Carter &amp; Mrs Bowman</p>
-							<p>Cost: Free</p>
-							<p>Year: 7, 8, 9</p>
-							<br><br>
-						</div>
-						<hr>
-					</div>
 					<!-- End Trip Template -->
 
 					<!-- Trip Template -->
@@ -616,6 +527,86 @@
 									<p>Lead: Mrs Butler</p>
 									<p>Year: 9</p>
 								</div>s
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Cass Sculpture Foundation</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>An opportunity for Year 11 students to view the sculptures on site and photograph them for their current ‘Structures’ coursework.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Tuesday 6th February</p>
+									<p>Lead: Miss Pitassi</p>
+									<p>Year: 11</p>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Federation Careers Fair</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Year 10 Trip to speak with potential employers, training providers, local colleges etc. to gain an insight to their options when leaving school.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Tuesday 6th February</p>
+									<p>Lead: Mrs Reynolds</p>
+									<p>Year: 10</p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Mentoring Reward - Just Dessertz</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p></p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Tuesday 6th February</p>
+									<p>Lead: Mr Crowley</p>
+									<p>Year: </p>
+									<br><br>
+								</div>
+								<hr>
+							</div>
+							<!-- End Trip Template -->
+
+
+							<!-- Trip Template -->
+							<div class="row">
+								<div class="columns">
+									<h3>Federation Dance Workshop - Horndean Technology College</h3>
+								</div>
+								<div class="medium-8 columns">
+									<h4 class="subheader">Summary</h4>
+									<p>Students from Years 7-9 have been selected to take part in Dance &amp; Drama Workshops as part of a Federation Arts event coming up in June.</p>
+								</div>
+								<div class="medium-4 columns small-text-center medium-text-right">
+									<h4 class="subheader">Details</h4>
+									<p>Date: Thursday 1st &amp; Tuesday 6th February</p>
+									<p>Lead: Mrs Carter &amp; Mrs Bowman</p>
+									<p>Year: 7, 8, 9</p>
+									<br><br>
+								</div>
 								<hr>
 							</div>
 							<!-- End Trip Template -->
