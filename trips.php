@@ -284,6 +284,27 @@
 					</div>
 					<!-- End Trip Template -->
 
+					<!-- Trip Template -->
+					<div class="row">
+						<div class="columns">
+							<h3>Bedales Dance Trip</h3>
+						</div>
+						<div class="medium-8 columns">
+							<h4 class="subheader">Summary</h4>
+							<p>Year 11 Students have been invited to attend an evening GCSE &amp; A-Level Dance Workshop at Bedales School in Petersfield.</p>
+						</div>
+						<div class="medium-4 columns small-text-center medium-text-right">
+							<h4 class="subheader">Details</h4>
+							<p>Date: Thursday 8th March</p>
+							<p>Lead: Miss Raines</p>
+							<p>Cost: Free</p>
+							<p>Year: 11</p>
+							<br><br>
+						</div>
+						<hr>
+					</div>
+					<!-- End Trip Template -->
+
 
 					</ul>
 				</div>
@@ -502,27 +523,6 @@
 									<p>Date: Wednesday 31st January</p>
 									<p>Lead: Miss Binns</p>
 									<p>Year: 8</p>
-									<br><br>
-								</div>
-								<hr>
-							</div>
-							<!-- End Trip Template -->
-
-							<!-- Trip Template -->
-							<div class="row">
-								<div class="columns">
-									<h3>Bedales Dance Trip</h3>
-								</div>
-								<div class="medium-8 columns">
-									<h4 class="subheader">Summary</h4>
-									<p>Year 11 Students have been invited to attend an evening GCSE &amp; A-Level Dance Workshop at Bedales School in Petersfield.</p>
-								</div>
-								<div class="medium-4 columns small-text-center medium-text-right">
-									<h4 class="subheader">Details</h4>
-									<p>Date: Thursday 8th March</p>
-									<p>Lead: Miss Raines</p>
-									<p>Cost: Free</p>
-									<p>Year: 11</p>
 									<br><br>
 								</div>
 								<hr>
