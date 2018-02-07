@@ -468,11 +468,9 @@ header h1, header h3, header p {
 }
 #site-footer ul.footer-awards img.footer-award-sqa {
     width: 70px;
-    height: 70px;
 }
 #site-footer ul.footer-awards img.footer-award-rec{
     width:103px;
-    height:70px;
 }
 #site-footer p.copyright {
     margin: 10px 0 0;
