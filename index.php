@@ -72,13 +72,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!-- <section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p></p>
+        <p><a href="events.php" style="color: black; text-decoration: none;"><strong>MUNCH during Half Term, NEW for 2018 - Breakfast.</strong></a></p>
     </div>
   </div>
-</section> -->
+</section>
 <!-- END NOTIFICATION -->
 
 
