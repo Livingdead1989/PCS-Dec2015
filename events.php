@@ -52,6 +52,44 @@
               </div> -->
 <!--                  Event box -->   
 
+<!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date">24th March</p>
+                  <p class="event-time">19:00</p>
+                </div>
+                <h2 class="event-title">Jay Jupe and Friends</h2>
+                <p class="event-subheader">with Dynamo Youth Theatre</p>
+                <p class="event-description">Live Music</p>
+                <div class="link-wrap">
+                  <a href="assets/events/jayjupe.pdf" target="_blank" class="button success radius">PDF Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School,+Middle+Park+Way,+Havant/@50.8727064,-0.9865403,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">7.50 (£2 Students)</div>
+                </div>
+              </div>
+<!--                  Event box -->  
+
+<!--                    Event Box  -->
+              <div class="event-wrap feature-event sticky-event">
+                <div class="date-wrap">
+                  <p class="event-date">17th March</p>
+                  <p class="event-time">14:00-16:30</p>
+                </div>
+                <h2 class="event-title">Music Workshop</h2>
+                <p class="event-subheader">Primary Children's</p>
+                <p class="event-description">Experience playing different instruments with the team from World of Music Education and Harpist, Alicia McGarvie. Limited Spaces, please book in advance.</p>
+                <div class="link-wrap">
+                  <a href="assets/events/primarychildren.pdf" target="_blank" class="button success radius">PDF Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School,+Middle+Park+Way,+Havant/@50.8727064,-0.9865403,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">2.00</div>
+                </div>
+              </div>
+<!--                  Event box --> 
+
             </div>
               
             </div> 
