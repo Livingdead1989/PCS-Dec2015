@@ -30,6 +30,9 @@
 <section>
     <div class="row">
         <div class="large-12 columns">
+
+			<div class="text-right"><a href="#" data-reveal-id="revision_resources" class="button round alert">GCSE Revision Resources</a></div>
+
         	<h3>Purpose</h3>
 			<p>Studying Drama requires emotional maturity, and gives students an understanding of themselves. It involves using not only their voices and bodies, but also emotions and creativity has the ability to develop confidence and self esteem . The subject requires a great deal of peer trust, and so it plays an important role in teaching communication, listening and empathy skills. Studying drama is demanding, and teaches students that success only comes from hard work. The skills that are learnt by studying drama are invaluable in later life, for example, being able to speak and present confidently in front of people, and the planning that is required in any production, all are useful in many careers.</p>
 			<h3>Aims</h3>
@@ -125,6 +128,39 @@
         </div>
     </div>
 </section>
+
+
+<!-- Modal -->
+<div id="revision_resources" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+	<h2>GCSE Revision Resources</h2>
+	<ul class="circle">
+		<li><a href="assets/curriculum/drama/revision_booklet.pdf" target="_blank">Revision Booklet</a></li>
+		<li><a href="assets/curriculum/drama/key_definitions.pdf" target="_blank">Key Deinitions and Terms</a></li>
+		<li><a href="//www.ocr.org.uk/qualifications/gcse-drama-j316-from-2016/assessment/" target="_blank">Sample Answers</a></li>
+	</ul>
+	<br>
+	<h3>Section A - Blood Brothers</h3>
+	<ul class="circle">
+		<li><a href="//www.ocr.org.uk/qualifications/gcse-drama-j316-from-2016/delivery-guide/component-gdr004-drama-performance-and-response-04/delivery-guide-gdrdg003-drama-performance-and-response" target="_blank">Exam Board Resources</a></li>
+		<li><a href="//www.amazon.co.uk/Blood-Brothers-Methuen-Modern-Classics/dp/0413767701/ref=sr_1_1?ie=UTF8&qid=1518900629&sr=8-1&keywords=blood+brothers+script" target="_blank">Copies of Text for Purchase</a></li>
+		<li><a href="//www.youtube.com/watch?v=A9mbfRiZ2Bk" target="_blank">Performance <span class="subheader">(Video)</span></a></li>
+		<li><a href="//www.youtube.com/watch?v=wZsd__wvoF0&t=80s" target="_blank">Plot Overview <span class="subheader">(Video)</span></a></li>
+		<li><a href="//www.youtube.com/watch?v=UgR3ATt1NUU&t=2s" target="_blank">Key Themes</a></li>
+		<li><a href="//www.youtube.com/watch?v=_UlKoKzsvzs" target="_blank">Backstage Tour <span class="subheader">(Video)</span></a></li>
+	</ul>
+	<br>
+	<h3>Section B - Evaluating 'Teechers'</h3>
+	<ul class="circle">
+		<li><a href="//classroom.imaginate.org.uk/" target="_blank">Interactive Resource <span class="subheader">(Flash)</span></a></li>
+		<li><a href="//www.youtube.com/watch?v=hRxBG7g9GMg" target="_blank">Tips for Writing <span class="subheader">(Video)</span></a></li>
+		<li><a href="assets/curriculum/drama/teechers_pack.pdf" target="_blank">Black Eyed Theatre Resource Pack</a></li>
+	</ul>
+  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+
+
+		
+<!-- /Modal -->
 
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
