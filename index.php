@@ -99,13 +99,13 @@
 
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                         <div class="homepage-slider">
-                            <div><img src="images/trips/disney18/disney1.jpg" alt="Disney Trip 2018"></div>
-                            <div><img src="images/trips/disney18/disney4.jpg" alt="Disney Trip 2018"></div>
-                            <div><img src="images/trips/disney18/disney2.jpg" alt="Disney Trip 2018"></div>
-                            <div><img src="images/trips/disney18/disney3.jpg" alt="Disney Trip 2018"></div>
-                            <div><img src="images/trips/disney18/disney5.jpg" alt="Disney Trip 2018"></div>
+                            <div><img src="images/trips/newyork18/ny1.jpg" alt="New York 2018"></div>
+                            <div><img src="images/trips/newyork18/ny2.jpg" alt="New York 2018"></div>
+                            <div><img src="images/trips/newyork18/ny3.jpg" alt="New York 2018"></div>
+                            <div><img src="images/trips/newyork18/ny4.jpg" alt="New York 2018"></div>
+                            <div><img src="images/trips/newyork18/ny5.jpg" alt="New York 2018"></div>
                         </div>
-                        <p class="subheader text-center">Disney Trip 2018</p>
+                        <p class="subheader text-center">New York Trip 2018</p>
                     </div>
                     
                     <br>
