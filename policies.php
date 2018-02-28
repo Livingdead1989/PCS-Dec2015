@@ -52,7 +52,7 @@
                 <li><a href="/assets/policies/health-and-safety.pdf" target="_blank">Health and Safety</a></li>
                 <li><a href="/assets/policies/homework.pdf" target="_blank">Homework</a></li>
 
-                <li><a href="/assets/policies/prevention-of-radicalisation-and-extremism - Jan-2016.pdf" target="_blank">Prevention of Radicalisation and Extremism</a></li>
+                <li><a href="/assets/policies/prevention-of-radicalisation-and-extremism - jan-2016.pdf" target="_blank">Prevention of Radicalisation and Extremism</a></li>
             
                 <li><a href="/assets/policies/medical-conditions.pdf" target="_blank">Supporting Students with Medical Conditions</a></li>
                 <li><a href="/assets/policies/studententitlementiag.pdf" target="_blank">Student Entitlement in IAG</a></li>
