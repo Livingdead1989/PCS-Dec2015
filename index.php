@@ -50,7 +50,6 @@
                 <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
                 <a class="small button radius success" href="assets/prospectus.pdf">Our Prospectus</a>
                 <a class="small button radius success" href="assets/statutory/ofsted-report-2017.pdf" target="_blank">Ofsted Report</a>
-                <a class="small button radius success" href="sev-weather.php" target="_blank">Severe Weather</a>
             </div>
 
 
