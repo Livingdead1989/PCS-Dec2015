@@ -73,13 +73,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!-- <section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a href="events.php" style="color: black; text-decoration: none;"><strong>MUNCH</strong></a></p>
+        <p><a href="sev-weather.php" style="color: black; text-decoration: none;"><strong>Severe Weather Information</strong></a></p>
     </div>
   </div>
-</section> -->
+</section>
 <!-- END NOTIFICATION -->
 
 
