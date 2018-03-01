@@ -26,7 +26,7 @@
         <div id="park-post" class="medium-12 columns">
             <h3>Information</h3>
             <p>Dear Parent/ Carer</p>
-            <p>Park will be open this morning. However forecasts and police advice is that problems are likely with travel this afternoon. So school will close after lunch time at 1.25pm. No parents evening today.</p>
+            <p>As severe weather is forecast later today a decision will be made around 6pm about whether the school will open tomorrow. We will update Facebook, and the website when that decision has been made, or if there are any other changes.</p>
                          
         </div>
     </div><br>
