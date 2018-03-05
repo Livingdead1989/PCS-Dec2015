@@ -90,6 +90,24 @@
               </div>
 <!--                  Event box --> 
 
+<!--                    Event Box  -->
+              <div class="event-wrap feature-event sticky-event">
+                <div class="date-wrap">
+                  <p class="event-date">8th March</p>
+                  <p class="event-time">16:30-19:00</p>
+                </div>
+                <h2 class="event-title">Parents Evening &amp; Yr8 Options</h2>
+                <p class="event-subheader">Rescheduled date</p>
+                <p class="event-description">Opportunity for parents/carers to discuss student progress and available year 8 options.</p>
+                <div class="link-wrap">
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="" target="_blank"></a></div>
+                  <div class="cost-wrap"></div>
+                </div>
+              </div>
+<!--                  Event box --> 
+
             </div>
               
             </div> 
