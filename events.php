@@ -109,7 +109,7 @@
 <!--                  Event box --> 
 
 <!--                    Event Box  -->
-              <div class="event-wrap feature-event sticky-event">
+              <div class="event-wrap">
                 <div class="date-wrap">
                   <p class="event-date">Start Date 29th March</p>
                   <p class="event-time">17:30-18:30</p>
@@ -118,7 +118,7 @@
                 <p class="event-subheader"></p>
                 <p class="event-description">Join us for Dinner every Thursday at Park Community School</p>
                 <div class="link-wrap">
-                  <a href="assets/events/munch_tea.pdf" target="_blank" class="button success radius">Read More...</a>
+                  <a href="assets/events/munch_tea.pdf" target="_blank" class="button success radius">PDF Flyer</a>
                 </div>
                 <div class="bottom-wrap">
                   <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School,+Middle+Park+Way,+Havant/@50.8727064,-0.9865403,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
