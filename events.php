@@ -90,6 +90,24 @@
               </div>
 <!--                  Event box --> 
 
+<!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date">8th March</p>
+                  <p class="event-time">16:30-19:00</p>
+                </div>
+                <h2 class="event-title">Parents Evening &amp; Yr8 Options</h2>
+                <p class="event-subheader">Rescheduled date</p>
+                <p class="event-description">Opportunity for parents/carers to discuss student progress and available year 8 options.</p>
+                <div class="link-wrap">
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School,+Middle+Park+Way,+Havant/@50.8727064,-0.9865403,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">N/A</div>
+                </div>
+              </div>
+<!--                  Event box --> 
+
             </div>
               
             </div> 

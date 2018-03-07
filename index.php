@@ -72,13 +72,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!--<section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a href="sev-weather.php" style="color: black; text-decoration: none;"><strong>Severe Weather Information (updated 18:00 01/03/18)</strong></a></p>
+        <p><a href="events.php" style="color: black; text-decoration: none;">Rescheduled Parents Evening and Yr8 Options</a></p>
     </div>
   </div>
-</section> -->
+</section> 
 <!-- END NOTIFICATION -->
 
 
