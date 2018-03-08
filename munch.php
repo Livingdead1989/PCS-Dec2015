@@ -13,7 +13,8 @@
 <header class="header-misc">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Munch</h1>
+            <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/munch/munch_logo.png" alt="MUNCH"></div>
+    </div>
             <p class="text-capitalize">MUNCH ensures that no child, no matter what school or age need go hungry during the holidays.</p>
         </div>
     </div>
@@ -30,8 +31,7 @@
             <p>We work in partnership with organisations who have excess food which otherwise would go into landfill .  This helps to fill our MUNCH fridge in the Dickinson Centre.  This is always fully stocked with emergency food for local families who are most in need.</p>
             <p>We have expanded MUNCH to both Thursday nights and Sunday lunches.  2 course Sunday lunches start monthly from Sunday 25th March and Thursday nights meals start weekly from Thursday March 29th.</p>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/munch/munch_logo.png" alt="MUNCH"></div>
-    </div>
+        
     <br><br><br>
 </section>
 
