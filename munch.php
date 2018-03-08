@@ -43,7 +43,7 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-push-6 medium-6 columns">
+        <div class="medium-12 columns">
             <h4>MUNCH Testimonial (PO9 Pioneers, Barney Barron)
             <p>I live and work in Leigh Park and have the privilege of partnering in some of the community projects delivered by Park Community School.  In particular the MUNCH project is an area the school have gone above and beyond to meet the needs of the community. </p>
             <p>Food poverty is a serious and increasingly common problem in our community.</p>
@@ -53,7 +53,7 @@
         <div class="text-center">
                 <a href="assets/munch_review.pdf" target="_blank" class="button success radius">Munch Review</a>
             </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-6 medium-offset-0 medium-6 columns"><img src="images/munch/munch_fridge.jpg" alt="Munch Fridge></div>
+        
     </div>
     <br><br><br>
 </section>
