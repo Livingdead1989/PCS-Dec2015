@@ -31,6 +31,7 @@
             	<li>
 					<ul class="circle">Spring 2018
 					  <li><a href="assets/assemblies/2018-spring/smsc1.pdf" target="_blank">Doing the Right Thing</a></li>
+                      <li><a href="assets/assemblies/2018-spring/smsc2.pdf" target="_blank">Staying Safe</a></li>
 					</ul>
 				</li>
             	<li>
