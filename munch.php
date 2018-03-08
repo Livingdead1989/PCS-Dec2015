@@ -15,8 +15,11 @@
         <div class="medium-8 large-8 columns">
             <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/munch/munch_logo.png" alt="MUNCH"></div>
     </div>
-    <br>
+    <div class="medium-12 columns">
             <p class="text-capitalize">MUNCH ensures that no child, no matter what school or age need go hungry during the holidays.</p>
+            <br>
+        </div>
+            
         </div>
     </div>
 </header>
