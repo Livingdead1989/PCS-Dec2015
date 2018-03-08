@@ -44,7 +44,7 @@
     </div>
     <div class="row">
         <div class="medium-12 columns">
-            <h4>MUNCH Testimonial (PO9 Pioneers, Barney Barron)
+            <h4>MUNCH Testimonial (PO9 Pioneers, Barney Barron)</h4>
             <p>I live and work in Leigh Park and have the privilege of partnering in some of the community projects delivered by Park Community School.  In particular the MUNCH project is an area the school have gone above and beyond to meet the needs of the community. </p>
             <p>Food poverty is a serious and increasingly common problem in our community.</p>
             <p>For many who cannot afford to feed their children leaving them at risk of hunger and malnutrition. MUNCH provide a healthy breakfast and cooked lunch.  This extends to Christmas day with hearty Christmas fare and entertainment and soon will be extending this provision to term time with a weekly evening meal and a Sunday lunch.</p>
@@ -64,7 +64,7 @@
     </div>
     <div class="row">
         <div class="medium-6 columns">
-            <h4>MUNCH in numbers</h4>
+            <h4>MUNCH in Numbers</h4>
             <hr>
                 <ul class="bullet">
                     <li>2,500 meals provided so far</li>
@@ -75,7 +75,6 @@
                     <li>4 churches  volunteering</li>
                     <li>120 guests for Christmas Lunch</li>
                 </ul>
-            <h4>Contact Information</h4>
             <hr>
             
         </div>
