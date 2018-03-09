@@ -224,6 +224,12 @@
                             <p>The Apex Centre</p>
                         </a></div>
                 </li>
+                <li>
+                    <div class="menu-box"><a href="/munch.php">
+                            <img src="images/index/munch.jpg" alt="MUNCH">
+                            <p>MUNCH</p>
+                        </a></div>
+                </li>
             </ul>
 
             <br>
