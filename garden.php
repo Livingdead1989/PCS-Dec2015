@@ -24,16 +24,15 @@
 	<div class="row">
 		<br>
 		<div class="medium-7 columns">
-			<h2>Benefits of a Garden?</h2>
-			<p>Gardening offers hands-on, experiential learning opportunities in a wide array of disciplines.</p>
-			<p>Gardening is exercise, did you know that you can burn as many calories in 45 minutes of gardening as you can in 30 minutes of aerobics?.</p>
-			<p>Working in the garden reduces stress. Connecting with nature, digging in the dirt, even weeding is one of the best stress reducers</p>
+			<h2>Horticulture in the Park</h2>
+			<p>Horticulture in Park Community School (PCS) is more than just a simple gardening experience, it is one that develops our students’ interests and understanding of the interconnectedness of people, soils, plants, and animals (large and microscopic); generating a practical awareness of where our food comes from and the resources and processes it takes to produce it; the ways in which horticultural practices impact on the environment, and how good practices sustain and enhance the environment.</p>
+			
 		</div>
 		<div class="medium-5 columns">
 			<div class="garden-slider">
-			    <div><img src="images/garden/garden1.jpg" alt=""></div>
-			    <div><img src="images/garden/garden2.jpg" alt=""></div>
-			    <div><img src="images/garden/garden3.jpg" alt=""></div>
+			    <div><img src="images/garden/garden1.jpg" alt="Horticulture at Park Community School"></div>
+			    <div><img src="images/garden/garden2.jpg" alt="Horticulture at Park Community School"></div>
+			    <div><img src="images/garden/garden3.jpg" alt="Horticulture at Park Community School"></div>
 			  </div>
 		</div>
 	</div>
@@ -44,16 +43,12 @@
 	<div class="row"><div class="small-centered large-1 column text-center hr-logo white-bg"></div></div>
 		
 	<div class="row">
-		<div class="medium-8 medium-push-4 columns">
-			<h2>Our Garden</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis accusamus quia culpa quae alias, aperiam sequi soluta doloribus consectetur error ducimus, in facere eos veritatis consequuntur iure quisquam, sapiente illo?</p>
-			<p>Consectetur adipisicing elit. Facilis accusamus quia culpa quae alias, aperiam sequi soluta doloribus consectetur error ducimus, in facere eos veritatis consequuntur iure quisquam, sapiente illo?</p>
-			<p>Sit amet, consectetur adipisicing elit. Cum animi ratione sint nihil laboriosam, consequuntur ab inventore error possimus nesciunt, deserunt esse rem placeat culpa, dignissimos! Ratione labore, praesentium laborum!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum facilis quae dolore voluptates consectetur! Sit esse, veritatis incidunt pariatur, aut facere at fugit placeat sapiente enim eius sequi iste necessitatibus!</p>
+		<div class="medium-6 medium-push-6 columns">
+			<p>Learning horticulture in PCS is also designed to open pathways to a wide range of learning and eventual careers opportunities such as ‘Horticultural consultant, turf manager, landscape designer, agribusiness consultant, wine consultant, plant pathologist, orchardist, forestry worker  and florist.. Collectively, leaning horticulture helps our learners gain valuable, transferable skills in science, technology, numeracy and literacy, self-management and independence skills.</p>
+			<p>These skills are not an end in themselves, but through learning each process, our students gain personal satisfaction and an incentive to become life-long learners, eager to learn more.</p>
 		</div>
-		<div class="medium-4 medium-pull-8 columns">
-			<a class="th" role="button" aria-label="Thumbnail" href="images/garden/gardendiagram.jpg">
-				<img aria-hidden=true src="images/garden/gardendiagram.jpg" alt="Diagram of our School Garden">
-			</a>
+		<div class="medium-6 medium-pull-6 columns">
+				<img aria-hidden=true src="images/garden/garden4.jpg" alt="Student Shrubs">
 		</div>
 	</div>
 	<br><br><br>
@@ -68,6 +63,7 @@
 			<p>What is the monthly newletters..... </p>
 			<ul class="circle">
 				<li><a href="assets/garden/2018-01.pdf" target="_blank">Issue 01 - Beauties for January</a></li>
+				<li><a href="assets/garden/2018-02.pdf" target="_blank">Issue 02 - February</a></li>
 			</ul>
 		</div>
 	</div>

@@ -31,6 +31,10 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
+
+        <div class="text-right"><a href="/garden.php" class="button round alert">Horticulture Garden</a></div>
+
+
             <h3>Exam Board</h3>
             <p>Royal Horticultural Society (RHS) or Edexcel pending RHS validation.</p>
 
@@ -71,6 +75,7 @@
                 <li>Plant Breeder</li>
                 <li>Soil Scientist</li>
             </ul>
+
             
             <br>
         </div>
