@@ -32,7 +32,8 @@
                 <li><a href="/assets/policies/administration-of-medicines.pdf" target="_blank">Administration of Medicines</a></li>
                 <li>Admissions<br>
                     <a href="/assets/policies/admissions-2017-2018.pdf" target="_blank">2017-18</a> /
-                    <a href="/assets/policies/admissions-2018-2019.pdf" target="_blank">2018-19</a></li>
+                    <a href="/assets/policies/admissions-2018-2019.pdf" target="_blank">2018-19</a> /
+                    <a href="/assets/policies/admissions-2019-2020.pdf" target="_blank">2019-20</a></li>
                 <li><a href="/assets/policies/attendance.pdf" target="_blank">Attendance</a></li>
             
                 <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour for Learning</a></li>
