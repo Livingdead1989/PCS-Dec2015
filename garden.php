@@ -63,7 +63,7 @@
 			<p>What is the monthly newletters..... </p>
 			<ul class="circle">
 				<li><a href="assets/garden/2018-01.pdf" target="_blank">Issue 01 - Beauties for January</a></li>
-				<li><a href="assets/garden/2018-02.pdf" target="_blank">Issue 02 - February</a></li>
+				<li><a href="assets/garden/2018-03.pdf" target="_blank">Issue 02 - Mulching in March</a></li>
 			</ul>
 		</div>
 	</div>
