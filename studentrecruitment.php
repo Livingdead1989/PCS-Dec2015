@@ -24,19 +24,18 @@
     <div class="row">
         <div class="large-12 columns">
           <br>
-            <p>At Park we recognise how difficult it is for young people to gain valuable work experience so we are opening our own Recruitment Agency for positions that can be filled by our students.</p>
+            <p>At Park we recognise how difficult it is for young people to gain valuable work experience so we have opened our own Recruitment Agency for positions that can be filled by our students.</p>
 
             <p>Students will go through a recruitment process including:</p>
             <ul class="circle">
-                <li>Completing an application form in which they will need to obtain references,</li>
-                <li>Group task and</li>
-                <li>Interview.</li>
+                <li>Completing an application form and supplying references,</li>
+                <li>Undertaking a group task,</li>
+                <li>Being Interviewed.</li>
             </ul>
-            <p>Vacancies will be advertised outside KD3.</p>
 
-            <p>The vacancies that will occur show the progression that can be made, through the different roles. More roles will be added as they become available.</p>
+            <p>Vacancies available on our Student Recruitment board show how progression can be made through different roles. More roles are added as they become available.</p>
 
-            <p>The law states that children must be 13 years of age to be employed therefore Year 7/8s can only volunteer, they will get a gift voucher and it will be recognised in their application for positions in Year 9.</p>
+            <p>The law states that children must be 13 years of age to be employed therefore Year 7/8s can only volunteer, they will receive a gift voucher and their work experience will be recognised in any application for positions in Year 9.</p>
 
         </div>
     </div>
