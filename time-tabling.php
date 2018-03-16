@@ -31,6 +31,8 @@
                 <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
                 <br>
                 <li>Exams Timetable - <br>None Currently Available.</li>
+                <br>
+                <li><a href="/assets/timetabling/easter_studyclubs.pdf">Easter Study Clubs</a></li>
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Available in downloadable and printable PDF format.</small></h5>
         </div>
