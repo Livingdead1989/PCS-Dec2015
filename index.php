@@ -72,14 +72,14 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!-- <section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a href="events.php" style="color: black; text-decoration: none;">Rescheduled Parents Evening and Yr8 Options</a></p>
+        <p>School Open for Monday.</p>
     </div>
   </div>
 </section> 
-<!-- END NOTIFICATION --> 
+<!-- END NOTIFICATION 
 
 
 <!-- CONTENT -->
