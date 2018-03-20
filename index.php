@@ -72,14 +72,14 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p>School Open for Monday.</p>
+        
     </div>
   </div>
-</section> 
-<!-- END NOTIFICATION 
+</section>  -->
+<!-- END NOTIFICATION -->
 
 
 <!-- CONTENT -->
