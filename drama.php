@@ -137,6 +137,7 @@
 		<li><a href="assets/curriculum/drama/revision_booklet.pdf" target="_blank">Revision Booklet</a></li>
 		<li><a href="assets/curriculum/drama/key_definitions.pdf" target="_blank">Key Deinitions and Terms</a></li>
 		<li><a href="//www.ocr.org.uk/qualifications/gcse-drama-j316-from-2016/assessment/" target="_blank">Sample Answers</a></li>
+		<li><a href="//quizlet.com/class/6804927/" target="_blank">Drama GCSE Quiz</a></li>
 	</ul>
 	<br>
 	<h3>Section A - Blood Brothers</h3>
