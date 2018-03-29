@@ -137,11 +137,11 @@
         </div>
     </div>
     <br>
-    <div class="row">
+    <!-- <div class="row">
             <div class="column text-center">
                 <a href="assets/community/partyleaflet.pdf" target="_blank" class="button success radius">Party Packages PDF</a>
             </div>
-    </div>
+    </div> -->
     <br><br>
 </section>
 
