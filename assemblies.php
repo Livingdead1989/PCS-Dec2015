@@ -29,6 +29,11 @@
         <br><br>
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
             	<li>
+                    <ul class="circle">Summer 2018
+                      <li><a href="assets/assemblies/2018-summer/smsc1.pdf" target="_blank">My Future</a></li>
+                    </ul>
+                </li>
+                <li>
 					<ul class="circle">Spring 2018
 					  <li><a href="assets/assemblies/2018-spring/smsc1.pdf" target="_blank">Doing the Right Thing</a></li>
                       <li><a href="assets/assemblies/2018-spring/smsc2.pdf" target="_blank">Staying Safe</a></li>
