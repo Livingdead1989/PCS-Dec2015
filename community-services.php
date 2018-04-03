@@ -104,12 +104,6 @@
                         </a></div>
                 </li>
                 <li>
-                    <div class="menu-box"><a href="#" data-reveal-id="pty-Zorb">
-                            <img src="images/community/zorb.jpg" alt="">
-                            <p>Inflatable Zorb &amp; Bouncy Castle</p>
-                        </a></div>
-                </li>
-                <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-AssaultCourse">
                             <img src="images/community/assaultcourse.jpg" alt="">
                             <p>Assault Course &amp; Bouncy Castle</p>
@@ -137,11 +131,11 @@
         </div>
     </div>
     <br>
-    <!-- <div class="row">
+    <div class="row">
             <div class="column text-center">
                 <a href="assets/community/partyleaflet.pdf" target="_blank" class="button success radius">Party Packages PDF</a>
             </div>
-    </div> -->
+    </div>
     <br><br>
 </section>
 
@@ -276,7 +270,7 @@
     <p class="lead">Optional Extras are Available.</p>
     <hr>
 
-    <p class="lead text-right">Cost: £175</p>
+    <p class="lead text-right">Cost: £200</p>
 
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
@@ -317,7 +311,7 @@
     <p class="lead">Optional Extras are Available.</p>
     <hr>
 
-    <p class="lead text-right">Cost: £100</p>
+    <p class="lead text-right">Cost: £110</p>
 
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
@@ -359,52 +353,7 @@
     <p class="lead">Optional Extras are Available.</p>
     <hr>
 
-    <p class="lead text-right">Cost: £120</p>
-
-    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-</div>
-
-<!-- Zorb -->
-<div id="pty-Zorb" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-    <h2 class="text-center" id="modalTitle">Inflatable Zorb &amp; Bouncy Castle Party Package</h2>
-    <hr>
-
-    <p class="lead">Description</p>
-    <p>This party takes place in the Sport Hall and the children can play an assortment of games inside the Zorbs or just bounce around on the castle</p>
-    <hr>
-
-    <p class="lead">Includes</p>
-    <ul class="circle">
-        <li>Staff members to assist with the party</li>
-        <li>10 Zorbs provided</li>
-        <li>1 Bouncy castle 6.8m x 5.7m x3.95m</li>
-        <li>We supply a variety of background music</li>
-        <li>Two tables that sit 24 children and covered with party table coverings</li>
-        <li>Hot water pots and water jugs available on request</li>
-        <li>Party host can bring their own food and it can be eaten in the sports hall</li>
-    </ul>
-    <hr>
-
-    <p class="lead">Limitations</p>
-    <ul class="circle">
-        <li>Minimum age of 6 years</li>
-        <li>Maximum attending of 20 children</li>
-        <li>Children need to wear socks at all times and to remove glasses and jewellery for everyone’s safety</li>
-        <li>Bouncy castle can have 8 children at a time up to the height of 1.65metres</li>
-    </ul>
-    <hr>
-
-    <p class="lead">Available Days &amp; Times</p>
-    <p><em>Saturday Early Bird, <strong>10% Discount</strong> - 9:30 - 11:30</em></p>
-    <p>Saturdays, 12:00 - 14:00 &amp; 14:30 - 16:30</p>
-    <p>Sundays, 11:00 - 13:00 &amp; 13:00 - 15:30</p>
-    <p><em>Two hours includes setting up and clearing away.</em></p>
-    <hr>
-
-    <p class="lead">Optional Extras are Available.</p>
-    <hr>
-
-    <p class="lead text-right">Cost: £175</p>
+    <p class="lead text-right">Cost: £130</p>
 
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
@@ -449,7 +398,7 @@
     <p class="lead">Optional Extras are Available.</p>
     <hr>
 
-    <p class="lead text-right">Cost: £150</p>
+    <p class="lead text-right">Cost: £160</p>
 
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
@@ -507,7 +456,7 @@
     <p class="lead">Optional Extras are Available.</p>
     <hr>
 
-    <p class="lead text-right">Cost: £150</p>
+    <p class="lead text-right">Cost: £160</p>
 
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
@@ -574,17 +523,23 @@
     <h2 id="modalTitle">Optional Extras</h2>
     <p class="lead">Hot or Cold food can be prepared by our chef, or you can bring your own.</p>
     <hr>
-        <p><strong>Children's Cold Party Box</strong> | £65</p>
+        <p><strong>Children's Platters</strong></p>
+        <p>Simple Sandwich Platter (plain ham, plain cheese, 14 triangles) | £10</p>
+        <p>Mixed Crudite Platter with Dips (carrot and cucumber with hummus) | £10</p>
+        <p>Mixed Fruit Platter (seasonal fruits) | £10</p>
+        <p>Mixed Mini Muffin Platter (choc chip, double choc, blueberry, 14 muffins) | £10</p>
+    <hr>
+        <p><strong>Children's Cold Party Box</strong> | £50</p>
         <p>for a minimum of 20 children. Food options can be selected from our menu.</p>
     <hr>
-        <p><strong>Children's Hot Party Dinners</strong> | £90</p>
+        <p><strong>Children's Hot Party Dinners</strong> | £60</p>
         <p>for a minimum of 20 children. Food options can be selected from our menu.</p>
     <hr>
-        <p><strong>Adult Buffet Platter</strong> | £45</p>
+        <p><strong>Slush Zero Drinks</strong> | £10</p>
+        <p>for a minimum of 20 drinks - 7oz Cup.</p>
+    <hr>
+        <p><strong>Adult Buffet Platter</strong> | £30</p>
         <p>Mixed selection buffet for 10 Adults.</p>
-    <hr>
-        <p><strong>Blank Invitations</strong> | £3.85</p>
-        <p>30 guest invitations professionally printed in pink or blue.</p>
     <hr>
         <p><strong>Personalised Invitations</strong> | £7.20</p>
         <p>30 personalised guest invitations professionally printed in pink or blue.</p>
@@ -594,12 +549,6 @@
     <hr>
         <p><strong>Staff Assistant</strong> | £25.00</p>
         <p>Assist with Party needs for 2 Hours.</p>
-    <hr>
-        <p><strong>Site Team</strong> | £25.00 per hour</p>
-        <p>For those times when the booking goes beyond our opening times.</p>
-    <hr>
-        <p><strong>Security Personnel</strong> | £15 per hour</p>
-        <p>Required when bar in operation.</p>
     <hr>
     <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
