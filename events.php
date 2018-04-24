@@ -53,7 +53,7 @@
 <!--                  Event box -->   
 
 <!--                    Event Box  -->
-              <div class="event-wrap feature-event sticky-event">
+              <div class="event-wrap">
                 <div class="date-wrap">
                   <p class="event-date">Fri 11th May</p>
                   <p class="event-time">11am - 7pm</p>
@@ -65,11 +65,30 @@
                   <a href="assets/events/pace.pdf" target="_blank" class="button success radius">Read More...</a>
                 </div>
                 <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/The+Dickinson+Centre/@50.8702707,-1.0019494,17z/data=!3m1!4b1!4m5!3m4!1s0x487444925222d409:0xa0733a6598ac67e5!8m2!3d50.8702673!4d-0.9997607" target="_blank">The Dickinson Centre</a></div>
+                  <div class="location-wrap"><a href="//www.google.com/maps/place/The+Dickinson+Centre/@50.8702707,-1.0019494,17z/data=!3m1!4b1!4m5!3m4!1s0x487444925222d409:0xa0733a6598ac67e5!8m2!3d50.8702673!4d-0.9997607" target="_blank">The Dickinson Centre</a></div>
                   <div class="cost-wrap">Free</div>
                 </div>
               </div>
 <!--                  Event box -->   
+
+<!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date">Fri 25th May</p>
+                  <p class="event-time">18:30</p>
+                </div>
+                <h2 class="event-title">Leather &amp; Lace</h2>
+                <p class="event-subheader">ROCK ANTHEMS &amp; POWER BALLADS SHOW</p>
+                <p class="event-description">"Leather &amp; Lace" is a dynamic new show bringing all those 'Classic Rock Anthems' &amp; 'Power Ballads' you know and love to the stage.<br><br><a href="//www.tickettailor.com/events/leatherandlaceshow/159178">Buy Tickets Online</a></p>
+                <div class="link-wrap">
+                  <a href="assets/events/leather_and_lace.jpg" target="_blank" class="button success radius">Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="//www.google.com/maps/place/Park+Community+School/@50.8727051,-0.9867002,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">12.50</div>
+                </div>
+              </div>
+<!--                  Event box -->
 
             </div>
               
