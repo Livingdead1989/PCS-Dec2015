@@ -99,13 +99,14 @@
 
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                         <div class="homepage-slider">
-                            <div><img src="images/trips/newyork18/ny1.jpg" alt="New York 2018"></div>
-                            <div><img src="images/trips/newyork18/ny2.jpg" alt="New York 2018"></div>
-                            <div><img src="images/trips/newyork18/ny3.jpg" alt="New York 2018"></div>
-                            <div><img src="images/trips/newyork18/ny4.jpg" alt="New York 2018"></div>
-                            <div><img src="images/trips/newyork18/ny5.jpg" alt="New York 2018"></div>
+                            <div><img src="images/events/race_at_our_place/2018/race_at_our_place_1.jpg" alt="Race at Our Place 2018"></div>
+                            <div><img src="images/events/race_at_our_place/2018/race_at_our_place_2.jpg" alt="Race at Our Place 2018"></div>
+                            <div><img src="images/events/race_at_our_place/2018/race_at_our_place_3.jpg" alt="Race at Our Place 2018"></div>
+                            <div><img src="images/events/race_at_our_place/2018/race_at_our_place_4.jpg" alt="Race at Our Place 2018"></div>
+                            <div><img src="images/events/race_at_our_place/2018/race_at_our_place_5.jpg" alt="Race at Our Place 2018"></div>
+                            <div><img src="images/events/race_at_our_place/2018/race_at_our_place_6.jpg" alt="Race at Our Place 2018"></div>
                         </div>
-                        <p class="subheader text-center">New York Trip 2018</p>
+                        <p class="subheader text-center">Race at Our Place 2018</p>
                     </div>
                     
                     <br>
