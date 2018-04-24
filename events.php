@@ -53,81 +53,23 @@
 <!--                  Event box -->   
 
 <!--                    Event Box  -->
-              <div class="event-wrap">
+              <div class="event-wrap feature-event sticky-event">
                 <div class="date-wrap">
-                  <p class="event-date">24th March</p>
-                  <p class="event-time">19:00</p>
+                  <p class="event-date">Fri 11th May</p>
+                  <p class="event-time">11am - 7pm</p>
                 </div>
-                <h2 class="event-title">Jay Jupe and Friends</h2>
-                <p class="event-subheader">with Dynamo Youth Theatre</p>
-                <p class="event-description">Live Music</p>
+                <h2 class="event-title">PACE</h2>
+                <p class="event-subheader">Parent And Carers Event</p>
+                <p class="event-description">Talks/Presentations about issues facing Parents and Carers including: Challenging Behaviour, Anxiety Management, Crisis and Self Harm.</p>
                 <div class="link-wrap">
-                  <a href="assets/events/jayjupe.pdf" target="_blank" class="button success radius">PDF Flyer</a>
+                  <a href="assets/events/pace.pdf" target="_blank" class="button success radius">Read More...</a>
                 </div>
                 <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School,+Middle+Park+Way,+Havant/@50.8727064,-0.9865403,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">7.50 (£2 Students)</div>
-                </div>
-              </div>
-<!--                  Event box -->  
-
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">17th March</p>
-                  <p class="event-time">14:00-16:30</p>
-                </div>
-                <h2 class="event-title">Music Workshop</h2>
-                <p class="event-subheader">Primary Children's</p>
-                <p class="event-description">Experience playing different instruments with the team from World of Music Education and Harpist, Alicia McGarvie. Limited Spaces, please book in advance.</p>
-                <div class="link-wrap">
-                  <a href="assets/events/primarychildren.pdf" target="_blank" class="button success radius">PDF Flyer</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School,+Middle+Park+Way,+Havant/@50.8727064,-0.9865403,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">2.00</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
-
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">Start Date 25th March</p>
-                  <p class="event-time">12:00-13:00</p>
-                </div>
-                <h2 class="event-title">Munch Sunday Lunch</h2>
-                <p class="event-subheader"></p>
-                <p class="event-description">Join us for Sunday Lunch every week at Park Community School</p>
-                <div class="link-wrap">
-                  <a href="assets/events/munch_sunday.pdf" target="_blank" class="button success radius">PDF Flyer</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School,+Middle+Park+Way,+Havant/@50.8727064,-0.9865403,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">N/A</div>
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/The+Dickinson+Centre/@50.8702707,-1.0019494,17z/data=!3m1!4b1!4m5!3m4!1s0x487444925222d409:0xa0733a6598ac67e5!8m2!3d50.8702673!4d-0.9997607" target="_blank">The Dickinson Centre</a></div>
+                  <div class="cost-wrap">Free</div>
                 </div>
               </div>
 <!--                  Event box -->   
-
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">Start Date 29th March</p>
-                  <p class="event-time">17:30-18:30</p>
-                </div>
-                <h2 class="event-title">Munch Thursday Tea Time</h2>
-                <p class="event-subheader"></p>
-                <p class="event-description">Join us for Dinner every Thursday at Park Community School</p>
-                <div class="link-wrap">
-                  <a href="assets/events/munch_tea.pdf" target="_blank" class="button success radius">PDF Flyer</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.co.uk/maps/place/Park+Community+School,+Middle+Park+Way,+Havant/@50.8727064,-0.9865403,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">N/A</div>
-                </div>
-              </div>
-<!--                  Event box --> 
 
             </div>
               
