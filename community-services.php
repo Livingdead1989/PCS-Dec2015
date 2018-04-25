@@ -365,7 +365,7 @@
     <hr>
 
     <p class="lead">Description</p>
-    <p>Assault Course and Bouncy Castle Party Package. This is amazing value with a 3 piece assault course 20 metres long and a large bouncy castle.</p>
+    <p>Assault Course and Bouncy Castle Party Package. This is amazing value with a 2 piece assault course 20 metres long and a large bouncy castle.</p>
     <hr>
 
     <p class="lead">Includes</p>
