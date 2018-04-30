@@ -67,7 +67,7 @@
     </div>
     <div class="row">
         <div class="medium-6 columns">
-            <h4>MUNCH in Numbers</h4>
+            <h4>MUNCH in Numbers 2017-2018</h4>
             <hr>
                 <ul class="bullet">
                     <li>2,500 meals provided so far</li>
