@@ -37,8 +37,17 @@
 				</span>
 			</li> -->
 
+      <li>
+        <h4>Teaching Assistant</h4>  
+        <p><em>Closing Date: Mon 4th June</em></p>
 
-	        <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
+        <span class="subheader">
+        <a href="assets/recruitment/teaching_assistant.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
+
+	       <!--  <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
 
 	             
           
