@@ -31,15 +31,15 @@
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
 
                 <li>
-                    <a href="assets/news/parkpost/issue16-feb2018.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue16-feb2018.jpg" alt="Park Post Issue 16 Frontcover">
+                    <a href="assets/news/parkpost/issue16-apr2018.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue16-apr2018.jpg" alt="Park Post Issue 16 Frontcover">
                         <p>Issue 16 - April 2018</p>
                     </a>
                 </li>
 
                 <li class="hide-for-small-only">
-                    <a href="assets/news/parkpost/issue15-apr2018.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue15-apr2018.jpg" alt="Park Post Issue 15 Frontcover">
+                    <a href="assets/news/parkpost/issue15-feb2018.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue15-feb2018.jpg" alt="Park Post Issue 15 Frontcover">
                         <p>Issue 15 - February 2018</p>
                     </a>
                 </li>
