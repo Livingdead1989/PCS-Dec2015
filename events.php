@@ -91,6 +91,44 @@
               </div>
 <!--                  Event box -->
 
+<!--                    Event Box  -->
+              <div class="event-wrap feature-event sticky-event">
+                <div class="date-wrap">
+                  <p class="event-date">29th May - 1st June</p>
+                  <p class="event-time">12:00-13:00</p>
+                </div>
+                <h2 class="event-title">MUNCH</h2>
+                <p class="event-subheader">Two course meal without charge for childing attending ANY school in Leigh Park. <br>Join us for Dinner on Thursdays - 17:30-18:30. <br><strong>Donations Welcome</strong></p>
+                <p class="event-description"></p>
+                <div class="link-wrap">
+                  <a href="assets/events/munch.pdf" target="_blank" class="button success radius">View our Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Free</div>
+                </div>
+              </div>
+<!--                  Event box -->
+
+<!--                    Event Box  -->
+              <div class="event-wrap feature-event sticky-event">
+                <div class="date-wrap">
+                  <p class="event-date">24th July - 31st August</p>
+                  <p class="event-time">12:00-13:00</p>
+                </div>
+                <h2 class="event-title">MUNCH</h2>
+                <p class="event-subheader">Two course meal without charge for childing attending ANY school in Leigh Park. <br>Join us for Dinner on Thursdays - 17:30-18:30. <br><strong>Donations Welcome</strong></p>
+                <p class="event-description"></p>
+                <div class="link-wrap">
+                  <a href="assets/events/munch.pdf" target="_blank" class="button success radius">View our Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Free</div>
+                </div>
+              </div>
+<!--                  Event box -->
+
             </div>
               
             </div> 
