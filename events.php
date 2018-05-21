@@ -50,26 +50,7 @@
                   <div class="cost-wrap"></div>
                 </div>
               </div> -->
-<!--                  Event box -->   
-
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">Fri 11th May</p>
-                  <p class="event-time">11am - 7pm</p>
-                </div>
-                <h2 class="event-title">PACE</h2>
-                <p class="event-subheader">Parent And Carers Event</p>
-                <p class="event-description">Talks/Presentations about issues facing Parents and Carers including: Challenging Behaviour, Anxiety Management, Crisis and Self Harm.</p>
-                <div class="link-wrap">
-                  <a href="assets/events/pace.pdf" target="_blank" class="button success radius">Read More...</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="//www.google.com/maps/place/The+Dickinson+Centre/@50.8702707,-1.0019494,17z/data=!3m1!4b1!4m5!3m4!1s0x487444925222d409:0xa0733a6598ac67e5!8m2!3d50.8702673!4d-0.9997607" target="_blank">The Dickinson Centre</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box -->   
+<!--                  Event box -->    
 
 <!--                    Event Box  -->
               <div class="event-wrap">
@@ -86,6 +67,26 @@
                 <div class="bottom-wrap">
                   <div class="location-wrap"><a href="//www.google.com/maps/place/Park+Community+School/@50.8727051,-0.9867002,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
                   <div class="cost-wrap">12.50</div>
+                </div>
+              </div>
+<!--                  Event box -->
+
+
+<!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date">Half Term</p>
+                  <p class="event-time">Various</p>
+                </div>
+                <h2 class="event-title">Half Term Holiday Fun!</h2>
+                <p class="event-subheader">Half Term Events</p>
+                <p class="event-description">Various events running throughout Half Term including: Dance, Assault Course and Bouncy Castle, Soft Play, Basket Ball, Football and More...</p>
+                <div class="link-wrap">
+                  <a href="assets/events/half_term_flyer.pdf" target="_blank" class="button success radius">View our Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Varies</div>
                 </div>
               </div>
 <!--                  Event box -->
