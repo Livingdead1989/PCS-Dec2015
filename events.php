@@ -92,14 +92,14 @@
 <!--                  Event box -->
 
 <!--                    Event Box  -->
-              <div class="event-wrap feature-event sticky-event">
+              <div class="event-wrap">
                 <div class="date-wrap">
                   <p class="event-date">29th May - 1st June</p>
                   <p class="event-time">12:00-13:00</p>
                 </div>
                 <h2 class="event-title">MUNCH</h2>
-                <p class="event-subheader">Two course meal without charge for childing attending ANY school in Leigh Park. <br>Join us for Dinner on Thursdays - 17:30-18:30. <br><strong>Donations Welcome</strong></p>
-                <p class="event-description"></p>
+                <p class="event-subheader">Free Meals</p>
+                <p class="event-description">Two course meal without charge for childing attending ANY school in Leigh Park. <br>Join us for Dinner on Thursdays - 17:30-18:30. <br><strong>Donations Welcome</strong></p>
                 <div class="link-wrap">
                   <a href="assets/events/munch.pdf" target="_blank" class="button success radius">View our Flyer</a>
                 </div>
@@ -111,14 +111,14 @@
 <!--                  Event box -->
 
 <!--                    Event Box  -->
-              <div class="event-wrap feature-event sticky-event">
+              <div class="event-wrap">
                 <div class="date-wrap">
                   <p class="event-date">24th July - 31st August</p>
                   <p class="event-time">12:00-13:00</p>
                 </div>
                 <h2 class="event-title">MUNCH</h2>
-                <p class="event-subheader">Two course meal without charge for childing attending ANY school in Leigh Park. <br>Join us for Dinner on Thursdays - 17:30-18:30. <br><strong>Donations Welcome</strong></p>
-                <p class="event-description"></p>
+                <p class="event-subheader">Free Meals</p>
+                <p class="event-description">Two course meal without charge for childing attending ANY school in Leigh Park. <br>Join us for Dinner on Thursdays - 17:30-18:30. <br><strong>Donations Welcome</strong></p>
                 <div class="link-wrap">
                   <a href="assets/events/munch.pdf" target="_blank" class="button success radius">View our Flyer</a>
                 </div>
