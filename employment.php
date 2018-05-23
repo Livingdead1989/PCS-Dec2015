@@ -38,38 +38,21 @@
 			</li> -->
 
       <li>
-        <h4>Teacher of Science</h4>  
-        <p><em>Closing Date: Wed 23 May 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/science_teacher.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-      <li>
-        <h4>Teacher of Geography</h4>  
-        <p><em>Closing Date: Wed 23 May 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/geography_teacher.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-      <li>
-        <h4>Teacher of Dance/Drama</h4>  
-        <p><em>Closing Date: Wed 23 May 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/drama_teacher.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-      <li>
         <h4>Teaching Assistant</h4>  
         <p><em>Closing Date: Mon 4th June</em></p>
 
         <span class="subheader">
         <a href="assets/recruitment/teaching_assistant.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
+
+      <li>
+        <h4>Graphic Designer</h4>  
+        <p><em>Closing Date: Thurs 7th June</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/graphic_designer.pdf" target="_blank">Position Details</a>
         </span>
       </li>
 
