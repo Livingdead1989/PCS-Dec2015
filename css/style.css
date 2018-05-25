@@ -226,6 +226,28 @@ header h1, header h3, header p {
     text-shadow: 0 0 5px rgba(0, 0, 0, .37);
     top: -15px;
 }
+.gridtable tr,
+.gridtable td,
+.gridtable th {
+  border: 1px solid black;
+}
+.policies_list .policy-container {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #474747;
+}
+.policy-container p {
+  margin: 0;
+}
+.policy-container small {
+  color: #474747;
+}
+.policies_list a:hover .policy-container,
+.policies_list a:focus .policy-container{
+  background-color: #A3CD42;
+  color: black;
+}
 .menu-box img {
     height: 200px;
     width: 300px;

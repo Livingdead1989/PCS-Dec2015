@@ -26,43 +26,222 @@
         <div class="medium-12 columns">
         <p>Our policies are designed to create a safe and fair environment for all students. All our policies are freely available and transparent. By learning what is, and isn’t, allowed you can avoid unintentionally breaking the rules.</p>
         <br>
-            <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-            
-                <li>* Accessibility</li>
-                <li><a href="/assets/policies/administration-of-medicines.pdf" target="_blank">Administration of Medicines</a></li>
-                <li>Admissions<br>
-                    <a href="/assets/policies/admissions-2017-2018.pdf" target="_blank">2017-18</a> /
-                    <a href="/assets/policies/admissions-2018-2019.pdf" target="_blank">2018-19</a> /
-                    <a href="/assets/policies/admissions-2019-2020.pdf" target="_blank">2019-20</a></li>
-                <li><a href="/assets/policies/attendance.pdf" target="_blank">Attendance</a></li>
-            
-                <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour for Learning</a></li>
-            
-                <li><a href="/assets/policies/ceiag.pdf" target="_blank">Careers Education, Information, Advice and Guidance</a></li>
-                <li><a href="/assets/policies/charging-and-remissions.pdf" target="_blank">Charging and Remissions</a></li>
-                <li><a href="/assets/policies/child-protection.pdf" target="_blank">Child Protection</a></li>
-                <li><a href="/assets/policies/confidentiality.pdf" target="_blank">Confidentiality</a></li>
-            
-                <li><a href="/assets/policies/data-protection.pdf" target="_blank">Data Protection</a></li>
-                <li><a href="/assets/policies/dress-code-for-students.pdf" target="_blank">Dress Code for Students</a></li>
-            
-                <li><a href="/assets/policies/equality.pdf" target="_blank">Equality</a></li>
-            
-                <li>* Freedom of Information</li>
-            
-                <li><a href="/assets/policies/health-and-safety.pdf" target="_blank">Health and Safety</a></li>
-                <li><a href="/assets/policies/homework.pdf" target="_blank">Homework</a></li>
 
-                <li><a href="/assets/policies/prevention-of-radicalisation-and-extremism - jan-2016.pdf" target="_blank">Prevention of Radicalisation and Extremism</a></li>
+        <h3>General Policies</h3>
+        <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2 policies_list">
+            <!-- <li>
+                <a href="" target="_blank">
+                    <div class="policy-container">
+                        <p>Title</p>
+                        <p><small>Approved by Governors on: </small></p>
+                        <p><small>Expiration / Review / Review: </small></p>
+                    </div>
+                </a>
+            </li> -->
+
+            <li>
+                <a href="/assets/policies/administration-of-medicines.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Administration of Medicines</p>
+                        <p><small>Approved by Governors on: 04/05/2016</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/attendance.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Attendance</p>
+                        <p><small>Approved by Governors on: 21/05/2014</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Behaviour for Learning</p>
+                        <p><small>Approved by Governors on: 05/04/2017</small></p>
+                        <p><small>Expiration / Review: April 2018</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/ceiag.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Careers Education, Information, Advice and Guidance</p>
+                        <p><small>Approved by Governors on: 08/07/2015</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/charging-and-remissions.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Charging and Remissions</p>
+                        <p><small>Approved by Governors on: 01/02/2016</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/child-protection.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Child Protection</p>
+                        <p><small>Approved by Governors on: 22/11/2017</small></p>
+                        <p><small>Expiration / Review: September 2018</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/confidentiality.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Confidentiality</p>
+                        <p><small>Approved by Governors on: 13/09/2017</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/data-protection.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Data Protection</p>
+                        <p><small>Approved by Governors on: 02/12/2015</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/dress-code-for-students.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Dress Code for Students</p>
+                        <p><small>Approved by Governors on: 05/04/2017</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/equality.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Equality</p>
+                        <p><small>Approved by Governors on: 02/12/2015</small></p>
+                        <p><small>Expiration / Review: November 2018</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/health-and-safety.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Health and Safety</p>
+                        <p><small>Approved by Governors on: 16/03/2016</small></p>
+                        <p><small>Expiration / Review: November 2018</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/homework.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Homework</p>
+                        <p><small>Approved by Governors on: 14/09/2016</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/prevention-of-radicalisation-and-extremism.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Prevention of Radicalisation and Extremism</p>
+                        <p><small>Approved by Governors on: 20/01/2016</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/medical-conditions.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Supporting Students with Medical Conditions</p>
+                        <p><small>Approved by Governors on: 05/08/2017</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/studententitlementiag.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Student Entitlement in IAG</p>
+                        <p><small>Approved by Governors on: N/A</small></p>
+                        <p><small>Expiration / Review: N/A</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/safeguarding.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Safeguarding</p>
+                        <p><small>Approved by Governors on: 22/11/2017</small></p>
+                        <p><small>Expiration / Review: September 2018</small></p>
+                    </div>
+                </a>
+            </li>
+
+        </ul>
+
+
+        <h3>Admissions Policies</h3>
+        <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-3 policies_list">
+
+            <li>
+                <a href="/assets/policies/admissions-2017-2018.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>2017 - 2018</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/admissions-2018-2019.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>2018 - 2019</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/admissions-2019-2020.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>2019 - 2020</p>
+                    </div>
+                </a>
+            </li>
             
-                <li><a href="/assets/policies/medical-conditions.pdf" target="_blank">Supporting Students with Medical Conditions</a></li>
-                <li><a href="/assets/policies/studententitlementiag.pdf" target="_blank">Student Entitlement in IAG</a></li>
-                <li><a href="/assets/policies/safeguarding.pdf" target="_blank">Safeguarding</a></li>
-                <li>* Sex Education</li>
-            </ul>
-            <h5 class="subheader text-capitalize text-center"><small>Policies are available in downloadable PDF format</small></h5>
-            <h5 class="subheader text-capitalize text-center"><small>* Non-linked Policies please enquire at <a href="/contact.php">the school reception</a>.</small></h5>
-            <br>
+        </ul>
+
+        <h3>Non-linked Policies</h3>
+        <ul>
+            <li>Accessibility *</li>
+            <li>Sex Education *</li>
+            <li>Freedom of Information *</li>
+        </ul>
+
+
+        <h5 class="subheader text-capitalize text-center"><small>Policies are available in downloadable PDF format</small></h5>
+        <h5 class="subheader text-capitalize text-center"><small>* Non-linked Policies please enquire at <a href="/contact.php">the school reception</a>.</small></h5>
+        <br>
 
 
         </div>
