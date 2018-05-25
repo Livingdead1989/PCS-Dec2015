@@ -171,7 +171,7 @@
                 <li>
                     <div class="menu-box"><a href="/park-farm.php">
                             <img src="images/index/farm.jpg" alt="Park Community School Farm - Much More Than Just a School">
-                            <p>Our Farm</p>
+                            <p>Market Farm</p>
                         </a></div>
                 </li>
                 <li>
@@ -189,7 +189,7 @@
                 <li>
                     <div class="menu-box"><a href="/design-print.php">
                             <img src="images/index/unit.jpg" alt="Park Community Enterprises - Much More Than Just a School">
-                            <p>Design &amp; Print</p>
+                            <p>Park Design &amp; Print</p>
                         </a></div>
                 </li>
                 <li>
