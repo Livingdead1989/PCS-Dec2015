@@ -30,25 +30,25 @@
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
             	<li>
                     <ul class="circle">Summer 2018
-                      <li><a href="assets/assemblies/2018-summer/smsc1.pdf" target="_blank">My Future</a></li>
-                      <li><a href="assets/assemblies/2018-summer/smsc2.pdf" target="_blank">Preparing for Success</a></li>
+                      <li><a href="assets/assemblies/2018-summer/smsc1.pdf" target="_blank">My Future <small>SMSC1</small></a></li>
+                      <li><a href="assets/assemblies/2018-summer/smsc2.pdf" target="_blank">Preparing for Success <small>SMSC2</small></a></li>
                     </ul>
                 </li>
                 <li>
 					<ul class="circle">Spring 2018
-					  <li><a href="assets/assemblies/2018-spring/smsc1.pdf" target="_blank">Doing the Right Thing</a></li>
-                      <li><a href="assets/assemblies/2018-spring/smsc2.pdf" target="_blank">Staying Safe</a></li>
+					  <li><a href="assets/assemblies/2018-spring/smsc1.pdf" target="_blank">Doing the Right Thing <small>SMSC1</small></a></li>
+                      <li><a href="assets/assemblies/2018-spring/smsc2.pdf" target="_blank">Staying Safe <small>SMSC2</small></a></li>
 					</ul>
 				</li>
             	<li>
 					<ul class="circle">Autumn 2017
-					  <li><a href="assets/assemblies/2017-autumn/smsc1.pdf" target="_blank">New Beginnings &amp; Good Choices</a></li>
+					  <li><a href="assets/assemblies/2017-autumn/smsc1.pdf" target="_blank">New Beginnings &amp; Good Choices <small>SMSC1</small></a></li>
 					</ul>
 				</li>
 				<li>
 					<ul class="circle">Summer 2017
-					  <li><a href="assets/assemblies/2017-summer/smsc2.pdf" target="_blank">Industrious, Tenacity, Resilient and Confident</a></li>
-					  <li><a href="assets/assemblies/2017-summer/smsc1.pdf" target="_blank">Mistakes, Tenacity, Resilience and Confidence</a></li>
+                        <li><a href="assets/assemblies/2017-summer/smsc1.pdf" target="_blank">Mistakes, Tenacity, Resilience and Confidence <small>SMSC1</small></a></li>
+					   <li><a href="assets/assemblies/2017-summer/smsc2.pdf" target="_blank">Industrious, Tenacity, Resilient and Confident <small>SMSC2</small></a></li>
 					</ul>
 				</li>
 				<li>
