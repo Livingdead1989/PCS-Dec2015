@@ -31,6 +31,7 @@
             	<li>
                     <ul class="circle">Summer 2018
                       <li><a href="assets/assemblies/2018-summer/smsc1.pdf" target="_blank">My Future</a></li>
+                      <li><a href="assets/assemblies/2018-summer/smsc2.pdf" target="_blank">Preparing for Success</a></li>
                     </ul>
                 </li>
                 <li>
