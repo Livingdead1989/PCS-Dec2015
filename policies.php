@@ -199,6 +199,26 @@
                 </a>
             </li>
 
+            <li>
+                <a href="/assets/statutory/send-policy.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>SEND Policy</p>
+                        <p><small>Approved by Governors on: 14/03/2018</small></p>
+                        <p><small>Expiration / Review: March 2019</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/statutory/send-information-report.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>SEND Information Report</p>
+                        <p><small>Approved by Governors on: 14/03/2018</small></p>
+                        <p><small>Expiration / Review: March 2019</small></p>
+                    </div>
+                </a>
+            </li>
+
         </ul>
 
 
