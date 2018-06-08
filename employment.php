@@ -38,17 +38,6 @@
 			</li> -->
 
       <li>
-        <h4>Graphic Designer</h4>  
-        <p><em>Closing Date: Thurs 7th June</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/graphic_designer.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-      <hr>
-
-      <li>
         <h4>Clerk to Governors</h4>  
         <p><em>Closing Date: Mon 2nd July</em></p>
 
