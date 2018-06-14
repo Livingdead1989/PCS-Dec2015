@@ -46,6 +46,17 @@
         </span>
       </li>
 
+      <hr>
+
+      <li>
+        <h4>Computer Science Teacher</h4>  
+        <p><em>Closing Date: Fri 22nd June</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/computer_science_teacher.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
 
 	       <!--  <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
 
