@@ -53,8 +53,8 @@
                 <a href="/assets/policies/attendance.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Attendance</p>
-                        <p><small>Approved by Governors on: 21/05/2014</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
+                        <p><small>Approved by Governors on: 23/05/2018</small></p>
+                        <p><small>Expiration / Review: May 2019</small></p>
                     </div>
                 </a>
             </li>
