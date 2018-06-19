@@ -27,7 +27,7 @@
             
             <h2>Our aims are expressed through the following principles:</h2>
 
-            <p>At Park we aim to be at each child's side every step of the way, guiding them as their character develops and as they make their own discoveries about what they love and may one day love to do. Through our main school site and three additional facilities, away from school, we provide pupils with a range of extra opportunities to raise their aspirations and ensure they are very well prepared for adult life. We are always looking for adults to help us find new ways to work with young people and the local community.</p>
+            <p>At Park Community School we assess your child regularly in lessons to allow us to monitor their progress in relation to what we would expect them to achieve. We then adjust our lesson planning or implement interventions to ensure they are making suitable progress.</p>
             
             <br>
             <h3>We have 5 ways of expressing our work:</h3>
@@ -120,19 +120,23 @@
             <p>The Student Review Days take place on the first day of the academic year and just before the February half-term holiday. These are opportunities to meet to discuss your child’s targets with his/her mentor. It is also an opportunity to discuss how, together, we can better support his/her progress.</p>
 
             <br>
-            <h3>There will be one traditional Parents’ Evening per year</h3>
+            <h3>There will be one traditional Parents’ Evening per year.</h3>
             <p>The traditional Parents’ Evening is your opportunity to discuss your child’s progress with their subject teachers.</p>
             <p>We also hold additional evenings for parents on specific topics such as how to support your child to achieve success in their examination courses. These evenings usually include a combination of presentations and master-classes.</p>
 
             <br>
-            <h3>We will report home to parents five times of year</h3>
+            <h3>We will report home to parents five times of year.</h3>
             <p>Once a year there will be a full written report which gives an overview from each subject teacher including: a) what has been studied b) how well your son/daughter is doing and c) what they need to do to make further progress.</p>
             <p>Each other reporting session will be a data report which will include the following information:</p>
             <ul>
-                <li><strong>School projection:</strong> This is what we expect your child to achieve. In Year 11 this is 1.0 to 9.9 or G3 to A*1 depending on the GCSE subject. BTECs are graded using Pass, Merit, Distinction and Distinction*.</li>
-                <li><strong>Teacher Projection:</strong> This is the teacher’s professional judgement of what your child is likely to achieve. They have assumed that your child will continue to work as they are at present. It is based on a combination of information, including mock exams, class work and coursework where appropriate. In Year 11 this is G3 to A*1 for all GCSE subjects except English and Maths which are 1 to 9.</li>
-                <li><strong>Test Score:</strong> This is the score your child has achieved on their most recent mock exam or multiple-choice test. In years 7-9 this is a score out of 79. In years 10 and 11 the percentage reported is a percentage out of the total marks available in all exams they will sit in this subject. It may be low earlier in the course and increase as they get closer to the final exams. If this space is blank, your child has not had a mock exam in the subject this half term.</li>
-                <li><strong>Overall Attitude to Learning (OATL):</strong>  This is a score from -4 up to 12 which shows how well your child is working.</li>
+                <li><strong>School projection:</strong> For years 9 to 11 this is what we expect your child to achieve. For GCSEs this is a grade 9-1. BTECs and other vocational course are graded using Pass, Merit, Distinction and Distinction*. For years 7 and 8 we report whether students are Working Towards [WT] age related expectations, are at Age Related Expectations [ARE] or are working At Greater Depth [AGD].</li>
+
+                <li><strong>Teacher Projection:</strong> For years 9 to 11 this is the teacher’s professional judgement of what your child is likely to achieve. They have assumed that your child will continue to work as they are at present. It is based on a combination of information, including mock exams, class work and coursework where appropriate. For GCSEs this is a grade 9-1. BTECs and other vocational course are graded using Pass, Merit, Distinction and Distinction*. For years 7 and 8 we report whether students are Working Towards [WT] age related expectations, are at Age Related Expectations [ARE] or are working At Greater Depth [AGD].</li>
+
+                <li><strong>Test Score:</strong> For Years 7-9, this is the score your child has achieved on their most recent multiple-choice test. For years 10 and 11 the percentage reported is based on their most recent mock exam and is a percentage out of the total marks available over all of the papers they will sit in each subject. The percentage score may therefore be low earlier in the course and increase as they get closer to the final exams. If this space is blank, your child has not had a mock exam in the subject this half term.</li>
+
+                <li><strong>Overall Attitude to Learning (OATL):</strong> This is a score from -4 up to 12 which shows how well your child is working.</li>
+
                 <li><strong>Homework:</strong> This is also a score from -4 up to 12 reflecting your child’s commitment to completing their homework at a high standard.</li>
             </ul>
 
