@@ -6,934 +6,942 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://pcs.hants.sch.uk/</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/index.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/index.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/contact.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/contact.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/news.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/news.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/events.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/events.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/governors.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/governors.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/employment.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/employment.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/studentRecruitment.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/studentrecruitment.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/policies.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/policies.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/statutory.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/statutory.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/statutory/Ofsted-Report-2017.pdf</loc>
-  <lastmod>2017-02-14T15:17:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/statutory/ofsted-report-2017.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/curriculum.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/curriculum.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/homework.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/homework.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assemblies.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assemblies.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/time-tabling.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/time-tabling.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/prospectus.pdf</loc>
-  <lastmod>2016-09-14T14:48:08+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/careers.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/admissions.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/prospectus.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/letters-home.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/admissions.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/catering.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/letters-home.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/trips.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/catering.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/uniform.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/trips.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/forms.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/uniform.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/services.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/forms.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/dickinson-centre.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/parent-partnership.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/community-services.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/dickinson-centre.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/scitt.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/community-services.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/suite.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/scitt.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/nursery.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/suite.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/design-print.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/nursery.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/park-farm.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/munch.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/apex-centre.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/garden.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/park-enterprises.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/design-print.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/ventures.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/park-farm.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue13-Oct2017.pdf</loc>
-  <lastmod>2017-10-25T08:37:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/apex-centre.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/park-enterprises.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/services.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/ventures.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue16-apr2018.pdf</loc>
+  <lastmod>2018-05-17T12:48:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue15-feb2018.pdf</loc>
+  <lastmod>2018-05-17T12:48:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue14-dec2017.pdf</loc>
+  <lastmod>2018-01-18T12:01:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/park-archive.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/news/primarylink/issue3-summer2016.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/news/primarylink/issue2-spring2016.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/news/primarylink/issue1-autumn2015.pdf</loc>
+  <lastmod>2018-01-10T13:15:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/bbcnewsday.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/events/munch.pdf</loc>
+  <lastmod>2018-05-21T08:07:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/governors/governors-report.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/governors/governors-attendance.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue12-Jul2017.pdf</loc>
-  <lastmod>2017-08-10T07:40:00+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/recruitment/clerk_to_governors.pdf</loc>
+  <lastmod>2018-06-04T14:02:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue11-Jun2017.pdf</loc>
-  <lastmod>2017-08-10T07:39:59+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/recruitment/computer_science_teacher.pdf</loc>
+  <lastmod>2018-06-14T07:42:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/park-archive.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/recruitment/documentation/applicant-information.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/primaryLink/Issue3-Summer2016.pdf</loc>
-  <lastmod>2016-09-12T11:09:54+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/recruitment/documentation/staff-dress-code.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/primaryLink/Issue2-Spring2016.pdf</loc>
-  <lastmod>2016-09-12T11:09:54+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/recruitment/documentation/privacy-statement.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/primaryLink/Issue1-Autumn2015.pdf</loc>
-  <lastmod>2016-09-12T11:09:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/recruitment/documentation/equalities-form.doc</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/bbcnewsday.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/recruitment/documentation/teaching-application-form.doc</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/events/munch.pdf</loc>
-  <lastmod>2017-10-10T09:14:04+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/recruitment/documentation/support-application-form.doc</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/events/80snight.pdf</loc>
-  <lastmod>2017-10-12T13:00:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/studentrecruitment/documentation/application-form.docx</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/events/bugsy.pdf</loc>
-  <lastmod>2017-10-12T12:56:46+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/administration-of-medicines.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/events/christmas_lunch.pdf</loc>
-  <lastmod>2017-10-25T08:03:21+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/attendance.pdf</loc>
+  <lastmod>2018-06-18T09:10:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/governors/governors-report.pdf</loc>
-  <lastmod>2016-10-12T11:49:42+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/behaviour-for-learning.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/governors/governors-attendance.pdf</loc>
-  <lastmod>2017-09-08T08:12:35+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/ceiag.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/recruitment/math_teacher.pdf</loc>
-  <lastmod>2017-10-13T08:36:01+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/charging-and-remissions.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/recruitment/clerk_to_governors.pdf</loc>
-  <lastmod>2017-10-03T08:16:52+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/child-protection.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/recruitment/documentation/applicant-information.pdf</loc>
-  <lastmod>2016-09-21T09:40:08+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/confidentiality.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/recruitment/documentation/staff-dress-code.pdf</loc>
-  <lastmod>2016-09-08T08:36:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/data-protection.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/recruitment/documentation/privacy-statement.pdf</loc>
-  <lastmod>2016-09-20T09:33:02+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/dress-code-for-students.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/recruitment/documentation/equalities-form.doc</loc>
-  <lastmod>2017-10-03T08:20:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/equality.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/recruitment/documentation/teaching-application-form.doc</loc>
-  <lastmod>2017-10-03T08:15:55+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/health-and-safety.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/recruitment/documentation/support-application-form.doc</loc>
-  <lastmod>2017-10-03T08:16:21+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/homework.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/studentRecruitment/documentation/application-form.docx</loc>
-  <lastmod>2016-09-08T08:36:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/prevention-of-radicalisation-and-extremism.pdf</loc>
+  <lastmod>2018-05-25T09:46:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/admissions-2017-2018.pdf</loc>
-  <lastmod>2016-09-08T08:36:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/medical-conditions.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/admissions-2018-2019.pdf</loc>
-  <lastmod>2017-03-10T08:21:07+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/studententitlementiag.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/attendance.pdf</loc>
-  <lastmod>2016-09-08T08:36:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/safeguarding.pdf</loc>
+  <lastmod>2018-01-18T12:01:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/behaviour-for-learning.pdf</loc>
-  <lastmod>2017-04-07T09:48:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/statutory/send-policy.pdf</loc>
+  <lastmod>2018-06-05T13:35:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/CEIAG.pdf</loc>
-  <lastmod>2016-12-12T10:43:00+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/statutory/send-information-report.pdf</loc>
+  <lastmod>2018-06-05T14:55:46+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/StudentEntitlementIAG.pdf</loc>
-  <lastmod>2017-04-28T12:14:03+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/admissions-2017-2018.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/charging-and-remissions.pdf</loc>
-  <lastmod>2016-09-20T09:33:02+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/admissions-2018-2019.pdf</loc>
+  <lastmod>2018-01-10T13:16:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/child-protection.pdf</loc>
-  <lastmod>2016-09-20T09:33:02+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/policies/admissions-2019-2020.pdf</loc>
+  <lastmod>2018-03-12T15:36:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/confidentiality.pdf</loc>
-  <lastmod>2017-09-22T09:32:36+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/statutory/ks4-results.pdf</loc>
+  <lastmod>2018-03-14T07:46:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/data-protection.pdf</loc>
-  <lastmod>2016-09-20T09:33:02+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/pupil-premium.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/dress-code-for-students.pdf</loc>
-  <lastmod>2017-07-03T07:47:25+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/statutory/ethos-values.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/equality.pdf</loc>
-  <lastmod>2016-09-20T09:33:02+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/statutory/complaints_procedure.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/Health-and-Safety.pdf</loc>
-  <lastmod>2016-09-08T08:36:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/statutory/leaver-destinations.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/Homework.pdf</loc>
-  <lastmod>2016-09-20T09:33:02+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/art.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/Administration-of-Medicines.pdf</loc>
-  <lastmod>2016-09-26T13:03:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/dance.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/medical-conditions.pdf</loc>
-  <lastmod>2017-07-17T08:18:44+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/drama.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/Prevention-of-Radicalisation-and-Extremism%20-%20Jan-2016.pdf</loc>
-  <lastmod>2016-09-08T08:36:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/media.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/policies/safeguarding.pdf</loc>
-  <lastmod>2016-09-20T09:33:02+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/music.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/statutory/ofsted-report-2017.pdf</loc>
-  <lastmod>2017-02-14T15:17:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/photography.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/statutory/ks4-results.pdf</loc>
-  <lastmod>2016-10-10T08:42:16+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/english.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/pupil-premium.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/mathematics.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/statutory/SEND-Information-Report.pdf</loc>
-  <lastmod>2016-10-11T10:55:58+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/science.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/statutory/send-policy.pdf</loc>
-  <lastmod>2016-10-11T10:55:58+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/geography.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/statutory/ethos-values.pdf</loc>
-  <lastmod>2016-09-08T08:36:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/history.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/statutory/Complaints_Procedure.pdf</loc>
-  <lastmod>2016-09-30T13:44:37+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/horticulture.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/statutory/Leaver-Destinations.pdf</loc>
-  <lastmod>2017-01-24T10:18:16+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/religious-education.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/art.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/modern-foreign-languages.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/dance.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/computer-science.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/drama.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/technology.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/media.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/rrr-iag.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/music.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/smsc.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/photography.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/pe.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/english.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/psychology.php</loc>
+  <lastmod>2018-06-19T09:10:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/mathematics.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/curriculum/options_booklet.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/science.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/homework/homework-timetable.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/geography.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/assemblies/2018-summer/smsc1.pdf</loc>
+  <lastmod>2018-03-29T08:55:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/history.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/assemblies/2018-summer/smsc2.pdf</loc>
+  <lastmod>2018-06-04T07:33:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/horticulture.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/assemblies/2018-spring/smsc1.pdf</loc>
+  <lastmod>2018-01-10T13:15:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/religious-education.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/assemblies/2018-spring/smsc2.pdf</loc>
+  <lastmod>2018-03-08T13:29:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/modern-foreign-languages.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/assemblies/2017-autumn/smsc1.pdf</loc>
+  <lastmod>2018-01-10T13:15:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/computer-science.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/assemblies/2017-summer/smsc1.pdf</loc>
+  <lastmod>2018-01-10T13:15:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/technology.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/assemblies/2017-summer/smsc2.pdf</loc>
+  <lastmod>2018-01-10T13:15:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/rrr-iag.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/assemblies/2017-spring/smsc1.pdf</loc>
+  <lastmod>2018-01-10T13:15:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/smsc.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/assemblies/2017-spring/smsc2.pdf</loc>
+  <lastmod>2018-01-10T13:15:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/pe.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/timetabling/school-calendar.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/psychology.php</loc>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/timetabling/school-day.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/curriculum/yr8-options.pdf</loc>
-  <lastmod>2016-11-21T15:52:20+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/timetabling/easter_studyclubs.pdf</loc>
+  <lastmod>2018-03-16T13:56:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/homework/homework-timetable.pdf</loc>
-  <lastmod>2016-09-16T14:20:57+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/moving-up.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/assemblies/autumn-2017/SMSC1.pdf</loc>
-  <lastmod>2017-07-25T08:35:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2018-04/assessment_reports_park_post_yr11_and_10_gcse_exams_summer_uniform.pdf</loc>
+  <lastmod>2018-04-11T07:50:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/assemblies/summer-2017/SMSC2.pdf</loc>
-  <lastmod>2017-05-26T14:46:13+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2018-03/yr11_parentevening.pdf</loc>
+  <lastmod>2018-03-16T13:56:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/assemblies/summer-2017/SMSC1.pdf</loc>
-  <lastmod>2017-04-07T09:48:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-12/holiday_requests_term_time.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/assemblies/spring-2017/SMSC1.pdf</loc>
-  <lastmod>2016-12-02T09:16:45+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-12/ka2_reports_keydates_springterm.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/assemblies/spring-2017/SMSC2.pdf</loc>
-  <lastmod>2017-02-20T09:06:08+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-12/yr10_workexperience_summer2018.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/assemblies/autumn-2016/SMSC2.pdf</loc>
-  <lastmod>2016-10-24T11:46:54+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-10/y7y11parentevening_9november.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/assemblies/autumn-2016/SMSC.pdf</loc>
-  <lastmod>2016-09-08T08:36:50+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-10/y10attendance_punctuality.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/timetabling/school-calendar.pdf</loc>
-  <lastmod>2017-07-13T11:05:24+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-10/sitesecurity_lockdowndrills.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/timetabling/school-day.pdf</loc>
-  <lastmod>2017-02-15T15:03:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-10/socialmedia_mobilephones_bullying.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/moving-up.pdf</loc>
-  <lastmod>2017-07-11T13:55:31+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-10/jointstatement_mobilephones.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-10/y7y11parentevening_9november.pdf</loc>
-  <lastmod>2017-10-25T08:44:38+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-10/jointstatement_relationalconflict_bullying.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-10/y10attendance_punctuality.pdf</loc>
-  <lastmod>2017-10-25T08:44:38+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-09/yr11_parents_evening.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-10/sitesecurity_lockdowndrills.pdf</loc>
-  <lastmod>2017-10-25T08:44:38+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-07/crazy_hair_week-end_start_of_term-blazers.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-10/socialmedia_mobilephones_bullying.pdf</loc>
-  <lastmod>2017-10-25T08:44:38+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-06/key_events_to_end_of_academic_year.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-10/jointstatement_mobilephones.pdf</loc>
-  <lastmod>2017-10-25T08:44:38+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-06/discount_week_information.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-10/jointstatement_relationalconflict_bullying.pdf</loc>
-  <lastmod>2017-10-25T08:44:38+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-06/yr11-leavers-2017.pdf</loc>
+  <lastmod>2018-01-10T13:15:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-09/yr11_parents_evening.pdf</loc>
-  <lastmod>2017-09-18T07:32:01+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-05/yr11_exams.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-07/crazy_hair_week-end_start_of_term-blazers.pdf</loc>
-  <lastmod>2017-07-13T11:04:59+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-05/blazer.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-06/key_events_to_end_of_academic_year.pdf</loc>
-  <lastmod>2017-06-22T09:50:16+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-04/raceatourplace-y11y10exams-uniform-absencenotification.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-06/Discount_Week_Information.pdf</loc>
-  <lastmod>2017-06-05T09:18:55+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-04/ka4reports-insetday10july2017.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-06/yr11-leavers-2017.pdf</loc>
-  <lastmod>2017-06-15T10:00:08+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-02/esafety.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-05/yr11_exams.pdf</loc>
-  <lastmod>2017-05-23T14:27:16+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-02/statement-from-the-governing-bodies-and-headteachers-of-havant-federation-of-secondary-schools.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-05/Blazer.pdf</loc>
-  <lastmod>2017-06-05T10:08:24+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-02/ofsted-school-meal-price-increase.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-04/RaceatOurPlace-Y11Y10exams-uniform-absenceNotification.pdf</loc>
-  <lastmod>2017-04-03T12:30:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/letters/2017-02/y11-mocks-provisional-exam-timetable-and-the-prom.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-04/KA4Reports-InsetDay10July2017.pdf</loc>
-  <lastmod>2017-04-07T09:48:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/schoolmeals/menu.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-02/ESafety.pdf</loc>
-  <lastmod>2017-03-01T15:34:44+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/forms/consentform-images-biometrics-internet-schooltrips.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-02/Statement-from-the-Governing-Bodies-and-Headteachers-of-Havant-Federation-of-Secondary-Schools.pdf</loc>
-  <lastmod>2017-03-01T15:34:44+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/forms/educational-visit-info-inc-consent.doc</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-02/Ofsted-School-Meal-price-increase.pdf</loc>
-  <lastmod>2017-03-01T15:34:44+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/forms/free-school-meals-application.doc</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/letters/2017-02/Y11-mocks-provisional-exam-timetable-and-the-Prom.pdf</loc>
-  <lastmod>2017-03-01T15:34:44+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/forms/out-round-application-inc-guidance.docx</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/schoolmeals/menu.pdf</loc>
-  <lastmod>2017-07-17T08:49:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/forms/parental-consent-policy.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/forms/ConsentForm-Images-Biometrics-Internet-SchoolTrips.pdf</loc>
-  <lastmod>2016-09-08T08:36:50+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/forms/leave_of_absence_request.doc</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/forms/Educational-Visit-Info-Inc-Consent.doc</loc>
-  <lastmod>2016-09-08T08:36:50+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/forms/application_form_to_request_absence.doc</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/forms/Free-School-Meals-Application.doc</loc>
-  <lastmod>2016-09-08T08:36:50+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/community/price_list.pdf</loc>
+  <lastmod>2018-04-03T08:57:26+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/forms/Out-Round-Application-Inc-Guidance.docx</loc>
-  <lastmod>2016-09-08T08:36:50+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/community/partyleaflet.pdf</loc>
+  <lastmod>2018-04-03T08:57:26+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/forms/Parental-Consent-Policy.pdf</loc>
-  <lastmod>2016-09-08T08:36:50+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/community/advertisingflyer.pdf</loc>
+  <lastmod>2018-01-10T13:15:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/community/price_list.pdf</loc>
-  <lastmod>2017-07-24T13:27:46+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/munch_review.pdf</loc>
+  <lastmod>2018-03-08T14:26:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/community/PartyLeaflet.pdf</loc>
-  <lastmod>2017-07-19T10:38:10+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/garden/2018-01.pdf</loc>
+  <lastmod>2018-02-01T12:55:46+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/community/AdvertisingFlyer.pdf</loc>
-  <lastmod>2017-03-13T10:28:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/garden/2018-03.pdf</loc>
+  <lastmod>2018-03-14T12:15:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue10-Apr2017.pdf</loc>
-  <lastmod>2017-06-02T10:38:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue13-oct2017.pdf</loc>
+  <lastmod>2018-01-10T13:15:58+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue09-Feb2017.pdf</loc>
-  <lastmod>2017-06-02T10:38:53+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue12-jul2017.pdf</loc>
+  <lastmod>2018-01-10T13:15:58+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue08-Dec2016.pdf</loc>
-  <lastmod>2017-01-09T09:05:21+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue11-jun2017.pdf</loc>
+  <lastmod>2018-01-10T13:15:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue07-Oct2016.pdf</loc>
-  <lastmod>2017-01-09T09:05:21+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue10-apr2017.pdf</loc>
+  <lastmod>2018-01-10T13:15:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue06-Jul2016.pdf</loc>
-  <lastmod>2016-09-09T14:06:55+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue09-feb2017.pdf</loc>
+  <lastmod>2018-01-10T13:15:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue05-Jun2016.pdf</loc>
-  <lastmod>2016-09-09T14:06:51+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue08-dec2016.pdf</loc>
+  <lastmod>2018-01-10T13:15:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue04-May2016.pdf</loc>
-  <lastmod>2016-09-09T14:06:48+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue07-oct2016.pdf</loc>
+  <lastmod>2018-01-10T13:15:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue03-Apr2016.pdf</loc>
-  <lastmod>2016-09-08T08:36:51+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue06-jul2016.pdf</loc>
+  <lastmod>2018-01-10T13:15:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue02-Dec2015.pdf</loc>
-  <lastmod>2016-09-08T08:36:51+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue05-jun2016.pdf</loc>
+  <lastmod>2018-01-10T13:15:56+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue01-Oct2015.pdf</loc>
-  <lastmod>2016-09-08T08:36:51+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue04-may2016.pdf</loc>
+  <lastmod>2018-01-10T13:15:56+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue19-2015.pdf</loc>
-  <lastmod>2016-09-08T08:36:52+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue03-apr2016.pdf</loc>
+  <lastmod>2018-01-10T13:15:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue18-2013.pdf</loc>
-  <lastmod>2016-09-08T08:36:52+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue02-dec2015.pdf</loc>
+  <lastmod>2018-01-10T13:15:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue17-2013.pdf</loc>
-  <lastmod>2016-09-08T08:36:52+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue01-oct2015.pdf</loc>
+  <lastmod>2018-01-10T13:15:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue16-2013.pdf</loc>
-  <lastmod>2016-09-08T08:36:52+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue19-2015.pdf</loc>
+  <lastmod>2018-01-10T13:15:59+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue15-2012.pdf</loc>
-  <lastmod>2016-09-08T08:36:52+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue18-2013.pdf</loc>
+  <lastmod>2018-01-10T13:15:59+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue14-2011.pdf</loc>
-  <lastmod>2016-09-08T08:36:52+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue17-2013.pdf</loc>
+  <lastmod>2018-01-10T13:15:59+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue13-2011.pdf</loc>
-  <lastmod>2016-09-08T08:36:51+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue16-2013.pdf</loc>
+  <lastmod>2018-01-10T13:15:59+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue12-2011.pdf</loc>
-  <lastmod>2016-09-08T08:36:51+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue15-2012.pdf</loc>
+  <lastmod>2018-01-10T13:15:58+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue11-2010.pdf</loc>
-  <lastmod>2016-09-08T08:36:51+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue14-2011.pdf</loc>
+  <lastmod>2018-01-10T13:15:58+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/news/parkPost/Issue10-2010.pdf</loc>
-  <lastmod>2016-09-08T08:36:51+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue13-2011.pdf</loc>
+  <lastmod>2018-01-10T13:15:58+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/curriculum/Curriculum-Roadmap.pdf</loc>
-  <lastmod>2017-06-20T08:14:07+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue12-2011.pdf</loc>
+  <lastmod>2018-01-10T13:15:58+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://pcs.hants.sch.uk/assets/curriculum/smsc.pdf</loc>
-  <lastmod>2016-11-23T09:57:25+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue11-2010.pdf</loc>
+  <lastmod>2018-01-10T13:15:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/news/parkpost/issue10-2010.pdf</loc>
+  <lastmod>2018-01-10T13:15:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/pupilpremium/qa-pp-adopted-children.pdf</loc>
+  <lastmod>2018-01-10T13:16:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/curriculum/drama/revision_booklet.pdf</loc>
+  <lastmod>2018-02-21T14:05:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/curriculum/drama/key_definitions.pdf</loc>
+  <lastmod>2018-02-21T14:05:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/curriculum/drama/teechers_pack.pdf</loc>
+  <lastmod>2018-02-21T14:05:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/curriculum/science/ks3_curriculummap.pdf</loc>
+  <lastmod>2018-03-14T09:24:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/curriculum/science/terms_chemistry.pdf</loc>
+  <lastmod>2018-03-14T09:24:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/curriculum/science/terms_biology.pdf</loc>
+  <lastmod>2018-03-14T09:24:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pcs.hants.sch.uk/assets/curriculum/smsc.pdf</loc>
+  <lastmod>2018-01-10T13:15:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
