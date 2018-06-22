@@ -99,11 +99,11 @@
 
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                         <div class="homepage-slider">
-                            <div><img src="images/events/race_at_our_place/2018/race_at_our_place_1.jpg" alt="Race at Our Place 2018"></div>
-                            <div><img src="images/events/race_at_our_place/2018/race_at_our_place_2.jpg" alt="Race at Our Place 2018"></div>
-                            <div><img src="images/events/race_at_our_place/2018/race_at_our_place_3.jpg" alt="Race at Our Place 2018"></div>
+                            <div><img src="images/events/balloon_release/1.jpg" alt="Year 11 Balloon Release 2018"></div>
+                            <div><img src="images/events/balloon_release/2.jpg" alt="Year 11 Balloon Release 2018"></div>
+                            <div><img src="images/events/balloon_release/3.jpg" alt="Year 11 Balloon Release 2018"></div>
                         </div>
-                        <p class="subheader text-center">Race at Our Place 2018</p>
+                        <p class="subheader text-center">Year 11 Balloon Release</p>
                     </div>
                     
                     <br>
