@@ -38,22 +38,22 @@
 			</li> -->
 
       <li>
-        <h4>Clerk to Governors</h4>  
-        <p><em>Closing Date: Mon 2nd July</em></p>
+        <h4>Site Assistant</h4>  
+        <p><em>Closing Date: Wed 11th July</em></p>
 
         <span class="subheader">
-        <a href="assets/recruitment/clerk_to_governors.pdf" target="_blank">Position Details</a>
+        <a href="assets/recruitment/site_assistant.pdf" target="_blank">Position Details</a>
         </span>
       </li>
 
       <hr>
 
       <li>
-        <h4>Computer Science Teacher</h4>  
-        <p><em>Closing Date: Fri 22nd June</em></p>
+        <h4>Clerk to Governors</h4>  
+        <p><em>Closing Date: Mon 2nd July</em></p>
 
         <span class="subheader">
-        <a href="assets/recruitment/computer_science_teacher.pdf" target="_blank">Position Details</a>
+        <a href="assets/recruitment/clerk_to_governors.pdf" target="_blank">Position Details</a>
         </span>
       </li>
 
