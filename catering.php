@@ -102,6 +102,25 @@
            
     </div>
     <br><br>
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+            <h4>Local &amp; Organic Food</h4>
+            <p>From summer 2016 Park Community School kitchens are now using seasonal, local and organic produce.</p>
+
+            <h4>Our Suppliers</h4>
+            <ul>
+              <li><a href="//www.tuppennybarn.co.uk/" target="_blank">Tuppenny Barn</a> - Fruit and Vegetables.</li>
+              <li><a href="//www.goodwood.com/estate/home-farm/" target="_blank">Goodwood Home Farm</a> - Dairy Products.</li>
+              <li><a href="//www.shipton-mill.com/" target="_blank">Shipton Mill</a> - Flour.</li>
+            </ul>
+
+            
+
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/organic-standards.jpg" alt="Park Community School using local and organic produce in their school menu."></div>
+           
+    </div>
+    <br><br>
 </section>
 
 <section class="grey-bg">
