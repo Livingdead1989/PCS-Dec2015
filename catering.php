@@ -98,7 +98,9 @@
                 <li>
                     <img style="max-height: 320px;" src="images/schoolmeals/educatering-2016.jpg" alt="Park Community School Educatering Excellence Awards - Newcomer of the Year">
                 </li>
-
+                <li>
+                    <img style="max-height: 320px;" src="images/schoolmeals/educatering.jpg" alt="Educatering Magazine">
+                </li>
                 <li>
                     <img style="max-height: 320px;" src="images/schoolmeals/educatering-2017.jpg" alt="Park Community School Educatering Excellence Awards - Secondary School Caterer of the Year">
                 </li>
