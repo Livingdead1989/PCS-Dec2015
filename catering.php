@@ -96,13 +96,13 @@
             
             <ul class="text-center small-block-grid-1 medium-block-grid-2">
                 <li>
-                    <img style="max-height: 320px;" src="images/schoolmeals/educatering-2016.jpg" alt="Park Community School Educatering Excellence Awards - Newcomer of the Year">
+                    <img style="max-height: 220px;" src="images/schoolmeals/educatering-2016.jpg" alt="Park Community School Educatering Excellence Awards - Newcomer of the Year">
                 </li>
                 <li>
-                    <img style="max-height: 320px;" src="images/schoolmeals/educatering.jpg" alt="Educatering Magazine">
+                    <img style="max-height: 220px;" src="images/schoolmeals/educatering.jpg" alt="Educatering Magazine">
                 </li>
                 <li>
-                    <img style="max-height: 320px;" src="images/schoolmeals/educatering-2017.jpg" alt="Park Community School Educatering Excellence Awards - Secondary School Caterer of the Year">
+                    <img style="max-height: 220px;" src="images/schoolmeals/educatering-2017.jpg" alt="Park Community School Educatering Excellence Awards - Secondary School Caterer of the Year">
                 </li>
             </ul>
 
