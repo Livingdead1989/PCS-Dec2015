@@ -75,6 +75,35 @@
     <br><br>
 </section>
 
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
+            <h4>Park Porkies</h4>
+            <p>Park Community School have developed its own Pork based product which are now used in school and sold to external customers.</p>
+
+            <h4>Products</h4>
+            <ul>
+              <li></li>
+              <li></li>
+              <li></li>
+
+            <h4>Park Bakery </h4>
+            <p>The school kitchen team are highly skilled and have now started a daily bakery which offer students and staff the opportunity to buy fresh bread daily we sell a wide range of products from Focaccia, Sour Dough and White Loafs to Scones and Cakes.</p>
+
+            <h4>Park Eggs</h4>
+            <p>We now have a wide variety of bird on the school site and sell there aggs to the staff, students and public we currently sell – Hen, Duck and Quail Eggs.</p>
+            
+            
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/educatering.jpg" alt="Educatering - Much More than just a School"></div>
+    </div>
+    <br><br>
+</section>
+
 <section class="grey-bg">
     <div class="row">
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
