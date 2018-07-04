@@ -97,7 +97,7 @@
             
 
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/pigs.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><a href="/park-farm.php"><img src="images/schoolmeals/porky_logo.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce"></div>
     
            
     </div>
