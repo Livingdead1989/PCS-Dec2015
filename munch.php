@@ -70,8 +70,8 @@
             <h4>MUNCH in Numbers 2017-2018</h4>
             <hr>
                 <ul class="bullet">
-                    <li>2,500 meals provided so far</li>
-                    <li>1,496 children attended</li>
+                    <li>2,570 meals provided so far</li>
+                    <li>1,892 children attended</li>
                     <li>34 schools involved</li>
                     <li>60 Average daily attendance</li>
                     <li>20+ organisations fund the project</li>
