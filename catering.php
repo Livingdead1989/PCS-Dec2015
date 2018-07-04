@@ -83,14 +83,12 @@
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
             <h4>Park Porkies</h4>
-            <p>Park Community School have developed its own Pork based product which are now used in school and sold to external customers.</p>
-
-            <h4>Products</h4>
+            <p>Park Community School have developed its own Pork based products which are now used in school and sold to external customers.</p>
             <ul>
               <li>Pulled Pork</li>
               <li>Park Porkies Sausages</li>
               <li>Charcuterie range – Salami, Chorizo, Coppa, Lomo, Air cured Ham and Pancetta</li>
-
+            </ul>
             <h4>Park Bakery </h4>
             <p>The school kitchen team are highly skilled and have now started a daily bakery which offer students and staff the opportunity to buy fresh bread daily we sell a wide range of products from Focaccia, Sour Dough and White Loafs to Scones and Cakes.</p>
 
