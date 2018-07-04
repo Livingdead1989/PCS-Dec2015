@@ -70,7 +70,7 @@
               <li><a href="//laca.co.uk/laca-awards-excellence" target="_blank">LACA awards</a></li>
             </ul>
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/educatering.jpg" alt="Educatering - Much More than just a School"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/laca_awards.jpg" alt="Educatering - Much More than just a School"></div>
     </div>
     <br><br>
 </section>
@@ -99,16 +99,7 @@
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/farm/farm-03.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce"></div>
     </div>
-    <br><br>
-</section>
-
-<section class="grey-bg">
-    <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
-    </div>
-
-    <div class="row">
-        <div class="medium-push-4 medium-8 columns">
+    <div class="medium-push-4 medium-8 columns">
             <h4>Local &amp; Organic Food</h4>
             <p>From summer 2016 Park Community School kitchens are now using seasonal, local and organic produce.</p>
 
@@ -118,10 +109,23 @@
               <li><a href="//www.goodwood.com/estate/home-farm/" target="_blank">Goodwood Home Farm</a> - Dairy Products.</li>
               <li><a href="//www.shipton-mill.com/" target="_blank">Shipton Mill</a> - Flour.</li>
             </ul>
+           
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/organic-standards.jpg" alt="Park Community School using local and organic produce in their school menu."></div>
     </div>
     <br><br>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="medium-8 large-8 columns">
+            <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/munch/munch_logo.png" alt="MUNCH"></div>
+    </div>
+    <div class="medium-12 columns">
+            <br>
+            <p class="text-capitalize">MUNCH ensures that no child, no matter what school or age need go hungry during the holidays.</p>
+        </div>
+
 </section>
 
 
