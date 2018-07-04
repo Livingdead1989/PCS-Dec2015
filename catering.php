@@ -62,6 +62,26 @@
 
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
+            <h4>LACA Award</h4>
+            <p>Park Community School have made the finals of this prestigious awards for 2018</p>
+            <p>Every year the LACA Awards for Excellence acknowledge individuals and teams of people who continue to make a real difference in education catering. Good management, strong performances and high achievements deserve to be recognised at any time. Acknowledgement of effort is particularly important to not only reward but sustain motivation.</p>
+            <p>There are 11 awards this year, including a new category for 2018, the LACA Apprentice/Trainee Award.</p>
+            <ul>
+              <li><a href="//laca.co.uk/laca-awards-excellence" target="_blank">LACA awards</a></li>
+            </ul>
+        </div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/educatering.jpg" alt="Educatering - Much More than just a School"></div>
+    </div>
+    <br><br>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+
+    <div class="row">
+        <div class="medium-push-4 medium-8 columns">
             <h4>Local &amp; Organic Food</h4>
             <p>From summer 2016 Park Community School kitchens are now using seasonal, local and organic produce.</p>
 
