@@ -77,7 +77,7 @@
 
 <section>
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
 
     <div class="row">
@@ -87,9 +87,9 @@
 
             <h4>Products</h4>
             <ul>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Pulled Pork</li>
+              <li>Park Porkies Sausages</li>
+              <li>Charcuterie range – Salami, Chorizo, Coppa, Lomo, Air cured Ham and Pancetta</li>
 
             <h4>Park Bakery </h4>
             <p>The school kitchen team are highly skilled and have now started a daily bakery which offer students and staff the opportunity to buy fresh bread daily we sell a wide range of products from Focaccia, Sour Dough and White Loafs to Scones and Cakes.</p>
@@ -97,9 +97,9 @@
             <h4>Park Eggs</h4>
             <p>We now have a wide variety of bird on the school site and sell there aggs to the staff, students and public we currently sell – Hen, Duck and Quail Eggs.</p>
             
-            
+
         </div>
-        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/educatering.jpg" alt="Educatering - Much More than just a School"></div>
+        <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/farm/farm-03.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce"></div>
     </div>
     <br><br>
 </section>
