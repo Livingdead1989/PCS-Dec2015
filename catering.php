@@ -119,7 +119,7 @@
             <p>We have expanded MUNCH to both Thursday nights and Sunday lunches.  2 course Sunday lunches start monthly from Sunday 25th March and Thursday nights meals start weekly from Thursday March 29th.</p>
             <br><br>
             <ul>
-              <li>For more information please click<a href="//laca.co.uk/laca-awards-excellence" target="_blank">here</a></li>
+              <li>For more information please click <a href="/munch.php" target="_blank">here</a></li>
             </ul>
 
         </div>
