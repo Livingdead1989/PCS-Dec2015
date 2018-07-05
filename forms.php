@@ -27,14 +27,14 @@
         <p>Any forms that you may require can be found below, please feel free to download and complete these forms, making sure to sign and date before handing into Park Community School Reception.</p>
         <br>
             <ul class="small-block-grid-1">
-                <li><a href="assets/forms/PCS_Combined_Consent.doc" target="_blank">Consent Form for Images, Biometrics, Internet Access and School Trips</a></li>
-                <li><a href="assets/forms/Educational_visit_information_and_consent_form_Guests.doc" target="_blank">Educational Visit Information and Consent Form Guests</a></li>
-                <li><a href="assets/forms/Educational_visit_information_and_consent_form_Students.doc" target="_blank">Educational Visit Information and Consent Form Students</a></li>
+                <li><a href="assets/forms/combined_consent.doc" target="_blank">Consent Form for Images, Biometrics, Internet Access and School Trips</a></li>
+                <li><a href="assets/forms/consent_form_guests.doc" target="_blank">Educational Visit Information and Consent Form Guests</a></li>
+                <li><a href="assets/forms/consent_form_students.doc" target="_blank">Educational Visit Information and Consent Form Students</a></li>
                 <li><a href="assets/forms/free-school-meals-application.doc" target="_blank">Free School Meals Application Form</a></li>
-                <li><a href="assets/forms/out-round-application-inc-guidance.docx" target="_blank">Application form for admission to a Hampshire school outside the main admission round</a></li>
-                <li><a href="assets/forms/Parent_consent_Pack.pdf" target="_blank">Parental Consent Booklet</a></li>
-                <li><a href="assets/forms/Medical_Form.pdf" target="_blank">Medical Form</a></li>
-                <li><a href="assets/forms/PCS_Home School_Agreement.pdf" target="_blank">Park Community school Home School Agreement</a></li>
+                <li><a href="assets/forms/out-round-application-inc-guidance.doc" target="_blank">Application form for admission to a Hampshire school outside the main admission round</a></li>
+                <li><a href="assets/forms/consent_pack.pdf" target="_blank">Parental Consent Booklet</a></li>
+                <li><a href="assets/forms/medical_consent_form.pdf" target="_blank">Medical Form</a></li>
+                <li><a href="assets/forms/homeschool_agreement.pdf" target="_blank">Park Community school Home School Agreement</a></li>
             </ul>
             <br>
             <h3>How to Request Absence</h3>
