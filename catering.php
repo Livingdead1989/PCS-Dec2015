@@ -38,7 +38,7 @@
                     </a>
                     <a href="/assets/schoolmeals/educatering.pdf" target="_blank">
                         <img class="border-grey-radius" src="images/schoolmeals/educatering.jpg" alt="Educatering">
-                        <p class="text-center">Educatering - Much More than just a School</p>
+                        <p class="text-center">Educatering - Magazine</p>
                     </a>
                     <br>
                 </div>
@@ -80,7 +80,12 @@
                     <h4>Park Eggs</h4>
                     <p>We now have a wide variety of bird on the school site and sell there aggs to the staff, students and public we currently sell – Hen, Duck and Quail Eggs.</p>
                 </div>
-                <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><a href="/park-farm.php"><img src="images/schoolmeals/porky_logo.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce"></div>
+                <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
+                    <a href="/park-farm.php">
+                        <img src="images/schoolmeals/porky_logo.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce">
+                        <p class="text-center">Visit the Park Farm</p>
+                    </a>
+                </div>
             </div>
             <br><br>
             <div class="row">
