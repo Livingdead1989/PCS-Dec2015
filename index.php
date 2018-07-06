@@ -150,8 +150,8 @@
         <div class="large-4 columns show-for-large-up">
             <div>
                 <br><br><br>
-                <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/ParkSchSocial" data-widget-id="672042040872542208" data-chrome="nofooter noborders">Tweets by @ParkSchSocial</a>
-                <script src="js/twitter.min.js"></script>
+                <a class="twitter-timeline" data-lang="en" data-dnt="true" href="https://twitter.com/ParkSchSocial?ref_src=twsrc%5Etfw">Tweets by ParkSchSocial</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
         </div>
     </div>
