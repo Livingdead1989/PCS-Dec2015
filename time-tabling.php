@@ -26,13 +26,12 @@
         <div class="medium-6 columns">
         <p>If you need the latest school calendar, or shape of the day, then you are in the right place. Below you will find the most up to date timetables, and any relevant exam information and resources.</p>
             <ul class="circle">
-                <li><a href="/assets/timetabling/school-calendar.pdf" target="_blank">Important Dates - <br>School Calendar</a></li>
+                <li><a href="/assets/timetabling/school-calendar-18-19.pdf" target="_blank">Important Dates - <br>School Calendar 2018-2019</a></li>
+                <br>
+                <li><a href="/assets/timetabling/school-calendar-17-18.pdf" target="_blank">Important Dates - <br>School Calendar 2017-2018</a></li>
                 <br>
                 <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
                 <br>
-                <li>Exams Timetable - <br>None Currently Available.</li>
-                <br>
-                <li><a href="/assets/timetabling/easter_studyclubs.pdf">Easter Study Clubs</a></li>
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Available in downloadable and printable PDF format.</small></h5>
         </div>

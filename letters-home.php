@@ -25,9 +25,13 @@
         <br>
         <div class="medium-12 columns">
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
-            <ul class="small-block-grid-1 medium-block-grid-2">
+            <ul class="small-block-grid-1">
 
-            	
+            	<li>           	
+				  <ul class="circle">July 2018<hr>
+				  	<li><a href="/assets/letters/2018-07/end_and_start_of_academic_year.pdf" target="_blank">End &amp; Start of Academic Year</a></li>
+				  </ul>
+				</li>
 				<li>           	
 				  <ul class="circle">April 2018<hr>
 				  	<li><a href="/assets/letters/2018-04/assessment_reports_park_post_yr11_and_10_gcse_exams_summer_uniform.pdf" target="_blank">Assessment Reports, GCSE Exams &amp; Summer Uniform</a></li>
