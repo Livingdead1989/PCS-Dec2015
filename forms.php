@@ -28,6 +28,7 @@
         <br>
             <ul class="small-block-grid-1">
                 <li><a href="assets/forms/combined_consent.doc" target="_blank">Consent Form for Images, Biometrics, Internet Access and School Trips</a></li>
+                <li><a href="assets/forms/consent_withdraw.doc" target="_blank">Consent Withdraw Form</a></li>
                 <li><a href="assets/forms/consent_form_guests.doc" target="_blank">Educational Visit Information and Consent Form Guests</a></li>
                 <li><a href="assets/forms/consent_form_students.doc" target="_blank">Educational Visit Information and Consent Form Students</a></li>
                 <li><a href="assets/forms/free-school-meals-application.doc" target="_blank">Free School Meals Application Form</a></li>
