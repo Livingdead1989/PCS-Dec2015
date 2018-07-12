@@ -37,28 +37,9 @@
 				</span>
 			</li> -->
 
-      <li>
-        <h4>Site Assistant</h4>  
-        <p><em>Closing Date: Wed 11th July</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/site_assistant.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-      <hr>
-
-      <li>
-        <h4>Clerk to Governors</h4>  
-        <p><em>Closing Date: Mon 2nd July</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/clerk_to_governors.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
 
 
-	       <!--  <li>No positions currently available <br><span class="subheader">please check back later.</span></li> -->
+	        <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
 
 	             
           
