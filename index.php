@@ -72,13 +72,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!-- <section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        
+        <p>Keeping Children Safe Read More at: <a style="color: #474747; text-decoration: underline;" href="//www.safe4me.co.uk/parents/" target="_blank">Safe4me</a>.</p>
     </div>
   </div>
-</section>  -->
+</section> 
 <!-- END NOTIFICATION -->
 
 
