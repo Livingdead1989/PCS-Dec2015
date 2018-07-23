@@ -98,12 +98,13 @@
                     </div> -->
 
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
-                        <div class="homepage-slider">
-                            <div><img src="images/events/balloon_release/1.jpg" alt="Year 11 Balloon Release 2018"></div>
-                            <div><img src="images/events/balloon_release/2.jpg" alt="Year 11 Balloon Release 2018"></div>
-                            <div><img src="images/events/balloon_release/3.jpg" alt="Year 11 Balloon Release 2018"></div>
-                        </div>
-                        <p class="subheader text-center">Year 11 Balloon Release</p>
+                        <a href="/news.php#laca">
+                            <div class="homepage-slider">
+                                <div><img src="images/news/laca/catering_team_slider.jpg" alt="PCS Catering Team"></div>
+                                <div><img src="images/news/laca/head_headchef_slider.jpg" alt="Headteacher and Head of Catering"></div>
+                            </div>
+                            <p class="subheader text-center">LACA Award</p>
+                        </a>
                     </div>
                     
                     <br>
