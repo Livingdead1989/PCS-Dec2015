@@ -56,7 +56,7 @@
                 Governor Details</a>
                         <div id="Governor-01" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr F Deeks</h2>
-                          <p class="lead">Term Expires: 08.07.2018</p>
+                          <p class="lead">Term Expires: 08.07.2022</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -80,7 +80,7 @@
                 Governor Details</a>
                         <div id="Governor-02" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr A Rowsell</h2>
-                          <p class="lead">Term Expires: 08.07.2018</p>
+                          <p class="lead">Term Expires: 08.07.2022</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -103,43 +103,20 @@
 
             <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-06">
-                  <img src="images/governors/t-short.jpg" alt="Vice Chair and SEN Governor" class="team-member">
-                <p>Mrs T Short</p>
+                  <img src="images/governors/t-caley.jpg" alt="T Caley Governor" class="team-member">
+                <p>Mr T Caley</p>
                 Governor Details</a>
                         <div id="Governor-06" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Mrs T Short</h2>
-                          <p class="lead">Term Expires: 08.07.2018</p>
-                          <p>Category: CO-OPTED</p>
+                          <h2 id="modalTitle">Mr T Caley</h2>
+                          <p class="lead">Term Expires: 08.07.2022</p>
+                          <p>Category: Local Authority</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li>SEN Governor.</li>
+                                <li></li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
                               <li>NIL</li>
-                            </ul>
-
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-            </div>
-            <div class="medium-4 columns text-center  team-member-container">
-                <a href="#" data-reveal-id="Governor-08">
-                  <img src="images/governors/b-barron.jpg" alt="Administration Committee Governor" class="team-member">
-                <p>Mr B Barron</p>
-                Governor Details</a>
-                        <div id="Governor-08" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Mr B Barron</h2>
-                          <p class="lead">Term Expires: 31.08.2018</p>
-                          <p>Category: Parent</p>
-                          <p>Committee Membership:</p>
-                            <ul class="circle">
-                                <li>Member of Admin Committee.</li>
-                            </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>Executive Trustee of <a href="//www.communitas-youth.com/" target="_blank">Communitas</a>.</li>
                             </ul>
 
 
@@ -249,32 +226,6 @@
 
             </div>
 
-            <div class="medium-4 columns text-center  team-member-container">
-                <a href="#" data-reveal-id="Governor-jrankin">
-                  <img src="images/governors/j-rankin.jpg" alt="Governor Profile Image" class="team-member">
-                <p>Ms J Rankin</p>
-                Governor Details</a>
-                        <div id="Governor-jrankin" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Ms J Rankin</h2>
-                          <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: 01.05.2017 </p>
-                          <p class="lead">Term Expires: 30.04.2021</p>
-                          <p>Category: Parent Governor</p>
-                          <p>Committee Membership:</p>
-                            <ul class="circle">
-                                <li>Member of Administration Committee.</li>
-                            </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
-
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-            </div>
-
             <div class="medium-4 columns text-center  team-member-container end">
                 <a href="#" data-reveal-id="Governor-cmay">
                   <img src="images/governors/c-may.jpg" alt="Governor Profile Image" class="team-member">
@@ -299,6 +250,20 @@
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
                         </div>
 
+            </div>
+
+            <div class="medium-4 columns text-center  team-member-container end">
+                <a>
+                  <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
+                <p>Vacancy</p>
+                Parent Governor</a>
+            </div>
+
+            <div class="medium-4 columns text-center  team-member-container end">
+                <a>
+                  <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
+                <p>Vacancy</p>
+                Parent Governor</a>
             </div>
 
         </div>
@@ -352,7 +317,7 @@
           <h4>Becoming a Governor</h4>
           <p>Becoming a Governor at Park Community School couldn't be simpler, simply fill in the provided form and send it in.</p>
           <!-- When vancanies are available from the class alert and replace with success -->
-          <a href="#" target="_blank" class="button radius alert" data-reveal-id="GovernorPositionsAvailable">View Vacancies</a>
+          <a href="#" target="_blank" class="button radius success" data-reveal-id="GovernorPositionsAvailable">View Vacancies</a>
           <p>Alternatively, anybody wishing to be a governor, can write to the Clerk to Governors requesting consideration.</p>
           <p>Parent Governors must submit their application using the form as these Governors are elected in a vote.</p>
 
@@ -365,15 +330,16 @@
 <div id="GovernorPositionsAvailable" class="reveal-modal" data-reveal aria-labelledby="GovernorPositionsAvailable" aria-hidden="true" role="dialog">
   <h2 id="GovernorPositionsAvailable">Governor Vacancies</h2>
   <!-- NO POSITIONS AVAILABLE -->
-  <p class="lead">Unfortunately, there are currently no positions available, make sure to check back later.</p>
-  <p><small>Application Form and Contact Email are shown when vacancies are available.</small></p>
+  <!-- <p class="lead">Unfortunately, there are currently no positions available, make sure to check back later.</p>
+  <p><small>Application Form and Contact Email are shown when vacancies are available.</small></p> -->
 
   <!-- POSITIONS AVAILABLE -->
-  <!-- <p class="lead">Below are the currently available governor positions.</p>
+  <p class="lead">Below are the currently available governor positions.</p>
   <ol>
-    <li></li>
+    <li>Parent Governor</li>
+    <li>Parent Governor</li>
   </ol>
-  <p>Please complete the <a href="assets/governors/SchoolGovernorApplicationForm-October2016.doc" target="_blank">Application Form</a> and submit to our <a href="javascript:location='mailto:\u0065\u002e\u0068\u0061\u006c\u006c\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Clerk to Governors</a> for consideration.</p> -->
+  <p>Please complete the <a href="assets/governors/SchoolGovernorApplicationForm-October2016.doc" target="_blank">Application Form</a> and submit to our <a href="javascript:location='mailto:\u0043\u006c\u0065\u0072\u006b\u0047\u006f\u0076\u0065\u0072\u006e\u006f\u0072\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Clerk to Governors</a> for consideration.</p>
 
   <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
