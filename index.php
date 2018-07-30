@@ -247,22 +247,17 @@
             <h3>Leadership Team</h3>
             <br>
 
-        <div class="large-3 medium-12 columns text-center  team-member-container">
+        <div class="large-4 medium-12 columns text-center  team-member-container">
             <img src="images/slt/c-anders.jpg" alt="" class="team-member">
             <p>Mr C Anders</p>
             <p class="subheader">Headteacher</p>
         </div>
-        <div class="large-3 medium-4 columns text-center  team-member-container">
-            <img src="images/slt/s-walker.jpg" alt="" class="team-member">
-            <p>Ms S Walker</p>
-            <p class="subheader">Deputy Head</p>
-        </div>
-        <div class="large-3 medium-4 columns text-center  team-member-container">
+        <div class="large-4 medium-6 columns text-center  team-member-container">
             <img src="images/slt/e-capaldi.jpg" alt="" class="team-member">
             <p>Mrs E Capaldi</p>
             <p class="subheader">Deputy Head</p>
         </div>
-        <div class="large-3 medium-4 columns text-center  team-member-container end">
+        <div class="large-4 medium-6 columns text-center  team-member-container end">
             <img src="images/slt/d-morris.jpg" alt="" class="team-member">
             <p>Ms D Morris</p>
             <p class="subheader">Deputy Head</p>
