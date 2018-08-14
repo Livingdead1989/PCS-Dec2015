@@ -64,20 +64,7 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-8 medium-push-4 columns">
-            <h4>Much More than just a school... <br>Much More than just Rowing </h4>
-            <p>Park Community School are delighted to be working in partnership with Oarsome Chance Foundation (OCF) who have developed a Schools Coastal Rowing project and over the summer the school has taken part in several programmes increasing student engagement.</p>
-            <ol>
-              <li>During Freshers Week, the new intake for the school, 180 students were able to build model skiffs, competitively row a set distance using Concept 2 rowing machines. 45 students then had the opportunity to row on the water using the OCF St. Ayles skiffs in Langstone Harbour. Everyone had a great time, leaving them wanting more.</li>
-              
-              <li>12 students from Years 8/9 during summer term 2016 learnt to row and race skiffs resulting in them winning the inaugural Youth St. Ayles Regatta at Cobnor Activities Centre in Chichester Harbour. Students were extremely proud of their achievements and rightly so as none of them had ever taken part in an activity like this before.</li>
-              
-              <li>Oarsome Chance “Kids Build Boats” project provided our students the opportunity to develop practical and life skills to aid them through their education and beyond. November 2016 Year 7 students had the opportunity to build 4 Oarsome Skiffs at Park’s offsite Apex Training Centre and Summer 2017 students will row and race their built skiffs at Northney Harbour, Hayling Island.</li>
-            </ol>
-            <p>Oarsome Chance Foundation are able to provide a variety of opportunities for our students both to assist in their academic success and also for enjoyment and relaxation.</p>
-
-        </div>
-        <div class="small-10 small-centered medium-uncentered medium-4 medium-pull-8 columns"><img src="images/apex/apex-04.jpg" alt="Park Community School Apex Centre - Oarsome"></div>
+        
     </div>
     <br><br>
 </section>
