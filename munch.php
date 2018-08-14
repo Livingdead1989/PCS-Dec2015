@@ -47,7 +47,7 @@
     </div>
     <div class="row">
         <div class="medium-12 columns">
-            <h4>MUNCH Testimonial (PO9 Pioneers, Barney Barron)</h4>
+            <h4>MUNCH Testimonial - PO9</h4>
             <blockquote>“I like everything about MUNCH, and the fact that they do this for people” from Olivia age 10.</blockquote>
 
             <blockquote>“It helps me out loads. I have a large family and struggle during holidays. The kids like coming too. Thank you”.</blockquote>
