@@ -77,11 +77,12 @@
         </div>
         
         <div class="medium-6 columns text-center">
+            <br>
             <img src="images/munch/munch_asda_award2.jpg">
         </div>
 
         <div class="columns">
-        <br><br>
+        <br>
             <p>If anyone is hungry throughout the holidays please do <a href="/contact.php">contact Park Community School</a> for further details.</p>
         </div>
         
