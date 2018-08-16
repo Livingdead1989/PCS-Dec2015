@@ -56,7 +56,7 @@
                 Governor Details</a>
                         <div id="Governor-01" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr F Deeks</h2>
-                          <p class="lead">Term Expires: 08.07.2022</p>
+                          <p class="lead">Appointed: 09.07.2018 <br>Term Expires: 08.07.2022</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -80,7 +80,7 @@
                 Governor Details</a>
                         <div id="Governor-02" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr A Rowsell</h2>
-                          <p class="lead">Term Expires: 08.07.2022</p>
+                          <p class="lead">Appointed: 09.07.2018 <br>Term Expires: 08.07.2022</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -108,7 +108,7 @@
                 Governor Details</a>
                         <div id="Governor-06" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr T Caley</h2>
-                          <p class="lead">Term Expires: 08.07.2022</p>
+                          <p class="lead">Appointed: 09.07.2018 <br>Term Expires: 08.07.2022</p>
                           <p>Category: Local Authority</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -158,7 +158,7 @@
                 Governor Details</a>
                         <div id="Governor-11" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Ms J Hughes</h2>
-                          <p class="lead">Appointed: 18.05.2016</p>
+                          <p class="lead">Appointed: 18.05.2016 <br>Term Expires: 17.05.2020</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -182,7 +182,7 @@
                 Governor Details</a>
                         <div id="Governor-13" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr R Cousins</h2>
-                          <p class="lead">Appointed: 06.07.2016</p>
+                          <p class="lead">Appointed: 06.07.2016 <br>Term Expires: 28.07.2020</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -208,8 +208,7 @@
                         <div id="Governor-amays" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Ms A Mays</h2>
                           <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: 13.09.2017</p>
-                          <p class="lead">Term Expires: 12.09.2021</p>
+                          <p class="lead">Appointed: 13.09.2017 <br>Term Expires: 12.09.2021</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -234,8 +233,7 @@
                         <div id="Governor-cmay" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr C May</h2>
                           <p><strong>Details Pending Governors Meeting</strong></p>
-                          <p class="lead">Appointed: 20.05.2017</p>
-                          <p class="lead">Term Expires: 21.05.2021</p>
+                          <p class="lead">Appointed: 20.05.2017 <br>Term Expires: 21.05.2021</p>
                           <p>Category: Staff Member</p>
                           <p>Committee Membership: </p>
                             <ul class="circle">
