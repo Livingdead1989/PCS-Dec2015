@@ -57,12 +57,41 @@
             <blockquote>“We love MUNCH! The food is lovely, the games etc. is fantastic for the kids. It’s a great way to get them out of the house and eating a healthy meal. We really enjoy and appreciate it.” Thank you Ms Roberts.</blockquote>
 
         </div>
-        <div class="text-center">
-                <a href="assets/munch_review.pdf" target="_blank" class="button success radius">Munch Review</a>
-            </div>
-        
     </div>
     <br><br><br>
+</section>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        
+        <div class="columns">
+            <p>At Park on Tuesday we were delighted to welcome Katy Trapani the Community Champion from Asda Havant who kindly presented Susan Parish, Business and Community Manager at Park Community School a  cheque to help support the MUNCH project that is running throughout the holidays. Susan said “I am delighted to accept this on behalf of Park Community School for the MUNCH project, it makes such a difference and ensures that no child or parent will go hungry in Leigh Park”.</p>
+            <p>Katy also kindly brought along crayons, games and drawing pads for the children to enjoy when they come to MUNCH. Thank you so much to the ASDA Foundation.</p>
+        </div>
+
+        <div class="medium-6 columns text-center">
+            <img src="images/munch/munch_asda_award.jpg">
+        </div>
+        <div class="medium-6 columns text-center">
+            <img src="images/munch/munch_asda_award2.jpg">
+        </div>
+
+        <div class="columns">
+            <p>If anyone is hungry throughout the holidays please do <a href="/contact.php">contact Park Community School</a> for further details.</p>
+        </div>
+
+    </div>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">        
+    </div>
 </section>
 
 <section>
@@ -84,6 +113,10 @@
                 </ul>
             <hr>
             
+        </div>
+        <div class="medium-6 columns text-center">
+                <a href="assets/munch_review.pdf" target="_blank" class="button success radius">Munch Review</a>
+            </div>
         </div>
         <br><br>
 </section>
