@@ -75,16 +75,18 @@
         <div class="medium-6 columns text-center">
             <img src="images/munch/munch_asda_award.jpg">
         </div>
-        <br><br>
+        
         <div class="medium-6 columns text-center">
             <img src="images/munch/munch_asda_award2.jpg">
         </div>
 
         <div class="columns">
+        <br><br>
             <p>If anyone is hungry throughout the holidays please do <a href="/contact.php">contact Park Community School</a> for further details.</p>
         </div>
-        <br><br><br>
+        
     </div>
+    <br><br><br>
 </section>
 
 <section class="grey-bg">
