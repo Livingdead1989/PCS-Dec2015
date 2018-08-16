@@ -75,6 +75,7 @@
         <div class="medium-6 columns text-center">
             <img src="images/munch/munch_asda_award.jpg">
         </div>
+        <br><br>
         <div class="medium-6 columns text-center">
             <img src="images/munch/munch_asda_award2.jpg">
         </div>
@@ -82,21 +83,13 @@
         <div class="columns">
             <p>If anyone is hungry throughout the holidays please do <a href="/contact.php">contact Park Community School</a> for further details.</p>
         </div>
-
+        <br><br><br>
     </div>
 </section>
 
 <section class="grey-bg">
     <div class="row">
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
-    </div>
-    <div class="row">        
-    </div>
-</section>
-
-<section>
-    <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
         <div class="medium-6 columns">
@@ -117,8 +110,19 @@
         <div class="medium-6 columns text-center">
                 <a href="assets/munch_review.pdf" target="_blank" class="button success radius">Munch Review</a>
             </div>
+    </div>
+    <br><br>
+</section>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        <div class="columns">
+            <br>
         </div>
-        <br><br>
+    </div>
 </section>
 
 <!-- FOOTER -->
