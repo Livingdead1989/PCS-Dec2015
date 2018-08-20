@@ -78,8 +78,8 @@
                   <p class="event-time">18:30-20:30</p>
                 </div>
                 <h2 class="event-title">Open Evening</h2>
-                <p class="event-subheader"></p>
-                <p class="event-description">Come alog to meet our staff and have a look around our amazing facilities.</p>
+                <p class="event-subheader">Meet and Greet</p>
+                <p class="event-description">Come along to meet our staff and have a look around our amazing facilities.</p>
                 <div class="link-wrap">
                   <a href="assets/events/open_evening.pdf" target="_blank" class="button success radius">View our Flyer</a>
                 </div>
