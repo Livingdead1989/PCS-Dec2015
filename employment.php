@@ -39,7 +39,15 @@
 
 
 
-	        <li>No positions currently available <br><span class="subheader">please check back later.</span></li>
+	        <li>
+				<h4>CHEF DE PARTIE</h4>  
+				<p><em>Closing Date: Friday, 7 September 2018</em></p>
+
+				<span class="subheader">
+				<a href="assets/recruitment/chef_de_partie.pdf" target="_blank">Chef De Partie</a>
+				</span>
+			</li>
+			<!-- <li><br><span class="subheader">please check back later.</span></li> -->
 
 	             
           
