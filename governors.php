@@ -207,7 +207,6 @@
                 Governor Details</a>
                         <div id="Governor-amays" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Ms A Mays</h2>
-                          <p><strong>Details Pending Governors Meeting</strong></p>
                           <p class="lead">Appointed: 13.09.2017 <br>Term Expires: 12.09.2021</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
@@ -232,7 +231,6 @@
                 Governor Details</a>
                         <div id="Governor-cmay" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr C May</h2>
-                          <p><strong>Details Pending Governors Meeting</strong></p>
                           <p class="lead">Appointed: 20.05.2017 <br>Term Expires: 21.05.2021</p>
                           <p>Category: Staff Member</p>
                           <p>Committee Membership: </p>
