@@ -28,8 +28,6 @@
             <ul class="circle">
                 <li><a href="/assets/timetabling/school-calendar-18-19.pdf" target="_blank">Important Dates - <br>School Calendar 2018-2019</a></li>
                 <br>
-                <li><a href="/assets/timetabling/school-calendar-17-18.pdf" target="_blank">Important Dates - <br>School Calendar 2017-2018</a></li>
-                <br>
                 <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
                 <br>
             </ul>
