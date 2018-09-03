@@ -39,14 +39,55 @@
 
 
 
-	        <li>
-				<h4>CHEF DE PARTIE</h4>  
-				<p><em>Closing Date: Friday, 7 September 2018</em></p>
+	    <li>
+				<h4>Chef De Partie</h4>  
+				<p><em>Closing Date: 7th September 2018</em></p>
 
 				<span class="subheader">
-				<a href="assets/recruitment/chef_de_partie.pdf" target="_blank">Chef De Partie</a>
+				<a href="assets/recruitment/chef_de_partie.pdf" target="_blank">Job Overview</a>
 				</span>
 			</li>
+      <hr>
+
+      <li>
+        <h4>Computer Science Teacher</h4>  
+        <p><em>Closing Date: 18th September 2018</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/computer_science_teacher.pdf" target="_blank">Job Overview</a>
+        </span>
+      </li>
+      <hr>
+
+      <li>
+        <h4>Cover Supervisor</h4>  
+        <p><em>Closing Date: 18th September 2018</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/cover_supervisor.pdf" target="_blank">Job Overview</a>
+        </span>
+      </li>
+      <hr>
+
+      <li>
+        <h4>Head of Geography</h4>  
+        <p><em>Closing Date: 18th September 2018</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/head_of_geography.pdf" target="_blank">Job Overview</a>
+        </span>
+      </li>
+      <hr>
+
+      <li>
+        <h4>Science Teacher</h4>  
+        <p><em>Closing Date: 18th September 2018</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/science_teacher.pdf" target="_blank">Job Overview</a>
+        </span>
+      </li>
+      <hr>
 			<!-- <li><br><span class="subheader">please check back later.</span></li> -->
 
 	             
