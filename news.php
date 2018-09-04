@@ -29,7 +29,13 @@
             <p>Park Post is available in downloadable PDF format.</p>
 
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
-
+                
+                <li class="hide-for-small-only">
+                    <a href="assets/news/parkpost/issue18-july2018.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue18-july2018.jpg" alt="Park Post Issue 18 Frontcover">
+                        <p>Issue 18 - July 2018</p>
+                    </a>
+                </li>
 
                 <li class="hide-for-small-only">
                     <a href="assets/news/parkpost/issue17-may2018.pdf" target="_blank">
@@ -42,13 +48,6 @@
                     <a href="assets/news/parkpost/issue16-apr2018.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue16-apr2018.jpg" alt="Park Post Issue 16 Frontcover">
                         <p>Issue 16 - April 2018</p>
-                    </a>
-                </li>
-
-                <li class="hide-for-small-only">
-                    <a href="assets/news/parkpost/issue15-feb2018.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue15-feb2018.jpg" alt="Park Post Issue 15 Frontcover">
-                        <p>Issue 15 - February 2018</p>
                     </a>
                 </li>
 
