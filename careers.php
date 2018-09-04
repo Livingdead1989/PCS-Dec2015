@@ -833,13 +833,8 @@
       <div class="row">
         <br>
         <div class="columns">
-          <h2>Some Title</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <h2>What options do I have when I leave Park?</h2>
+          <p>Click on the links to find out more about the options available to you…</p>
           <ul class="text-center large-block-grid-4 medium-block-grid-2 small-block-grid-2">
             <li>
               <div class="menu-box">
