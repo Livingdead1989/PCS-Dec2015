@@ -37,18 +37,6 @@
 				</span>
 			</li> -->
 
-
-
-	    <li>
-				<h4>Chef De Partie</h4>  
-				<p><em>Closing Date: 7th September 2018</em></p>
-
-				<span class="subheader">
-				<a href="assets/recruitment/chef_de_partie.pdf" target="_blank">Job Overview</a>
-				</span>
-			</li>
-      <hr>
-
       <li>
         <h4>Computer Science Teacher</h4>  
         <p><em>Closing Date: 18th September 2018</em></p>
