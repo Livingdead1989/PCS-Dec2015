@@ -36,6 +36,35 @@
 				<a href="assets/recruitment/#.pdf" target="_blank">Position Details</a>
 				</span>
 			</li> -->
+      <li>
+        <h4>Chef De Partie</h4>  
+        <p><em>Closing Date: 25th September 2018</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/chef_de_partie.pdf" target="_blank">Job Overview</a>
+        </span>
+      </li>
+      <hr>
+
+      <li>
+        <h4>Clerk to Governors</h4>  
+        <p><em>Closing Date: 2nd October 2018</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/clerk_to_governors.pdf" target="_blank">Job Overview</a>
+        </span>
+      </li>
+      <hr>
+
+      <li>
+        <h4>Cover Supervisor</h4>  
+        <p><em>Closing Date: 18th September 2018</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/cover_supervisor.pdf" target="_blank">Job Overview</a>
+        </span>
+      </li>
+      <hr>
 
       <li>
         <h4>Computer Science Teacher</h4>  
