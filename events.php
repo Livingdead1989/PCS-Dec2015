@@ -73,7 +73,7 @@
 <!--                  Event box -->
 
 <!--                    Event Box  -->
-              <div class="event-wrap feature-event sticky-event">
+              <div class="event-wrap">
                 <div class="date-wrap">
                   <p class="event-date">Various Sept/Oct</p>
                   <p class="event-time">15:15-16:30</p>

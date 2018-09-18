@@ -75,7 +75,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a style="color:#474747;" href="/time-tabling.php">School Dates</a>.</p>
+        <p>Join us in <a style="color:#474747;" href="/events.php">The Park Rememberance Poppy Knit</a>.</p>
     </div>
   </div>
 </section> 
