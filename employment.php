@@ -55,56 +55,6 @@
         </span>
       </li>
       <hr>
-
-      <li>
-        <h4>Cover Supervisor</h4>  
-        <p><em>Closing Date: 18th September 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/cover_supervisor.pdf" target="_blank">Job Overview</a>
-        </span>
-      </li>
-      <hr>
-
-      <li>
-        <h4>Computer Science Teacher</h4>  
-        <p><em>Closing Date: 18th September 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/computer_science_teacher.pdf" target="_blank">Job Overview</a>
-        </span>
-      </li>
-      <hr>
-
-      <li>
-        <h4>Cover Supervisor</h4>  
-        <p><em>Closing Date: 18th September 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/cover_supervisor.pdf" target="_blank">Job Overview</a>
-        </span>
-      </li>
-      <hr>
-
-      <li>
-        <h4>Head of Geography</h4>  
-        <p><em>Closing Date: 18th September 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/head_of_geography.pdf" target="_blank">Job Overview</a>
-        </span>
-      </li>
-      <hr>
-
-      <li>
-        <h4>Science Teacher</h4>  
-        <p><em>Closing Date: 18th September 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/science_teacher.pdf" target="_blank">Job Overview</a>
-        </span>
-      </li>
-      <hr>
 			<!-- <li><br><span class="subheader">please check back later.</span></li> -->
 
 	             
