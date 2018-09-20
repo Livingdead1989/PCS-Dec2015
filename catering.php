@@ -135,7 +135,7 @@
                     <p>Newcomer of the Year - <strong>Steven Cross</strong></p>
                     <p>Employees who are new to a company or are in a new role within their existing company who have made an impact within the past 2 years.</p>
                     <p>Judges look for evidence based examples of how the individual has shown outstanding commitment to their new roles and enhanced the performance of the school meal provision.</p>
-                    <ul class="text-center small-block-grid-1 medium-block-grid-2">
+                    <ul class="text-center small-block-grid-1 medium-block-grid-3">
                         <li>
                             <img style="max-height: 220px;" src="images/schoolmeals/educatering-2016.jpg" alt="Park Community School Educatering Excellence Awards - Newcomer of the Year">
                         </li>
