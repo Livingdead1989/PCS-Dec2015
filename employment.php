@@ -36,6 +36,17 @@
 				<a href="assets/recruitment/#.pdf" target="_blank">Position Details</a>
 				</span>
 			</li> -->
+
+      <li>
+        <h4>Deputy Headteacher</h4>  
+        <p><em>Closing Date: 4th October 2018</em></p>
+        <p>To arrange a tour of the school or to request an application pack, please email <a href="mailto:j.alder@pcs.hants.sch.uk">Jane Alder (PA to Headteacher)</a>.</p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/dht.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+      <hr>
       <li>
         <h4>Chef De Partie</h4>  
         <p><em>Closing Date: 25th September 2018</em></p>
