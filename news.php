@@ -18,6 +18,13 @@
         </div>
     </div>
 </header>
+<!-- Breadcrumb -->
+<div class="row">
+    <ul class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
+        <li role="menuitem"><a href="#laca">LACA Award</a></li>
+        <li role="menuitem"><a href="#communityimpact">Community Impact Award</a></li>
+    </ul>
+</div>
 
 <!-- CONTENT -->
 <section>
@@ -184,6 +191,38 @@
             <img src="images/news/laca/head_headchef.jpg" alt="PCS Headteacher and Head of Catering">
             <p class="text-center"><small>Headteacher and Head of Catering</small></p>
         </div>
+    </div>
+    <br><br>
+    <?php include("includes/backtotop.html") ?>
+</section>
+
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row" id="communityimpact">
+        <div class="medium-8 columns">
+            <h4>HCC Community Impact Award</h4>
+            <p>We are delighted to announce that Park Community School were last night awarded Hampshire County Council’s ‘Community Impact Award’.</p> 
+            <p>We have been successful in winning this award in respect of our MUNCH project, which aims to reduce food poverty for the benefit of local children, young people and families in Leigh Park.  We started MUNCH, which runs every day through the school holidays, Thursday tea times and the last Sunday of the month to ensure local families always have something to eat.  For more details please contact us, or visit our website.</p>
+        </div>
+        <div class="medium-4 columns">
+            <img src="images/news/communityimpact/community_impact_award_1.jpg" alt="PCS Catering Team">
+            <img src="images/news/communityimpact/community_impact_award_2.jpg" alt="PCS Catering Team">
+            <p class="text-center"><small>Community &amp; Site Managers Collecting the Award.</small></p>
+        </div>
+    </div>
+    <br><br><br>
+</section>
+
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row" id="">
+        
     </div>
     <br><br>
     <?php include("includes/backtotop.html") ?>
