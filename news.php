@@ -208,7 +208,6 @@
             <p>We have been successful in winning this award in respect of our MUNCH project, which aims to reduce food poverty for the benefit of local children, young people and families in Leigh Park.  We started MUNCH, which runs every day through the school holidays, Thursday tea times and the last Sunday of the month to ensure local families always have something to eat.  For more details please contact us, or visit our website.</p>
         </div>
         <div class="medium-4 columns">
-            <img src="images/news/communityimpact/community_impact_award_1.jpg" alt="PCS Catering Team">
             <img src="images/news/communityimpact/community_impact_award_2.jpg" alt="PCS Catering Team">
             <p class="text-center"><small>Community &amp; Site Managers Collecting the Award.</small></p>
         </div>
