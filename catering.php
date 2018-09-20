@@ -127,6 +127,8 @@
             </div>
             <div class="row">
                 <div class="columns">
+                    <h4>Educatering Excellence Award 2018</h4>
+                    <p>Self-Managed School Caterer of the Year - <strong>Steven Cross</strong></p>
                     <h4>Educatering Excellence Award 2017</h4>
                     <p>Secondary School Caterer of the Year - <strong>Steven Cross</strong></p>
                     <h4>Educatering Excellence Award 2016</h4>
@@ -139,6 +141,9 @@
                         </li>
                         <li>
                             <img style="max-height: 220px;" src="images/schoolmeals/educatering-2017.jpg" alt="Park Community School Educatering Excellence Awards - Secondary School Caterer of the Year">
+                        </li>
+                        <li>
+                            <img style="max-height: 220px;" src="images/schoolmeals/educatering-2018.jpg" alt="Park Community School Educatering Excellence Awards - Secondary School Caterer of the Year">
                         </li>
                     </ul>
                     <p>For more information about Educatering Awards please visit their <a href="//educateringawards.co.uk/">website</a>.</p>
