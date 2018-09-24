@@ -52,25 +52,24 @@
               </div> -->
 <!--                  Event box --> 
 
-
 <!--                    Event Box  -->
-              <div class="event-wrap">
+              <div class="event-wrap feature-event sticky-event">
                 <div class="date-wrap">
-                  <p class="event-date">18th September</p>
-                  <p class="event-time">18:30-20:30</p>
+                  <p class="event-date">Thursday</p>
+                  <p class="event-time">17:30-18:30</p>
                 </div>
-                <h2 class="event-title">Open Evening</h2>
-                <p class="event-subheader">Meet and Greet</p>
-                <p class="event-description">Come along to meet our staff and have a look around our amazing facilities.</p>
+                <h2 class="event-title">MUNCH Tea Time</h2>
+                <p class="event-subheader">Every Thursday</p>
+                <p class="event-description">Join us for dinner on Thursday. <br>This has all been made possible by generous funding from various organisations.</p>
                 <div class="link-wrap">
-                  <a href="assets/events/open_evening.pdf" target="_blank" class="button success radius">View our Flyer</a>
+                  <a href="/munch.php" target="_blank" class="button success radius">Munch Page</a>
                 </div>
                 <div class="bottom-wrap">
                   <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
                   <div class="cost-wrap">Free</div>
                 </div>
               </div>
-<!--                  Event box -->
+<!--                  Event box --> 
 
 <!--                    Event Box  -->
               <div class="event-wrap">
@@ -90,6 +89,46 @@
                 </div>
               </div>
 <!--                  Event box --> 
+
+<!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date">22nd-26th Oct</p>
+                  <p class="event-time">12:00-13:00</p>
+                </div>
+                <h2 class="event-title">MUNCH</h2>
+                <p class="event-subheader">Half Term Munch</p>
+                <p class="event-description">MUNCH supplies nutritious 2 course meals and activities for children and their families attending any Leigh Park school during the school holidays.</p>
+                <div class="link-wrap">
+                  <a href="/munch.php" target="_blank" class="button success radius">Munch Page</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Free</div>
+                </div>
+              </div>
+<!--                  Event box -->
+
+<!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date">22nd-26th Oct</p>
+                  <p class="event-time">12:30-14:30</p>
+                </div>
+                <h2 class="event-title">Half Term Activities</h2>
+                <p class="event-subheader">Free Activities</p>
+                <p class="event-description">Monday - Inflatable Fun Ages 6-11 <br>Tuesday - Artscape <br>Wednesday - South Coast Footable, Ages 4+ <br>Thursday - Facepainting <br>Friday - Artscape.</p>
+                <div class="link-wrap">
+                  <a href="/munch.php" target="_blank" class="button success radius">Munch Page</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Free</div>
+                </div>
+              </div>
+<!--                  Event box -->
+
+
 
 
             </div>
