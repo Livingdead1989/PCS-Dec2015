@@ -28,6 +28,11 @@
 
         <br><br>
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
+                <li>
+                    <ul class="circle">Autumn 2018
+                      <li><a href="assets/assemblies/2018-autumn/smsc1.pdf" target="_blank">Working Hard and Independence <small>SMSC1</small></a></li>
+                    </ul>
+                </li>
             	<li>
                     <ul class="circle">Summer 2018
                       <li><a href="assets/assemblies/2018-summer/smsc1.pdf" target="_blank">My Future <small>SMSC1</small></a></li>
