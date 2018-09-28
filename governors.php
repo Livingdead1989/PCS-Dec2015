@@ -112,7 +112,7 @@
                           <p>Category: Local Authority</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li></li>
+                                <li>Member of Safeguarding Committee</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -212,6 +212,7 @@
                           <p>Committee Membership:</p>
                             <ul class="circle">
                                 <li>Member of Performance Committee.</li>
+                                <li>SEN Governor</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
