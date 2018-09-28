@@ -49,7 +49,19 @@
                 <h4>Available Positions</h4>
                 <ul class="no-bullet medium-block-grid-1 large-block-grid-2">
                   <li>Please visit the recruitment board outside KD3.</li>
-                </ul>
+                  <hr>
+                    <li>Trainee community receptionist</li>
+                    <li>Animal carer</li>
+                    <li>Trainee site person</li>
+                    <li>Student printer</li>
+                    <li>Student finisher</li>
+                    <li>Student kitchen assistant</li>
+                    <li>Trainee Journalist upper school</li>
+                    <li>Trainee radio station helper</li>
+                    <li>Junior radio presenter</li>
+                    <li>Trainee Theatre technician</li>
+                    <li>Butterfly broadcasters</li>
+               </ul>
             </div>
         </div>
 
