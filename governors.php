@@ -67,6 +67,7 @@
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
                               <li>Director of <a href="/park-enterprises.php" target="_blank">Park Community Enterprises Ltd</a></li>
+                              <li>Supplier of Porcine Meat to School</li>
                             </ul>
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -112,7 +113,8 @@
                           <p>Category: Local Authority</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
-                                <li>Member of Safeguarding Committee</li>
+                              <li>Member of Performance Committee</li>
+                              <li>Safeguarding Governor</li>
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
@@ -141,8 +143,9 @@
                             </ul>
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
-                              <li>Director <a href="/park-enterprises.php" target="_blank">Park Community Enterprises Ltd</a></li>
-                              <li>Trustee/Director of EBP South</li>
+                              <li>Trustee of Park Community Ventures charity</li>
+                              <li>Director of <a href="/park-enterprises.php" target="_blank">Park Community Enterprises Ltd</a></li>
+                              <li>Trustee of EBP South</li>
                             </ul>
 
 
@@ -191,7 +194,6 @@
                           <p>Pecuniary Interests:</p>
                             <ul class="circle">
                               <li>Governor of <a href="//www.trosnantschools.co.uk" target="_blank">Trosnant School</a></li>
-                              <li>Client of Park Design and Print</li>
                             </ul>
 
 
