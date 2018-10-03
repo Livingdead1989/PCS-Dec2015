@@ -77,9 +77,9 @@
                   <p class="event-date">Various Sept/Oct</p>
                   <p class="event-time">15:15-16:30</p>
                 </div>
-                <h2 class="event-title">Remembrance Poppy Knit</h2>
+                <h2 class="event-title">Rememberance Poppy Knit</h2>
                 <p class="event-subheader">Creating a Poppy Wave</p>
-                <p class="event-description">As part of our remembrance commemorations this year, we are creating a poppy wave with knitted poppies in our school to honour those who have lost their lives through war.</p>
+                <p class="event-description">As part of our rememberance commemorations this year, we are creating a poppy wave with knitted poppies in our school to honour those who have lost their lives through war.</p>
                 <div class="link-wrap">
                   <a href="assets/events/poppyknit.pdf" target="_blank" class="button success radius">View our Flyer</a>
                 </div>
