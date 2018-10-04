@@ -25,6 +25,7 @@
         <br>
         <div class="medium-12 columns">
         <p>Our policies are designed to create a safe and fair environment for all students. All our policies are freely available and transparent. By learning what is, and isn’t, allowed you can avoid unintentionally breaking the rules.</p>
+        <p>Please view our <a href="/statutory.php">Statutory Information page</a> for other policies and key information.</p>
         <br>
 
         <h3>General Policies</h3>
@@ -226,14 +227,6 @@
         <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-3 policies_list">
 
             <li>
-                <a href="/assets/policies/admissions-2017-2018.pdf" target="_blank">
-                    <div class="policy-container">
-                        <p>2017 - 2018</p>
-                    </div>
-                </a>
-            </li>
-
-            <li>
                 <a href="/assets/policies/admissions-2018-2019.pdf" target="_blank">
                     <div class="policy-container">
                         <p>2018 - 2019</p>
@@ -255,7 +248,6 @@
         <p>To request a copy of our non-linked policies please contact our <a href="/contact.php">school reception</a>.</p>
         <ul>
             <li>Accessibility *</li>
-            <li>Complaints Policy *</li>
             <li>Sex Education *</li>
             <li>Freedom of Information *</li>
 
