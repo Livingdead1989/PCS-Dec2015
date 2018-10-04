@@ -252,11 +252,13 @@
         </ul>
 
         <h3>Non-linked Policies</h3>
-        <p>To request a copy of our complaints policy please contact our <a href="/contact.php">school reception</a>.</p>
+        <p>To request a copy of our non-linked policies please contact our <a href="/contact.php">school reception</a>.</p>
         <ul>
             <li>Accessibility *</li>
+            <li>Complaints Policy *</li>
             <li>Sex Education *</li>
             <li>Freedom of Information *</li>
+
         </ul>
 
 
