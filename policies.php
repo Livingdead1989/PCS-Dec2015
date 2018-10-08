@@ -45,7 +45,6 @@
                     <div class="policy-container">
                         <p>Administration of Medicines</p>
                         <p><small>Approved by Governors on: 04/05/2016</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -55,7 +54,6 @@
                     <div class="policy-container">
                         <p>Attendance</p>
                         <p><small>Approved by Governors on: 23/05/2018</small></p>
-                        <p><small>Expiration / Review: May 2019</small></p>
                     </div>
                 </a>
             </li>
@@ -65,7 +63,6 @@
                     <div class="policy-container">
                         <p>Behaviour for Learning</p>
                         <p><small>Approved by Governors on: 05/04/2017</small></p>
-                        <p><small>Expiration / Review: April 2018</small></p>
                     </div>
                 </a>
             </li>
@@ -75,7 +72,6 @@
                     <div class="policy-container">
                         <p>Careers Education, Information, Advice and Guidance</p>
                         <p><small>Approved by Governors on: 08/07/2015</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -85,7 +81,6 @@
                     <div class="policy-container">
                         <p>Charging and Remissions</p>
                         <p><small>Approved by Governors on: 01/02/2016</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -95,7 +90,6 @@
                     <div class="policy-container">
                         <p>Child Protection</p>
                         <p><small>Approved by Governors on: 22/11/2017</small></p>
-                        <p><small>Expiration / Review: September 2018</small></p>
                     </div>
                 </a>
             </li>
@@ -105,7 +99,6 @@
                     <div class="policy-container">
                         <p>Confidentiality</p>
                         <p><small>Approved by Governors on: 13/09/2017</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -115,7 +108,6 @@
                     <div class="policy-container">
                         <p>Data Protection</p>
                         <p><small>Approved by Governors on: 02/12/2015</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -125,7 +117,6 @@
                     <div class="policy-container">
                         <p>Dress Code for Students</p>
                         <p><small>Approved by Governors on: 05/04/2017</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -135,7 +126,6 @@
                     <div class="policy-container">
                         <p>Equality</p>
                         <p><small>Approved by Governors on: 02/12/2015</small></p>
-                        <p><small>Expiration / Review: November 2018</small></p>
                     </div>
                 </a>
             </li>
@@ -145,7 +135,6 @@
                     <div class="policy-container">
                         <p>Health and Safety</p>
                         <p><small>Approved by Governors on: 16/03/2016</small></p>
-                        <p><small>Expiration / Review: November 2018</small></p>
                     </div>
                 </a>
             </li>
@@ -155,7 +144,6 @@
                     <div class="policy-container">
                         <p>Homework</p>
                         <p><small>Approved by Governors on: 14/09/2016</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -165,7 +153,6 @@
                     <div class="policy-container">
                         <p>Prevention of Radicalisation and Extremism</p>
                         <p><small>Approved by Governors on: 20/01/2016</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -175,7 +162,6 @@
                     <div class="policy-container">
                         <p>Supporting Students with Medical Conditions</p>
                         <p><small>Approved by Governors on: 05/08/2017</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -185,7 +171,6 @@
                     <div class="policy-container">
                         <p>Student Entitlement in IAG</p>
                         <p><small>Approved by Governors on: N/A</small></p>
-                        <p><small>Expiration / Review: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -195,7 +180,6 @@
                     <div class="policy-container">
                         <p>Safeguarding</p>
                         <p><small>Approved by Governors on: 22/11/2017</small></p>
-                        <p><small>Expiration / Review: September 2018</small></p>
                     </div>
                 </a>
             </li>
@@ -205,7 +189,6 @@
                     <div class="policy-container">
                         <p>SEND Policy</p>
                         <p><small>Approved by Governors on: 14/03/2018</small></p>
-                        <p><small>Expiration / Review: March 2019</small></p>
                     </div>
                 </a>
             </li>
@@ -215,7 +198,6 @@
                     <div class="policy-container">
                         <p>SEND Information Report</p>
                         <p><small>Approved by Governors on: 14/03/2018</small></p>
-                        <p><small>Expiration / Review: March 2019</small></p>
                     </div>
                 </a>
             </li>
