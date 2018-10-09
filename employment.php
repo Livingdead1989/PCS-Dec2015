@@ -37,36 +37,8 @@
 				</span>
 			</li> -->
 
-      <li>
-        <h4>Deputy Headteacher</h4>  
-        <p><em>Closing Date: 4th October 2018</em></p>
-        <p>To arrange a tour of the school or to request an application pack, please email <a href="mailto:j.alder@pcs.hants.sch.uk">Jane Alder (PA to Headteacher)</a>.</p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/dht.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-      <hr>
-      <li>
-        <h4>Chef De Partie</h4>  
-        <p><em>Closing Date: 25th September 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/chef_de_partie.pdf" target="_blank">Job Overview</a>
-        </span>
-      </li>
-      <hr>
-
-      <li>
-        <h4>Clerk to Governors</h4>  
-        <p><em>Closing Date: 2nd October 2018</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/clerk_to_governors.pdf" target="_blank">Job Overview</a>
-        </span>
-      </li>
-      <hr>
-			<!-- <li><br><span class="subheader">please check back later.</span></li> -->
+    
+			<li><br><span class="subheader">Please check back later.</span></li>
 
 	             
           
