@@ -72,13 +72,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p>Join us in <a style="color:#474747;" href="/events.php">The Park Rememberance Poppy Knit</a>.</p>
+        <p><a style="color:#474747;" href=""></a>.</p>
     </div>
   </div>
-</section> 
+</section>  -->
 <!-- END NOTIFICATION -->
 
 
