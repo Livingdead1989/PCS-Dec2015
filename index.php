@@ -98,12 +98,11 @@
                     </div> -->
 
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
-                        <a href="/news.php#communityimpact">
+                        <a href="/catering.php">
                             <div class="homepage-slider">
-                                <div><img src="images/news/communityimpact/community_impact_award_1_slider.jpg" alt="Winners of The Community Impact Award"></div>
-                                <div><img src="images/news/communityimpact/community_impact_award_2_slider.jpg" alt="Winners of The Community Impact Award"></div>
+                                <div><img src="images/news/catering/educating_winner.jpg" alt="Winners of The Educatering Award 2018"></div>
                             </div>
-                            <p class="subheader text-center">Community Impact Award</p>
+                            <p class="subheader text-center">Educatering 2018 Winner</p>
                         </a>
                     </div>
                     

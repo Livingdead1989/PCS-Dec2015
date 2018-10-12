@@ -127,11 +127,11 @@
             </div>
             <div class="row">
                 <div class="columns">
-                    <h4>Educatering Excellence Award 2018</h4>
+                    <h4>Educatering Excellence Award 2018 - Winner</h4>
                     <p>Self-Managed School Caterer of the Year - <strong>Steven Cross</strong></p>
-                    <h4>Educatering Excellence Award 2017</h4>
+                    <h4>Educatering Excellence Award 2017 - Finalist</h4>
                     <p>Secondary School Caterer of the Year - <strong>Steven Cross</strong></p>
-                    <h4>Educatering Excellence Award 2016</h4>
+                    <h4>Educatering Excellence Award 2016 - Finalist</h4>
                     <p>Newcomer of the Year - <strong>Steven Cross</strong></p>
                     <p>Employees who are new to a company or are in a new role within their existing company who have made an impact within the past 2 years.</p>
                     <p>Judges look for evidence based examples of how the individual has shown outstanding commitment to their new roles and enhanced the performance of the school meal provision.</p>
