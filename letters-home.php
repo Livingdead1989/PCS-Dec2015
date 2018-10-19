@@ -29,6 +29,7 @@
             	<li>           	
 				  <ul class="circle">October 2018<hr>
 				  	<li><a href="/assets/letters/2018-10/reports_y7_y11_parentsevening_keydates.pdf" target="_blank">Reports, Year 7 &amp; 11 Parents Evening and Keydates</a></li>
+				  	<li><a href="/assets/letters/2018-10/wex.pdf" target="_blank">WEX placements</a></li>
 				  </ul>
 				</li>
             	<li>           	
