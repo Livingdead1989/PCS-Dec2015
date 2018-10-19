@@ -25,8 +25,8 @@
         <br>
         <div class="medium-7 columns">
           <p>Grant Allocation:</p>
-          <p>In 2016/2017 the school received £439.450  for Pupil Premium (PP) plus £14,675 for Children in Care.</p>
-          <p>The school spent £514,749 providing additional support for PP students. The pupil premium is grant funding and is in addition to the school’s Delegated Budget. The school chooses to invest additional funding from its delegated budget to support pupil premium funding.</p>
+          <p>In 2017/2018 the school received £431,970  for Pupil Premium (PP) plus £2,100 for Children in Care.</p>
+          <p>The school spent £475,095 providing additional support for PP students. The pupil premium is grant funding and is in addition to the school’s Delegated Budget. The school chooses to invest additional funding from its delegated budget to support pupil premium funding.</p>
           <p>The Pupil Premium is allocated by calculating the number of students who are on Free School Meals (FSM) or have had FSM in the last six years. Students who have been in care continuously for more than six months or have a parent in the Armed Services also lead to some additional funding for the school.</p>
           <ul class="accordion" data-accordion>
             <li class="accordion-navigation">
@@ -71,21 +71,21 @@
           <p>In 2016 the gap in achievement between not PP and PP students in their GCSE results was 0.02 for Progress 8 (PP -0.12, Not PP -0.14). The gap between Not PP and PP students achieving English and Maths A*-C was 6%. 42% of PP were entered for English Baccalaureate.</p>
           <ul class="block-grid-large-2">
             <li>
-              <p>For 2017/2018 our allocated budget is:</p>
+              <p>For 2018/2019 our allocated budget is:</p>
             </li>
             <li>
               <table>
                 <tr>
                   <td>Pupil premium</td>
-                  <td>£431,970</td>
+                  <td>£413,270</td>
                 </tr>
                 <tr>
                   <td>Service Children</td>
-                  <td>£2,100</td>
+                  <td>£2,400</td>
                 </tr>
                 <tr>
-                  <td>Children in Care</td>
-                  <td>£16,138</td>
+                  <td>Post Looked After Children</td>
+                  <td>£0</td>
                 </tr>
               </table>
             </li>
@@ -283,8 +283,8 @@
     </div>
     <div class="row">
       <div class="medium-12 columns">
-        <h4>Catch-up Funding for Year 7 2016-2017</h4>
-        <p>In 2016/2017 we received £20,500 catch up funding which was used to provide:</p>
+        <h4>Catch-up Funding for Year 7 2017-2018</h4>
+        <p>In 2017/2018 we received £17,371 catch up funding which was used to provide:</p>
         <p>One to One reading, spelling and literacy intervention for Year 7 students - with some students being in receipt of more than 1 round of intervention.</p>
         <p>Additional classroom support for one class.</p>
         <p>In total more than 41 students benefitted from this intervention. The impact of this support was measured through: student and parent feedback, Year 7 progress data, reading and spelling data.</p>
@@ -292,7 +292,7 @@
         <p>Parent and student feedback demonstrated positive increases regarding confidence and perception of ability alongside willingness to engage in additional learning outside of the classroom.</p>
         <p>Any future funding will be used to help these students secure and close gaps in their literacy or numeracy through small group intervention, 1 to 1 intervention and in class support.</p>
 
-        <p>We are expecting to receive the same amount in March 2018 for 2017/2018 catch-up funding.</p>
+        <p>We are expecting to receive a similar amount in March 2019 for 2018/2019 catch-up funding.</p>
       </div>
     </div>
     <br><br><br>
