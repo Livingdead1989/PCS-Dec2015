@@ -92,20 +92,6 @@
     </div>
     <div class="row">
         <br>
-        <div class="medium-12 columns">
-          <h3>Homework Documents</h3>
-          <p><strong>Venture Learning</strong> - In Years 7 and 8, students also receive three-week Venture Learning projects designed to offer choice, promote independence and the chance to explore ideas creatively. These projects are timetabled across the year to ensure students have the chance to complete them for all subjects.</p>
-        </div>
-    </div>
-    <br><br><br>
-</section>
-
-<section>
-    <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
-    </div>
-    <div class="row">
-        <br>
         <div class="medium-7 columns">
           <h3>Clubs and Support</h3>
           <p>Students are welcome to stay in school on any day to use facilities to complete homework.</p>
@@ -127,6 +113,17 @@
         </div>
     </div>
     <br><br><br>
+</section>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        <div class=" columns">
+          
+        </div>
+    </div>
 </section>
 
 <!-- FOOTER -->
