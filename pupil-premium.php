@@ -36,9 +36,13 @@
           </ol>
 
           <p>Our Pupil Premium strategy is based on a comprehensive understanding of our students, their families and the community and is regularly reviewed using internal and external data and current research produced the Education Endowment Foundation. Park Community School participated in the ‘Improving Outcomes for Disadvantaged Learners’ project with Hampshire and Rosendale Research during 2017-18.</p>
-          <p>For 2018/2019 our allocated budget is:</p>
-          
-           <ul class="block-grid-large-2">
+        </div>
+        <div class="small-10 small-centered medium-uncentered medium-5 columns">
+          <br><img src="images/pupil-premium/pupil-premium-01.jpg" alt="Park Community School students enjoy school life." />
+        </div>
+
+        <div class="columns">
+          <ul class="block-grid-large-2">
             <li>
               <p>For 2018/2019 our allocated budget is:</p>
             </li>
@@ -65,10 +69,6 @@
           <p>The school spent £475,095 providing additional support for PP students. The pupil premium is grant funding and is in addition to the school’s Delegated Budget. The school chooses to invest additional funding from its delegated budget to support pupil premium funding.</p>
           <p>The Pupil Premium is allocated by calculating the number of students who are on Free School Meals (FSM) or have had FSM in the last six years. Students who have been in care continuously for more than six months or have a parent in the Armed Services also lead to some additional funding for the school.</p>
         </div>
-
-        <div class="small-10 small-centered medium-uncentered medium-5 columns">
-          <br><img src="images/pupil-premium/pupil-premium-01.jpg" alt="Park Community School students enjoy school life." />
-        </div>
     </div>
     <br><br><br>
 </section>
@@ -80,11 +80,7 @@
     <div class="row">
         <div class="medium-8 medium-push-4 columns">
           <p>In 2018 the gap in achievement between non PP and PP students in GCSEs was -0.12 for Progress 8 (PP-0.88, non PP -0.76)</p>
-          
-          <ul class="accordion" data-accordion>
-            <li class="accordion-navigation">
-              <a href="#panel1a">Main barriers to educational achievement faced by eligible students could include:</a>
-              <div id="panel1a" class="content">
+          <p>Main barriers to educational achievement faced by eligible students could include:</p>
                 <ul class="circle">
                    <li>Low aspiration</li>
                    <li>Gaps in learning</li>
@@ -97,11 +93,8 @@
                    <li>Personal health related and well-being issues</li>
                    <li>Low self-esteem</li>
                </ul>
-               <br>
                <p>This is not an exhaustive list and by no means applies to all students who may qualify for Pupil Premium. </p>
               </div>
-            </li>
-          </ul>
           <br class="show-for-small-only">
         </div>
         <div class="hide-for-small-only medium-uncentered medium-4 medium-pull-8 columns">
