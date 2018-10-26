@@ -24,10 +24,9 @@
     <div class="row">
         <br>
         <div class="medium-7 columns">
-          <p>Grant Allocation:</p>
           <p>At Park Community School we are committed to providing ALL students with a great education; securing strong academic outcomes alongside experiences of the curriculum and the world around us which broaden horizons and encourage a love of learning. We encourage students to discover what they love and therefore invest heavily in securing high quality teaching and enabling all students to access a broad and balanced curriculum, which includes a wealth of experiences outside of the classroom.</p>
           
-          <p>Our Pupil premium Strategy is focussed on 3 broad areas:</p>
+          <p>Our Pupil premium Strategy is focussed on 4 broad areas:</p>
           <ol>
             <li>High quality teaching which develops independent thinking</li>
             <li>Parental engagement and attendance</li>
@@ -88,9 +87,8 @@
                    <li>Low self-esteem</li>
                </ul>
                <p>This is not an exhaustive list and by no means applies to all students who may qualify for Pupil Premium. </p>
-              </div>
-          <br class="show-for-small-only">
         </div>
+          <br class="show-for-small-only">
         <div class="hide-for-small-only medium-uncentered medium-4 medium-pull-8 columns">
           <br>
           <img src="images/pupil-premium/pupil-premium-02.jpg" alt="Park Community School creativity blooms." />
