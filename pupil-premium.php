@@ -42,11 +42,7 @@
         </div>
 
         <div class="columns">
-          <ul class="block-grid-large-2">
-            <li>
-              <p>For 2018/2019 our allocated budget is:</p>
-            </li>
-            <li>
+          <p>For 2018/2019 our allocated budget is:</p>
               <table>
                 <tr>
                   <td>Pupil premium</td>
@@ -61,8 +57,6 @@
                   <td>£0</td>
                 </tr>
               </table>
-            </li>
-          </ul>
 
           <p>Grant Allocation:</p>
           <p>In 2017/2018 the school received £431,970 for Pupil Premium (PP) plus £2,100 for Children in Care.</p>
