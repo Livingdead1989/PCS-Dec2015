@@ -42,9 +42,9 @@
         </div>
         <div class="medium-4 columns">
             <img src="images/schoolmeals/schoolmeals-01.jpg">
-            <br>
         </div>
         <div class="medium-12 columns">
+            <br>
             <p>Our vision for MUNCH is to develop a sustainable local social enterprise by establishing a community food shop and café.  This will provide volunteering and employment opportunities, as well as a casual meeting and eating venue to reduce social isolation – watch this space for more details.</p>
             <p>We work in partnership with organisations who have excess food which otherwise would go into landfill .  This helps to fill our MUNCH fridge in the Dickinson Centre.  This is always fully stocked with emergency food for local families who are most in need.</p>
             <p>We have expanded MUNCH to both Thursday nights and Sunday lunches.  2 course Sunday lunches start monthly from Sunday 25th March and Thursday nights meals start weekly from Thursday March 29th.</p>
