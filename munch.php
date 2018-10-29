@@ -42,6 +42,7 @@
         </div>
         <div class="medium-4 columns">
             <img src="images/schoolmeals/schoolmeals-01.jpg">
+            <br>
         </div>
         <div class="medium-12 columns">
             <p>Our vision for MUNCH is to develop a sustainable local social enterprise by establishing a community food shop and café.  This will provide volunteering and employment opportunities, as well as a casual meeting and eating venue to reduce social isolation – watch this space for more details.</p>
