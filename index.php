@@ -72,13 +72,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!-- <section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a style="color:#474747;" href=""></a>.</p>
+        <p><a style="color:#474747;" href="/munch.php">Park Community School's MUNCH programme</a>.</p>
     </div>
   </div>
-</section>  -->
+</section>
 <!-- END NOTIFICATION -->
 
 
