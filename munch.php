@@ -27,8 +27,8 @@
 <!-- Breadcrumb -->
 <div class="row">
     <ul class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
-        <li role="menuitem"><a>MUNCH</a></li>
-        <li role="menuitem" class="current"><a href="/events.php">Events</a></li>
+        <li role="menuitem" class="current"><a>MUNCH</a></li>
+        <li role="menuitem"><a href="/events.php">Events</a></li>
     </ul>
 </div>
 
