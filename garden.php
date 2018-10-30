@@ -62,8 +62,9 @@
 			<h2>Garden Calendar Monthly</h2>
 			<p>What is the monthly newletters..... </p>
 			<ul class="circle">
-				<li><a href="assets/garden/2018-01.pdf" target="_blank">Issue 01 - Beauties for January</a></li>
-				<li><a href="assets/garden/2018-03.pdf" target="_blank">Issue 02 - Mulching in March</a></li>
+				<li><a href="assets/garden/2018-01.pdf" target="_blank">Issue 01 - Beauties for January 2018</a></li>
+				<li><a href="assets/garden/2018-03.pdf" target="_blank">Issue 02 - Mulching in March 2018</a></li>
+				<li><a href="assets/garden/2018-10.pdf" target="_blank">Issue 03 - Gardening Notes: November 2018</a></li>
 			</ul>
 		</div>
 	</div>
