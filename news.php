@@ -221,5 +221,18 @@
         <script src="js/vendor/libraries.min.js"></script>
         <script src="js/vendor/foundation.min.js"></script>
         <script src="js/app.min.js"></script>
+        <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <script type="text/javascript" src="slick/slick.min.js"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function(){
+              $('.homepage-slider').slick({
+                autoplay: true,
+                dots: true,
+                fade: true
+              });
+            });
+        </script>
     </body>
 </html>
