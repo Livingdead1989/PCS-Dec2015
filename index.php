@@ -76,7 +76,7 @@
   <div class="row">
     <div class="large-12 columns">
         <p><a style="color:#474747; font-size:1.2em;" href="/munch.php">Park Community School's MUNCH programme</a>.</p>
-        <p>Featured on <a href="https://www.youtube.com/watch?v=6oCBGrkV9aw" target="_blank">BBC1 Inside Out</a>.</p>
+        <p>Featured on <a style="color:#474747;" href="https://www.youtube.com/watch?v=6oCBGrkV9aw" target="_blank">BBC1 Inside Out</a>.</p>
     </div>
   </div>
 </section>
