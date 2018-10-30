@@ -197,15 +197,19 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row" id="remembrance">
-        <h4>Remembrance Commemorations</h4>
-        <p>As part of our Remembrance commemorations this year, with the help of our local community we have created a knitted poppy wave to honour those who have lost their lives through war.  Our display is available to view from 4:00pm daily until the 16th November.</p>
+        <div class="columns">
+            <h4>Remembrance Commemorations</h4>
+            <p>As part of our Remembrance commemorations this year, with the help of our local community we have created a knitted poppy wave to honour those who have lost their lives through war.  Our display is available to view from 4:00pm daily until the 16th November.</p>
+        </div>
 
-        <div class="homepage-slider">
-            <div><img src="images/news/remembrance/remembrance1.jpg" alt="Rememberance Commemorations at Park"></div>
-            <div><img src="images/news/remembrance/remembrance2.jpg" alt="Rememberance Commemorations at Park"></div>
-            <div><img src="images/news/remembrance/remembrance3.jpg" alt="Rememberance Commemorations at Park"></div>
-            <div><img src="images/news/remembrance/remembrance4.jpg" alt="Rememberance Commemorations at Park"></div>
-            <div><img src="images/news/remembrance/remembrance5.jpg" alt="Rememberance Commemorations at Park"></div>
+        <div class="columns small-8 small-push-2">
+            <div class="homepage-slider">
+                <div><img src="images/news/remembrance/remembrance1.jpg" alt="Rememberance Commemorations at Park"></div>
+                <div><img src="images/news/remembrance/remembrance2.jpg" alt="Rememberance Commemorations at Park"></div>
+                <div><img src="images/news/remembrance/remembrance3.jpg" alt="Rememberance Commemorations at Park"></div>
+                <div><img src="images/news/remembrance/remembrance4.jpg" alt="Rememberance Commemorations at Park"></div>
+                <div><img src="images/news/remembrance/remembrance5.jpg" alt="Rememberance Commemorations at Park"></div>
+            </div>
         </div>
 
     </div>
