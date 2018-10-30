@@ -78,7 +78,7 @@
                     <h4>Park Bakery </h4>
                     <p>The school kitchen team are highly skilled and have now started a daily bakery which offer students and staff the opportunity to buy fresh bread daily we sell a wide range of products from Focaccia, Sour Dough and White Loafs to Scones and Cakes.</p>
                     <h4>Park Eggs</h4>
-                    <p>We now have a wide variety of bird on the school site and sell there aggs to the staff, students and public we currently sell – Hen, Duck and Quail Eggs.</p>
+                    <p>We now have a wide variety of bird on the school site and sell there eggs to the staff, students and public we currently sell – Hen, Duck and Quail Eggs.</p>
                 </div>
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
                     <a href="/park-farm.php">
