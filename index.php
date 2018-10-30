@@ -99,7 +99,7 @@
                     </div> -->
 
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
-                        <a href="/catering.php">
+                        <a href="/news.php#remembrance">
                             <div class="homepage-slider">
                                 <div><img src="images/news/remembrance/remembrance1.jpg" alt="Rememberance Commemorations at Park"></div>
                                 <div><img src="images/news/remembrance/remembrance2.jpg" alt="Rememberance Commemorations at Park"></div>
@@ -107,7 +107,7 @@
                                 <div><img src="images/news/remembrance/remembrance4.jpg" alt="Rememberance Commemorations at Park"></div>
                                 <div><img src="images/news/remembrance/remembrance5.jpg" alt="Rememberance Commemorations at Park"></div>
                             </div>
-                            <p class="subheader text-center">Rememberance Commemorations</p>
+                            <p class="subheader text-center">Remembrance Commemorations</p>
                         </a>
                     </div>
                     
