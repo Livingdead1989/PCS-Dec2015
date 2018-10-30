@@ -74,34 +74,9 @@
     <div class="row">
 
         <div id="primary-link" class="medium-12 columns">
-            <h3>Primary Link</h3>
+            <h3>Primary Link (defunct)</h3>
             <p>Primary Link magazine is all about the schools in our local area.</p>
-            <p>Primary Link is available in downloadable PDF format.</p>
-
-            <ul class="text-center small-block-grid-1 medium-block-grid-3">
-                <li class="hide-for-small-only">
-                    <a href="assets/news/primarylink/issue3-summer2016.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primarylink/covers/issue3.jpg" alt="Park Post Issue 03 Frontcover">
-                        <p>Issue 03 - Summer 2016</p>
-                    </a>
-                </li>
-
-                <li class="hide-for-small-only">
-                    <a href="assets/news/primarylink/issue2-spring2016.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primarylink/covers/issue2.jpg" alt="Park Post Issue 02 Frontcover">
-                        <p>Issue 02 - Spring 2016</p>
-                    </a>
-                </li>
-
-                <li>
-                    <a href="assets/news/primarylink/issue1-autumn2015.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/primarylink/covers/issue1.jpg" alt="Primary Link Issue 1 Frontcover">
-                        <p>Issue 01 - Autumn 2015</p>
-                    </a>
-                </li>
-
-            </ul>
-            <p>For older issues of Primary Link visit our <a href="/park-archive.php">Archive</a>.</p>
+            <p>Primary Link is available in downloadable PDF format please visit our <a href="/park-archive.php">Archive</a> page.</p>
         </div>
     </div>
     <br><br>

@@ -101,9 +101,13 @@
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                         <a href="/catering.php">
                             <div class="homepage-slider">
-                                <div><img src="images/news/catering/educating_winner.jpg" alt="Winners of The Educatering Award 2018"></div>
+                                <div><img src="images/news/remembrance/remembrance1.jpg" alt="Rememberance Commemorations at Park"></div>
+                                <div><img src="images/news/remembrance/remembrance2.jpg" alt="Rememberance Commemorations at Park"></div>
+                                <div><img src="images/news/remembrance/remembrance3.jpg" alt="Rememberance Commemorations at Park"></div>
+                                <div><img src="images/news/remembrance/remembrance4.jpg" alt="Rememberance Commemorations at Park"></div>
+                                <div><img src="images/news/remembrance/remembrance5.jpg" alt="Rememberance Commemorations at Park"></div>
                             </div>
-                            <p class="subheader text-center">Educatering 2018 Winner</p>
+                            <p class="subheader text-center">Rememberance Commemorations</p>
                         </a>
                     </div>
                     
@@ -170,9 +174,9 @@
 
             <ul class="text-center large-block-grid-3 medium-block-grid-2 small-block-grid-1">
                 <li>
-                    <div class="menu-box"><a href="/park-farm.php">
-                            <img src="images/index/farm.jpg" alt="Park Community School Farm - Much More Than Just a School">
-                            <p>Market Farm</p>
+                    <div class="menu-box"><a href="/munch.php">
+                            <img src="images/index/munch.jpg" alt="MUNCH">
+                            <p>MUNCH</p>
                         </a></div>
                 </li>
                 <li>
@@ -182,9 +186,9 @@
                         </a></div>
                 </li>
                 <li>
-                    <div class="menu-box"><a href="/ventures.php">
-                            <img src="images/index/charity.jpg" alt="Park Community Ventures - Much More Than Just a School">
-                            <p>Charity</p>
+                    <div class="menu-box"><a href="/park-farm.php">
+                            <img src="images/index/farm.jpg" alt="Park Community School Farm - Much More Than Just a School">
+                            <p>Market Farm</p>
                         </a></div>
                 </li>
                 <li>
@@ -224,9 +228,9 @@
                         </a></div>
                 </li>
                 <li>
-                    <div class="menu-box"><a href="/munch.php">
-                            <img src="images/index/munch.jpg" alt="MUNCH">
-                            <p>MUNCH</p>
+                    <div class="menu-box"><a href="/ventures.php">
+                            <img src="images/index/charity.jpg" alt="Park Community Ventures - Much More Than Just a School">
+                            <p>Charity</p>
                         </a></div>
                 </li>
             </ul>
