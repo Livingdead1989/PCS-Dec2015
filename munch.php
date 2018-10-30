@@ -148,17 +148,16 @@
             <h4>BBC Inside Out South</h4>
             <p>Park Community School's MUNCH project has been featured in BBC's Inside Out South</p>
             <p>"We meet the Portsmouth head teacher who opens his school throughout the holidays to feed children who might otherwise be missing meals."</p>
-
-            <div class="row">
-                <div class="columns small-8 small-push-2">
-                    <div class="flex-video widescreen border-radius-5">
-                        <iframe src="https://www.youtube.com/watch?v=6oCBGrkV9aw" frameborder="0" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </div>
-            <br>
         </div>
     </div>
+    <div class="row">
+        <div class="columns small-8 small-push-2">
+            <div class="flex-video widescreen border-radius-5">
+                <iframe src="https://www.youtube.com/watch?v=6oCBGrkV9aw" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+    <br>
 </section>
 
 <!-- FOOTER -->
