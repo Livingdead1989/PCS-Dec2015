@@ -114,10 +114,20 @@
                 </div>
             </div>
             <div class="row">
-                <div class="columns"> 
+                <div class="columns">
+                    <br>
                     <p>Ensures that no child, no matter what school or age need go hungry during the holidays.</p>
                     <p>As a school we were aware of the food poverty that some of our community experience and were concerned our students were going hungry. This was reinforced when our local community told us how the food bank was consistently running out of food. We set up a community group to tackle food poverty in our area and in April 2017 MUNCH was born.</p>
-                    <p>For more information please visit our <a href="/munch.php">Munch page</a>.</p>
+
+                    <div class="row">
+                        <div class="columns small-8 small-push-2">
+                            <div class="flex-video widescreen border-radius-5">
+                                <iframe src="https://www.youtube-nocookie.com/embed/lkUDau7jY4Q" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p class="text-center">For more information view our <a href="/munch.php">Munch page</a>.</p>
                 </div>
                 
             </div>
