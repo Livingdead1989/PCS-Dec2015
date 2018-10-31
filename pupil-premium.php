@@ -24,17 +24,17 @@
     <div class="row">
         <br>
         <div class="medium-7 columns">
-          <p>At Park Community School we are committed to providing ALL students with a great education; securing strong academic outcomes alongside experiences of the curriculum and the world around us which broaden horizons and encourage a love of learning. We encourage students to discover what they love and therefore invest heavily in securing high quality teaching and enabling all students to access a broad and balanced curriculum, which includes a wealth of experiences outside of the classroom.</p>
+          <p>At Park Community School we are committed to providing ALL students with a great education; securing strong academic outcomes alongside experiences of the curriculum and the world around us which broaden horizons and encourage a love of learning. We encourage students to discover what they love and therefore invest heavily in developing the quality of teaching and enabling all students to access a broad and balanced curriculum, which includes a wealth of experiences outside of the classroom.</p>
           
           <p>Our Pupil premium Strategy is focussed on 4 broad areas:</p>
           <ol>
-            <li>High quality teaching which develops independent thinking</li>
-            <li>Parental engagement and attendance</li>
-            <li>Cultural capital and student leadership</li>
+            <li>High quality teaching which develops independence</li>
+            <li>A broad curriculum which develops Cultural Capital and student leadership</li>
             <li>Behaviour for Learning</li>
+            <li>Parental engagement and attendance</li>
           </ol>
 
-          <p>Our Pupil Premium strategy is based on a comprehensive understanding of our students, their families and the community and is regularly reviewed using internal and external data and current research produced the Education Endowment Foundation. Park Community School participated in the ‘Improving Outcomes for Disadvantaged Learners’ project with Hampshire and Rosendale Research during 2017-18.</p>
+          <p>Our Pupil Premium strategy is based on a comprehensive understanding of our students, their families and the community. We regularly review its impact using internal and external data and current research produced the Education Endowment Foundation. Park Community School participated in the ‘Improving Outcomes for Disadvantaged Learners’ project with Hampshire and Rosendale Research during 2017-18.</p>
         </div>
         <div class="small-10 small-centered medium-uncentered medium-5 columns">
           <br><img src="images/pupil-premium/pupil-premium-01.jpg" alt="Park Community School students enjoy school life." />
@@ -204,7 +204,8 @@
     </div>
     <div class="row">
       <div class="large-12 columns">
-
+        <h4>Pupil premium Strategy Documents</h4>
+        <p></p>
           
         </div>
       </div>
