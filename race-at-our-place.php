@@ -37,7 +37,9 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-        <div class="columns small-8 large-4 large-push-8"></div>
+        <div class="columns small-8 large-4 large-push-8">
+            <img src="images/race-at-our-place/cancer_research.png" alt="Cancer Research UK">
+        </div>
         <div class="columns large-8 large-pull-4">
             <h3>Raising Awareness of Cancer</h3>
             <p>Race at Our Place started in 2013 and is a fun run event where our students and staff raise money and awareness for Cancer research and support for those battling cancer.</p>
