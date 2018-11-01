@@ -23,9 +23,11 @@
 <section>
     <div class="row">
         <div class="column small-8 small-push-2">
+            <br><br>
             <div class="flex-video widescreen border-radius-5">
                 <iframe src="https://www.youtube-nocookie.com/embed/0hedquGYgXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
+            <br><br>
         </div>
     </div>
 </section>
@@ -35,7 +37,12 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-
+        <div class="columns small-8 large-4 large-push-8"></div>
+        <div class="columns large-8 large-pull-4">
+            <h3>Raising Awareness of Cancer</h3>
+            <p>Race at Our Place started in 2013 and is a fun run event where our students and staff raise money and awareness for Cancer research and support for those battling cancer.</p>
+            <p>Each year we have a wonderful turn out by the local community to support all runners and is truely heart warming to see everyone supporting such a fantastic cause.</p>
+        </div>
     </div>
     <br><br>
 </section>

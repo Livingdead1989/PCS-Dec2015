@@ -23,9 +23,11 @@
 <section>
     <div class="row">
         <div class="column small-8 small-push-2">
+            <br><br>
             <div class="flex-video widescreen border-radius-5">
                 <iframe src="https://www.youtube-nocookie.com/embed/P7WO_ckk6Zk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
+            <br><br>
         </div>
     </div>
 </section>
