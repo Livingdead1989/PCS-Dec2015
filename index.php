@@ -233,6 +233,18 @@
                             <p>Charity</p>
                         </a></div>
                 </li>
+                <li>
+                    <div class="menu-box"><a href="/race-at-our-place.php">
+                            <img src="images/index/race-at-our-place.jpg" alt="Park Community Race at Our Place - Much More Than Just a School">
+                            <p>Race at Our Place</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="/greenpower.php">
+                            <img src="images/index/greenpower.jpg" alt="Park Community Greenpower - Much More Than Just a School">
+                            <p>Greenpower</p>
+                        </a></div>
+                </li>
             </ul>
 
             <br>
