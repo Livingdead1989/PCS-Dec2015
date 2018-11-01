@@ -34,7 +34,9 @@
             <p>Below you will find details of services and packages we can provide.</p>
         </div>
         <div class="small-8 small-offset-2 small-pull-2 medium-pull-0 medium-offset-0 medium-6 columns">
-        	<img src="images/community/community-01.jpg" alt="Park Community - Laser Tag perfect for Parties">
+            <div class="flex-video widescreen border-radius-5">
+        	   <iframe src="https://www.youtube-nocookie.com/embed/Cuw3jaiOsgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
         </div>
     </div>
     <br><br><br>
