@@ -235,7 +235,7 @@
                 </li>
                 <li>
                     <div class="menu-box"><a href="/race-at-our-place.php">
-                            <img src="images/index/race-at-our-place.jpg" alt="Park Community Race at Our Place - Much More Than Just a School">
+                            <img src="images/index/cancer_research.jpg" alt="Park Community Race at Our Place - Much More Than Just a School">
                             <p>Race at Our Place</p>
                         </a></div>
                 </li>
