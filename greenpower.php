@@ -37,7 +37,17 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-
+        <div class="columns">
+            <h3>To Design, Build and Race an Electric Car</h3>
+            <p>Greenpower helps unlock potential and spark enthusiasm for Science, Technology, Engineering and Maths (STEM) through the excitement of motorsport.</p>
+            <p>Park Community School has 3 cars, these are called:</p>
+            <ul>
+                <li>Keep Up</li>
+                <li>Team Spirit 2</li>
+                <li>Chase</li>
+            </ul>
+            <p>The full race results are hosted by <a href="//www.bbk-online.net/gpt/">BBK online</a> and can be find on their website</p>
+        </div>
     </div>
     <br><br>
 </section>
