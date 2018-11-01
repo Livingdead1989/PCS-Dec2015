@@ -37,8 +37,9 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-        <div class="columns small-8 large-4 large-push-8">
+        <div class="columns small-8 small-push-2 large-4 large-push-8">
             <img src="images/race-at-our-place/cancer_research.png" alt="Cancer Research UK">
+            <br>
         </div>
         <div class="columns large-8 large-pull-4">
             <h3>Raising Awareness of Cancer</h3>
