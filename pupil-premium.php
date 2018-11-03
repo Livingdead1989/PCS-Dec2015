@@ -26,7 +26,7 @@
         <div class="medium-7 columns">
           <p>At Park Community School we are committed to providing ALL students with a great education; securing strong academic outcomes alongside experiences of the curriculum and the world around us which broaden horizons and encourage a love of learning. We encourage students to discover what they love and therefore invest heavily in developing the quality of teaching and enabling all students to access a broad and balanced curriculum, which includes a wealth of experiences outside of the classroom.</p>
           
-          <p>Our Pupil premium Strategy is focussed on 4 broad areas:</p>
+          <p>Our Pupil Premium Strategy is focussed on 4 broad areas:</p>
           <ol>
             <li>High quality teaching which develops independence</li>
             <li>A broad curriculum which develops Cultural Capital and student leadership</li>
@@ -37,14 +37,14 @@
           <p>Our Pupil Premium strategy is based on a comprehensive understanding of our students, their families and the community. We regularly review its impact using internal and external data and current research produced the Education Endowment Foundation. Park Community School participated in the ‘Improving Outcomes for Disadvantaged Learners’ project with Hampshire and Rosendale Research during 2017-18.</p>
         </div>
         <div class="small-10 small-centered medium-uncentered medium-5 columns">
-          <br><img src="images/pupil-premium/pupil-premium-01.jpg" alt="Park Community School students enjoy school life." />
+          <br><img src="images/pupil-Premium/pupil-Premium-01.jpg" alt="Park Community School students enjoy school life." />
         </div>
 
         <div class="columns">
           <p>For 2018/2019 our allocated budget is:</p>
               <table>
                 <tr>
-                  <td>Pupil premium</td>
+                  <td>Pupil Premium</td>
                   <td>£413,270</td>
                 </tr>
                 <tr>
@@ -59,7 +59,7 @@
 
           <p>Grant Allocation:</p>
           <p>In 2017/2018 the school received £431,970 for Pupil Premium (PP) plus £2,100 for Children in Care.</p>
-          <p>The school spent £475,095 providing additional support for PP students. The pupil premium is grant funding and is in addition to the school’s Delegated Budget. The school chooses to invest additional funding from its delegated budget to support pupil premium funding.</p>
+          <p>The school spent £475,095 providing additional support for PP students. The pupil Premium is grant funding and is in addition to the school’s Delegated Budget. The school chooses to invest additional funding from its delegated budget to support pupil Premium funding.</p>
           <p>The Pupil Premium is allocated by calculating the number of students who are on Free School Meals (FSM) or have had FSM in the last six years. Students who have been in care continuously for more than six months or have a parent in the Armed Services also lead to some additional funding for the school.</p>
         </div>
     </div>
@@ -91,7 +91,7 @@
           <br class="show-for-small-only">
         <div class="hide-for-small-only medium-uncentered medium-4 medium-pull-8 columns">
           <br>
-          <img src="images/pupil-premium/pupil-premium-02.jpg" alt="Park Community School creativity blooms." />
+          <img src="images/pupil-Premium/pupil-Premium-02.jpg" alt="Park Community School creativity blooms." />
         </div>
     </div>
     <br><br><br>
@@ -192,7 +192,7 @@
         </ul>
       </div>
       <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 large-4 columns">
-        <img src="images/pupil-premium/pupil-premium-03.jpg" alt="Teaching at Park Community School is an enjoyable experience.">
+        <img src="images/pupil-Premium/pupil-Premium-03.jpg" alt="Teaching at Park Community School is an enjoyable experience.">
       </div>
     </div>
     <br><br><br>
@@ -204,8 +204,10 @@
     </div>
     <div class="row">
       <div class="large-12 columns">
-        <h4>Pupil premium Strategy Documents</h4>
-        <p></p>
+        <h4>Pupil Premium Strategy Documents</h4>
+        <p>
+        <li><a href="/assets/disad-v-non-disad.pdf" target="_blank">Summary of Data comparing Disadvantaged and Non-Disadvantaged students updated October 2018</a></li>	
+        </p>
           
         </div>
       </div>
