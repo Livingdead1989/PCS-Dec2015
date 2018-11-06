@@ -29,7 +29,8 @@
             <p>It was incorporated in May 2013 and is owned and operated by four directors. The four directors have a vast range of experience between them. This covers education, business, military, and the public sector. Each director also has an essential role within Park Community School.</p>
 
             <div class="flex-video widescreen border-radius-5">
-                <iframe src="https://www.youtube-nocookie.com/embed/c210lPqaprY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe src="https://player.vimeo.com/video/299177274" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
             </div>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
