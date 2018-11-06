@@ -46,7 +46,7 @@
         <div class="row">
             <div class="columns small-8 small-push-2">
                 <div class="flex-video widescreen border-radius-5">
-                    <iframe src="https://www.youtube-nocookie.com/embed/fqUWPw2UHR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="https://player.vimeo.com/video/299177359" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </div>
             </div>
         </div>
