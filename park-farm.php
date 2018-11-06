@@ -42,7 +42,7 @@
         <div class="medium-12 columns">
           <!-- Park Farm Playlist Videos -->
           <div class="flex-video widescreen border-radius-5">
-            <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4_9icLT-LuWGb9qMWYNzFHDa608hU-HN" frameborder="0" gesture="media" allowfullscreen></iframe>
+            <iframe src="https://vimeo.com/album/5535864/embed" width="1280" height="720" allowfullscreen frameborder="0"></iframe>
           </div>
         </div>
     </div>

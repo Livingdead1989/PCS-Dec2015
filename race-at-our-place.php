@@ -25,7 +25,7 @@
         <div class="column small-8 small-push-2">
             <br><br>
             <div class="flex-video widescreen border-radius-5">
-                <iframe src="https://www.youtube-nocookie.com/embed/0hedquGYgXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe src="https://player.vimeo.com/video/299177336" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
             <br><br>
         </div>
