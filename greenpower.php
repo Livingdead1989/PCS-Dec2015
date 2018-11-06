@@ -65,12 +65,14 @@
             <p>Park have been competing for 10 years in Greenpower with their original car called ‘Team Spirit’ being designed and built by its students. They have recently invested in 3 new kit cars manufactured by Greenpower and recruited new enthusiastic Park STEM engineers to build these new cars to try and become more competitive and challenge the top teams. The new Greenpower teams built the 3 new cars which are aptly named ‘Team Spirit 2’, ‘Keep Up’ and ‘Chase’.</p>
             <p>The cars have been built by students to allow them to develop their STEM knowledge and to give an insight into possible future careers. They then compete at a national level in different areas of the country. Some of the races include Goodwood Motor circuit, Ford Dunton test track, Dunsfold (Top Gear test track) and Rockingham Motor Speedway. Over 260 cars competed in 2018 with 10,000 students taking part across the country. We finished 6th 29th and 39th out of 160 cars within our category of car.</p>
 
-            <div class="homepage-slider">
-                <div><img src="images/greenpower/greenpower1.jpg" alt="Park Community Schools Greenpower Team"></div>
-                <div><img src="images/greenpower/greenpower2.jpg" alt="Park Community Schools Greenpower Team"></div>
-                <div><img src="images/greenpower/greenpower3.jpg" alt="Park Community Schools Greenpower Team"></div>
+            <div class="columns small-8 small-push-2">
+                <div class="homepage-slider">
+                    <div><img src="images/greenpower/greenpower1.jpg" alt="Park Community Schools Greenpower Team"></div>
+                    <div><img src="images/greenpower/greenpower2.jpg" alt="Park Community Schools Greenpower Team"></div>
+                    <div><img src="images/greenpower/greenpower3.jpg" alt="Park Community Schools Greenpower Team"></div>
+                </div>
+                <p class="subheader text-center">Park's Greenpower Team</p>
             </div>
-            <p class="subheader text-center">Park's Greenpower Team</p>
         </div>
         
     </div>
