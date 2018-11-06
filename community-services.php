@@ -35,7 +35,7 @@
         </div>
         <div class="small-8 small-offset-2 small-pull-2 medium-pull-0 medium-offset-0 medium-6 columns">
             <div class="flex-video widescreen border-radius-5">
-        	   <iframe src="https://www.youtube-nocookie.com/embed/Cuw3jaiOsgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        	   <iframe src="https://player.vimeo.com/video/299177303" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
         </div>
     </div>
