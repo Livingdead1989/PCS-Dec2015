@@ -37,8 +37,17 @@
 				</span>
 			</li> -->
 
+      <li>
+        <h4>Teacher of Geography</h4>  
+        <p><em>Closing Date: 20th November</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/geography_teacher.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
     
-			<li><br><span class="subheader">Please check back later.</span></li>
+			<!-- <li><br><span class="subheader">Please check back later.</span></li> -->
 
 	             
           
