@@ -90,43 +90,25 @@
               </div>
 <!--                  Event box --> 
 
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">22nd-26th Oct</p>
-                  <p class="event-time">12:00-13:00</p>
-                </div>
-                <h2 class="event-title">MUNCH</h2>
-                <p class="event-subheader">Half Term Munch</p>
-                <p class="event-description">MUNCH supplies nutritious 2 course meals and activities for children and their families attending any Leigh Park school during the school holidays.</p>
-                <div class="link-wrap">
-                  <a href="/munch.php" target="_blank" class="button success radius">Munch Page</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box -->
 
 <!--                    Event Box  -->
-              <div class="event-wrap">
+              <div class="event-wrap feature-event sticky-event">
                 <div class="date-wrap">
-                  <p class="event-date">22nd-26th Oct</p>
-                  <p class="event-time">12:30-14:30</p>
+                  <p class="event-date">12th Jan 2019</p>
+                  <p class="event-time">18:00-20:00</p>
                 </div>
-                <h2 class="event-title">Half Term Activities</h2>
-                <p class="event-subheader">Free Activities</p>
-                <p class="event-description">Monday - Inflatable Fun Ages 6-11 <br>Tuesday - Artscape <br>Wednesday - South Coast Footable, Ages 4+ <br>Thursday - Facepainting <br>Friday - Artscape.</p>
+                <h2 class="event-title">Surplus Supper</h2>
+                <p class="event-subheader">UKHarvest Join Park</p>
+                <p class="event-description">Join us in collaboration with Park Community students on Saturday 12th January 2019 at our Surplus Supper at Park Community School for a delicious three course meal.</p>
                 <div class="link-wrap">
-                  <a href="/munch.php" target="_blank" class="button success radius">Munch Page</a>
+                  <a href="//www.ukharvest.org.uk/event/surplus-supper-12-jan" target="_blank" class="button success radius">UKHarvest Website</a>
                 </div>
                 <div class="bottom-wrap">
                   <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
                   <div class="cost-wrap">Free</div>
                 </div>
               </div>
-<!--                  Event box -->
+<!--                  Event box --> 
 
 
 
