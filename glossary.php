@@ -53,7 +53,7 @@
                         <a href="#letterZ">Z</a>
                     </p>
                     <hr>
-                    <h2 id="letterA">A</h2>
+                    <h2 style="color: #5fbcea;" id="letterA">A</h2>
 
                     <h4>Academies</h4>
 
@@ -76,7 +76,7 @@
                     <p>Used in secondary schools, Attainment 8 records a pupil's achievement across eight qualifications, including Maths and English.</p>
 
 
-                    <h2 id="letterB">B</h2>
+                    <h2 style="color: #5fbcea;" id="letterB">B</h2>
 
                     <h4>BA (Hons)</h4>
 
@@ -91,14 +91,14 @@
                     <p>Business and Technician Education Council – offering vocational qualifications for access to specific careers or higher education.</p>
 
 
-                    <h2 id="letterC">C</h2>
+                    <h2 style="color: #5fbcea;" id="letterC">C</h2>
 
                     <h4>Comprehensive school</h4>
 
                     <p>Comprehensive schools are secondary level state-funded schools, that do not select their students on the basis of achievement or their academic aptitude. They should accept any applicable students from within a geographical area. They differ from grammar schools, which selects pupils on the basis of their grade at the 11+ exam. Today, most comprehensives are also academies.</p>
 
 
-                    <h2 id="letterD">D</h2>
+                    <h2 style="color: #5fbcea;" id="letterD">D</h2>
 
                     <h4>DfE</h4>
 
@@ -109,7 +109,7 @@
                     <p>Diploma of Higher Education.</p>
 
 
-                    <h2 id="letterE">E</h2>
+                    <h2 style="color: #5fbcea;" id="letterE">E</h2>
 
                     <h4>Edexcel</h4>
 
@@ -120,7 +120,7 @@
                     <p>Every Child Matters – a government initiative that aims to ensure that every child, whatever their background or their circumstances, has the support they need to be healthy, stay safe, enjoy and achieve, make a positive contribution and achieve economic well-being.</p>
 
 
-                    <h2 id="letterF">F</h2>
+                    <h2 style="color: #5fbcea;" id="letterF">F</h2>
                     
                     <h4>FE</h4>
 
@@ -135,7 +135,7 @@
                     <p>A free school is a variety of academy; a state-funded, free-to-attend, independent school which is not controlled by a local educational authority. A free school is understood to be "free" from local authority control, rather than describing free for students to attend. Like other academies, free schools may have sponsors, but the sponsor may not control more than 1/5 of a free school's board of trustees. Free schools are allowed to employ teachers who have not gained Qualified Teacher Status (QTS).</p>
 
 
-                    <h2 id="letterG">G</h2>
+                    <h2 style="color: #5fbcea;" id="letterG">G</h2>
 
                     <h4>GCSE</h4>
 
@@ -154,14 +154,14 @@
                     <p>Guided Reading bridges the gap between Shared and Independent Reading. Children are grouped by ability, with up to six children in a group. A book is chosen at 'instructional level' so that children will only have difficulty with one word in ten. The teacher leads the session, reinforcing various reading strategies and focusing on individual children as they read.</p>
 
 
-                    <h2 id="letterH">H</h2>
+                    <h2 style="color: #5fbcea;" id="letterH">H</h2>
 
                     <h4>HE</h4>
 
                     <p>Higher education – at university level.</p>
 
 
-                    <h2 id="letterI">I</h2>
+                    <h2 style="color: #5fbcea;" id="letterI">I</h2>
 
                     <h4>IB</h4>
 
@@ -172,14 +172,14 @@
                     <p>Information and communication technology.</p>
 
 
-                    <h2 id="letterJ">J</h2>
+                    <h2 style="color: #5fbcea;" id="letterJ">J</h2>
 
                     <h4>JCQ</h4>
 
                     <p>Joint Council for Qualifications.</p>
 
 
-                    <h2 id="letterK">K</h2>
+                    <h2 style="color: #5fbcea;" id="letterK">K</h2>
 
                     <h4>Key Stage</h4>
 
@@ -196,21 +196,21 @@
                     <p>After GCSEs students can opt to enter Key Stage 5 and take A Levels (Years 12-13/16-18 years old).</p>
 
 
-                    <h2 id="letterL">L</h2>
+                    <h2 style="color: #5fbcea;" id="letterL">L</h2>
 
                     <h4>LA</h4>
 
                     <p>Local authority – a council that has responsibility for providing education to pupils of school age and adult education in its area.</p>
 
 
-                    <h2 id="letterM">M</h2>
+                    <h2 style="color: #5fbcea;" id="letterM">M</h2>
 
                     <h4>Multi-academy trust (MAT)</h4>
 
                     <p>A multi-academy trust (MAT) is a a group of academies run jointly by one board of directors, working together as one entity to pool resources and improve standards across the trust. A multi-academy trust is usually headed by a CEO, who differs from a traditional headteacher, and may not be a qualified teacher themselves.</p>
 
 
-                    <h2 id="letterN">N</h2>
+                    <h2 style="color: #5fbcea;" id="letterN">N</h2>
 
                     <h4>National Curriculum, The</h4>
 
@@ -225,7 +225,7 @@
                     <p>Newly qualified teacher.</p>
 
 
-                    <h2 id="letterO">O</h2>
+                    <h2 style="color: #5fbcea;" id="letterO">O</h2>
 
                     <h4>OCR</h4>
 
@@ -240,7 +240,7 @@
                     <p>Office for Standards in Education, Children’s Services and Skills – regulator of care for children and young people, and inspector of education and training for learners of all ages.</p>
 
 
-                    <h2 id="letterP">P</h2>
+                    <h2 style="color: #5fbcea;" id="letterP">P</h2>
 
                     <h4>Private schools</h4>
 
@@ -251,7 +251,7 @@
                     <p>Progress 8 is a measurement scale used to determine the progress a pupil makes from the end of primary school to the end of Key Stage 4. It was introduced in 2016 as a new measure for determining overall school performance. Under Progress 8, pupils' results are compared to the progress of other pupils nationally with similar levels of attainment (using Attainment 8). Students are then judged relative to their attainment and how much progress they have made since the end of primary school. The average scores of a cohort makes up a school's Progress 8 score.</p>
 
 
-                    <h2 id="letterQ">Q</h2>
+                    <h2 style="color: #5fbcea;" id="letterQ">Q</h2>
 
                     <h4>QCA</h4>
 
@@ -270,8 +270,8 @@
                     <p>Qualified Teacher Status – achieved through university studies and teaching placement.</p>
 
 
-                    <h2 id="letterR">R</h2>
-                    <h2 id="letterS">S</h2>
+                    <h2 style="color: #5fbcea;" id="letterR">R</h2>
+                    <h2 style="color: #5fbcea;" id="letterS">S</h2>
 
                     <h4>SATs</h4>
 
@@ -286,13 +286,13 @@
                     <p>Post-assessment adjustment to grades reflecting temporary illness, injury or other indisposition at the time the assessment was taken.</p>
 
 
-                    <h2 id="letterT">T</h2>
+                    <h2 style="color: #5fbcea;" id="letterT">T</h2>
 
                     <h4>Technicals</h4>
 
                     <p>OCR vocational qualifications at Level 2 and Level 3 for students aged 16+, designed to enable progress to employment or further education within the workplace.</p>
 
-                    <h2 id="letterU">U</h2>
+                    <h2 style="color: #5fbcea;" id="letterU">U</h2>
 
                     <h4>UCAS</h4>
 
@@ -311,16 +311,16 @@
                     <p>Uniform Mark Scale.</p>
 
 
-                    <h2 id="letterV">V</h2>
-                    <h2 id="letterW">W</h2>
+                    <h2 style="color: #5fbcea;" id="letterV">V</h2>
+                    <h2 style="color: #5fbcea;" id="letterW">W</h2>
 
                     <h4>WJEC</h4>
 
                     <p>WJEC (Welsh Joint Education Committee) is a UK exam board offering a range of qualifications including GCSE.</p>
 
-                    <h2 id="letterX">X</h2>
-                    <h2 id="letterY">Y</h2>
-                    <h2 id="letterZ">Z</h2>
+                    <h2 style="color: #5fbcea;" id="letterX">X</h2>
+                    <h2 style="color: #5fbcea;" id="letterY">Y</h2>
+                    <h2 style="color: #5fbcea;" id="letterZ">Z</h2>
                     
                 </div>
             </div><br>
