@@ -2,7 +2,7 @@
 <html class="no-js" lang="en" >
     <head>
 
-        <title>Park Community School | Market Farm</title>
+        <title>Park Community School | Market Garden</title>
         <?php include("includes/head.html") ?>
     </head>
 <body class="page-misc">
@@ -13,7 +13,7 @@
 <header class="header-misc">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Market Farm</h1>
+            <h1>Market Garden</h1>
             <p class="text-capitalize">We Learn, We Grow, We Eat!</p>
         </div>
     </div>
