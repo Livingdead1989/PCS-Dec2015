@@ -338,7 +338,7 @@
     <li>Parent Governor</li>
     <li>Parent Governor</li>
   </ol>
-  <p>Please complete the <a href="assets/governors/SchoolGovernorApplicationForm-October2016.doc" target="_blank">Application Form</a> and submit to our <a href="javascript:location='mailto:\u0043\u006c\u0065\u0072\u006b\u0047\u006f\u0076\u0065\u0072\u006e\u006f\u0072\u0073\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Clerk to Governors</a> for consideration.</p>
+  <p>Please complete the <a href="assets/governors/SchoolGovernorApplicationForm-October2016.doc" target="_blank">Application Form</a> and submit to our <a href="javascript:location='mailto:\u0043\u006c\u0065\u0072\u006b\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Clerk</a> for consideration.</p>
 
   <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
