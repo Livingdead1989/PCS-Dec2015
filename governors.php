@@ -306,7 +306,7 @@
     <br><br>
 </section>
 
-<section class="grey-bg">
+<section class="grey-bg" id="becoming-a-governor">
     <div class="row">
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
@@ -319,6 +319,8 @@
           <a href="#" target="_blank" class="button radius success" data-reveal-id="GovernorPositionsAvailable">View Vacancies</a>
           <p>Alternatively, anybody wishing to be a governor, can write to the Clerk to Governors requesting consideration.</p>
           <p>Parent Governors must submit their application using the form as these Governors are elected in a vote.</p>
+          <a href="/assets/governors/role-of-parent-governor.pdf" target="_blank" class="button small radius success">Role of Parent Governor</a>
+          <a href="/assets/governors/governors-need-you.pdf" target="_blank" class="button small radius success">Park Governors Need You!</a>
 
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-pull-6 medium-6 columns"><img src="images/governors/governors-02.jpg" alt="Park Community School - Become a governor and help support the school"></div>
@@ -338,7 +340,7 @@
     <li>Parent Governor</li>
     <li>Parent Governor</li>
   </ol>
-  <p>Please complete the <a href="assets/governors/SchoolGovernorApplicationForm-October2016.doc" target="_blank">Application Form</a> and submit to our <a href="javascript:location='mailto:\u0043\u006c\u0065\u0072\u006b\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Clerk</a> for consideration.</p>
+  <p>Please complete the <a href="assets/governors/governor-application-form.doc" target="_blank">Application Form</a> and submit to our <a href="javascript:location='mailto:\u0043\u006c\u0065\u0072\u006b\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Clerk</a> for consideration.</p>
 
   <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>

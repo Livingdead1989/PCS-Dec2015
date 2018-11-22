@@ -75,7 +75,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a style="color:#474747;" href="//www.safe4me.co.uk/parents/" target="_blank">Advice and Support for Parents by Safe4me</a>.</p>
+        <p><a style="color:#306078;" href="/governors.php#becoming-a-governor">Parent Governor Vacancy - Learn More...</a>.</p>
     </div>
   </div>
 </section>
