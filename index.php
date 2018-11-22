@@ -94,7 +94,7 @@
                 <div class="text-center">
                     </div>
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
-                      <iframe src="https://vimeo.com/album/5574215/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+                      <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/album/5574215/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
                     </div>
 
                     <!-- <div class="medium-offset-1 medium-10 large-offset-0 large-12">
