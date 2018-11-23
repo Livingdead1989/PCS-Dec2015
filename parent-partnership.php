@@ -22,7 +22,8 @@
 <!-- CONTENT -->
 <section>
     <div class="row">
-        <div class="columns">
+        <br>
+        <div class="columns text-center">
             <a href="https://goo.gl/Hd6BSB" class="button radius">Parent Partnership Survey</a>
         </div>
     </div>
