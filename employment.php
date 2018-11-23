@@ -25,7 +25,8 @@
     <br>
 
 	    <div class="small-12 medium-6 columns">
-	      <h4 class="text-capitilise">Vacancies</h4>
+	      <h4 style="margin-bottom: 0;" class="text-capitilise">Vacancies</h4>
+        <p><em>Governor vacancies are available on the <a href="/governors.php">Governors page</a>.</em></p>
         <hr>
 	      <ul class="no-bullet">
 			<!-- <li>
