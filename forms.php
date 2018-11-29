@@ -34,8 +34,8 @@
                 <li><a href="assets/forms/free-school-meals-application.doc" target="_blank">Free School Meals Application Form</a></li>
                 <li><a href="assets/forms/out-round-application-inc-guidance.doc" target="_blank">Application form for admission to a Hampshire school outside the main admission round</a></li>
                 <li><a href="assets/forms/consent_pack.pdf" target="_blank">Parental Consent Booklet</a></li>
-                <li><a href="assets/forms/medical_consent_form.pdf" target="_blank">Medical Form</a></li>
-                <li><a href="assets/forms/homeschool_agreement.pdf" target="_blank">Park Community school Home School Agreement</a></li>
+                <li><a href="assets/forms/medical_consent_form.doc" target="_blank">Medical Form</a></li>
+                <li><a href="assets/forms/homeschool_agreement.doc" target="_blank">Park Community school Home School Agreement</a></li>
             </ul>
             <br>
             <h3>How to Request Absence</h3>
