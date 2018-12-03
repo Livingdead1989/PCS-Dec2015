@@ -26,7 +26,7 @@
         <div class="medium-8 columns">
             <p>Park Community Enterprises Limited (PCE) is a not for profit organisation based in Havant, Hampshire.</p>
 
-            <p>It was incorporated in May 2013 and is operated by four directors. Each of the four directors involved also have a essential role has an essential role within Park Community School.</p>
+            <p>It was incorporated in May 2013 and is operated by four directors, each of whom hold senior roles within Park Community School.</p>
 
             <div class="flex-video widescreen border-radius-5">
                 <iframe src="https://player.vimeo.com/video/299177274" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -71,7 +71,7 @@
     <div class="row">
 
         <div id="primary-link" class="medium-12 columns">
-            <h3>Primary Link (defunct)</h3>
+            <h3>Primary Link (Completed)</h3>
             <p>Primary Link magazine is all about the schools in our local area.</p>
             <p>Primary Link is available in downloadable PDF format please visit our <a href="/park-archive.php">Archive</a> page.</p>
         </div>
@@ -211,6 +211,39 @@
             </div>
         </div>
 
+    </div>
+    <br><br>
+    <?php include("includes/backtotop.html") ?>
+</section>
+
+
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row" id="communityimpact">
+        <div class="medium-8 columns">
+            <h4>Children and Young People Now Family Support Award 2018</h4>
+            <p>We are proud to announce that on 21 November 2018, Park Community School was named as the 2018 winner of the Family Support Award at the Children and Young People Now Awards, for our MUNCH community food project.</p>
+            <p>The CYPNOW awards are firmly established as the ‘gold standard’ in services for children, young people and families across the UK.  The award provides recognition and pride for teams and individuals who strive to improve young lives day in, day out and whose hard work and perseverance otherwise goes unnoticed and unsung.</p>
+            <p>MUNCH addresses the problem of holiday hunger and offers free meals to children who normally receive free school meals during term time, providing a safe environment for children to come and have a meal during the school holidays.  Everyone is welcome from all local primary and secondary schools.  MUNCH has now expanded to include Thursday tea times and Sunday lunches.</p> 
+            <p>In the judge’s opinion we have done the most in our category, to support whole families to help their children to lead healthy, happy and fulfilling lives safe from harm.</p>
+        </div>
+        <div class="medium-4 columns">
+            <img src="images/news/communityimpact/community_impact_award_2.jpg" alt="PCS Catering Team">
+            <p class="text-center"><small>Community &amp; Site Managers Collecting the Award.</small></p>
+        </div>
+    </div>
+    <br><br><br>
+</section>
+
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
     </div>
     <br><br>
     <?php include("includes/backtotop.html") ?>

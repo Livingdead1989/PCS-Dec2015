@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="medium-8 large-8 columns">
                     <h1>Glossary</h1>
-                    <p class="text-capitalize">Jargon Buster for Educational Terms</p>
+                    <p class="text-capitalize">A Compilation of Educational Terms</p>
                 </div>
             </div>
         </header>

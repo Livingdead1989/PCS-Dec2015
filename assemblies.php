@@ -14,7 +14,7 @@
     <div class="row">
         <div class="medium-8 large-8 columns">
             <h1>Assemblies</h1>
-            <p class="text-capitalize">The important stuff</p>
+            <p class="text-capitalize">Exploring Powerful Themes</p>
         </div>
     </div>
 </header>

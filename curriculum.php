@@ -14,7 +14,7 @@
     <div class="row">
         <div class="medium-8 large-8 columns">
             <h1>Curriculum</h1>
-            <p class="text-capitalize">The ingredients that make up the good stuff</p>
+            <p class="text-capitalize">Our Programmes of Study</p>
         </div>
     </div>
 </header>

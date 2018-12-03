@@ -142,9 +142,11 @@
             <div class="row">
                 <div class="columns">
                     <h4>Educatering Excellence Award 2018 - Winner</h4>
-                    <p>Self-Managed School Caterer of the Year - <strong>Steven Cross</strong></p>
+                    <p>Secondary School Caterer of the Year</p>
+
                     <h4>Educatering Excellence Award 2017 - Finalist</h4>
-                    <p>Secondary School Caterer of the Year - <strong>Steven Cross</strong></p>
+                    <p>Self-Managed School Caterer of the Year</p>
+
                     <h4>Educatering Excellence Award 2016 - Finalist</h4>
                     <p>Newcomer of the Year - <strong>Steven Cross</strong></p>
                     <p>Employees who are new to a company or are in a new role within their existing company who have made an impact within the past 2 years.</p>
