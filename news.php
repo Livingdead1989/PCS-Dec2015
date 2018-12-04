@@ -181,7 +181,7 @@
             <p>We started MUNCH, which runs every day through the school holidays, Thursday tea times and the last Sunday of the month to ensure local families always have something to eat.</p>
         </div>
         <div class="medium-4 columns">
-            <img src="images/news/communityimpact/community_impact_award_2.jpg" alt="PCS Catering Team">
+            <img src="images/news/communityimpact/community_impact_award_2.jpg" alt="Community and Site Manager Collecting the Award">
             <p class="text-center"><small>Community &amp; Site Managers Collecting the Award.</small></p>
         </div>
     </div>
@@ -231,7 +231,7 @@
             <p>In the judge’s opinion we have done the most in our category, to support whole families to help their children to lead healthy, happy and fulfilling lives safe from harm.</p>
         </div>
         <div class="medium-4 columns">
-            <img src="images/news/communityimpact/community_impact_award_2.jpg" alt="PCS Catering Team">
+            <img src="images/news/children_and_young_people_award/children_and_young_people_award.jpg" alt="Collecting the Children and Young People Award">
             <p class="text-center"><small>Community &amp; Site Managers Collecting the Award.</small></p>
         </div>
     </div>
