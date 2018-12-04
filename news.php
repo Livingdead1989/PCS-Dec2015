@@ -232,7 +232,7 @@
         </div>
         <div class="medium-4 columns">
             <img src="images/news/children_and_young_people_award/children_and_young_people_award.jpg" alt="Collecting the Children and Young People Award">
-            <p class="text-center"><small>Community &amp; Site Managers Collecting the Award.</small></p>
+            <p class="text-center"><small>Business &amp; Facilities Managers Collecting the Award.</small></p>
         </div>
     </div>
     <br><br><br>
