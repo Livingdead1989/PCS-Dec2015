@@ -65,7 +65,6 @@
             </ul>
 
             <h3>Subject Content</h3>
-            <p><a href="/assets/curriculum/science/ks3_curriculummap.pdf" target="_blank">KeyStage 3 Curriculum Map</a></p>
 
             <ul class="accordion" data-accordion role="tablist">
                 <li class="accordion-navigation">
@@ -237,6 +236,8 @@
     <h2>Resources</h2>
     <p><a href="/assets/curriculum/science/terms_chemistry.pdf" target="_blank">Dictionary of terms - Chemistry</a></p>
     <p><a href="/assets/curriculum/science/terms_biology.pdf" target="_blank">Dictionary of terms - Biology</a></p>
+    <p><a href="/assets/curriculum/science/yr7_bigpicture.pdf" target="_blank">Year 7 Big Picture</a></p>
+    <p><a href="/assets/curriculum/science/yr8_bigpicture.pdf" target="_blank">Year 8 Big Picture</a></p>
   <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
 
