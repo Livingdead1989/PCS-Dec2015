@@ -282,7 +282,7 @@ header h1, header h3, header p {
 }
 .team-member-container .team-member:active, .team-member-container .team-member:focus, .team-member-container .team-member:hover {
     -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
+        -ms-transform: scale(1.1);
         transform: scale(1.1);
     transition: -webkit-transform .25s ease-in-out;
     -webkit-transition: -webkit-transform .25s ease-in-out;
@@ -312,9 +312,9 @@ header h1, header h3, header p {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -ms-flex-flow: row wrap;
-      -webkit-box-orient: horizontal;
-      -webkit-box-direction: normal;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
           flex-flow: row wrap;
   -ms-flex-line-pack: center;
       align-content: center;
@@ -332,7 +332,7 @@ header h1, header h3, header p {
   left: -10px;
   top: -10px;
   -webkit-transform: rotate(-7deg);
-          -ms-transform: rotate(-7deg);
+      -ms-transform: rotate(-7deg);
       transform: rotate(-7deg);
   background-color: #e21364;
   border: 2px outset #EE3A80;
@@ -351,7 +351,7 @@ header h1, header h3, header p {
   left: -10px;
   top: -10px;
   -webkit-transform: rotate(-7deg);
-          -ms-transform: rotate(-7deg);
+      -ms-transform: rotate(-7deg);
       transform: rotate(-7deg);
   background-color: #32a9e4;
   border: 2px outset #5FBCEA;
@@ -436,12 +436,11 @@ header h1, header h3, header p {
   font-family: FontAwesome;
   content: "\f154";
 }
-
 #site-footer {
     background-color: #333;
     padding: 40px 0 10px;
 }
-#site-footer .footer-awards{
+#site-footer .footer-awards {
     text-align: center;
     color: rgb(204, 204, 204);
     margin-bottom: 40px;
@@ -472,7 +471,6 @@ header h1, header h3, header p {
 #site-footer .flex-wrapper img.footer-award-rec{
     width: 103px;
 }
-
 #site-footer .footer-social {
     float: right;
     margin-bottom: 8px;
@@ -522,8 +520,8 @@ header h1, header h3, header p {
 @media only screen and (max-width:40em) {
   .event-container .event-wrap {
     -webkit-box-flex: 0;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
+        -ms-flex: 0 1 auto;
+            flex: 0 1 auto;
     max-width: 100%;
   }
   footer#site-footer {
