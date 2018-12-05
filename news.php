@@ -222,7 +222,7 @@
     <div class="row">
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
-    <div class="row" id="communityimpact">
+    <div class="row" id="children_and_young_people_award">
         <div class="medium-8 columns">
             <h4>Children and Young People Now Family Support Award 2018</h4>
             <p>We are proud to announce that on 21 November 2018, Park Community School was named as the 2018 winner of the Family Support Award at the Children and Young People Now Awards, for our MUNCH community food project.</p>
