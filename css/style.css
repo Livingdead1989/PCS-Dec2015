@@ -441,6 +441,38 @@ header h1, header h3, header p {
     background-color: #333;
     padding: 40px 0 10px;
 }
+#site-footer .footer-awards{
+    text-align: center;
+    color: rgb(204, 204, 204);
+    margin-bottom: 40px;
+}
+#site-footer .footer-awards p{
+    margin: 0;
+    padding: 0;
+}
+#site-footer .footer-awards .flex-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+#site-footer .flex-wrapper a{
+    margin: 5px;
+}
+#site-footer .flex-wrapper img{
+    opacity: 0.8;
+}
+#site-footer .flex-wrapper img.footer-award-sqa {
+    width: 70px;
+}
+#site-footer .flex-wrapper img.footer-award-rec{
+    width: 103px;
+}
+
 #site-footer .footer-social {
     float: right;
     margin-bottom: 8px;
@@ -482,21 +514,8 @@ header h1, header h3, header p {
     width: 20px;
     text-align: center;
 }
-#site-footer ul.footer-awards {
-    text-align: center;
-}
-#site-footer ul.footer-awards img{
-    opacity:0.8;
-}
-#site-footer ul.footer-awards img.footer-award-sqa {
-    width: 70px;
-}
-#site-footer ul.footer-awards img.footer-award-rec{
-    width:103px;
-}
 #site-footer p.copyright {
     margin: 10px 0 0;
-    font-size: .75rem;
     color: #666;
     text-align: center;
 }
