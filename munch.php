@@ -131,8 +131,8 @@
             
         </div>
         <div class="medium-6 columns text-center">
-                <a href="assets/munch_review.pdf" target="_blank" class="button success radius">Munch Review</a>
-            </div>
+            <a href="assets/munch_review.pdf" target="_blank" class="button success radius">Munch Review</a>
+        </div>
     </div>
     <br><br>
 </section>
@@ -153,6 +153,51 @@
             <div class="flex-video widescreen border-radius-5">
                 <iframe src="https://player.vimeo.com/video/299177101" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
+        </div>
+    </div>
+    <br>
+</section>
+
+<section class="grey-bg" id="chrunch">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
+        <div class="columns">
+            <h4>CHRUNCH <small>Christmas in a box</small></h4>
+            <p>The MUNCH team at Park Community School working in partnership with the FatFace Foundation, have created CHRUNCH to try and reduce food poverty at Christmas in the Havant area. PO9 Foodbank will be assisting with distribution from the Dickinson Centre at Park Community School.</p>
+
+            <div class="text-center">
+                <a href="assets/munch/chrunch_flyer.pdf" target="_blank" class="button success radius">CHRUNCH Flyer</a>
+            </div>
+
+            <p>Need some support with essential food items this Christmas? We'd love to help.</p>
+            <p>Our pop-up food bank will be open to all those that need it this Christmas. There will be a different box every 5 days.</p>
+            <p>Everyone is welcome to a box at each of the 3 stages.</p>
+
+            <ul>
+                <li>Stage 01 - Mon 10th - Fri 14th Dec 2018</li>
+                <li>Stage 02 - Sat 15th - Wed 19th Dec 2018</li>
+                <li>Stage 03 - Tue 20th - Mon 24th Dec 2018</li>
+            </ul>
+
+            <p><em>We have a limited number of boxes, so come early before supplies run out.</em></p>
+
+            <p>Where is our collection point?</p>
+            <p><a href="https://www.google.co.uk/maps/place/The+Dickinson+Centre/@50.8702673,-1.0019494,17z/data=!3m1!4b1!4m5!3m4!1s0x487444925222d409:0xa0733a6598ac67e5!8m2!3d50.8702673!4d-0.9997607?hl=en" target="_blank">The Dickinson Centre, Park Community School</a></p>
+            
+        </div>
+    </div>
+    <br><br>
+</section>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        <div class="columns">
+            
         </div>
     </div>
     <br>
