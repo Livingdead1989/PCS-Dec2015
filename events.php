@@ -143,8 +143,8 @@
                   <a href="/assets/events/big_breakfast.pdf" target="_blank" class="button success radius">View our Flyer</a>
                 </div>
                 <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="" target="_blank"></a></div>
-                  <div class="cost-wrap"></div>
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Free</div>
                 </div>
               </div>
 <!--                  Event box --> 
