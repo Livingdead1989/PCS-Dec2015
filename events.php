@@ -130,6 +130,25 @@
               </div>
 <!--                  Event box --> 
 
+<!--                    Event Box  -->
+              <div class="event-wrap sticky-event">
+                <div class="date-wrap">
+                  <p class="event-date">Every Day</p>
+                  <p class="event-time">07:45-08:15</p>
+                </div>
+                <h2 class="event-title">The Big Healthy Breakfast</h2>
+                <p class="event-subheader">Every day starting in January 2019</p>
+                <p class="event-description">Free breakfast for EVERY student. <br> Choose from: Hot bagels, Cereals or Porridge (other options available but will be charged)</p>
+                <div class="link-wrap">
+                  <a href="/assets/events/big_breakfast.pdf" target="_blank" class="button success radius">View our Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="" target="_blank"></a></div>
+                  <div class="cost-wrap"></div>
+                </div>
+              </div>
+<!--                  Event box --> 
+
 
 
 
