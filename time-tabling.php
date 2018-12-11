@@ -30,6 +30,8 @@
                 <br>
                 <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
                 <br>
+                <li><a href="/assets/timetabling/mocks-jan2019.pdf" target="_blank">Mock Timetable - <br>Jan 2019</a></li>
+                <br>
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Available in downloadable and printable PDF format.</small></h5>
         </div>
