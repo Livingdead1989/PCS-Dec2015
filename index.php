@@ -15,7 +15,7 @@
     <div class="row">
         <div class="medium-5 medium-pull-0 large-4 columns">
             <!-- Much More Logo -->
-            <?php include( '/includes/much_more_logo.html' ); ?>
+            <?php include( "includes/much_more_logo.html" ) ?>
             <br><br>
         </div>
         <div class="medium-7 large-8 columns">
