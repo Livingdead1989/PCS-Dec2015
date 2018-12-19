@@ -43,10 +43,6 @@
             <p><strong>We are guardians of the flame; kindling fires</strong> [“At Park we will be at your child's side every step of the way, guiding them as their character develops and as they make their own discoveries about what they love.” We believe education is a way to change lives: to kindle fires and awaken possibilities].</p>
             <p><strong>Love to teach: joy, glee and delight</strong> [We believe all learners should be welcomed, inspired, challenged, and invested in as individuals, we also believe all staff should model passion for Park so students and their families experience joy, glee and delight].</p>
             <p><strong>We believe that we make a difference and that qualifications alone are not enough we believe in empowering students to feel confident, be independent and make good choices</strong> [existentialism] <strong>within a caring and sharing community</strong>.</p>
-            
-            <br><br>
-            
-            
 
         </div>
     </div>
@@ -61,7 +57,7 @@
     </div>
     <div class="row">
         <div class="columns">
-            <h3>Our objectives include the creation of productive partnerships with all our parents</h3>
+            <h2>Our objectives include the creation of productive partnerships with all our parents</h2>
 
             <ol>
                 <li>Our commitment to working effectively with our parents is fundamental to the Park ethos and is evidenced in our commitment to achieving the LPPA. <em>[KPI 1]</em></li>
@@ -86,7 +82,7 @@
     </div>
     <div class="row">
         <div class="columns">
-            <h3>We aspire to ensure:</h3>
+            <h2>We aspire to ensure:</h2>
 
             <p><strong>Welfare and safeguarding</strong></p>
 
@@ -141,13 +137,13 @@
     </div>
     <div class="row">
         <div class="columns">
-            <h3>Cultural Capital</h3>
+            <h2>Cultural Capital</h2>
             <p>We all have different skills, tastes in music, and life experiences, to name a few. So why is cultural capital important? Our cultural capital gives us power. It helps us achieve goals, become successful, and get on in life, without necessarily having wealth.</p>
             <p>This booklet has been designed to inform our parents and carers how they can help support their child within each subject at Park Community School.</p>
             <p>It outlines websites to look at, visits and cultural experiences your child may enjoy out of school hours to support them in their education, along with recommended books to read.</p>
 
             <div class="columns text-center">
-                <a href="" class="button radius">Cultural Capital Booklet <small>(PDF)</small></a>
+                <a href="/assets/parent-partnership/cultural_capital_booklet.pdf" class="button radius">Cultural Capital Booklet <small>(PDF)</small></a>
             </div>
         </div>
     </div>
