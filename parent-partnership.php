@@ -146,7 +146,8 @@
                 <a href="/assets/parent-partnership/cultural_capital_booklet.pdf" class="button radius">Cultural Capital Booklet <small>(PDF)</small></a>
             </div>
         </div>
-        <div class="columns medium-4">
+        <div class="columns small-8 small-push-2 medium-4 medium-push-0">
+            <br><br>
             <a href="/assets/parent-partnership/cultural_capital_booklet.pdf">
                 <img src="/images/parent-partnership/cultural_capital_booklet.jpg" alt="Park Community School's Cultural Capital Booklet frontcover">
             </a>
