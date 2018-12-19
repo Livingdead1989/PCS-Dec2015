@@ -136,7 +136,7 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-        <div class="columns">
+        <div class="columns medium-8">
             <h2>Cultural Capital</h2>
             <p>We all have different skills, tastes in music, and life experiences, to name a few. So why is cultural capital important? Our cultural capital gives us power. It helps us achieve goals, become successful, and get on in life, without necessarily having wealth.</p>
             <p>This booklet has been designed to inform our parents and carers how they can help support their child within each subject at Park Community School.</p>
@@ -145,6 +145,11 @@
             <div class="columns text-center">
                 <a href="/assets/parent-partnership/cultural_capital_booklet.pdf" class="button radius">Cultural Capital Booklet <small>(PDF)</small></a>
             </div>
+        </div>
+        <div class="columns medium-4">
+            <a href="/assets/parent-partnership/cultural_capital_booklet.pdf">
+                <img src="/images/parent-partnership/cultural_capital_booklet.jpg" alt="Park Community School's Cultural Capital Booklet frontcover">
+            </a>
         </div>
     </div>
     <br><br>
