@@ -45,6 +45,22 @@
             <p><strong>We believe that we make a difference and that qualifications alone are not enough we believe in empowering students to feel confident, be independent and make good choices</strong> [existentialism] <strong>within a caring and sharing community</strong>.</p>
             
             <br><br>
+            
+            
+
+        </div>
+    </div>
+    <br><br>
+    <?php include ("includes/backtotop.html") ?>
+    <br>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
+        <div class="columns">
             <h3>Our objectives include the creation of productive partnerships with all our parents</h3>
 
             <ol>
@@ -57,8 +73,19 @@
                 <li>We have clear policies to establish effective home–school links and improve children’s attendance, punctuality, progress and positive participation in school. <em>[KPI 7]</em></li>
                 <li>The school provides outstanding support for all parents as their children move through or leave the school. <em>[KPI 8]</em></li>
             </ol>
+        </div>
+    </div>
+    <br><br>
+    <?php include ("includes/backtotop.html") ?>
+</section>
 
-            <br><br>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        <div class="columns">
             <h3>We aspire to ensure:</h3>
 
             <p><strong>Welfare and safeguarding</strong></p>
@@ -102,13 +129,43 @@
                 <li>Funding applied for to the benefit of families and students.</li>
 
             </ol>
-            <br><br>
-
         </div>
     </div>
     <br><br>
     <?php include ("includes/backtotop.html") ?>
-    <br>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
+        <div class="columns">
+            <h3>Cultural Capital</h3>
+            <p>We all have different skills, tastes in music, and life experiences, to name a few. So why is cultural capital important? Our cultural capital gives us power. It helps us achieve goals, become successful, and get on in life, without necessarily having wealth.</p>
+            <p>This booklet has been designed to inform our parents and carers how they can help support their child within each subject at Park Community School.</p>
+            <p>It outlines websites to look at, visits and cultural experiences your child may enjoy out of school hours to support them in their education, along with recommended books to read.</p>
+
+            <div class="columns text-center">
+                <a href="" class="button radius">Cultural Capital Booklet <small>(PDF)</small></a>
+            </div>
+        </div>
+    </div>
+    <br><br>
+    <?php include ("includes/backtotop.html") ?>
+</section>
+
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+        <div class="columns">
+        </div>
+    </div>
+    <br><br>
+    <?php include ("includes/backtotop.html") ?>
 </section>
 
 <!-- FOOTER -->
