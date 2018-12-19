@@ -243,7 +243,7 @@
 
         </div>
     <div class="columns">
-      <p>If as a parent of a student attending this school you require a paper copy of the information on this website, we shall provide this free of charge. Please enquire at <a href="/contact.php">the school reception</a>.</p>
+      <p>If as a parent of a student attending this school you require a paper copy of the information on this website, we shall provide this following a request in writing for a charge. For clarification please enquire at <a href="/contact.php">the school reception</a>.</p>
     </div>
     </div>
 
