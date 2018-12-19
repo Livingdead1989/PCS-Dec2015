@@ -79,7 +79,7 @@
             <ul class="no-bullet">
                 <li>Telephone: 023 9248 9840</li>
                 <br>
-                <li>Email: <a href="javascript:location='mailto:\u0070\u0064\u0070\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0">Park Design and Print</a></li>
+                <li>Email: <a href="javascript:location='mailto:\u006d\u0061\u0069\u006c\u0074\u006f\u003a\u0070\u0064\u0070\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b';void 0"><script type="text/javascript">document.write('\u0050\u0044\u0050\u0040\u0070\u0063\u0073\u002e\u0068\u0061\u006e\u0074\u0073\u002e\u0073\u0063\u0068\u002e\u0075\u006b')</script></a></li>
             </ul>
 
         </div>
