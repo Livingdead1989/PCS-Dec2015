@@ -131,7 +131,7 @@
     <?php include ("includes/backtotop.html") ?>
 </section>
 
-<section class="grey-bg">
+<section class="grey-bg" id="cultural_capital">
     <div class="row">
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
