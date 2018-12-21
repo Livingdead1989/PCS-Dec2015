@@ -41,6 +41,15 @@
             </li> -->
 
             <li>
+                <a href="/assets/policies/accessiblity.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Accessiblity</p>
+                        <p><small>Approved by Governors on: 04/05/2016</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
                 <a href="/assets/policies/administration-of-medicines.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Administration of Medicines</p>
@@ -62,7 +71,7 @@
                 <a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Behaviour for Learning</p>
-                        <p><small>Approved by Governors on: 05/04/2017</small></p>
+                        <p><small>Approved by Governors on: 22/10/2017</small></p>
                     </div>
                 </a>
             </li>
@@ -126,6 +135,15 @@
                     <div class="policy-container">
                         <p>Equality</p>
                         <p><small>Approved by Governors on: 02/12/2015</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/freedom_of_information.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Freedom of Information</p>
+                        <p><small>Approved by Governors on: 29/03/2006</small></p>
                     </div>
                 </a>
             </li>
@@ -202,6 +220,15 @@
                 </a>
             </li>
 
+            <li>
+                <a href="/assets/statutory/sex_education.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Sex & Relationship Education</p>
+                        <p><small>Approved by Governors on: 10/07/2013</small></p>
+                    </div>
+                </a>
+            </li>
+
         </ul>
 
 
@@ -226,18 +253,8 @@
             
         </ul>
 
-        <h3>Non-linked Policies</h3>
-        <p>To request a copy of our non-linked policies please contact our <a href="/contact.php">school reception</a>.</p>
-        <ul>
-            <li>Accessibility *</li>
-            <li>Sex Education *</li>
-            <li>Freedom of Information *</li>
-
-        </ul>
-
 
         <h5 class="subheader text-capitalize text-center"><small>Policies are available in downloadable PDF format</small></h5>
-        <h5 class="subheader text-capitalize text-center"><small>* Non-linked Policies please enquire at <a href="/contact.php">the school reception</a>.</small></h5>
         <br>
 
 
