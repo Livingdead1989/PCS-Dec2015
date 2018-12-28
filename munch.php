@@ -164,10 +164,10 @@
     </div>
     <div class="row">
         <div class="columns">
-            <h4>CHRUNCH 2018<small>Christmas in a box</small></h4>
+            <h4>CHRUNCH 2018 <small>Christmas in a box</small></h4>
             <p>The MUNCH team at Park Community School working in partnership with the FatFace Foundation, have created CHRUNCH to try and reduce food poverty at Christmas in the Havant area. PO9 Foodbank will be assisting with distribution from the Dickinson Centre at Park Community School.</p>
 
-            <p>This years CHRUNCH has now finished, the support for this project has been fantatic we wish to thank everyone that made this possible.</p>
+            <p><strong>This years CHRUNCH has now finished</strong>, the support for this project has been fantatic we wish to thank everyone that made this possible.</p>
             <p>If you wish to support future projects please contact our <a href="/contact.php">school reception</a>.</p>
             
         </div>
