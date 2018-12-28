@@ -52,24 +52,6 @@
               </div> -->
 <!--                  Event box --> 
 
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">25th December</p>
-                  <p class="event-time">11:00-16:00</p>
-                </div>
-                <h2 class="event-title">Christmas Day</h2>
-                <p class="event-subheader">MUNCH</p>
-                <p class="event-description">Park Community's MUNCH team kindly invite you to join them for a traditional Christmas lunch at Park Community School. <br>The tables will be brimming with a traditional freshly prepared Christmas meal. There will be inflatables and games for the children and newspapers and chat for those who want company on the day.</p>
-                <div class="link-wrap">
-                  <a href="assets/events/christmas_munch.pdf" target="_blank" class="button success radius">Your Invite</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box --> 
 
 <!--                    Event Box  -->
               <div class="event-wrap sticky-event">
@@ -89,7 +71,6 @@
                 </div>
               </div>
 <!--                  Event box --> 
-
 
 <!--                    Event Box  -->
               <div class="event-wrap">
@@ -128,28 +109,6 @@
                 </div>
               </div>
 <!--                  Event box --> 
-
-<!--                    Event Box  -->
-              <div class="event-wrap sticky-event">
-                <div class="date-wrap">
-                  <p class="event-date">Various</p>
-                  <p class="event-time">All Day</p>
-                </div>
-                <h2 class="event-title">CHRUNCH</h2>
-                <p class="event-subheader">Christmas in a box</p>
-                <p class="event-description">We're giving away 1000's of food boxes to those that need it this Christmas.</p>
-                <div class="link-wrap">
-                  <a href="/munch.php#chrunch" class="button success radius">More Information</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.co.uk/maps/place/The+Dickinson+Centre/@50.8702673,-1.0019494,17z/data=!3m1!4b1!4m5!3m4!1s0x487444925222d409:0xa0733a6598ac67e5!8m2!3d50.8702673!4d-0.9997607?hl=en" target="_blank">The Dickinson Centre</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
-
-
 
             </div>
               

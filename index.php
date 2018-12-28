@@ -50,7 +50,6 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a style="color:#000;" href="/munch.php#chrunch">Introducing CHRUNCH (Christmas Munch) - Learn More</a></p>
     </div>
   </div>
 </section>
