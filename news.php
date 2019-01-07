@@ -38,6 +38,12 @@
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
                 
                 <li class="hide-for-small-only">
+                    <a href="assets/news/parkpost/issue20-dec2018.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue20-dec2018.jpg" alt="Park Post Issue 20 Frontcover">
+                        <p>Issue 20 - December 2018</p>
+                    </a>
+                </li>
+                <li class="hide-for-small-only">
                     <a href="assets/news/parkpost/issue19-oct2018.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue19-oct2018.jpg" alt="Park Post Issue 19 Frontcover">
                         <p>Issue 19 - October 2018</p>
@@ -47,13 +53,6 @@
                     <a href="assets/news/parkpost/issue18-july2018.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue18-july2018.jpg" alt="Park Post Issue 18 Frontcover">
                         <p>Issue 18 - July 2018</p>
-                    </a>
-                </li>
-
-                <li class="hide-for-small-only">
-                    <a href="assets/news/parkpost/issue17-may2018.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/news/parkpost/covers/issue17-may2018.jpg" alt="Park Post Issue 17 Frontcover">
-                        <p>Issue 17 - May 2018</p>
                     </a>
                 </li>
 
