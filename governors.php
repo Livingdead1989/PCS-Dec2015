@@ -101,32 +101,6 @@
 
             </div>
 
-
-            <div class="medium-4 columns text-center  team-member-container">
-                <a href="#" data-reveal-id="Governor-06">
-                  <img src="images/governors/t-caley.jpg" alt="T Caley Governor" class="team-member">
-                <p>Mr T Caley</p>
-                Governor Details</a>
-                        <div id="Governor-06" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Mr T Caley</h2>
-                          <p class="lead">Appointed: 09.07.2018 <br>Term Expires: 08.07.2022</p>
-                          <p>Category: Local Authority</p>
-                          <p>Committee Membership:</p>
-                            <ul class="circle">
-                              <li>Member of Performance Committee</li>
-                              <li>Safeguarding Governor</li>
-                            </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
-
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-
-            </div>
-
             <div class="medium-4 columns text-center  team-member-container">
                 <a href="#" data-reveal-id="Governor-10">
                   <img src="images/slt/c-anders.jpg" alt="C Anders Governor" class="team-member">
