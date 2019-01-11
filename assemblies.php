@@ -29,8 +29,14 @@
         <br><br>
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
                 <li>
+                    <ul class="circle">Spring 2019
+                      <li><a href="assets/assemblies/2019-spring/smsc1.pdf" target="_blank">Inspiration and Aspirations <small>SMSC1</small></a></li>
+                    </ul>
+                </li>
+                <li>
                     <ul class="circle">Autumn 2018
                       <li><a href="assets/assemblies/2018-autumn/smsc1.pdf" target="_blank">Working Hard and Independence <small>SMSC1</small></a></li>
+                      <li><a href="assets/assemblies/2018-autumn/smsc2.pdf" target="_blank">Respect <small>SMSC2</small></a></li>
                     </ul>
                 </li>
             	<li>
