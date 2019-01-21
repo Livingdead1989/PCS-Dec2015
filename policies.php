@@ -41,9 +41,9 @@
             </li> -->
 
             <li>
-                <a href="/assets/policies/accessiblity.pdf" target="_blank">
+                <a href="/assets/policies/accessibility.pdf" target="_blank">
                     <div class="policy-container">
-                        <p>Accessiblity</p>
+                        <p>Accessibility</p>
                         <p><small>Approved by Governors on: 04/05/2016</small></p>
                     </div>
                 </a>
@@ -221,7 +221,7 @@
             </li>
 
             <li>
-                <a href="/assets/statutory/sex_education.pdf" target="_blank">
+                <a href="/assets/policies/sex_education.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Sex & Relationship Education</p>
                         <p><small>Approved by Governors on: 10/07/2013</small></p>
