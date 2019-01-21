@@ -50,7 +50,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a stlye="color: #222;" href="/events.php">The Big Healthy Breakfast Event!</a></p>
+        <p><a style="color: #222;" href="/events.php">The Big Healthy Breakfast Event!</a></p>
     </div>
   </div>
 </section>
