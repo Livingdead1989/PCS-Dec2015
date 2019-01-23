@@ -121,6 +121,9 @@
             <li><a href="//www.understood.org/en/school-learning/learning-at-home/homework-study-skills/7-tips-for-improving-your-childs-homework-and-study-skills" target="_blank">Top 10 Homework Tips</a></li>
             <li><a href="//www.bbc.co.uk/education/levels/z4kw2hv" target="_blank">Keystage 3 Bitesize</a></li>
             <li><a href="//www.bbc.co.uk/schools/gcsebitesize/" target="_blank">GCSE Bitesize</a></li>
+            <li><a href="//mymaths.co.uk">MyMaths</a></li>
+            <li><a href="//corbettmaths.com/">Corbettmaths</a></li>
+            <li><a href="//www.youtube.com/channel/UChtsYbgvLf9Ac0b1GnZ_1lw">Murphy's Maths Youtube account</a></li>
           </ul>
         </div>
     </div>

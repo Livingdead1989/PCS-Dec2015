@@ -32,10 +32,10 @@
         <div class="large-12 columns">
         <br>
             <h3>Purpose</h3>
-            <p>Mathematics is a creative and highly inter-connected problem solving discipline developed over centuries. Through history, mathematics has been essential for solving some of the most intriguing problems and today it is just as necessary for everyday life. Although we now have technological advances to solve many difficult calculations, these are a direct result of mathematical knowledge; the need for mathematical thinking in science, technology and engineering, continues to demonstrate its power and importance. The mathematics curriculum provides a foundation for understanding and develops reasoning ability, whilst also developing enjoyment and curiosity for the subject.</p>
+            <p>The vision of mathematics and teaching at park community school is to inspire and engage students in their understanding of number and wider areas of the subject. Problem solving is integral to the way in which we teach mathematics at the school. Our curriculum provides a foundation for understanding and developing students’ ability to reason, whilst also nurturing curiosity and enjoyment for the subject.</p>
 
             <h3>Aims</h3>
-            <p>We aim to develop students’ understanding of key mathematical concepts and processes to enable students to solve problems using a variety of techniques and skills. This requires students to be fluent in the fundamentals of mathematics and to reason mathematically. This happens through repeated practise to increase fluency and mastery, application of skills to familiar and unfamiliar contexts, learning of formulae, application to calculations, analysis and interpretation of mathematical information, as well as contextualising and applying appropriate elements to situations within which students are familiar.</p>
+            <p>We aim to develop students’ understanding of mathematical concepts and processes to enable students to solve problems using a variety of techniques and skills. This requires students to be fluent in the fundamentals of mathematics and to reason mathematically. This occurs through repeated practise to increase fluency and mastery, use of skills in familiar and unfamiliar contexts, learning of formulae, application to calculations, analysis and interpretation of mathematical information, as well as contextualising and applying appropriate elements to situations within which students are familiar.</p>
 
             <h3>Areas of Study</h3>
             <ul class="circle">
@@ -48,7 +48,7 @@
             </ul>
             <p><strong>Years 7 - 11</strong> – from years 7 to 11 we follow a single programme of study leading to a GCSE in mathematics.</p>
             <p><strong>Years 7 - 8</strong> - our curriculum is designed to equip students with the mathematical knowledge and skill to successfully embark on their GCSE course in Year 9. It covers the full mathematical spectrum of Number, Ratio, Algebra, Geometry, Statistics and Probability required for their GCSE. We help the students achieve mastery in the use of this knowledge by emphasising the importance of using mathematical reasoning when solving problems in many different contexts.</p>
-            <p><strong>Years 9 - 11</strong> - our curriculum continues to build towards GCSE mathematics.  The syllabus we follow is Edexcel with students either following the foundation or higher specification.</p>
+            <p><strong>Years 9 - 11</strong> - our curriculum continues to build towards GCSE mathematics. The syllabus we follow is Edexcel with students either following the foundation or higher specification.</p>
 
             <p>View our <a href="assets/curriculum/Curriculum-Roadmap.pdf" target="_blank">Curriculum Roadmap</a></p>
 
