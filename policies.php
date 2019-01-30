@@ -116,7 +116,7 @@
                 <a href="/assets/policies/data-protection.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Data Protection</p>
-                        <p><small>Approved by Governors on: 02/12/2015</small></p>
+                        <p><small>Approved by Governors on: 27/06/2018</small></p>
                     </div>
                 </a>
             </li>
