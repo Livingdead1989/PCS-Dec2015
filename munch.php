@@ -131,7 +131,7 @@
             
         </div>
         <div class="medium-6 columns text-center">
-            <a href="assets/munch_review.pdf" target="_blank" class="button success radius">Munch Review</a>
+            <a href="assets/munch/munch_review_2018.pdf" target="_blank" class="button success radius">Munch Review</a>
         </div>
     </div>
     <br><br>
@@ -169,7 +169,9 @@
 
             <p><strong>This years CHRUNCH has now finished</strong>, the support for this project has been fantatic we wish to thank everyone that made this possible.</p>
             <p>If you wish to support future projects please contact our <a href="/contact.php">school reception</a>.</p>
-            
+        </div>
+        <div class="medium-6 columns text-center">
+            <a href="assets/munch/chrunch_review_2018.pdf" target="_blank" class="button success radius">CHRUNCH Review</a>
         </div>
     </div>
     <br><br>
