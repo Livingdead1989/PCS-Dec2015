@@ -30,6 +30,7 @@
 
             <div class="text-center">
               <a class="button radius success" href="assets/homework/homework-timetable.pdf" target="_blank">Homework Timetable</a>
+              <a class="small button radius success" href="assets/homework/feb_halfterm_studyclubs.pdf" target="_blank">February Half Term Study Clubs (2019)</a>
             </div>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/homework/homework-01.jpg" alt="Park Community School - Understanding and Mastery of Subjects"></div>
