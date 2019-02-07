@@ -37,7 +37,7 @@
           <p>Our Pupil Premium strategy is based on a comprehensive understanding of our students, their families and the community. We regularly review its impact using internal and external data and current research produced the Education Endowment Foundation. Park Community School participated in the ‘Improving Outcomes for Disadvantaged Learners’ project with Hampshire and Rosendale Research during 2017-18.</p>
         </div>
         <div class="small-10 small-centered medium-uncentered medium-5 columns">
-          <br><img src="images/pupil-Premium/pupil-Premium-01.jpg" alt="Park Community School students enjoy school life." />
+          <br><img src="images/pupil-premium/pupil-premium-01.jpg" alt="Park Community School students enjoy school life." />
         </div>
 
         <div class="columns">
@@ -91,7 +91,7 @@
           <br class="show-for-small-only">
         <div class="hide-for-small-only medium-uncentered medium-4 medium-pull-8 columns">
           <br>
-          <img src="images/pupil-Premium/pupil-Premium-02.jpg" alt="Park Community School creativity blooms." />
+          <img src="images/pupil-premium/pupil-premium-02.jpg" alt="Park Community School creativity blooms." />
         </div>
     </div>
     <br><br><br>
@@ -192,7 +192,7 @@
         </ul>
       </div>
       <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 large-4 columns">
-        <img src="images/pupil-Premium/pupil-Premium-03.jpg" alt="Teaching at Park Community School is an enjoyable experience.">
+        <img src="images/pupil-premium/pupil-premium-03.jpg" alt="Teaching at Park Community School is an enjoyable experience.">
       </div>
     </div>
     <br><br><br>
