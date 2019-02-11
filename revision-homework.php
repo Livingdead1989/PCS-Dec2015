@@ -137,7 +137,26 @@
     </div>
     <div class="row">
         <div class=" columns">
+
+          <h3>Subjects Resources</h3>
+
+          <ul class="accordion" data-accordion role="tablist">
+            <!-- SCIENCE -->
+            <li class="accordion-navigation">
+              <a href="#panel-science" role="tab" id="panel-science-heading" aria-controls="panel-science">Science</a>
+              <div id="panel-science" class="content active" role="tabpanel" aria-labelledby="panel-science-heading">
+                Science Homework Resources:
+
+                <ul>
+                  <li><a href="assets/homework/science/required_practicals.pdf">AQA Combined/Separate Science Required Practicals <small>(PDF)</small></a></li>
+                </ul>
+              </div>
+            </li>
+            <!-- /SCIENCE -->
+          </ul>
           
+
+          <br><br>
         </div>
     </div>
 </section>
