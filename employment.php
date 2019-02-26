@@ -38,7 +38,7 @@
 				</span>
 			</li> -->
       <li>
-        <h4>Pupil Support and Guidance Manager</h4>  
+        <h4>Student Welfare Support and Guidance Manager</h4>  
         <p><em>Closing Date: 1st March 2019</em></p>
 
         <span class="subheader">
