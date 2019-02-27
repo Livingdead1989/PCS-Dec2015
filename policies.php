@@ -68,9 +68,9 @@
             </li>
 
             <li>
-                <a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">
+                <a href="/assets/policies/behaviour.pdf" target="_blank">
                     <div class="policy-container">
-                        <p>Behaviour for Learning</p>
+                        <p>Behaviour</p>
                         <p><small>Approved by Governors on: 22/11/2017</small></p>
                     </div>
                 </a>
