@@ -245,7 +245,7 @@
         <div class="large-4 medium-6 columns text-center  team-member-container">
             <img src="images/slt/e-capaldi.jpg" alt="" class="team-member">
             <p>Mrs E Capaldi</p>
-            <p class="subheader">Deputy Head</p>
+            <p class="subheader">Head of School</p>
         </div>
         <div class="large-4 medium-6 columns text-center  team-member-container end">
             <img src="images/slt/d-morris.jpg" alt="" class="team-member">
