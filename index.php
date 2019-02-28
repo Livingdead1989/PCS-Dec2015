@@ -68,18 +68,22 @@
                 <h3>Welcome to Park...</h3>
                 <div class="text-center">
                     </div>
-                    <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
-                      <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/album/5574215/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
-                    </div>
+                    <!-- <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
+                      <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/album/5574215/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div> 
+                        </div> -->
 
-                    <!-- <div class="medium-offset-1 medium-10 large-offset-0 large-12">
+                    <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                         <a href="/">
                             <div class="homepage-slider">
-                                <div><img src="" alt=""></div>
+                                <div><img src="/images/ny1.jpg" alt="New York 2019"></div>
+                                <div><img src="/images/ny2.jpg" alt="New York 2019"></div>
+                                <div><img src="/images/ny3.jpg" alt="New York 2019"></div>
+                                <div><img src="/images/ny4.jpg" alt="New York 2019"></div>
+                                <div><img src="/images/ny5.jpg" alt="New York 2019"></div>
                             </div>
                             <p class="subheader text-center"></p>
                         </a>
-                    </div> -->
+                    </div>
                     
                     <br>
                 </div>
