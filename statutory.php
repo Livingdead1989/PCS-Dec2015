@@ -34,7 +34,7 @@
                 <li><a href="//www.education.gov.uk/cgi-bin/schools/performance/school.pl?urn=116473" target="_blank">Performance Tables</a></li>
                 <li><a href="/assets/policies/ceiag.pdf" target="_blank">Careers Education, Information, Advice and Guidance</a></li>
                 <li><a href="/curriculum.php">Curriculum</a></li>
-                <li><a href="/assets/policies/behaviour-for-learning.pdf" target="_blank">Behaviour Policy</a></li>
+                <li><a href="/assets/policies/behaviour.pdf" target="_blank">Behaviour Policy</a></li>
                 <li><a href="/pupil-premium.php">Pupil Premium</a></li>
                 <li><a href="/assets/statutory/send-information-report.pdf" target="_blank">SEND Information Report</a></li>
                 <li><a href="/assets/statutory/send-policy.pdf" target="_blank">SEND Policy Report</a></li>
