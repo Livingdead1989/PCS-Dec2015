@@ -71,7 +71,7 @@
                 <a href="/assets/policies/behaviour.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Behaviour</p>
-                        <p><small>Approved by Governors on: 22/11/2017</small></p>
+                        <p><small>Approved by Governors on: 25/02/2019</small></p>
                     </div>
                 </a>
             </li>
