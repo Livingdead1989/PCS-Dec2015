@@ -2,7 +2,7 @@
 <html class="no-js" lang="en" >
     <head>
 
-        <title>Park Community School | Letters Home</title>
+        <title>#MOMO Police Advice</title>
         <?php include("includes/head.html") ?>
     </head>
 <body class="page-parent">
