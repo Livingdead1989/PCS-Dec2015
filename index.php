@@ -75,13 +75,15 @@
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                         <a href="/">
                             <div class="homepage-slider">
-                                <div><img src="images/events/new_york/1.jpg" alt="New York 2019"></div>
-                                <div><img src="images/events/new_york/2.jpg" alt="New York 2019"></div>
-                                <div><img src="images/events/new_york/3.jpg" alt="New York 2019"></div>
-                                <div><img src="images/events/new_york/4.jpg" alt="New York 2019"></div>
-                                <div><img src="images/events/new_york/5.jpg" alt="New York 2019"></div>
+                                <div><img src="images/events/reading_week/1.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/reading_week/2.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/reading_week/3.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/reading_week/4.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/reading_week/5.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/reading_week/6.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/reading_week/7.jpg" alt="World Book Week 2019"></div>
                             </div>
-                            <p class="subheader text-center"></p>
+                            <p class="subheader text-center">World Book Day - Reading Week</p>
                         </a>
                     </div>
                     
