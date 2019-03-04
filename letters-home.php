@@ -32,6 +32,7 @@
 				  	<li><a href="/assets/letters/2019-02/student_review_day.pdf" target="_blank">Student Review Day (SRD)</a></li>
 				  	<li><a href="/assets/letters/2019-02/punctuality_and_uniform.pdf" target="_blank">Punctuality and Uniform</a></li>
 				  	<li><a href="/assets/letters/2019-02/science_practicals.pdf" target="_blank">Science Required Practicals</a></li>
+				  	<li><a href="/assets/letters/2019-02/reading_week.pdf" target="_blank">World Book Day - Reading Week</a></li>
 				  </ul>
 				</li>
             	<li>           	
