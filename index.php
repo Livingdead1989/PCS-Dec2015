@@ -75,11 +75,11 @@
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                         <a href="/">
                             <div class="homepage-slider">
-                                <div><img src="images/index/NY1.jpg" alt="New York 2019"></div>
-                                <div><img src="images/index/NY2.jpg" alt="New York 2019"></div>
-                                <div><img src="images/index/NY3.jpg" alt="New York 2019"></div>
-                                <div><img src="images/index/NY4.jpg" alt="New York 2019"></div>
-                                <div><img src="images/index/NY5.jpg" alt="New York 2019"></div>
+                                <div><img src="images/events/new_york/1.jpg" alt="New York 2019"></div>
+                                <div><img src="images/events/new_york/2.jpg" alt="New York 2019"></div>
+                                <div><img src="images/events/new_york/3.jpg" alt="New York 2019"></div>
+                                <div><img src="images/events/new_york/4.jpg" alt="New York 2019"></div>
+                                <div><img src="images/events/new_york/5.jpg" alt="New York 2019"></div>
                             </div>
                             <p class="subheader text-center"></p>
                         </a>
