@@ -46,6 +46,8 @@
         </span>
       </li>
 
+      <hr>
+
       <li>
         <h4>Head of Maths</h4>  
         <p><em>Closing Date: 12th March 2019 </em></p>
@@ -54,6 +56,8 @@
         <a href="assets/recruitment/head_of_maths.pdf" target="_blank">Position Details</a>
         </span>
       </li>
+
+      <hr>
     
       <li>
         <h4>Music Teacher</h4>  
