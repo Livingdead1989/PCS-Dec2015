@@ -30,9 +30,9 @@
                 <br>
                 <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
                 <br>
-                <li><a href="/assets/timetabling/mocks-jan2019.pdf" target="_blank">Mock Timetable - <br>Jan 2019</a></li>
+                <li><a href="/assets/timetabling/skeleton_timetable.pdf" target="_blank">Skeleton Timetable - <br>Timetabled Components</a></li>
                 <br>
-                <li><a href="/assets/timetabling/suggested_revision_mocks-jan2019.pdf">Year 11 Suggested Revision Topics - <br>Pre January Mocks</a></li>
+                <li><a href="/assets/timetabling/march_mock_timetable.pdf" target="_blank">March Mock Exam Timetable</a></li>
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Available in downloadable and printable PDF format.</small></h5>
         </div>
