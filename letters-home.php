@@ -28,6 +28,7 @@
             <ul class="small-block-grid-1">
             	<li>           	
 				  <ul class="circle">February 2019<hr>
+				  	<li><a href="/assets/letters/2019-02/year_7_science_week.pdf" target="_blank">Year 7 Science week</a></li>
 				  	<li><a href="/assets/letters/2019-02/year_8_options_evening.pdf" target="_blank">Year 8 Options Evening</a></li>
 				  	<li><a href="/assets/letters/2019-02/student_review_day.pdf" target="_blank">Student Review Day (SRD)</a></li>
 				  	<li><a href="/assets/letters/2019-02/punctuality_and_uniform.pdf" target="_blank">Punctuality and Uniform</a></li>
