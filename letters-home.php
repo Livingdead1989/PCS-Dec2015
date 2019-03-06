@@ -29,6 +29,7 @@
             	<li>           	
 				  <ul class="circle">March 2019<hr>
 				  	<li><a href="/assets/letters/2019-03/yr10_info_revision_evening.pdf" target="_blank">Year 10 Information and Revision Evening</a></li>
+				  	<li><a href="/assets/letters/2019-03/year_7_science_week.pdf" target="_blank">Year 7 Science week</a></li>
 				  </ul>
 				</li>
             	<li>           	
