@@ -32,10 +32,10 @@
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
                     <img src="images/schoolmeals/schoolmeals-01.jpg" alt="Our Head Chief, Hard at Work">
                     <br><br>
-                    <a href="/assets/schoolmeals/menu.pdf" target="_blank">
+                    <!-- <a href="/assets/schoolmeals/menu.pdf" target="_blank">
                         <img class="border-grey-radius" src="images/schoolmeals/menu.jpg" alt="Park Community School Kitchen - The Watering Hole Menu">
                         <p class="text-center">Menu 2018-2019</p>
-                    </a>
+                    </a> -->
                     <a href="/assets/schoolmeals/educatering.pdf" target="_blank">
                         <img class="border-grey-radius" src="images/schoolmeals/educatering.jpg" alt="Educatering">
                         <p class="text-center">Educatering - Magazine</p>
