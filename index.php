@@ -50,7 +50,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a style="color: #222;" href="/police.php">#Momo challenge: Police advise over 'freaky game'</a></p>
+        <!--<p><a style="color: #222;" href="/police.php">#Momo challenge: Police advise over 'freaky game'</a></p> -->
     </div>
   </div>
 </section>
@@ -75,15 +75,12 @@
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                         <a href="/">
                             <div class="homepage-slider">
-                                <div><img src="images/events/reading_week/1.jpg" alt="World Book Week 2019"></div>
-                                <div><img src="images/events/reading_week/2.jpg" alt="World Book Week 2019"></div>
-                                <div><img src="images/events/reading_week/3.jpg" alt="World Book Week 2019"></div>
-                                <div><img src="images/events/reading_week/4.jpg" alt="World Book Week 2019"></div>
-                                <div><img src="images/events/reading_week/5.jpg" alt="World Book Week 2019"></div>
-                                <div><img src="images/events/reading_week/6.jpg" alt="World Book Week 2019"></div>
-                                <div><img src="images/events/reading_week/7.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/laca/1.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/laca/2.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/laca/3.jpg" alt="World Book Week 2019"></div>
+                                <div><img src="images/events/laca/4.jpg" alt="World Book Week 2019"></div>
                             </div>
-                            <p class="subheader text-center">World Book Day - Reading Week</p>
+                            <p class="subheader text-center">Congratulations Mr Cross, Head Chef, National Winner <a href="http://laca.co.uk/hampshire-school-chef-scoops-scoty-win">SCOTY</a>School Chef of the Year 2019 </p>
                         </a>
                     </div>
                     
