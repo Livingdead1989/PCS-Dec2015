@@ -80,7 +80,7 @@
                                 <div><img src="images/events/laca/3.jpg" alt="World Book Week 2019"></div>
                                 <div><img src="images/events/laca/4.jpg" alt="World Book Week 2019"></div>
                             </div>
-                            <p class="subheader text-center">Congratulations Mr Cross, Head Chef, National Winner <a href="http://laca.co.uk/hampshire-school-chef-scoops-scoty-win">SCOTY</a>School Chef of the Year 2019 </p>
+                            <p class="subheader text-center"> Congratulations Mr Cross, Head Chef, National Winner <a href="http://laca.co.uk/hampshire-school-chef-scoops-scoty-win" target="_blank">SCOTY</a>School Chef of the Year 2019 </p>
                         </a>
                     </div>
                     
