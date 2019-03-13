@@ -123,7 +123,7 @@
             <li>
                 <a href="/assets/policies/equality.pdf" target="_blank">
                     <div class="policy-container">
-                        <p>Equality</p>
+                        <p>Equality & Diversity</p>
                     </div>
                 </a>
             </li>
@@ -156,6 +156,14 @@
                 <a href="/assets/policies/prevention-of-radicalisation-and-extremism.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Prevention of Radicalisation and Extremism</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/sex_education.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Relationships & Sex Education</p>
                     </div>
                 </a>
             </li>
@@ -196,14 +204,6 @@
                 <a href="/assets/statutory/send-information-report.pdf" target="_blank">
                     <div class="policy-container">
                         <p>SEND Information Report</p>
-                    </div>
-                </a>
-            </li>
-
-            <li>
-                <a href="/assets/policies/sex_education.pdf" target="_blank">
-                    <div class="policy-container">
-                        <p>Sex & Relationship Education</p>
                     </div>
                 </a>
             </li>
