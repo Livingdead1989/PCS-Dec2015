@@ -45,7 +45,7 @@
               <table>
                 <tr>
                   <td>Pupil Premium</td>
-                  <td>£413,270</td>
+                  <td>£405,790</td>
                 </tr>
                 <tr>
                   <td>Service Children</td>
