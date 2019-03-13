@@ -44,7 +44,6 @@
                 <a href="/assets/policies/accessibility.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Accessibility</p>
-                        <p><small>Approved by Governors on: 04/05/2016</small></p>
                     </div>
                 </a>
             </li>
@@ -53,7 +52,6 @@
                 <a href="/assets/policies/administration-of-medicines.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Administration of Medicines</p>
-                        <p><small>Approved by Governors on: 04/05/2016</small></p>
                     </div>
                 </a>
             </li>
@@ -62,7 +60,6 @@
                 <a href="/assets/policies/attendance.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Attendance</p>
-                        <p><small>Approved by Governors on: 23/05/2018</small></p>
                     </div>
                 </a>
             </li>
@@ -71,7 +68,6 @@
                 <a href="/assets/policies/behaviour.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Behaviour</p>
-                        <p><small>Approved by Governors on: 25/02/2019</small></p>
                     </div>
                 </a>
             </li>
@@ -80,7 +76,6 @@
                 <a href="/assets/policies/ceiag.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Careers Education, Information, Advice and Guidance</p>
-                        <p><small>Approved by Governors on: 08/07/2015</small></p>
                     </div>
                 </a>
             </li>
@@ -89,7 +84,6 @@
                 <a href="/assets/policies/charging-and-remissions.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Charging and Remissions</p>
-                        <p><small>Approved by Governors on: 01/02/2016</small></p>
                     </div>
                 </a>
             </li>
@@ -98,7 +92,6 @@
                 <a href="/assets/policies/child-protection.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Child Protection</p>
-                        <p><small>Approved by Governors on: 22/11/2017</small></p>
                     </div>
                 </a>
             </li>
@@ -107,7 +100,6 @@
                 <a href="/assets/policies/confidentiality.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Confidentiality</p>
-                        <p><small>Approved by Governors on: 13/09/2017</small></p>
                     </div>
                 </a>
             </li>
@@ -116,7 +108,6 @@
                 <a href="/assets/policies/data-protection.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Data Protection</p>
-                        <p><small>Approved by Governors on: 27/06/2018</small></p>
                     </div>
                 </a>
             </li>
@@ -125,7 +116,6 @@
                 <a href="/assets/policies/dress-code-for-students.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Dress Code for Students</p>
-                        <p><small>Approved by Governors on: 05/04/2017</small></p>
                     </div>
                 </a>
             </li>
@@ -134,7 +124,6 @@
                 <a href="/assets/policies/equality.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Equality</p>
-                        <p><small>Approved by Governors on: 02/12/2015</small></p>
                     </div>
                 </a>
             </li>
@@ -143,7 +132,6 @@
                 <a href="/assets/policies/freedom_of_information.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Freedom of Information</p>
-                        <p><small>Approved by Governors on: 29/03/2006</small></p>
                     </div>
                 </a>
             </li>
@@ -152,7 +140,6 @@
                 <a href="/assets/policies/health-and-safety.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Health and Safety</p>
-                        <p><small>Approved by Governors on: 16/03/2016</small></p>
                     </div>
                 </a>
             </li>
@@ -161,7 +148,6 @@
                 <a href="/assets/policies/homework.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Homework</p>
-                        <p><small>Approved by Governors on: 14/09/2016</small></p>
                     </div>
                 </a>
             </li>
@@ -170,7 +156,6 @@
                 <a href="/assets/policies/prevention-of-radicalisation-and-extremism.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Prevention of Radicalisation and Extremism</p>
-                        <p><small>Approved by Governors on: 20/01/2016</small></p>
                     </div>
                 </a>
             </li>
@@ -179,7 +164,6 @@
                 <a href="/assets/policies/medical-conditions.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Supporting Students with Medical Conditions</p>
-                        <p><small>Approved by Governors on: 05/08/2017</small></p>
                     </div>
                 </a>
             </li>
@@ -188,7 +172,6 @@
                 <a href="/assets/policies/studententitlementiag.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Student Entitlement in IAG</p>
-                        <p><small>Approved by Governors on: N/A</small></p>
                     </div>
                 </a>
             </li>
@@ -197,7 +180,6 @@
                 <a href="/assets/policies/safeguarding.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Safeguarding</p>
-                        <p><small>Approved by Governors on: 22/11/2017</small></p>
                     </div>
                 </a>
             </li>
@@ -206,7 +188,6 @@
                 <a href="/assets/statutory/send-policy.pdf" target="_blank">
                     <div class="policy-container">
                         <p>SEND Policy</p>
-                        <p><small>Approved by Governors on: 14/03/2018</small></p>
                     </div>
                 </a>
             </li>
@@ -215,7 +196,6 @@
                 <a href="/assets/statutory/send-information-report.pdf" target="_blank">
                     <div class="policy-container">
                         <p>SEND Information Report</p>
-                        <p><small>Approved by Governors on: 14/03/2018</small></p>
                     </div>
                 </a>
             </li>
@@ -224,7 +204,14 @@
                 <a href="/assets/policies/sex_education.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Sex & Relationship Education</p>
-                        <p><small>Approved by Governors on: 10/07/2013</small></p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/volunteering.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Volunteering</p>
                     </div>
                 </a>
             </li>
@@ -247,6 +234,14 @@
                 <a href="/assets/policies/admissions-2019-2020.pdf" target="_blank">
                     <div class="policy-container">
                         <p>2019 - 2020</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/admissions-2020-2021.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>2020 - 2021</p>
                     </div>
                 </a>
             </li>
