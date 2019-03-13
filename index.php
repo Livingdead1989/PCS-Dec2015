@@ -24,6 +24,7 @@
             <div class="small-text-center large-text-right">
                 <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
                 <a class="small button radius success" href="assets/prospectus.pdf">Our Prospectus</a>
+                <a class="small button radius success" href="https://vimeo.com/user91428383" target="_blank">Films</a>
                 <a class="small button radius success" href="assets/statutory/ofsted-report-2017.pdf" target="_blank">Ofsted Report</a>
             </div>
 
