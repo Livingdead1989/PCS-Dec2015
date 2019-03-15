@@ -97,6 +97,14 @@
             </li>
 
             <li>
+                <a href="/assets/policies/code_of_conduct.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Code of Conduct</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
                 <a href="/assets/policies/confidentiality.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Confidentiality</p>
