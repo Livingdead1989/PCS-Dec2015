@@ -56,7 +56,7 @@
                 <li>Plain black shoes with sensible heels.</li>
                 <br>
             </ul>
-            <p><small>For more detailed information please view the schools policy <a href="/assets/policies/dress-code-for-students.pdf">"Dress Code for Students"</a>.</small></p>
+            <p><small>For more detailed information please view the schools policy <a href="/assets/policies/dress-code-for-students.pdf" target="_blank">"Dress Code for Students"</a>.</small></p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-7 medium-offset-0 medium-5 columns"><img src="images/uniform/uniform-02.jpg" alt="Happy Students in Uniform"></div>
     </div>
