@@ -37,39 +37,8 @@
 				<a href="assets/recruitment/#.pdf" target="_blank">Position Details</a>
 				</span>
 			</li> -->
-      <li>
-        <h4>Student Welfare Support and Guidance Manager</h4>  
-        <p><em>Closing Date: 1st March 2019</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/pupil_support_and_guidance_manager.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-      <hr>
-
-      <li>
-        <h4>Head of Maths</h4>  
-        <p><em>Closing Date: 12th March 2019 </em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/head_of_maths.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-      <hr>
-    
-      <li>
-        <h4>Music Teacher</h4>  
-        <p><em>Closing Date: 12th March 2019 </em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/music_teacher.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-
-			<!-- <li><br><span class="subheader">Please check back later.</span></li> -->
+      
+			<li><br><span class="subheader">Please check back later.</span></li>
              
           
 	      </ul>
