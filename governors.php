@@ -243,7 +243,8 @@
                               <li>NIL</li>
                             </ul>
 
-             </div>
+                        <a class="close-reveal-modal" aria-label="Close">&#215;</a>    
+			           </div>
 
             <div class="medium-4 columns text-center  team-member-container end">
                 <a>
