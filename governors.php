@@ -248,7 +248,7 @@
 			</div>
 
 			<div class="medium-4 columns text-center  team-member-container end">
-                <a href="#" data-reveal-id="Governor-ejohnson">
+                <a href="#" data-reveal-id="Governor-bharwood">
                   <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
                 <p>Mr B Harwood</p>
                 Governor Details</a>
