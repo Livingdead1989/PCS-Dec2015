@@ -245,7 +245,8 @@
 
                         <a class="close-reveal-modal" aria-label="Close">&#215;</a>    
 			           </div>
-
+			</div>
+			
             <div class="medium-4 columns text-center  team-member-container end">
                 <a>
                   <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
