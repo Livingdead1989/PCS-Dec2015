@@ -226,11 +226,22 @@
             </div>
 
             <div class="medium-4 columns text-center  team-member-container end">
-                <a>
-                  <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
-                <p>Pending</p>
-                Parent Governor</a>
-            </div>
+                <a href="#" data-reveal-id="Governor-ejohnson">
+                  <img src="images/governors/e-johnson.jpg" alt="Governor Profile Image" class="team-member">
+                <p>Mr C May</p>
+                Governor Details</a>
+                        <div id="Governor-ejohnson" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Mrs E Johnson</h2>
+                          <p class="lead">Appointed: 11.05.2019 <br>Term Expires: 10.05.2023</p>
+                          <p>Category: Parent Govenor</p>
+                          <p>Committee Membership: </p>
+                            <ul class="circle">
+                                <li>Member of Administration Committee.</li>
+                            </ul>
+                          <p>Pecuniary Interests:</p>
+                            <ul class="circle">
+                              <li>NIL</li>
+                            </ul>
 
             <div class="medium-4 columns text-center  team-member-container end">
                 <a>
