@@ -40,17 +40,18 @@
     </div>
     <div class="row">
         <div class="medium-push-4 medium-8 columns">
-            <p>The student can undertake a construction skills course leading to a Laser Level 1 in Construction Skills. The qualification is a Certification for Learning, Employability and Progression (LEAP). The course will take 60 sessions over a 2-year period to complete depending on ability.</p>
+            <p>The student can undertake a construction skills course leading to a LASER Level 1 in Construction Skills. The qualification is a Certification for Learning, Employability and Progression (LEAP). The qualification can be completed in one academic year with 5 hours of weekly tuition or over two academic years with one weekly 2 hour 30 minute session. A diluted LASER Level 1 Award is available to complete in one academic year with one weekly session.</p>
             <p>The units of study will include:</p>
             <ol>
-              <li>Brickwork/Blockwork</li>
-              <li>Painting</li>
-              <li>Carpentry</li>
-              <li>Plastering</li>
-              <li>Construction</li>
-              <li>Health and Safety</li>
-              <li>Measurements of distance and length</li>
+            	<li>Brickwork/Blockwork</li>
+				<li>Wallpapering</li>
+				<li>Carpentry</li>
+				<li>Plastering</li>
+				<li>Construction</li>
+				<li>Health and Safety</li>
+				<li>Measurements of distance and length</li>
             </ol>
+            <p>A LASER Level 2 LEAP Award or Certificate is an advanced option available for students who have completed the Level 1 equivalent. This can be completed in one academic year with two weekly sessions and is only available in Year 11.</p>
             <p>We believe we are best placed to address these needs of our students and other providers who are not yet aware of the implications of the forthcoming changes.</p>
 
         </div>
