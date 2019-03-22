@@ -232,7 +232,7 @@
                 Governor Details</a>
                         <div id="Governor-ejohnson" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mrs E Johnson</h2>
-                          <p class="lead">Appointed: 11.05.2019 <br>Term Expires: 10.05.2023</p>
+                          <p class="lead">Appointed: 29.01.2019 <br>Term Expires: 28.01.2023</p>
                           <p>Category: Parent Govenor</p>
                           <p>Committee Membership: </p>
                             <ul class="circle">
