@@ -100,6 +100,7 @@
         <div class="medium-7 columns">
           <h3>Supporting Documents</h3>
           <ul class="circle">
+          	<li><a href="assets/homework/easter_revision.pdf" target="_blank">Easter Revision Timetable</a> <small>(PDF)</small></li>
             <li>Preparing for success in your GCSEs <small>(PDF)</small></li>
             <li><a href="assets/homework/yr10_parent_revision_information.pdf" target="_blank">Year 10 parent revision information presentation</a> <small>(PDF)</small></li>
             <li><a href="assets/homework/memory_revision.pdf" target="_blank">Memory and Revision</a> <small>(PDF)</small></li>
