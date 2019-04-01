@@ -88,12 +88,6 @@
     	<div class="large-12 columns">
             <ul class="text-center large-block-grid-4 medium-block-grid-3 small-block-grid-2">
                 <li>
-                    <div class="menu-box"><a href="#" data-reveal-id="pty-LaserTag">
-                            <img src="images/community/lasertag.jpg" alt="">
-                            <p>Laser Tag</p>
-                        </a></div>
-                </li>
-                <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-BouncyCastle">
                             <img src="images/community/bouncycastle.jpg" alt="">
                             <p>Bouncy Castle</p>
@@ -115,6 +109,12 @@
                     <div class="menu-box"><a href="#" data-reveal-id="pty-TreasureHunt">
                             <img src="images/community/treasurehunt.jpg" alt=" ">
                             <p>Treasure Hunt Play 'n' Slide &amp; Bouncy Castle</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="#" data-reveal-id="pty-facefanatics">
+                            <img src="images/community/face_fanatics.jpg" alt=" ">
+                            <p>Face Fanatics</p>
                         </a></div>
                 </li>
                 <li>
@@ -238,8 +238,6 @@
 </section>
 
 <!-- MODALS -->
-<!-- LaserTag -->
-<?php include( "includes/community/lasertag.html" ) ?>
 
 <!-- BouncyCastle -->
 <?php include( "includes/community/bouncycastle.html" ) ?>
@@ -252,6 +250,9 @@
 
 <!-- TreasureHunt -->
 <?php include( "includes/community/treasurehunt.html" ) ?>
+
+<!-- FaceFanatics -->
+<?php include( "includes/community/facefanatics.html" ) ?>
 
 <!-- PartySpace -->
 <?php include( "includes/community/partyspace.html" ) ?>
