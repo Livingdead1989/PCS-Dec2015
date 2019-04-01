@@ -51,7 +51,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a style="color: #222;">#AutismAwareness - Student stalls raising money for National Autism Society</a></p> 
+        <p>#AutismAwareness - Student stalls raising money for National Autism Society</p> 
     </div>
   </div>
 </section>
