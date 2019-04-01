@@ -51,7 +51,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <!--<p><a style="color: #222;" href="/police.php">#Momo challenge: Police advise over 'freaky game'</a></p> -->
+        <p><a style="color: #222;">#AutismAwareness - Student stalls raising money for National Autism Society</a></p> 
     </div>
   </div>
 </section>
