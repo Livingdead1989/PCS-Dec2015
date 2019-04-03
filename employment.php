@@ -29,16 +29,16 @@
         <p><em>Governor vacancies are available on the <a href="/governors.php">Governors page</a>.</em></p>
         <hr>
 	      <ul class="no-bullet">
-			<!-- <li>
-				<h4>Job Position</h4>  
-				<p><em>Closing Date: </em></p>
+			-- <li>
+				<h4>Teacher of RE</h4>  
+				<!-- <p><em>Closing Date:  </em></p> -->
 
 				<span class="subheader">
-				<a href="assets/recruitment/#.pdf" target="_blank">Position Details</a>
+				<a href="assets/recruitmentre_teacher.pdf" target="_blank">Position Details</a>
 				</span>
-			</li> -->
+			</li>
       
-			<li><br><span class="subheader">Please check back later.</span></li>
+			<!-- <li><br><span class="subheader">Please check back later.</span></li> -->
              
           
 	      </ul>
