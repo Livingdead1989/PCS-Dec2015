@@ -29,12 +29,6 @@
         <p><em>Governor vacancies are available on the <a href="/governors.php">Governors page</a>.</em></p>
         <hr>
 	      <ul class="no-bullet">
-			 <li>
-				<h4>Teacher of RE</h4>  
-				<span class="subheader">
-				<a href="assets/recruitment/re_teacher.pdf" target="_blank">Position Details</a>
-				</span>
-			</li>
 			<!-- <li>
 				<h4>Position</h4>  
 				<p><em>Closing Date: </em></p>
@@ -44,7 +38,7 @@
 				</span>
 			</li>  -->
       
-			<!-- <li><br><span class="subheader">Please check back later.</span></li> -->
+			<li><br><span class="subheader">Please check back later.</span></li>
              
           
 	      </ul>
