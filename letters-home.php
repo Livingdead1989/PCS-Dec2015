@@ -27,6 +27,12 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
             	<li>           	
+				  <ul class="circle">April 2019<hr>
+				  	<li><a href="/assets/letters/2019-04/reports_post_postcards_gcsepod_keydates.pdf" target="_blank">Reports, Park Post, Postcards, GCSEpod and Keydates</a></li>
+
+				  </ul>
+				</li>
+            	<li>           	
 				  <ul class="circle">March 2019<hr>
 				  	<li><a href="/assets/letters/2019-03/yr10_info_revision_evening.pdf" target="_blank">Year 10 Information and Revision Evening</a></li>
 				  	<li><a href="/assets/letters/2019-03/yr11_info_revision_evening.pdf" target="_blank">Year 11 Information and Revision Evening</a></li>
