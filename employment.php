@@ -38,7 +38,16 @@
 				</span>
 			</li>  -->
       
-			<li><br><span class="subheader">Please check back later.</span></li>
+			<!-- <li><br><span class="subheader">Please check back later.</span></li> -->
+
+			<li>
+				<h4>Deputy Head of School</h4>  
+				<p><em>Closing Date: 2nd May 2019</em></p>
+
+				<span class="subheader">
+				<a href="assets/recruitment/deputy_head.pdf" target="_blank">Position Details</a>
+				</span>
+			</li> 
              
           
 	      </ul>
