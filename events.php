@@ -60,7 +60,7 @@
                 </div>
                 <h2 class="event-title">MUNCH</h2>
                 <p class="event-subheader">Menu for Easter </p>
-                <p class="event-description"></p>
+                <p class="event-description">MUNCH supplies a nutritious 2 course meal and activities for children and their families attending any Leigh Park school during the school holidays.</p>
                 <div class="link-wrap">
                   <a href="/assets/events/munch_easter_2019.pdf" target="_blank" class="button success radius">Read More...</a>
                 </div>
