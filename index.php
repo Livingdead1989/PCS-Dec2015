@@ -51,7 +51,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p>#AutismAwareness - Student stalls raising money for National Autism Society</p> 
+        <p><a href="/events.php" style="color: #474747">MUNCH - Easter Half Term Menu</a></p> 
     </div>
   </div>
 </section>
