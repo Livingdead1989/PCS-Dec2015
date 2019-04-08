@@ -45,9 +45,9 @@
 				<p><em>Closing Date: 2nd May 2019</em></p>
 
 				<span class="subheader">
-				<a href="assets/recruitment/deputy_head.pdf" target="_blank">Position Details</a>
-				<a href="assets/recruitment/deputy_head_job_description.pdf" target="_blank">Job Description</a>
-				<a href="assets/recruitment/deputy_head_person_spec.pdf" target="_blank">Person Specification</a>
+				<a href="assets/recruitment/deputy_head.pdf" target="_blank">Position Details</a> / 
+				<a href="assets/recruitment/deputy_head_job_description.pdf" target="_blank">Job Description</a> / 
+				<a href="assets/recruitment/deputy_head_person_spec.pdf" target="_blank">Person Specification</a>.
 				</span>
 			</li> 
              
