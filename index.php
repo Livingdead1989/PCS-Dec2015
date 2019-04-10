@@ -114,9 +114,9 @@
                         </li>
 
                         <li>
-                          <a href="//parents-booking.co.uk/parkcommunity">
-                              <img class="fixed-size-100" src="images/logo/parent-booking.png" alt="Parents Evening Online Booking">
-                              <p>Parents Evening</p>
+                          <a href="//members.gcsepod.com">
+                              <img class="fixed-size-100" src="images/logo/gcsepod_round.png" alt="GCSE Pod">
+                              <p>GCSE Pod</p>
                           </a>
                         </li>
 
