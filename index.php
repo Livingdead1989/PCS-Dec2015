@@ -74,14 +74,13 @@
                         </div> -->
 
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
-                        <a href="/catering.php">
                             <div class="homepage-slider">
-                                <div><img src="images/events/laca/1.jpg" alt="World Book Week 2019"></div>
-                                <div><img src="images/events/laca/2.jpg" alt="World Book Week 2019"></div>
-                                <div><img src="images/events/laca/3.jpg" alt="World Book Week 2019"></div>
-                                <div><img src="images/events/laca/4.jpg" alt="World Book Week 2019"></div>
+                                <a href="//www.gcsepod.com/parents/" target="_blank"><div><img src="images/events/gcsepod/gcsepod_launched.jpg" alt="GCSE Pod Parent Info"></div></a>
+                                <a href="/catering.php"><div><img src="images/events/scoty/1.jpg" alt=""></div></a>
+                                <a href="/catering.php"><div><img src="images/events/scoty/2.jpg" alt=""></div></a>
+                                <a href="/catering.php"><div><img src="images/events/scoty/3.jpg" alt=""></div></a>
+                                <a href="/catering.php"><div><img src="images/events/scoty/4.jpg" alt=""></div></a>
                             </div>
-                        </a>
                         <p class="text-center">Congratulations Mr Cross, Head Chef, National Winner School Chef of the Year (<em><a href="http://laca.co.uk/hampshire-school-chef-scoops-scoty-win" target="_blank">SCOTY</a></em>) 2019</p>
                     </div>
                     

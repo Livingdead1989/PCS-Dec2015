@@ -56,11 +56,11 @@
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/logo/gcsepod_round.png" alt="Parent Booking - Parents Evening"><br>GCSE Pod</li>
+              <li class="title"><img class="fixed-size-100" src="images/logo/gcsepod_round.png" alt="GCSE Pod"><br>GCSE Pod</li>
               <li class="bullet-item">GCSE Pod</li>
               <li class="bullet-item">Revision</li>
               <li class="bullet-item">Homework</li>
-              <li class="cta-button"><a class="button radius" href="//members.gcsepod.com" target="_blank">Open</a></li>
+              <li class="cta-button"><a class="button radius" href="//www.gcsepod.com/parents/" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>
@@ -89,7 +89,7 @@
         <br>
         </div>
 
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/logo/myed.png" alt="Milk - Online Student Planner"><br>MyEd</li>
@@ -100,7 +100,7 @@
             </ul>
         <br>
         </div>
-         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
+         <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
         <br>
             <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/logo/parent-booking.png" alt="Parent Booking - Parents Evening"><br>Parents Booking</li>
