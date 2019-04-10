@@ -114,7 +114,7 @@
                         </li>
 
                         <li>
-                          <a href="//members.gcsepod.com">
+                          <a href="//members.gcsepod.com" target="_blank">
                               <img class="fixed-size-100" src="images/logo/gcsepod_round.png" alt="GCSE Pod">
                               <p>GCSE Pod</p>
                           </a>
