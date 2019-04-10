@@ -56,11 +56,11 @@
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/logo/parent-booking.png" alt="Parent Booking - Parents Evening"><br>Parents Booking</li>
-              <li class="bullet-item">Parents Evening</li>
-              <li class="bullet-item">Online Booking</li>
-              <li class="bullet-item">Manual or Automatic</li>
-              <li class="cta-button"><a class="button radius" href="//parents-booking.co.uk/parkcommunity" target="_blank">Open</a></li>
+              <li class="title"><img class="fixed-size-100" src="images/logo/gcsepod_round.png" alt="Parent Booking - Parents Evening"><br>GCSE Pod</li>
+              <li class="bullet-item">GCSE Pod</li>
+              <li class="bullet-item">Revision</li>
+              <li class="bullet-item">Homework</li>
+              <li class="cta-button"><a class="button radius" href="//members.gcsepod.com" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>
@@ -97,6 +97,17 @@
               <li class="bullet-item">Key Dates</li>
               <li class="bullet-item">Student Details</li>
               <li class="cta-button"><a class="button radius" href="//www.myedschoolapp.com/" target="_blank">Open</a></li>
+            </ul>
+        <br>
+        </div>
+         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
+        <br>
+            <ul class="pricing-table">
+              <li class="title"><img class="fixed-size-100" src="images/logo/parent-booking.png" alt="Parent Booking - Parents Evening"><br>Parents Booking</li>
+              <li class="bullet-item">Parents Evening</li>
+              <li class="bullet-item">Online Booking</li>
+              <li class="bullet-item">Manual or Automatic</li>
+              <li class="cta-button"><a class="button radius" href="//parents-booking.co.uk/parkcommunity" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>
