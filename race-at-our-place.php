@@ -44,7 +44,7 @@
         <div class="columns large-8 large-pull-4">
             <h3>Raising Awareness of Cancer</h3>
             <p>Race at Our Place started in 2013 and is a fun run event where our students and staff raise money and awareness for Cancer research and support for those battling cancer.</p>
-            <p>Each year we have a wonderful turn out by the local community to support all runners and is truely heart warming to see everyone supporting such a fantastic cause.</p>
+            <p>Each year we have a wonderful turn out by the local community to support all runners and is truly heart warming to see everyone supporting such a fantastic cause.</p>
         </div>
     </div>
     <br><br>
