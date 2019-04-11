@@ -77,9 +77,11 @@
                             <div class="homepage-slider">
                                 <a href="//www.gcsepod.com/parents/" target="_blank"><div><img src="images/events/gcsepod/gcsepod_launched.jpg" alt="GCSE Pod Parent Info"></div></a>
                                 <a href="/catering.php"><div><img src="images/events/scoty/1.jpg" alt=""></div></a>
-                                <a href="/catering.php"><div><img src="images/events/scoty/2.jpg" alt=""></div></a>
-                                <a href="/catering.php"><div><img src="images/events/scoty/3.jpg" alt=""></div></a>
-                                <a href="/catering.php"><div><img src="images/events/scoty/4.jpg" alt=""></div></a>
+                                <div><img src="images/events/raceforlife/1.jpg" alt=""></div>
+                                <div><img src="images/events/raceforlife/2.jpg" alt=""></div>
+                                <div><img src="images/events/raceforlife/3.jpg" alt=""></div>
+                                <div><img src="images/events/raceforlife/4.jpg" alt=""></div>
+                                <div><img src="images/events/raceforlife/5.jpg" alt=""></div>
                             </div>
                         <p class="text-center">Congratulations Mr Cross, Head Chef, National Winner School Chef of the Year (<em><a href="http://laca.co.uk/hampshire-school-chef-scoops-scoty-win" target="_blank">SCOTY</a></em>) 2019</p>
                     </div>
