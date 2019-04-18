@@ -100,20 +100,10 @@
             </ul>
 
         </div>
-    </div><br>
-</section>
-
-
-<section>
-    <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
-    <div class="row">
-    </div>
+
     <br><br>
     <?php include("includes/backtotop.html") ?>
-</section>
-
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
