@@ -28,71 +28,71 @@
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
                 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-1.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-1.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-1.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-1.jpg" alt="">
                         <p>Parent Advice Flyer 1</p>
                     </a>
                 </li>
 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-2.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-2.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-2.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-2.jpg" alt="">
                         <p>Parent Advice Flyer 2</p>
                     </a>
                 </li>
 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-3.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-3.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-3.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-3.jpg" alt="">
                         <p>Parent Advice Flyer 3</p>
                     </a>
                 </li>
 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-4.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-4.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-4.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-4.jpg" alt="">
                         <p>Parent Advice Flyer 4</p>
                     </a>
                 </li>
 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-5.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-5.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-5.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-5.jpg" alt="">
                         <p>Parent Advice Flyer 5</p>
                     </a>
                 </li>
 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-6.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-6.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-6.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-6.jpg" alt="">
                         <p>Parent Advice Flyer 6</p>
                     </a>
                 </li>
 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-7.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-7.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-7.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-7.jpg" alt="">
                         <p>Parent Advice Flyer 7</p>
                     </a>
                 </li>
 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-8.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-8.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-8.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-8.jpg" alt="">
                         <p>Parent Advice Flyer 8</p>
                     </a>
                 </li>
 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-9.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-9.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-9.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-9.jpg" alt="">
                         <p>Parent Advice Flyer 9</p>
                     </a>
                 </li>
 
                 <li class="">
-                    <a href="assets/parnet-advice/parent-advice-10.jpg" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="assets/parnet-advice/parent-advice-10.jpg" alt="">
+                    <a href="assets/parent-advice/parent-advice-10.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="assets/parent-advice/parent-advice-10.jpg" alt="">
                         <p>Parent Advice Flyer 10</p>
                     </a>
                 </li>
