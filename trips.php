@@ -52,7 +52,7 @@
 
 		<?php include 'includes/nonpay-trips.html'; ?>
 
-		<!-- <?php include 'includes/past-trips.html'; ?> -->
+		<?php //include 'includes/past-trips.html'; ?>
 
 		<!-- BLANK -->
 		<section>
