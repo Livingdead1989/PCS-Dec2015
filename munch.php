@@ -182,8 +182,13 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-        <div class="columns">
-            
+        <div class="medium-6 columns">
+            <h4>Order a MUNCH Money Box</h4>
+            <p>If you’re a local business or looking for an easy way to help us then please order one of our MUNCH Money boxes to fill up and raise money to feed local children who qualify for free school meals during the school holidays.  When you have filled it up, please return it to us at school, or please contact us and we’ll collect it. We will post you a receipt and replace it on request.</p>
+            <p><a href="mailto:munch@pcs.hants.sch.uk">Order your MUNCH money box today!</a></p>
+        </div>
+        <div class="medium-6 columns text-center">
+            <img src="images/munch/munch_money_box.jpg">
         </div>
     </div>
     <br>
