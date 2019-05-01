@@ -30,7 +30,7 @@
 						<div class="columns">
 							<a class="button radius" href="#payable-trips">Payable Trips</a>
 							<a class="button radius" href="#non-payable-trips">Non-Payable Trips</a>
-							<a class="button radius" href="#past-trips">Past Trips</a>
+							<!-- <a class="button radius" href="#past-trips">Past Trips</a> -->
 							<a class="button radius success" href="//www.scopay.com/pcs" target="_blank">Pay Online</a>
 						</div>
 					</div>
@@ -52,7 +52,7 @@
 
 		<?php include 'includes/nonpay-trips.html'; ?>
 
-		<?php include 'includes/past-trips.html'; ?>
+		<!-- <?php include 'includes/past-trips.html'; ?> -->
 
 		<!-- BLANK -->
 		<section>
