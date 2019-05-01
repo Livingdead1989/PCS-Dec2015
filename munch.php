@@ -190,6 +190,7 @@
         <div class="medium-6 columns text-center">
             <img src="images/munch/munch_money_box.jpg">
         </div>
+        <br><br>
     </div>
     <br>
 </section>
