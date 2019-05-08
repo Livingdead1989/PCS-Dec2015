@@ -53,6 +53,25 @@
 <!--                  Event box --> 
 
 <!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date">2nd June 2019</p>
+                  <p class="event-time">12:00-15:00</p>
+                </div>
+                <h2 class="event-title">Rowans Silver Jubilee</h2>
+                <p class="event-subheader">Afternoon Tea, Music and More.</p>
+                <p class="event-description">Park is supporting the Rowans Silver Jubilee Tea Party Appeal, which aims to raise £7.5million towards the refurbishment of their hospice facilities.</p>
+                <div class="link-wrap">
+                  <a href="/assets/events/rowans_silver_jubilee.png" target="_blank" class="button success radius">View our Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">5</div>
+                </div>
+              </div>
+<!--                  Event box --> 
+
+<!--                    Event Box  -->
               <div class="event-wrap feature-event">
                 <div class="date-wrap">
                   <p class="event-date">11th May</p>
