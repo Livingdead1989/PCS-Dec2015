@@ -29,7 +29,7 @@
             	<li>           	
 				  <ul class="circle">May 2019<hr>
 				  	<li><a href="/assets/letters/2019-05/years9-10_parents_evening.pdf" target="_blank">Year 9 and 10 Parents Evening</a></li>
-
+				  	<li><a href="/assets/letters/2019-05/summer_uniform.pdf" target="_blank">Summer Uniform</a></li>
 				  </ul>
 				</li>
             	<li>           	
