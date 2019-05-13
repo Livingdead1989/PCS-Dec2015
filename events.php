@@ -90,26 +90,7 @@
               </div>
 <!--                  Event box --> 
 
-<!--                    Event Box  -->
-              <div class="event-wrap feature-event">
-                <div class="date-wrap">
-                  <p class="event-date">11th May</p>
-                  <p class="event-time">12:00-14:00</p>
-                </div>
-                <h2 class="event-title">MUNCH Langar</h2>
-                <p class="event-subheader">The First Indian Themed MUNCH</p>
-                <p class="event-description">Langar is the term used in Sikhism for the community kitchen in a Gurdwara where a freee meal is served to all visitors.</p>
-                <div class="link-wrap">
-                  <a href="/assets/events/langar_poster.jpg" target="_blank" class="button success radius">View Our Poster</a>
-                </div>
-                <div class="bottom-wrap">
-                   <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">FREE</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
-<!--                    Event Box  -->
+<!--                  Event Box -->
               <div class="event-wrap">
                 <div class="date-wrap">
                   <p class="event-date">Thursday</p>
@@ -126,7 +107,7 @@
                   <div class="cost-wrap">Free</div>
                 </div>
               </div>
-<!--                  Event box -->
+<!--                    Event box -->
 
 <!--                    Event Box  -->
               <div class="event-wrap">
