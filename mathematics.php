@@ -50,7 +50,7 @@
             <p><strong>Years 7 - 8</strong> - our curriculum is designed to equip students with the mathematical knowledge and skill to successfully embark on their GCSE course in Year 9. It covers the full mathematical spectrum of Number, Ratio, Algebra, Geometry, Statistics and Probability required for their GCSE. We help the students achieve mastery in the use of this knowledge by emphasising the importance of using mathematical reasoning when solving problems in many different contexts.</p>
             <p><strong>Years 9 - 11</strong> - our curriculum continues to build towards GCSE mathematics. The syllabus we follow is Edexcel with students either following the foundation or higher specification.</p>
 
-            <p>View our <a href="assets/curriculum/Curriculum-Roadmap.pdf" target="_blank">Curriculum Roadmap</a></p>
+            <p>View our <a href="assets/curriculum/curriculum-roadmap.pdf" target="_blank">Curriculum Roadmap</a></p>
 
             <ul class="accordion" data-accordion role="tablist">
 
