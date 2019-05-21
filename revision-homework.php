@@ -30,7 +30,7 @@
 
             <div class="text-center">
               <a class="button radius warning" href="assets/homework/homework-timetable.pdf" target="_blank">Homework Timetable</a>
-              <a class="button radius warning" href="assets/homework/easter_revision.pdf" target="_blank">Easter Revision Classes</a>
+              <a class="button radius warning" href="assets/homework/may_revision.pdf" target="_blank">May Revision Classes</a>
             </div>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/homework/homework-01.jpg" alt="Park Community School - Understanding and Mastery of Subjects"></div>
@@ -100,7 +100,7 @@
         <div class="medium-7 columns">
           <h3>Supporting Documents</h3>
           <ul class="circle">
-          	<li><a href="assets/homework/easter_revision.pdf" target="_blank">Easter Revision Timetable</a> <small>(PDF)</small></li>
+          	<li><a href="assets/homework/may_revision.pdf" target="_blank">May Revision Timetable</a> <small>(PDF)</small></li>
             <li>Preparing for success in your GCSEs <small>(PDF)</small></li>
             <li><a href="assets/homework/yr10_parent_revision_information.pdf" target="_blank">Year 10 parent revision information presentation</a> <small>(PDF)</small></li>
             <li><a href="assets/homework/memory_revision.pdf" target="_blank">Memory and Revision</a> <small>(PDF)</small></li>
