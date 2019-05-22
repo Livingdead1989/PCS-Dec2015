@@ -38,7 +38,16 @@
 				</span>
 			</li>  -->
       
-			<li><br><span class="subheader">Please check back later.</span></li> 
+			<!-- <li><br><span class="subheader">Please check back later.</span></li> --> 
+
+			<li>
+				<h4>Cover Supervisor</h4>  
+				<p><em>Closing Date: Monday, 10th June 2019</em></p>
+
+				<span class="subheader">
+				<a href="assets/recruitment/cover_supervisor.pdf" target="_blank">Position Details</a>
+				</span>
+			</li> 
              
           
 	      </ul>
