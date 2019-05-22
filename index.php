@@ -76,11 +76,9 @@
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                             <div class="homepage-slider">
                                 <a href="//www.gcsepod.com/parents/" target="_blank"><div><img src="images/events/gcsepod/gcsepod_launched.jpg" alt="GCSE Pod Parent Info"></div></a>
-                                <div><img src="images/events/raceforlife/1.png" alt=""></div>
-                                <div><img src="images/events/raceforlife/2.png" alt=""></div>
-                                <div><img src="images/events/raceforlife/3.png" alt=""></div>
-                                <div><img src="images/events/raceforlife/4.png" alt=""></div>
-                                <div><img src="images/events/raceforlife/5.png" alt=""></div>
+                                <div><img src="images/events/rowans/1.png" alt=""></div>
+                                <div><img src="images/events/connect4summer/1.jpg" alt=""></div>
+                                
                             </div>
                         <p class="text-center">Race for Life 2019</p>
                     </div>
