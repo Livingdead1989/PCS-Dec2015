@@ -105,6 +105,14 @@
             </li>
 
             <li>
+                <a href="/assets/statutory/complaints_procedure.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Complaints Procedure</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
                 <a href="/assets/policies/confidentiality.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Confidentiality</p>
@@ -129,9 +137,25 @@
             </li>
 
             <li>
+                <a href="/assets/policies/esafety.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>E-Safety</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
                 <a href="/assets/policies/equality.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Equality & Diversity</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/exams.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Exams</p>
                     </div>
                 </a>
             </li>
