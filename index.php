@@ -74,10 +74,17 @@
                         </div> -->
 
                     <div class="medium-offset-1 medium-10 large-offset-0 large-12">
-                            <div class="homepage-slider">
-                                <a href="//www.gcsepod.com/parents/" target="_blank"><div><img src="images/events/gcsepod/gcsepod_launched.jpg" alt="GCSE Pod Parent Info"></div></a>
-                                <div><img src="images/events/rowans/1.jpg" alt=""></div>                                
+                        <div class="homepage-slider">
+                            <a href="//www.gcsepod.com/parents/" target="_blank">
+                        		<img src="images/events/gcsepod/gcsepod_launched.jpg" alt="GCSE Pod Parent Info">
+                            </a>
+
+                            <!-- VIMEO PROMO VIDEO -->
+                            <div style="padding:56.25% 0 0 0;position:relative;">
+                            	<iframe src="https://player.vimeo.com/video/299177189?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                             </div>
+
+                        </div>
                     </div>
                     
                     <br>
@@ -258,7 +265,7 @@
 <?php include("includes/footer.html") ?>
 
 
-
+		
         <!-- End Site Footer -->
         <script src="js/vendor/libraries.min.js"></script>
         <script src="js/vendor/foundation.min.js"></script>
@@ -266,6 +273,7 @@
         <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
         <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
         <script type="text/javascript" src="slick/slick.min.js"></script>
+        <script src="https://player.vimeo.com/api/player.js"></script>
             
         <script type="text/javascript">
             $(document).ready(function(){
