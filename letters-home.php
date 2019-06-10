@@ -27,6 +27,12 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
             	<li>           	
+				  <ul class="circle">June 2019<hr>
+				  	<li><a href="/assets/letters/2019-06/eoyexams_consequences_detentions_keydates.pdf" target="_blank">EOY Exams, Consequences,Detentions and Key Dates</a></li>
+				  </ul>
+				</li>
+            	<li>   
+            	<li>           	
 				  <ul class="circle">May 2019<hr>
 				  	<li><a href="/assets/letters/2019-05/years9-10_parents_evening.pdf" target="_blank">Year 9 and 10 Parents Evening</a></li>
 				  	<li><a href="/assets/letters/2019-05/summer_uniform.pdf" target="_blank">Summer Uniform</a></li>
