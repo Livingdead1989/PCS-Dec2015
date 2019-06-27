@@ -28,9 +28,9 @@
             <ul class="circle">
                 <li><a href="/assets/timetabling/school-calendar.pdf" target="_blank">Important Dates - <br>School Calendar</a></li>
                 <br>
-                <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
+                <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day 2018-2019</a></li>
                 <br>
-                <li><a href="/assets/timetabling/school-day-2019_2020.pdf" target="_blank">The School Day 2020 - <br>Shape of the Day</a></li>
+                <li><a href="/assets/timetabling/school-day-2019_2020.pdf" target="_blank">The School Day - <br>Shape of the Day 2019-2020</a></li>
                 <br>
                 <li><a href="/assets/timetabling/skeleton_timetable.pdf" target="_blank">Skeleton Timetable - <br>Timetabled Components</a></li>
                 <br>
