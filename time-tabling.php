@@ -30,6 +30,8 @@
                 <br>
                 <li><a href="/assets/timetabling/school-day.pdf" target="_blank">The School Day - <br>Shape of the Day</a></li>
                 <br>
+                <li><a href="/assets/timetabling/school-day-2019_2020.pdf" target="_blank">The School Day 2020 - <br>Shape of the Day</a></li>
+                <br>
                 <li><a href="/assets/timetabling/skeleton_timetable.pdf" target="_blank">Skeleton Timetable - <br>Timetabled Components</a></li>
                 <br>
                 <li><a href="/assets/timetabling/march_mock_timetable.pdf" target="_blank">March Mock Exam Timetable</a></li>
