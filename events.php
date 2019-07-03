@@ -52,25 +52,6 @@
               </div> -->
 <!--                  Event box --> 
 
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">26th June 2019</p>
-                  <p class="event-time">09:00-16:00</p>
-                </div>
-                <h2 class="event-title">Emergency First Aid Course</h2>
-                <p class="event-subheader">Free accredited course </p>
-                <p class="event-description">This course covers emergency life saving techniques and gives learners the confidence to use these in an emergency situation</p>
-                <div class="link-wrap">
-                  <a href="/assets/events/first_aid.pdf" target="_blank" class="button success radius">View our Poster</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">The Dickinson Centre</a></div>
-                  <div class="cost-wrap">FREE</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
 <!--                  Event Box -->
               <div class="event-wrap">
                 <div class="date-wrap">
@@ -105,25 +86,6 @@
                 <div class="bottom-wrap">
                   <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
                   <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
-<!--                    Event Box  -->
-              <div class="event-wrap feature-event sticky-event">
-                <div class="date-wrap">
-                  <p class="event-date">19th June 2019</p>
-                  <p class="event-time">School Hours</p>
-                </div>
-                <h2 class="event-title">Student Cake Sale</h2>
-                <p class="event-subheader">Rowans Hospice</p>
-                <p class="event-description">Our students and staff are passionate about helping the Rowan’s Hospice and have decided to host a cake sale, bring in money to buy cakes at break and lunchtime, which are priced at 25p and 50p.</p>
-                <div class="link-wrap">
-                  <
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap"></div>
                 </div>
               </div>
 <!--                  Event box --> 
