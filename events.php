@@ -91,7 +91,7 @@
 <!--                  Event box --> 
 
 <!--                    Event Box  -->
-              <div class="event-wrap feature-event sticky-event">
+              <div class="event-wrap feature-event">
                 <div class="date-wrap">
                   <p class="event-date">Summer Holidays</p>
                   <p class="event-time"></p>
