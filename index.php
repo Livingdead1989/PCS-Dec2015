@@ -48,13 +48,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!-- <section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a href="/events.php" style="color: #474747"></a></p> 
+        <p><a href="/events.php" style="color: #474747">Learn about Connect4Summer...</a></p> 
     </div>
   </div>
-</section> -->
+</section>
 <!-- END NOTIFICATION -->
 
 
