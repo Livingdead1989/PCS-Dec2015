@@ -40,7 +40,7 @@
     <div class="row">
         <br>
         <div class="medium-12 columns">
-            <p>As a school we were aware of the food poverty that some of our community experience and were concerned our students were going hungry. This was reinforced when our local community told us how the food bank was consistently running out of food. We set up a community group to tackle food poverty in our area and in April 2017 MUNCH was born.</p>
+            <p>As a school we were aware of the food poverty that some of our community experience and were concerned our students were going hungry. This was reinforced when our local community told us how the food bank was consistently running out of food. We set up a community group to tackle food poverty in our area and in February 2017 MUNCH was born.</p>
             <p>We successfully contacted external agencies for funding and MUNCH is now in operation supplying nutritious 2 course meals and activities for children and their families attending any Leigh Park school during the school holidays.   Play equipment is provided, along with learning practitioners, who help our guests learn via play encouraging learning of vital maths and English skills.   Our school nurse is also on hand, on a drop in basis for any concerns parents may have.</p>
         </div>
         <div class="row">

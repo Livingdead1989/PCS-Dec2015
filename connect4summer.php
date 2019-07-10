@@ -2,7 +2,7 @@
 <html class="no-js" lang="en" >
     <head>
 
-        <title>Park Community School | Events</title>
+        <title>Connect4Summer</title>
         <?php include("includes/head.html") ?>
     </head>
 <body class="page-school">
@@ -13,8 +13,8 @@
 <header class="header-school">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Events</h1>
-            <p class="text-capitalize">Highlighting Events at Park</p>
+            <h1>Connect4Summer</h1>
+            <p class="text-capitalize">Childcare, Activties and Healthy Food</p>
         </div>
     </div>
 </header>
