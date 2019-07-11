@@ -51,7 +51,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a href="/events.php" style="color: #474747">Learn about Connect4Summer...</a></p> 
+        <p><a href="/connect4summer.php" style="color: #474747">Learn about Connect4Summer...</a></p> 
     </div>
   </div>
 </section>
