@@ -28,7 +28,10 @@
 			<p>Connect4Summer is a programme for children in 23 venues across Hampshire which provides an exciting programme that will include a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
 			<p>This scheme has been made possible by a joint funding bid by Park Community School and Romsey Community School.</p>
 
-			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">Venues include:
+			<hr>
+
+			<p>Venues include:</p>
+			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 				<li>Park Community School, Havant</li>
 				<li>Acorn Centre, Wecock Farm</li>
 				<li>Woodlands Community Hall, Headley Down</li>
@@ -51,6 +54,8 @@
 				<li>Medina Primary School, Cosham</li>
 				<li>Hayling Island Community Centre</li>
 			</ul>
+
+			<hr>
 
 			<h2>Free Childcare</h2>
 			<p>Free childcare for children entitled to free school meals provided by Active Kids, booking required.</p>
