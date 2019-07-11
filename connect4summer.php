@@ -22,98 +22,76 @@
 <!-- CONTENT -->
 <section>
 	<div class="row">
-        <br>
-        <div class="medium-12 columns text-center">
-			<p>For the latest in News and Event Information please follow us on <a href="//twitter.com/ParkSchSocial">Twitter</a> and <a href="//facebook.com/ParkCommunitySchoolNews">Facebook</a>.</p>
-			<hr>
-        </div>
-    </div>
+		<div class="columns">
+			<h2>What is Connect4Summer?</h2>
+			<p>Connect4Summer is a programme for children in 23 venues across Hampshire which provides an exciting programme that will include a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
+			<p>This scheme has been made possible by a joint funding bid by Park Community School and Romsey Community School.</p>
 
+			<h2>Free Childcare</h2>
+			<p>Free childcare for children entitled to free school meals provided by Active Kids, booking required.</p>
+			<p>29th July - 23rd August 2019 in The Dickinson Centre at Park Community School.</p>
+
+			<p><strong>Booking Childcare</strong></p>
+			<p>Contact kerryainsley@sky.com to book places, each child can have 10 places which are subject to availablity.</p>
+
+			<h2>What Activities are offered?</h2>
+			<p>Our programme is different every day, activities include:</p>
+			<ul>
+				<li>Circus Skills</li>
+				<li>Dr Blendo Science Extravaganza</li>
+				<li>Craft</li>
+				<li>Woodwork</li>
+				<li>Cookery</li>
+				<li>Painting</li>
+				<li>Dance</li>
+				<li>Singing</li>
+				<li>Percussion</li>
+				<li>and much more...</li>
+			</ul>
+			<p>Booking required, please come into school for a booking form.</p>
+		</div>
+	</div>
+</section>
+
+<section class="grey-bg">
     <div class="row">
-        <br>
-        <div class="medium-12 columns">
-	       <div class="event-container">
-<!--                    Event Box  -->
-              <!-- <div class="event-wrap feature-event sticky-event">
-                <div class="date-wrap">
-                  <p class="event-date"></p>
-                  <p class="event-time"></p>
-                </div>
-                <h2 class="event-title"></h2>
-                <p class="event-subheader"></p>
-                <p class="event-description"></p>
-                <div class="link-wrap">
-                  <a href="" target="_blank" class="button success radius">Read More...</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="" target="_blank"></a></div>
-                  <div class="cost-wrap"></div>
-                </div>
-              </div> -->
-<!--                  Event box --> 
+    	<div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+	<div class="row">
+		<div class="columns">
+			<h2>Summer MUNCH at Park</h2>
+			<p>Our holiday <a href="/munch.php">MUNCH</a> meals continue to provide a free 2 course meal for children attending any school in Leigh Park, parents and carers are also welcome, whose curent circumstances might mean that receiving a free meal is necessary. - <strong>Excludes Bank Holidays</strong></p>
+		</div>
+	</div>
+</section>
 
-<!--                  Event Box -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">Thursday</p>
-                  <p class="event-time">17:30-18:30</p>
-                </div>
-                <h2 class="event-title">MUNCH Tea Time</h2>
-                <p class="event-subheader">Every Thursday</p>
-                <p class="event-description">Join us for dinner on Thursday. <br>This has all been made possible by generous funding from various organisations.</p>
-                <div class="link-wrap">
-                  <a href="/munch.php" target="_blank" class="button success radius">Munch Page</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                    Event box -->
+<section>
+	<div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+	<div class="row">
+		<div class="column">
+			<h2>Press Release - Minister announces funding awarded to Park Community and Romsey Community Schools</h2>
+			<p>News that a joint funding bid by Park Community School in Havant and Romsey Community School in Havant has been successful has been warmly welcomed.</p>
+			<p>On 8 May 2019, Children and Families Minister, Nadhim Zahawi, announced that 11 coordinators will receive a share of £9.1m funding to provide 50,000 disadvantaged children with free meals and activities over the upcoming summer holidays.</p>
+			<p>The Havant and Romsey schools are being given a grant to co-ordinate a programme called ‘Connect4Summer’ for children in 23 venues across Hampshire, including Portsmouth and Southampton.</p>
+			<p>Connect4Summer will be providing an exciting programme that will include a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
+			<p>Headteacher of Park Community School, Christopher Anders, said: “We are very excited and delighted to be involved in this large project supporting families with holiday child care and family fun days.”</p>
+			<p>Headteacher Jonathan de Sausmarez of Romsey Community School said “I am really pleased that the need for vulnerable families to have support and care over the summer holidays has been recognised. We want to make a real difference and we are very proud to support this much needed project.”</p>
+			<p>Both Community Managers of each school, Susan Parish (Park Community School) and Jan Lefley (Romsey Community School) reported that they wanted to provide a programme that has a future legacy, that engages families and provides them with opportunities after the summer to continue with a variety of activities. Susan said “It is very important to us that we continue to address holiday hunger and this programme enables us to reach large numbers of children and their families. We will also be able to offer children good quality, exciting activities and new opportunities whilst ensuring they are safe throughout the holidays.”</p>
+			<br>
+			<p>For further details please contact:</p>
+			<ul>Susan Parish, Park Community School
+				<li>Email: S.Parish@pcs.hants.sch.uk</li>
+				<li>Tel: 02392489800</li>
+			</ul>
 
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">Every Day</p>
-                  <p class="event-time">07:45-08:15</p>
-                </div>
-                <h2 class="event-title">The Big Healthy Breakfast</h2>
-                <p class="event-subheader">Every day starting in January 2019</p>
-                <p class="event-description">Free breakfast for EVERY student. <br> Choose from: Hot bagels, Cereals or Porridge (other options available but will be charged)</p>
-                <div class="link-wrap">
-                  <a href="/assets/events/big_breakfast.pdf" target="_blank" class="button success radius">View our Flyer</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
-<!--                    Event Box  -->
-              <div class="event-wrap feature-event">
-                <div class="date-wrap">
-                  <p class="event-date">Summer Holidays</p>
-                  <p class="event-time"></p>
-                </div>
-                <h2 class="event-title">Connect4Summer</h2>
-                <p class="event-subheader">Childcare, Activties and Healthy Food</p>
-                <p class="event-description">Connect4Summer will be providing an exciting programme that will include a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
-                <div class="link-wrap">
-                  <a href="/assets/events/invitation_letter_booking.docx" target="_blank" class="button success radius">Invitation Letter and Booking (docx)</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
-            </div>
-              
-            </div> 
-        </div>
-    </div><br>
+			<ul>Jan Lefley, Romsey Community School
+				<li>Email: JLefley@romsey.hants.sch.uk</li>
+				<li>Tel: 01794522106</li>
+			</ul>
+		</div>
+	</div>
 </section>
 
 <!-- FOOTER -->
