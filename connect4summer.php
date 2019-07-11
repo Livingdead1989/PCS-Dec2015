@@ -28,6 +28,30 @@
 			<p>Connect4Summer is a programme for children in 23 venues across Hampshire which provides an exciting programme that will include a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
 			<p>This scheme has been made possible by a joint funding bid by Park Community School and Romsey Community School.</p>
 
+			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">Venues include:
+				<li>Park Community School, Havant</li>
+				<li>Acorn Centre, Wecock Farm</li>
+				<li>Woodlands Community Hall, Headley Down</li>
+				<li>Wooteys Junior School, Alton</li>
+				<li>Alderwood Leisure Centre, Rushmoor</li>
+				<li>Grange Community Junior School, Farnborough</li>
+				<li>Westside Community Centre, Basingstoke</li>
+				<li>Southview Junior School, Basingstoke</li>
+				<li>Knights Enham Junior School, Test Valley</li>
+				<li>Roman Way Primary School, Test Valley</li>
+				<li>Carroll Centre, Winchester</li>
+				<li>Hilt Community Centre, Chandlers Ford</li>
+				<li>Pavilion on the Park, Eastleigh</li>
+				<li>Romsey Community School, Romsey</li>
+				<li>Testwood School, New Forest</li>
+				<li>Itchen College, Southampton</li>
+				<li>Alver Valley School, Gosport</li>
+				<li>St. Vincents College, Gosport</li>
+				<li>Salvation Army, Portsmouth</li>
+				<li>Medina Primary School, Cosham</li>
+				<li>Hayling Island Community Centre</li>
+			</ul>
+
 			<h2>Free Childcare</h2>
 			<p>Free childcare for children entitled to free school meals provided by Active Kids, booking required.</p>
 			<p>29th July - 23rd August 2019 in The Dickinson Centre at Park Community School.</p>
