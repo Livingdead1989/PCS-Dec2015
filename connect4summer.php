@@ -31,7 +31,7 @@
 			<hr>
 
 			<p>Venues include:</p>
-			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2">
 				<li>Park Community School, Havant</li>
 				<li>Acorn Centre, Wecock Farm</li>
 				<li>Woodlands Community Hall, Headley Down</li>
