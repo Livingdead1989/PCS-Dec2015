@@ -50,6 +50,10 @@
 				<li>and much more...</li>
 			</ul>
 			<p>Booking required, please come into school for a booking form.</p>
+
+			<div class="text-center">
+                  <a href="/assets/connect4summer/invitation_letter_booking.docx" target="_blank" class="button success radius">Invitation Letter and Booking <small>(.docx)</small></a>
+                </div>
 			<br><br>
 		</div>
 	</div>
