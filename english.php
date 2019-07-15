@@ -31,27 +31,66 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose</h3>
-            <p>Our English curriculum provides pupils with opportunities to develop their communication through reading, writing and the spoken word, and equips them with the skills required for life. We aim to provide opportunities that develop pupils culturally, emotionally, intellectually, socially, and spiritually through literature and language.</p>
+        <h3>English Curriculum Intent</h3>
+        <p>In English we open doors to real and imagined worlds by exposing students to a wide range of engaging and exciting texts spanning the breadth of our literary heritage from ancient Greek mythology to the current day. We explore our own and others’ cultures to enhance students’ understanding of the world and their place within it, whilst providing students with an extensive vocabulary to verbalise their experiences and understanding. We enable students to unlock doors to their future by equipping them with the skills and knowledge to become exploratory and critical readers and creative, accurate and powerful writers.  At Park Community School we are committed to ensuring every child leaves able to read and write well, which is underpinned by our promotion of talk to enable students to leave us as thoughtful, influential and inspiring communicators.</p> 
+        <p>Our curriculum is intended to create a smooth transition from KS2 and into KS5, enabling students to master the skills introduced in KS2, develop deeper, critical and more independent thought processes and prepare them for the continuation of the study of English at college and university.</p>
 
-            <h3>Aims</h3>
-            <ul class="circle">
-            <li>To develop skill, confidence and fluency in all aspects of communication.</li>
-            <li>To introduce and develop an understanding and analysis of the texts which have shaped our literary heritage.</li>
-            <li>To enthuse pupils in the benefits of reading for pleasure and develop their skills of writing clearly, accurately and coherently.</li>
-            </ul>
+        <h3>Implementation</h3>
+        <p>Our curriculum begins in year 6 with our transition scheme, which has been co-planned with our primary feeder schools. As a result, students transition into life at Park Community School much more confidently because they are given the opportunity to develop and build upon the work they have started in year 6.</p>
+        <p>From year 7 to 11, key threads have been pulled through the curriculum so that students are constantly returning to key concepts but from new perspectives. This enables students to develop mastery of these key concepts, securing understanding and ensuring key knowledge is stored in students’ long term memory.</p>  
+        <p>Our English lessons are built on the ethos of facilitating and encouraging deep thinking with opportunities for students to work collaboratively to discuss and challenge opinions and ideas. We have carefully selected a range of engaging and challenging texts including whole novels as well as a range of thought-provoking short stories, poetry, drama and non-fiction texts to widen students’ cultural capital but also to provide them with high quality stimulus for thought. These are supplemented with cross-curricular lectures, which students are invited to attend to broaden their wider knowledge of conceptual theories, such as feminist theory and Marxism, which can broaden their perspectives on the texts to which they are exposed.</p>
 
-            <h3>Areas of Study</h3>
-            <p><strong>Reading</strong> – Pupils will have opportunities to read full texts for both pleasure and for gathering information. We will expose pupils to a range of English literature, seminal world literature and texts from Shakespeare, with the focus on developing an appreciation of texts, the ability to read critically and to engage with and access challenging texts.</p>
-            <p><strong>Writing</strong> – Pupils will be given opportunities to develop their written skills in order to develop their written accuracy, fluency and use of writing for both pleasure and information. Pupils will be expected to write essays, stories, scripts, poetry, arguments, articles and letters using the writing process of planning, drafting, editing and re-drafting. Alongside this pupils will develop their ability to refine texts, enhance their vocabulary, as well as develop their understanding of spelling, punctuation and grammar.</p>
-            <p><strong>Spoken communication</strong> – Pupils will use spoken communication to underpin the development of their reading and writing skills. They will develop and practise their speaking skills, using a range of communication skills effectively. This will involve debating in groups, presenting to others, interacting and developing ideas through talk and using role play to engage with the texts being studied.</p>
+        <h4>Additional opportunities:</h4>
+        <ul>
+            <li>English Ambassador Programme – students meet weekly and develop their love of English through a book club, shared creative writing and discussions about literature.</li>
+            <li>Debate Club – students participate in interschool debate competitions across the county and potentially further afield.</li>
+            <li>Journalism – students have the opportunity within lessons and as part of extra-curricular programmes to prepare articles and written pieces to be published in ‘Park Post’.</li>
+            <li>Amphitheatre Performances – students are encouraged to celebrate their work as part of live readings during the school amphitheatre slot as well as using this as a forum to develop their spoken language skills</li>
+            <li>Year 11 Year Book Editorial Team</li>
+            <li>Creative writing competitions</li>
+            <li>Storyteller visits</li>
+            <li>Theatre trips</li>
+            <li>Working with local writers</li>
+            <li>BBC Young Reporter – students have the opportunity to spend a whole day gathering and reporting on current affairs and local events, which are posted via the BBC News website.</li>
+        </ul>
+
+        <h3>Impact</h3>
+        <p>Students leave us with a broader cultural capital, a deeper understanding and appreciation of the world around them and the ability to question others and develop their own informed points of view.</p>
+        <p>Students are confident and persuasive speakers who are able to adapt their speech to suit their particular audience and purpose.</p>
+        <p>Students develop a love of reading and writing and appreciate how both of these skills can deepen their experiences of the world and benefit them in the future, for example in future careers. </p>
+        <p>Students are provided with the vocabulary to explain the world around them and appreciate the value of an extended vocabulary.</p>
+        <p>Students leave Park Community School able to read, write and communicate well.</p>
+
+        <h3>What do students study at Park Community School?</h3>
+        <ul>
+            <li><a href="assets/curriculum/english/year7.pdf">Year 7</a></li>
+            <li><a href="assets/curriculum/english/year8.pdf">Year 8</a></li>
+            <li><a href="assets/curriculum/english/year9.pdf">Year 9</a></li>
+            <li><a href="assets/curriculum/english/year10.pdf">Year 10</a></li>
+            <li><a href="assets/curriculum/english/gcse.pdf">AQA English Language GCSE</a></li>
+        </ul>
+
+        <h3>Useful Links</h3>
+        <p>Exam Board</p>
+        <ul>
+            <li><a target="_blank" href="//www.aqa.org.uk/subjects/english/gcse/english-literature-8702">AQA English Literature GCSE</a></li>
+            <li><a target="_blank" href="//www.aqa.org.uk/subjects/english/gcse/english-language-8700">AQA English Language GCSE</a></li>
+        </ul>
+        <p>Revision</p>
+        <ul>
+            <li><a target="_blank" href="//members.gcsepod.com">GCSE Pod</a></li>
+            <li><a target="_blank" href="//app.senecalearning.com/login">SENECA</a></li>
+            <li><a target="_blank" href="//subscription.echalk.co.uk/login">E-chalk</a></li>
+            <li><a target="_blank" href="//www.sparknotes.com">SparkNotes</a></li>
+        </ul>
+        <p>Suggested YouTube Revision</p>
+        <ul>
+            <li><a target="_blank" href="//www.youtube.com/channel/UCM2vdqz-7e4HAuzhpFuRY8w">Mr Bruff</a></li>
+            <li><a target="_blank" href="//www.youtube.com/channel/UC0jbf4wI1GPts6hpbKZ-7Bw">Mrs Whelan’s English</a></li>
+            <li><a target="_blank" href="//www.youtube.com/channel/UCJhuqpyhE8NzYZFkwTzi_7g">Stacey Reay</a></li>
+        </ul>
+
             
-            <ul>
-                <li><a href="//www.aqa.org.uk/subjects/english/gcse/english-language-8700">GCSE English Language</a></li>
-                <li><a href="//www.aqa.org.uk/subjects/english/gcse/english-literature-8702">GCSE English Literature</a></li>
-            </ul>
-            
-            <br>
         </div>
 
     </div>
