@@ -71,6 +71,12 @@
 
 			<p><strong>Booking Childcare</strong></p>
 			<p>Contact <a href="mailto:kerryainsley@sky.com">kerryainsley@sky.com</a> to book places, each child can have 10 places which are subject to availablity.</p>
+			<br>
+			<div class="flex-video widescreen border-radius-5">
+				<iframe src="https://player.vimeo.com/video/348147261?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+				</iframe>
+			</div>
+			<br>
 
 			<h2>What Activities are offered?</h2>
 			<p>Our programme is different every day, activities include:</p>
@@ -86,6 +92,14 @@
 				<li>Percussion</li>
 				<li>and much more...</li>
 			</ul>
+			<br>
+			
+			<div class="flex-video widescreen border-radius-5">
+				<iframe src="https://player.vimeo.com/video/348147274?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+				</iframe>
+			</div>
+
+			<br>
 			<p>Booking required, please come into school for a booking form.</p>
 
 			<div class="text-center">
@@ -147,5 +161,6 @@
         <script src="js/vendor/libraries.min.js"></script>
         <script src="js/vendor/foundation.min.js"></script>
         <script src="js/app.min.js"></script>
+        <script src="https://player.vimeo.com/api/player.js"></script>
     </body>
 </html>
