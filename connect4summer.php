@@ -26,6 +26,11 @@
 			<br>
 			<h2>What is Connect4Summer?</h2>
 			<p>Connect4Summer is a programme for children in 23 venues across Hampshire which provides an exciting programme that will include a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
+
+			<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
+				<img src="images/connect4summer/connect4summer_logo.png" alt="Connect4Summer Logo">
+			</div>
+
 			<p>This scheme has been made possible by a joint funding bid by Park Community School and Romsey Community School.</p>
 
 			<hr>
