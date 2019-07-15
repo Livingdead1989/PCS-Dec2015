@@ -41,15 +41,15 @@
         </div>
 
         <div class="columns">
-          <p>For 2018/2019 our allocated budget is:</p>
+          <p>For 2019/2020 our allocated budget is:</p>
               <table>
                 <tr>
                   <td>Pupil Premium</td>
-                  <td>£405,790</td>
+                  <td>£437,580</td>
                 </tr>
                 <tr>
                   <td>Service Children</td>
-                  <td>£2,400</td>
+                  <td>£3,600</td>
                 </tr>
                 <tr>
                   <td>Post Looked After Children</td>
@@ -58,8 +58,8 @@
               </table>
 
           <p>Grant Allocation:</p>
-          <p>In 2017/2018 the school received £431,970 for Pupil Premium (PP) plus £2,100 for Children in Care.</p>
-          <p>The school spent £475,095 providing additional support for PP students. The pupil Premium is grant funding and is in addition to the school’s Delegated Budget. The school chooses to invest additional funding from its delegated budget to support pupil Premium funding.</p>
+          <p>In 2018/2019 the school received £405,790 for Pupil Premium (PP) plus £2,400 for Children in Care.</p>
+          <p>The school spent £500,071 providing additional support for PP students. The pupil Premium is grant funding and is in addition to the school’s Delegated Budget. The school chooses to invest additional funding from its delegated budget to support pupil Premium funding.</p>
           <p>The Pupil Premium is allocated by calculating the number of students who are on Free School Meals (FSM) or have had FSM in the last six years. Students who have been in care continuously for more than six months or have a parent in the Armed Services also lead to some additional funding for the school.</p>
         </div>
     </div>
