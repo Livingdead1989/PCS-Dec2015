@@ -52,6 +52,25 @@
               </div> -->
 <!--                  Event box --> 
 
+<!--                    Event Box  -->
+              <div class="event-wrap">
+                <div class="date-wrap">
+                  <p class="event-date"></p>
+                  <p class="event-time"></p>
+                </div>
+                <h2 class="event-title">SkoolKit Free Delivery</h2>
+                <p class="event-subheader">Preorder Uniform</p>
+                <p class="event-description">Avoid the crowds, buy early - Free delivery codes included!</p>
+                <div class="link-wrap">
+                  <a href="/assets/events/skoolkit.pdf" target="_blank" class="button success radius">View the Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap">Online</div>
+                  <div class="cost-wrap">Various</div>
+                </div>
+              </div>
+<!--                  Event box -->
+
 <!--                  Event Box -->
               <div class="event-wrap">
                 <div class="date-wrap">
