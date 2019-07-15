@@ -51,7 +51,7 @@
 <section class="page-notification">
   <div class="row">
     <div class="large-12 columns">
-        <p><a href="/connect4summer.php" style="color: #474747">Learn about Connect4Summer... </a><br><a href="/events.php" style="color: #474747">Skoolkit Free Delivery Codes</a></p> 
+        <p><a href="/connect4summer.php" style="color: #474747">Learn about <img style="height:42px;" alt="Connect for Summer" src="images/connect4summer/connect4summer_logo.png">...</a><br><a href="/events.php" style="color: #474747">Skoolkit Free Delivery Codes</a></p> 
     </div>
   </div>
 </section>

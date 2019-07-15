@@ -32,6 +32,7 @@
 					<img src="images/connect4summer/connect4summer_logo.png" alt="Connect4Summer Logo">
 				</div>
 			</div>
+			<br>
 
 			<p>This scheme has been made possible by a joint funding bid by Park Community School and Romsey Community School.</p>
 
