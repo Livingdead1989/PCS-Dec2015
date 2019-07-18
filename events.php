@@ -53,6 +53,25 @@
 <!--                  Event box --> 
 
 <!--                    Event Box  -->
+              <div class="event-wrap feature-event sticky-event">
+                <div class="date-wrap">
+                  <p class="event-date">27th July</p>
+                  <p class="event-time">11:00-15:00</p>
+                </div>
+                <h2 class="event-title">Hermitage Summer Fun</h2>
+                <p class="event-subheader"></p>
+                <p class="event-description">BBQ with activities including raffle, tombola, face painting, stream dipping, bug hunt and hook a duck</p>
+                <div class="link-wrap">
+                  <a href="/assets/events/hermitage_summer_fun.pdf" target="_blank" class="button success radius">View the Flyer</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap">Hermitage Open Space</div>
+                  <div class="cost-wrap"></div>
+                </div>
+              </div>
+<!--                  Event box --> 
+
+<!--                    Event Box  -->
               <div class="event-wrap">
                 <div class="date-wrap">
                   <p class="event-date"></p>
