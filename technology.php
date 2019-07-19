@@ -55,227 +55,8 @@
             <ul class="accordion" data-accordion role="tablist">
 
                 <li class="accordion-navigation">
-                    <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Year 7 - National Curriculum</a>
-                    <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Health and Safety.</li>
-                            <li>Design brief and research.</li>
-                            <li>Designing and modelling.</li>
-                            <li>Product Manufacture.</li>
-                            <li>Quality of manufacture.</li>
-                            <li>Unique Selling Point.</li>
-                            <li>Testing and Evaluations.</li>
-                        </ul>
-                    </div>
-                </li>
-
-                <li class="accordion-navigation">
-                    <a href="#panel2d" role="tab" id="panel2d-heading" aria-controls="panel2d">Year 8 - National Curriculum - Design &amp; Technology</a>
-                    <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Health and Safety.</li>
-                            <li>Design brief and research.</li>
-                            <li>Research of existing products.</li>
-                            <li>Designing and modelling.</li>
-                            <li>Product Manufacture.</li>
-                            <li>Quality of manufacture.</li>
-                            <li>Unique Selling Point.</li>
-                            <li>Testing and Evaluations.</li>
-                        </ul>
-                        <br>
-                        <p class="text-capitalize">Main skills students develop:</p>
-                        <ul class="circle">
-                            <li>Basic hand skills in woods and plastics</li>
-                            <li>Using hand tools and machinery safely</li>
-                            <li>Following a set of design plans accurately</li>
-                            <li>Create a product for stock materials</li>
-                        </ul>
-
-                    </div>
-                </li>
-
-                <li class="accordion-navigation">
-                    <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Year 8 - National Curriculum - Food</a>
-                    <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>We will concentrate on multicultural issues, discussing and using ingredients associated with other parts of the world. The students will learn to cook basic main courses and desserts which they can alter and develop to suit their taste.</li>
-                            <li>Nutrition will be covered in slightly more depth and students will be encouraged to recognise and develop an understanding of healthy eating.</li>
-                            <li>Food safety and hygiene will be a major part of all practical lessons as students begin to develop the basic skills learnt in Year 7. The students will complete a mini  project where they will research, design and make a bread product to meet a brief.</li>
-                        </ul>
-                        <br>
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Students will develop more Safety and Hygiene awareness as the course progresses, building on what they learnt in Year 7.</li>
-                            <li>They will further skills learnt such as chopping and slicing, while practicing methods such as frying, boiling, baking and whisking.</li>
-                            <li>The students will develop independence while following recipes and working in small groups to complete challenges.</li>
-                            <li>They will develop an understanding of meal combinations, selecting ingredients to produce authentic tasting dishes.</li>
-                            <li>They will continue to develop an understanding of a healthy and balanced diet.</li>
-                        </ul>
-                    </div>
-                </li>
-
-                <li class="accordion-navigation">
-                    <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 9 - GCSE AQA - Design &amp; Technology</a>
-                    <div id="panel4d" class="content" role="tabpanel" aria-labelledby="panel4d-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Metal-based project
-                                <ul>
-                                    <li>Investigation.</li>
-                                    <li>Drawing techniques.</li>
-                                    <li>Design techniques.</li>
-                                    <li>Produce models.</li>
-                                </ul>
-                            </li>
-                            <br>
-                            <li>Wood-based project
-                                <ul>
-                                    <li>Drawing techniques.</li>
-                                    <li>Design periods through history.</li>
-                                    <li>Produce models.</li>
-                                    <li>Plastic based.</li>
-                                    <li>Investigate the work of the client, the designer and the manufacturer.</li>
-                                    <li>Produce models.</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-
-                <li class="accordion-navigation">
-                    <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 9 - Vocational Level 2 Hospitality and Catering</a>
-                    <div id="panel5d" class="content" role="tabpanel" aria-labelledby="panel5d-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Students will follow a course to further their skills in all aspects of catering. They will develop a better understanding of Hygiene and Safety when working in an industrial kitchen dealing with the public.</li>
-                            <li>They will be introduced to Catering terminology and job roles within Catering, with a view to being able to work in the hospitality industry.</li>
-                            <li>All aspects of food preparation are covered with a view to developing skills such as food preparation, cooking and presentation of a wide variety of dishes.</li>
-                            <li>They will be shown how to use a wide range of fresh and pre-made commodities and be able to cater for small numbers.</li>
-                            <li>Nutrition will be covered in greater depth to increase the students’ knowledge of different diets with reference to medical, ethical and religious needs.</li>
-                            <li>There are 2 pieces of controlled assessment to be completed both of which consist of a practical 3 hour assessment as well as an 18 hour piece of written work followed by a 1 and a half hour exam at the end of the course.</li>
-                        </ul>
-                        <br>
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Students will develop all skills needed in food preparation from basic chopping and slicing to advanced decorating and presentation skills.</li>
-                            <li>An understanding of food safety and hygiene will be developed with reference to requirements set down by law in the hospitality sector.</li>
-                            <li>During practical sessions different cooking methods eg creaming, whisking, baking and steaming will be practised and developed. Students will be encouraged to present food well and understand the importance of this.</li>
-                            <li>They will also develop the skills needed to plan and cost meals.</li>
-                        </ul>
-                    </div>
-                </li>
-
-                <li class="accordion-navigation">
-                    <a href="#panel6d" role="tab" id="panel6d-heading" aria-controls="panel6d">Year 10 - GCSE AQA - Design &amp; Technology</a>
-                    <div id="panel6d" class="content" role="tabpanel" aria-labelledby="panel6d-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Making
-                                <ul>
-                                    <li>The type of project undertaken will determine the making activities that the student will encounter.</li>
-                                    <li>Mock examination.</li>
-                                    <li>Testing and evaluation.</li>
-                                </ul>
-                            </li>
-                            <br>
-                            <li>Possible activities
-                                <ul>
-                                    <li>Ongoing evaluation.</li>
-                                    <li>Client testing.</li>
-                                    <li>Final evaluation against the specification.</li>
-                                    <li>Final examination.</li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <br>
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Analysis of the design context.</li>
-                            <li>Product evaluation and market research</li>
-                            <li>Target market research: questionnaires, interviews, anthropometric data, letters, e-mails, mood boards.</li>
-                            <li>Design specification.</li>
-                            <li>Developing ideas by sketching.</li>
-                            <li>Developing ideas by modelling.</li>
-                            <li>Developing ideas through CAD.</li>
-                            <li>Research into materials.</li>
-                            <li>Research into methods of manufacture.</li>
-                            <li>Research into types of finish.</li>
-                            <li>Planning for manufacture.</li>
-                        </ul>
-                    </div>
-                </li>
-
-                <li class="accordion-navigation">
-                    <a href="#panel7d" role="tab" id="panel7d-heading" aria-controls="panel7d">Year 11 - Hospitality &amp; Catering</a>
-                    <div id="panel7d" class="content" role="tabpanel" aria-labelledby="panel7d-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-
-                            <ul class="circle">
-                                <br>
-                                <li>Students will follow a course to further their skills in all aspects of catering. They will develop a better understanding of Hygiene and Safety when working in an industrial kitchen dealing with the public.</li>
-                                <li>They will be introduced to Catering terminology and job roles within Catering, with a view to being able to work in the hospitality industry.</li>
-                                <li>All aspects of food preparation are covered with a view to developing skills such as food preparation, cooking and presentation of a wide variety of dishes.</li>
-                                <li>Ongoing evaluation.</li>
-                                <li>They will be shown how to use a wide range of fresh and pre-made commodities and be able to cater for small numbers.</li>
-                                <li>Nutrition will be covered in greater depth to increase the students’ knowledge of different diets with reference to medical, ethical and religious needs.</li>
-                                <li>There are 2 pieces of controlled assessment to be completed both of which consist of a practical 3 hour assessment as well as an 18 hour piece of written work followed by a 1 and a half hour exam at the end of the course.</li>
-                                <li>Students will develop all skills needed in food preparation from basic chopping and slicing to advanced decorating and presentation skills.</li>
-                                <li>An understanding of food safety and hygiene will be developed with reference to requirements set down by law in the hospitality sector.</li>
-                                <li>During practical sessions different cooking methods eg creaming, whisking, baking and steaming will be practised and developed. Students will be encouraged to present food well and understand the importance of this.</li>
-                                <li>They will also develop the skills needed to plan and cost meals.</li>
-                            </ul>
-                        </div>
-                </li>
-
-
-                   <li class="accordion-navigation">
-                    <a href="#panel8" role="tab" id="panel8-heading" aria-controls="panel8">Year 11 Resistant Materials</a>
-                    <div id="panel8" class="content" role="tabpanel" aria-labelledby="panel8-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Students will complete a 45-hour piece of controlled assessment determined by the exam board. This includes a 20-hour practical assessment creating a product from stock materials and a 25-hour design folder. This work is internally and externally examined.</li>
-                            <li>Students will complete a 2-hour examination at the end of the course, this will be externally examined.</li>
-                            <li>Making
-                                <ul>
-                                    <li>The type of project undertaken will determine the making activities that the student will encounter.</li>
-                                    <li>Mock examination.</li>
-                                    <li>Testing and evaluation.</li>
-                                </ul>
-                            </li>
-                            <br>
-                            <li>Possible activities
-                                <ul>
-                                    <li>Ongoing evaluation.</li>
-                                    <li>Client testing.</li>
-                                    <li>Final evaluation against the specification.</li>
-                                    <li>Final examination.</li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <br>
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Analysis of the design context.</li>
-                            <li>Product evaluation and market research</li>
-                            <li>Target market research: questionnaires, interviews, anthropometric data, letters, e-mails, mood boards.</li>
-                            <li>Design specification.</li>
-                            <li>Developing ideas by sketching.</li>
-                            <li>Developing ideas by modelling.</li>
-                            <li>Developing ideas through CAD.</li>
-                            <li>Research into materials.</li>
-                            <li>Research into methods of manufacture.</li>
-                            <li>Research into types of finish.</li>
-                            <li>Planning for manufacture.</li>
-                        </ul>
-                    </div>
-                </li>
-
-                <li class="accordion-navigation">
-                    <a href="#panel9" role="tab" id="panel9-heading" aria-controls="panel9">APEX - LASER Level 1 Certificate for Learning, Employability and Progression</a>
-                    <div id="panel9" class="content" role="tabpanel" aria-labelledby="panel9-heading">
+                    <a href="#panel1" role="tab" id="panel1-heading" aria-controls="panel1">APEX - LASER Level 1 Certificate for Learning, Employability and Progression</a>
+                    <div id="panel1" class="content" role="tabpanel" aria-labelledby="panel1-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <p>To achieve the LASER Level 1 Certificate for Learning, Employability and Progression the learner must achieve a minimum of 20 credits. The credits may be taken from any combination of units but a minimum of 11 credits must be at Level 1.</p> 
 
@@ -295,7 +76,268 @@
                     </div>
                 </li>
 
+                <li class="accordion-navigation">
+                    <a href="#panel2" role="tab" id="panel2-heading" aria-controls="panel2">Year 7 Design and Technology transition curriculum</a>
+                    <div id="panel2" class="content" role="tabpanel" aria-labelledby="panel2-heading">
+                        <p>Year 7 Design and Technology at Park is designed to enable our students to make a successful transition from Key Stage 2. Students will study three main areas. Our Core curriculum where students are learning the foundations of the subject. Design and Technology where students are learning the design process and health and safety legislation whilst using new equipment. They will also study Food and Catering including health and hygiene basics and cooking skills.</p>
+                    </div>
+                </li>
 
+                <li class="accordion-navigation">
+                    <a href="#panel3" role="tab" id="panel3-heading" aria-controls="panel3">Year 8 Design and Technology</a>
+                    <div id="panel3" class="content" role="tabpanel" aria-labelledby="panel3-heading">
+                        <p>Year 8 Design and Technology students’ study both DT and Hospitality and Catering. This is a skills-based year where students will design ad create a few products as well as learn new cooking skills. The aim of this year is to allow students to practise skills whilst trying to refine their work to improve its quality. There is a larger emphasis on the theoretical work to ensure that students are fully prepared for GCSE but we are fully supportive of teaching practical skills for life.</p>
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel4" role="tab" id="panel4-heading" aria-controls="panel4">Year 9 – GCSE Art and Design; 3D Design</a>
+                    <div id="panel4" class="content" role="tabpanel" aria-labelledby="panel4-heading">
+                        <p>Three-dimensional design is defined here as the design, prototyping and modelling or making of primarily functional and aesthetic products, objects, and environments, drawing upon intellectual, creative and practical skills. Students are taught many different skills to prepare them for the 3 modules that they must complete to pass this course.</p>
+                        <p>Module 1, A mini project showing their designing skills and developing them. Year 9</p>
+                        <p>Module 2, A design and make project of the student’s choice. Year 9 &amp; 10</p>
+                        <p>Module 3, A design and make project that is stipulated externally with a 10hour making exam. Year 10</p>
+                        <p>Within the context of three-dimensional design, students must demonstrate the ability to: use three-dimensional techniques and processes, appropriate to students’ personal intentions, for example:<p>
+                        <ul>
+                            <li>model making</li>
+                            <li>constructing</li>
+                            <li>surface treatment</li>
+                            <li>assembling</li>
+                            <li>modelling</li>
+                        </ul>
+                            
+                        <p>use media and materials, as appropriate to students’ personal intentions, for example:</p>
+                        <ul>
+                            <li>drawing materials</li>
+                            <li>clay</li>
+                            <li>wood</li>
+                            <li>metal</li>
+                            <li>plaster</li>
+                            <li>plastic</li>
+                            <li>found materials.</li>
+                        </ul>
+                            
+                        <p><a target="_blank" href="//www.aqa.org.uk/subjects/art-and-design/gcse/art-and-design-8201-8206">Link to examination board specification</a></p>
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel5" role="tab" id="panel5-heading" aria-controls="panel5">Year 10/11 – GCSE Art and Design; 3D Design</a>
+                    <div id="panel5" class="content" role="tabpanel" aria-labelledby="panel5-heading">
+                        
+                        <p><strong>Areas of study</strong></p>
+                        <p>In Module 2 and Module 3 students are required to work in one or more area(s) of three-dimensional design, such as those listed below:</p>
+                        <ul>
+                            <li>architectural design</li>
+                            <li>sculpture</li>
+                            <li>ceramics</li>
+                            <li>product design</li>
+                            <li>jewellery and body adornment</li>
+                            <li>interior design</li>
+                            <li>environmental/landscape/garden design</li>
+                            <li>exhibition design</li>
+                            <li>3D digital design</li>
+                            <li>designs for theatre, film and television.</li>
+                        </ul>
+                        <p>Students may explore overlapping areas and combinations of areas. Students must develop and apply the knowledge, understanding and skills specified in the Subject content to realise personal intentions relevant to three-dimensional design and their selected area(s) of study. The following aspects of knowledge, understanding and skills are defined in further detail to ensure students’ work is clearly focused and relevant to three-dimensional design.</p>
+
+                        <p><strong>Knowledge and understanding</strong></p>
+                        <p>The way sources inspire the development of ideas relevant to three-dimensional design including:</p>
+                        <p>how sources relate to historical, contemporary, cultural, social, environmental and creative contexts</p>
+                        <p>how ideas, feelings, forms, and purposes can generate responses that address specific needs be these personal or determined by external factors such as the requirements of an individual client's expectations, needs of an intended audience or details of a specific commission.</p>
+
+                        <p><strong>The ways in which meanings, ideas and intentions relevant to three-dimensional design can be communicated include the use of:</strong></p> 
+                        <p>figurative and non-figurative forms of representation, stylisation, simplification, exaggeration, the relationship between form and surface embellishment, constructional considerations and imaginative interpretation visual and tactile elements such as: colour, line, form, tone, texture, space, proportion, decoration, scale, structure, shape and pattern.</p>
+
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel6" role="tab" id="panel6-heading" aria-controls="panel6">Year 9 – GCSE Art and Design; Graphic Communication</a>
+                    <div id="panel6" class="content" role="tabpanel" aria-labelledby="panel6-heading">
+                        <p>Graphic communication is defined here as the process of designing primarily visual material to convey information, ideas, meaning and emotions in response to a given or self-defined brief. Students are taught many different skills to prepare them for the 3 modules that they must complete to pass this course.</p>
+
+                        <p>Module 1, A mini project showing their designing skills and developing them. <strong>Year 9</strong></p>
+                        <p>Module 2, A design and make project of the student’s choice. <strong>Year 9 &amp; 10</strong></p>
+                        <p>Module 3, A design and make project that is stipulated externally with a 10hour making exam. <strong>Year 10</strong></p>
+
+                        <p>Within the context of graphic communication, students must demonstrate the ability to: use graphic communication techniques and processes, appropriate to students’ personal intentions, for example:</p>
+                        <ul>
+                            <li>typography</li>
+                            <li>illustration</li>
+                            <li>digital and/or non-digital photography</li>
+                            <li>hand rendered working methods</li>
+                            <li>digital working methods</li>
+                        </ul>
+
+                        <p>use media and materials, as appropriate to students’ personal intentions, for example:</p>
+                        <ul>
+                            <li>pencil, pen and ink, pen and wash, crayon, and other graphic media</li>
+                            <li>watercolour, gouache and acrylic paint</li>
+                            <li>layout materials</li>
+                            <li>digital media</li>
+                            <li>printmaking</li>
+                            <li>mixed media</li>
+                        </ul>
+
+                        <p><a target="_blank" href="//www.aqa.org.uk/subjects/art-and-design/gcse/art-and-design-8201-8206">Link to examination board specification</a></p>
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel7" role="tab" id="panel7-heading" aria-controls="panel7">Year 10/11 – Art and Design; Graphic Communication</a>
+                    <div id="panel7" class="content" role="tabpanel" aria-labelledby="panel7-heading">
+                        <p>In Module 2 and Module 3 students are required to work in one or more area(s) of graphic communication, such as those listed below:</p>
+                        <ul>
+                            <li>communication graphics</li>
+                            <li>design for print</li>
+                            <li>advertising and branding</li>
+                            <li>illustration</li>
+                            <li>package design</li>
+                            <li>typography</li>
+                            <li>interactive design (including web, app and game)</li>
+                            <li>multi-media</li>
+                            <li>motion graphics</li>
+                            <li>signage</li>
+                            <li>exhibition graphics.</li>
+                        </ul>
+                        <p>They may explore overlapping areas and combinations of areas.</p>
+
+                        <p><strong>Knowledge, understanding and skills</strong></p>
+                        <p>Students must develop and apply the knowledge, understanding and skills specified in the Subject content to realise personal intentions relevant to graphic communication and their selected area(s) of study. The following aspects of knowledge, understanding and skills are defined in further detail to ensure students’ work is clearly focused and relevant to graphic communication.</p>
+
+                        <p><strong>Knowledge and understanding</strong></p>
+                        <p><strong>The way sources inspire the development of ideas relevant to graphic communication including:</strong></p>
+                        <p>how sources relate to a given or self-defined brief which might, for example, have a commercial, social or environmental focus or be concerned with other aspects specific to the creative industries</p>
+                        <p>how ideas, themes, forms, issues and needs can provide the stimulus for creative, imaginative, thoughtful and appropriately focused responses that are fit for a specific intended purpose.</p>
+
+                        <p><strong>The ways in which meanings, ideas and intentions relevant to graphic communication can be communicated include the use of:</strong></p>
+
+                        <p>different forms of representation, brand identity, intended message, target audience and working within parameters determined by client and/or audience expectations and requirements. Visual and tactile elements, such as: colour, line, form, tone, texture, shape, pattern, composition, stylisation, simplification, scale, structure.</p>
+
+                        <p><strong>Skills</strong></p>
+                        <p>Within the context of graphic communication, students must demonstrate the ability to:</p>
+
+                        <p>use graphic communication techniques and processes, appropriate to students’ personal intentions, for example:</p>
+                        <ul>
+                            <li>typography</li>
+                            <li>illustration</li>
+                            <li>digital and/or non-digital photography</li>
+                            <li>hand rendered working methods</li>
+                            <li>digital working methods</li>
+                        </ul>
+
+                        <p>use media and materials, as appropriate to students’ personal intentions, for example:</p>
+                        <ul>
+                            <li>pencil, pen and ink, pen and wash, crayon, and other graphic media</li>
+                            <li>watercolour, gouache and acrylic paint</li>
+                            <li>layout materials</li>
+                            <li>digital media</li>
+                            <li>printmaking</li>
+                            <li>mixed media.</li>
+                        </ul>
+
+                        <p><a target="_blank" href="//www.aqa.org.uk/subjects/art-and-design/gcse/art-and-design-8201-8206">Link to examination board specification</a></p>
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel8" role="tab" id="panel8-heading" aria-controls="panel8">Year 9 WJEC (EDUQAS) Hospitality and Catering Spec A</a>
+                    <div id="panel8" class="content" role="tabpanel" aria-labelledby="panel8-heading">
+                        <p>The hospitality and catering sector includes all businesses that provide food, beverages, and/or accommodation services. This includes restaurants, hotels, pubs and bars.</p> 
+                        <p>It also includes airlines, tourist attractions, hospitals and sports venues; businesses where hospitality and catering is not their primary service but is increasingly important to their success. According to the British Hospitality Association, hospitality and catering is Britain’s fourth largest industry and accounts for around 10% of the total workforce. Since 2010, over 25% of all new jobs have been within the hospitality and catering sector with the majority of new roles falling within the 18-24 age group, according to a report by People 1P.</p> 
+                        <p>This is a reason why we feel very strongly about offering these skills for life to our students to give them the best chance when they leave Park.</p> 
+
+                        <p>Level 1/2 Vocational Award in Hospitality and Catering provides learners with a core depth of knowledge and a range of specialist and general skills that will support their progression to further learning and employment.</p>
+
+                        <p>Students will gain Knowledge and understanding of the hospitality and catering industry. They will be able to develop the ability to plan, prepare and cook dishes as well as develop their practical skills for the catering industry.</p>
+
+                        <p>Main topics students study:</p>
+                        <ul>
+                            <li>Students will follow a course to further their skills in all aspects of catering. They will develop a better understanding of Hygiene and Safety when working in an industrial kitchen and when dealing with the public.</li>
+                            <li>They will be introduced to Catering terminology and job roles within Catering, with a view to being able to work in the Hospitality industry.</li>
+                            <li>All aspects of food preparation are covered with a view to developing skills such as food preparation, cooking and presentation of a wide variety of dishes.</li>
+                            <li>They will be shown how to use a wide range of fresh and pre-made commodities and be able to cater for small numbers.</li>
+                            <li>Nutrition will be covered in greater depth to increase the students’ knowledge of different diets with reference to medical, ethical and religious needs.</li>
+                            <li>During practical sessions different cooking methods eg creaming, whisking, baking and steaming will be practised and developed. Students will be encouraged to present food well and understand the importance of this.</li>
+                            <li>They will also develop the skills needed to plan and cost meals.</li>
+                        </ul>
+
+                        <p><a target="_blank" href="//www.eduqas.co.uk/qualifications/hospitality-and-catering/">Link to examination board specification</a></p>
+
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel9" role="tab" id="panel9-heading" aria-controls="panel9">Year 10/11 WJEC (EDUQAS) Hospitality and Catering Spec A</a>
+                    <div id="panel9" class="content" role="tabpanel" aria-labelledby="panel9-heading">
+                        <p>Students in year 10/11 Hospitality and Catering will be completing their Controlled Assessment work from Sept until December. This includes a 9 hour Internal Assessment that is worth 60% of the overall grade. The criteria for this part of the course is below.</p>     
+
+                        <p><strong>LO1 AC 1.1 MERIT</strong></p>
+                        <p>Describe the functions of nutrients in the human body.</p>  
+
+                        <p><strong>LO1 AC 1.2 DISTINCTION</strong></p>
+                        <p>Compare the needs of specific groups.</p>  
+
+                        <p><strong>LO1 AC 1.3 MERIT</strong></p>
+                        <p>Explain the characteristics of unsatisfactory nutritional intake.</p>  
+
+                        <p><strong>LO1 AC 1.4 PASS</strong></p>
+                        <p>Explain How Cooking Methods Impact On Nutritional Value Of Food</p>  
+
+                        <p><strong>LO2 AC 2.1 MERIT</strong></p>
+                        <p>Explain Factors To Consider When Proposing Dishes For A Menu</p>  
+
+                        <p><strong>LO2 AC 2.2 PASS</strong></p>
+                        <p>Explain How Dishes On A Menu Address Environmental Issues</p>  
+
+                        <p><strong>LO2 AC 2.3 MERIT</strong></p>
+                        <p>Explain How Menu Dishes Meet Customer Needs</p>  
+
+                        <p><strong>LO2 AC 2.4 DISTINCTION</strong></p>
+                        <p>Plan production of dishes for a menu.</p>  
+
+                        <p><strong>LO3 AC 3.1 DISTINCTION</strong></p>
+                        <p>Use Techniques In Preparation Of Commodities</p>  
+
+                        <p><strong>LO3 AC 3.2 MERIT</strong></p>
+                        <p>Assure Quality Of Commodities To Be Used In Food Preparation</p>  
+
+                        <p><strong>LO3 AC 3.3 DISTINCTION</strong></p>
+                        <p>Use Techniques In Cooking Of Commodities</p>  
+
+                        <p><strong>LO3 AC 3.4 DISTINCTION</strong></p>
+                        <p>Complete Dishes Using Presentation Techniques</p>  
+
+                        <p><strong>LO3 AC 3.5  MERIT</strong></p>
+                        <p>Use Food Safety Practises</p>  
+
+                        <p>From January until June students will be completing revision topics in preparation for the External Assessment that is worth 40% of the overall grade. The criteria for this part of the course is below.</p>
+
+                        <ul>
+                            <li>LO1 Hospitality and catering industry</li>
+                            <li>LO1 Requirements</li>
+                            <li>LO1 Working conditions</li>
+                            <li>LO1 Factors</li>
+                            <li>LO2 Operation</li>
+                            <li>LO2 Customer</li>
+                            <li>LO2 Requirements</li>
+                            <li>LO3 Responsibilities</li>
+                            <li>LO3 Risks</li>
+                            <li>LO3 Control measures</li>
+                            <li>LO4 Causes</li>
+                            <li>LO4 EHO</li>
+                            <li>LO4 Legislation</li>
+                            <li>LO4 Food poisoning</li>
+                            <li>LO4 Symptons</li>
+                            <li>LO4 Food induced ill health</li>
+                            <li>LO5 Hospitality and catering provision</li>
+                        </ul>
+
+                        <p><a target="_blank" href="//www.eduqas.co.uk/qualifications/hospitality-and-catering/">Link to examination board specification</a></p>
+
+                    </div>
+                </li>
 
 
             </ul>
