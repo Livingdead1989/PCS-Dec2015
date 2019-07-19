@@ -72,7 +72,6 @@
                         </ul>
                         <br>
                         <p>For more information please contact Daniel Payne, Head of Design and Technology and oversight of APEX centre.</p>
-
                     </div>
                 </li>
 
@@ -80,6 +79,8 @@
                     <a href="#panel2" role="tab" id="panel2-heading" aria-controls="panel2">Year 7 Design and Technology transition curriculum</a>
                     <div id="panel2" class="content" role="tabpanel" aria-labelledby="panel2-heading">
                         <p>Year 7 Design and Technology at Park is designed to enable our students to make a successful transition from Key Stage 2. Students will study three main areas. Our Core curriculum where students are learning the foundations of the subject. Design and Technology where students are learning the design process and health and safety legislation whilst using new equipment. They will also study Food and Catering including health and hygiene basics and cooking skills.</p>
+
+                        <p><a href="assets/curriculum/technology/y7_curriculum.pdf">In-depth review of specific topics that will be learnt this year</a></p>
                     </div>
                 </li>
 
@@ -87,6 +88,8 @@
                     <a href="#panel3" role="tab" id="panel3-heading" aria-controls="panel3">Year 8 Design and Technology</a>
                     <div id="panel3" class="content" role="tabpanel" aria-labelledby="panel3-heading">
                         <p>Year 8 Design and Technology students’ study both DT and Hospitality and Catering. This is a skills-based year where students will design ad create a few products as well as learn new cooking skills. The aim of this year is to allow students to practise skills whilst trying to refine their work to improve its quality. There is a larger emphasis on the theoretical work to ensure that students are fully prepared for GCSE but we are fully supportive of teaching practical skills for life.</p>
+
+                        <p><a href="assets/curriculum/technology/y8_curriculum.pdf">In-depth review of specific topics that will be learnt this year</a></p>
                     </div>
                 </li>
 
@@ -118,6 +121,8 @@
                         </ul>
                             
                         <p><a target="_blank" href="//www.aqa.org.uk/subjects/art-and-design/gcse/art-and-design-8201-8206">Link to examination board specification</a></p>
+
+                        <p><a href="assets/curriculum/technology/y9_art_design_3d_design_curriculum.pdf">In-depth review of specific topics that will be learnt this year</a></p>
                     </div>
                 </li>
 
@@ -180,6 +185,8 @@
                             <li>mixed media</li>
                         </ul>
 
+                        <p><a href="assets/curriculum/technology/y9_art_design_3d_design_curriculum.pdf">In-depth review of specific topics that will be learnt this year</a></p>
+
                         <p><a target="_blank" href="//www.aqa.org.uk/subjects/art-and-design/gcse/art-and-design-8201-8206">Link to examination board specification</a></p>
                     </div>
                 </li>
@@ -237,6 +244,8 @@
                             <li>mixed media.</li>
                         </ul>
 
+                        <p><a href="assets/curriculum/technology/y10_art_design_3d_design_curriculum.pdf">In-depth review of specific topics that will be learnt this year</a></p>
+
                         <p><a target="_blank" href="//www.aqa.org.uk/subjects/art-and-design/gcse/art-and-design-8201-8206">Link to examination board specification</a></p>
                     </div>
                 </li>
@@ -262,6 +271,8 @@
                             <li>During practical sessions different cooking methods eg creaming, whisking, baking and steaming will be practised and developed. Students will be encouraged to present food well and understand the importance of this.</li>
                             <li>They will also develop the skills needed to plan and cost meals.</li>
                         </ul>
+
+                        <p><a href="assets/curriculum/technology/y9_hospitality_catering_curriculum.pdf">In-depth review of specific topics that will be learnt this year</a></p>
 
                         <p><a target="_blank" href="//www.eduqas.co.uk/qualifications/hospitality-and-catering/">Link to examination board specification</a></p>
 
@@ -333,6 +344,8 @@
                             <li>LO4 Food induced ill health</li>
                             <li>LO5 Hospitality and catering provision</li>
                         </ul>
+
+                        <p><a href="assets/curriculum/technology/y10_hospitality_catering_curriculum.pdf">In-depth review of specific topics that will be learnt this year</a></p>
 
                         <p><a target="_blank" href="//www.eduqas.co.uk/qualifications/hospitality-and-catering/">Link to examination board specification</a></p>
 
