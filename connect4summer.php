@@ -24,6 +24,14 @@
 	<div class="row">
 		<div class="columns">
 			<br>
+			<div class="row">
+				<div class="small-8 small-push-2 columns">
+					<div class="flex-video widescreen border-radius-5">
+						<iframe src="https://player.vimeo.com/video/349615481?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+						</iframe>
+					</div>
+				</div>
+			</div>
 			<h2>What is Connect4Summer?</h2>
 			<p>Connect4Summer is a programme for children in 23 venues across Hampshire which provides an exciting programme that will include a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
 
