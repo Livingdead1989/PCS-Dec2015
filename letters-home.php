@@ -30,7 +30,8 @@
 				  <ul class="circle">July 2019<hr>
 				  	<li><a href="/assets/letters/2019-07/end_of_year.pdf" target="_blank">End of Year incl Attendance</a></li>
 				  	<li><a href="/assets/letters/2019-07/literature_books.pdf" target="_blank">Literature Books for GCSE</a></li>
-				  </ul>
+				  	<li><a href="/assets/letters/2019-07/year_10.pdf" target="_blank">Year 10</a></li>
+			  	  </ul>
 				</li>
             	<li>           	
 				  <ul class="circle">June 2019<hr>
