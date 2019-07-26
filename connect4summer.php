@@ -25,6 +25,7 @@
 		<div class="columns">
 			<br>
 			<div class="row">
+				<h2>Connect4Summer in the BBC</h2>
 				<div class="columns small-12 medium-12 large-6">
 					<div class="flex-video widescreen border-radius-5">
 						<iframe src="https://player.vimeo.com/video/349615481?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -33,6 +34,17 @@
 				<div class="columns small-12 medium-12 large-6">
 					<div class="flex-video widescreen border-radius-5">
 						<iframe src="https://player.vimeo.com/video/349452617?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="columns">
+					<h2>Connect4Summer on the Radio</h2>
+					<p>BBC Radio Solent's Julian Glegg talking with Susan Parish about the Connect4Summer scheme.</p>
+					<div class="text-center">
+						<audio src="assets/connect4summer/radio.mp3" controls>
+						</audio>
 					</div>
 				</div>
 			</div>
