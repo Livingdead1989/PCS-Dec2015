@@ -236,6 +236,7 @@ header h1, header h3, header p {
   margin: 10px;
   padding: 10px;
   border: 1px solid #474747;
+  background-color: #474747;
 }
 .policy-container p {
   margin: 0;
