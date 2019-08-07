@@ -38,6 +38,12 @@
             <ul class="small-only-text-center small-block-grid-2 medium-block-grid-4 large-block-grid-6 text-center">
 
                 <li>
+                    <a href="assets/news/parkpost/issue22-jul2019.pdf" target="_blank">
+                        <img class="border-grey-radius" src="assets/news/parkpost/covers/issue22-jul2019.jpg" alt="Park Post Issue 22 Frontcover">
+                        <p>Issue 22 - 2019</p>
+                    </a>
+                </li>
+                <li>
                     <a href="assets/news/parkpost/issue20-dec2018.pdf" target="_blank">
                         <img class="border-grey-radius" src="assets/news/parkpost/covers/issue20-dec2018.jpg" alt="Park Post Issue 20 Frontcover">
                         <p>Issue 20 - 2018</p>
