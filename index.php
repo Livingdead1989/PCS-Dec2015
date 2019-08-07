@@ -50,9 +50,19 @@
 <!-- NOTIFICATION -->
 <section class="page-notification">
   <div class="row">
-    <div class="large-12 columns">
-        <p><a href="/connect4summer.php" style="color: #474747">Learn about <img style="height:42px;" alt="Connect for Summer" src="images/connect4summer/connect4summer_logo.png">...</a><br><a href="/events.php" style="color: #474747">Skoolkit Free Delivery Codes</a></p> 
+    <!-- Section1 -->
+    <div class="medium-6 large-4 columns">
+        <p><a href="/events.php" style="color: #474747">Skoolkit Free Delivery Codes</a></p> 
     </div>
+    <!-- Section2 -->
+    <div class="medium-6 large-4 columns">
+        <p><a href="/connect4summer.php" style="color: #474747">Learn about <img style="height:42px;" alt="Connect for Summer" src="images/connect4summer/connect4summer_logo.png">...</a></p> 
+    </div>
+    <!-- Section3 -->
+    <div class="medium-6 large-4 end columns">
+        <p><a href="/assets/events/activity_track .pdf" style="color: #474747">Free Running Track - Vote for us!</a></p> 
+    </div>
+    <!-- End -->
   </div>
 </section>
 <!-- END NOTIFICATION -->
