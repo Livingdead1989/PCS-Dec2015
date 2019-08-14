@@ -62,9 +62,9 @@
 			  </li>
 			  <li>
 			    <ul style="line-height: 2;">Forms | <small>DOC Files</small>
-			      <li><a href="assets/recruitment/documentation/equalities-form.doc" target="_blank" download>Equalities Form</a></li>
-			      <li><a href="assets/recruitment/documentation/teaching-application-form.doc" target="_blank" download>Teaching Application Form</a></li>
-			      <li><a href="assets/recruitment/documentation/support-application-form.doc" target="_blank" download>Support Application Form</a></li>
+			      <li><a href="assets/recruitment/documentation/equalities-form.odt" target="_blank" download>Equalities Form</a></li>
+			      <li><a href="assets/recruitment/documentation/teaching-application-form.odt" target="_blank" download>Teaching Application Form</a></li>
+			      <li><a href="assets/recruitment/documentation/support-application-form.odt" target="_blank" download>Support Application Form</a></li>
 			    </ul>
 			  </li>
 			</ul>
