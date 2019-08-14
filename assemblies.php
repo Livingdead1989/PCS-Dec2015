@@ -30,7 +30,7 @@
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
                 <li>
                     <ul class="circle">Summer 2019
-                      <li><a href="assets/assemblies/2019-summer/smsc1.pdf" target="_blank">Bloggers and Internet Addiction <small>SMSC1</small></a></li>
+                      <li><a href="assets/assemblies/2019-summer/smsc1.pdf" target="_blank">Aspiration - preparing to deal with the virtual world <small>SMSC1</small></a></li>
                     </ul>
                 </li>
                 <li>
