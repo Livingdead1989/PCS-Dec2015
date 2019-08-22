@@ -259,9 +259,9 @@
             <p class="subheader">Head of School</p>
         </div>
         <div class="large-4 medium-6 columns text-center  team-member-container end">
-            <img src="images/slt/d-morris.jpg" alt="" class="team-member">
-            <p>Ms D Morris</p>
-            <p class="subheader">Deputy Head</p>
+            <img src="images/slt/s-parish.jpg" alt="" class="team-member">
+            <p>Mrs S Parish</p>
+            <p class="subheader">Business &amp; Community Manager</p>
         </div>
 
         </div>
