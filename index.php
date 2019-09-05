@@ -50,19 +50,9 @@
 <!-- NOTIFICATION -->
 <section class="page-notification">
   <div class="row">
-    <!-- Section1 -->
-    <div class="medium-6 large-4 columns">
-        <p><a href="/events.php" style="color: #474747">Skoolkit Free Delivery Codes</a></p> 
-    </div>
-    <!-- Section2 -->
-    <div class="medium-6 large-4 columns">
-        <p><a href="/connect4summer.php" style="color: #474747">Learn about <img style="height:42px;" alt="Connect for Summer" src="images/connect4summer/connect4summer_logo.png">...</a></p> 
-    </div>
-    <!-- Section3 -->
-    <div class="medium-6 large-4 end columns">
+    <div class="columns">
         <p><a href="/assets/events/activity_track .pdf" style="color: #474747">Free Running Track - Vote for us!</a></p> 
     </div>
-    <!-- End -->
   </div>
 </section>
 <!-- END NOTIFICATION -->
@@ -102,7 +92,7 @@
 
             <div class="row">
                 <div class="large-11 columns"><br class="show-for-large-up">
-                    <ul class="small-block-grid-2 medium-block-grid-4 text-center">
+                    <ul class="small-block-grid-1 medium-block-grid-3 text-center">
 
                         <li>
                           <a href="//login.microsoftonline.com" target="_blank">
@@ -112,16 +102,9 @@
                         </li>
 
                         <li>
-                          <a href="//my.milkapp.io/" target="_blank">
-                              <img class="fixed-size-100" src="/images/logo/milk.png" alt="Homework Online Management">
-                              <p>Milk Homework</p>
-                          </a>
-                        </li>
-
-                        <li>
-                          <a href="//www.myedschoolapp.com/" target="_blank">
-                              <img class="fixed-size-100" src="/images/logo/myed.png" alt="The My Ed app shows you up to date information about all aspects of your child’s school life.">
-                              <p>MyEd</p>
+                          <a href="//insight.pcs.hants.sch.uk:444" target="_blank">
+                              <img class="fixed-size-100" src="/images/logo/insight.png" alt="Homework Online Management">
+                              <p>Insight</p>
                           </a>
                         </li>
 

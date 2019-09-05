@@ -80,34 +80,11 @@
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/logo/milk.png" alt="Milk - Online Student Planner"><br>Milk</li>
+              <li class="title"><img class="fixed-size-100" src="images/logo/insight.png" alt="TASC - Insight"><br>Milk</li>
               <li class="bullet-item">Homework</li>
               <li class="bullet-item">Achievements</li>
-              <li class="bullet-item">Targets</li>
-              <li class="cta-button"><a class="button radius" href="//my.milkapp.io/" target="_blank">Open</a></li>
-            </ul>
-        <br>
-        </div>
-
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
-        <br>
-            <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/logo/myed.png" alt="Milk - Online Student Planner"><br>MyEd</li>
-              <li class="bullet-item">Free Messaging</li>
-              <li class="bullet-item">Key Dates</li>
-              <li class="bullet-item">Student Details</li>
-              <li class="cta-button"><a class="button radius" href="//www.myedschoolapp.com/" target="_blank">Open</a></li>
-            </ul>
-        <br>
-        </div>
-         <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
-        <br>
-            <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/logo/parent-booking.png" alt="Parent Booking - Parents Evening"><br>Parents Booking</li>
-              <li class="bullet-item">Parents Evening</li>
-              <li class="bullet-item">Online Booking</li>
-              <li class="bullet-item">Manual or Automatic</li>
-              <li class="cta-button"><a class="button radius" href="//parents-booking.co.uk/parkcommunity" target="_blank">Open</a></li>
+              <li class="bullet-item">Messaging</li>
+              <li class="cta-button"><a class="button radius" href="//insight.pcs.hants.sch.uk:444" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>
