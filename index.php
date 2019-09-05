@@ -90,7 +90,7 @@
                 </div>
             </div>
 
-            <div class="row">
+            <!-- <div class="row">
                 <div class="large-11 columns"><br class="show-for-large-up">
                     <ul class="small-block-grid-1 medium-block-grid-3 text-center">
 
@@ -118,7 +118,7 @@
                     </ul>
                     <br>
                 </div>
-            </div>
+            </div> -->
         </div>
         <div class="large-4 columns show-for-large-up">
             <div>
