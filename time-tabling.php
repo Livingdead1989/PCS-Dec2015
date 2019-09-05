@@ -5,12 +5,12 @@
         <title>Park Community School | Timetabling</title>
         <?php include("includes/head.html") ?>
     </head>
-<body class="page-learning">
+<body class="page-school">
 <!-- NAVIGATION -->
 <?php include("includes/topnav.html") ?>
 
 <!-- HEADER SECTION -->
-<header class="header-learning">
+<header class="header-school">
     <div class="row">
         <div class="medium-8 large-8 columns">
             <h1>Timetabling</h1>

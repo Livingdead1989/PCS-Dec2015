@@ -26,12 +26,7 @@
         <div class="medium-7 columns">
             <p>Homework is a significant way through which we increase students’ <strong>Understanding</strong> and <strong>Mastery</strong> of content and skills, and raise standards.</p>
 
-            <p>The expectations of new exam syllabuses and a move to terminal examinations in all subjects over the next three years, means that students must be supported to consolidate, review and revise learning outside of lessons in order to fully master the knowledge and skills they require. Homework is a vital part of this.</p>
-
-            <div class="text-center">
-              <a class="button radius warning" href="assets/homework/homework-timetable.pdf" target="_blank">Homework Timetable</a>
-              <a class="button radius warning" href="assets/homework/end_of_year_exams.pdf" target="_blank">End of Year Exams</a>
-            </div>
+            <p>The expectations of new exam syllabuses and a move to terminal examinations in all subjects over the next three years, means that students must be supported to consolidate, review and revise learning outside of lessons in order to fully master the knowledge and skills they require. <br>Homework is a vital part of this.</p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/homework/homework-01.jpg" alt="Park Community School - Understanding and Mastery of Subjects"></div>
     </div>
@@ -76,7 +71,7 @@
             <li>Keep distractions to a minimum</li>
             <li>Praise their work and efforts</li>
             <li>Daily reading is essential</li>
-            <li>Access MILK to view homework assignments</li>
+            <li>Access <a href="//insight.pcs.hants.sch.uk:444" target="_blank">Insight</a> to view homework assignments</li>
           </ul>
           <h4 class="text-capitalize">The Internet has lots of helpful resources</h4>
           <p>If your child has forgotten some facts or how to solve a maths problem, there will always be a <a href="//www.youtube.com/channel/UC3yA8nDwraeOfnYfBWun83g" target="_blank">YouTube</a> video on it that you can watch together.</p>
@@ -100,19 +95,12 @@
         <div class="medium-7 columns">
           <h3>Supporting Documents</h3>
           <ul class="circle">
-          	<li><a href="assets/homework/may_revision.pdf" target="_blank">May Revision Timetable</a> <small>(PDF)</small></li>
-            <li>Preparing for success in your GCSEs <small>(PDF)</small></li>
             <li><a href="assets/homework/yr10_parent_revision_information.pdf" target="_blank">Year 10 parent revision information presentation</a> <small>(PDF)</small></li>
             <li><a href="assets/homework/memory_revision.pdf" target="_blank">Memory and Revision</a> <small>(PDF)</small></li>
             <li><a href="assets/homework/revision_guides.pdf" target="_blank">Revision Guides</a> <small>(PDF)</small></li>
             <li><a href="assets/homework/yr9_revision_booklet.pdf" target="_blank">Year 9 Revision Booklet</a> <small>(PDF)</small></li>
-            <li>GCSE Crib Sheets</li>
             <li><a href="/assets/homework/pixl_revisit.pdf">PiXL Revisit Handbook</a></li>
           </ul>
-          <br>
-
-          <h4 class="text-capitalize">Forgotten your homework?</h4>
-          <p><a href="//my.milkapp.io/" target="_blank">MILK</a> provides an electronic version of homework which can be accessed from home</p>
         </div>
 
         <div class="medium-pull-0 medium-offset-0 medium-5 columns">

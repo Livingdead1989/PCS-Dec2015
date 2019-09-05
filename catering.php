@@ -4,11 +4,11 @@
         <title>Park Community School | Catering</title>
         <?php include("includes/head.html") ?>
     </head>
-    <body class="page-parent">
+    <body class="page-school">
         <!-- NAVIGATION -->
         <?php include("includes/topnav.html") ?>
         <!-- HEADER SECTION -->
-        <header class="header-parent">
+        <header class="header-school">
             <div class="row">
                 <div class="medium-8 large-8 columns">
                     <h1>Catering</h1>
