@@ -53,42 +53,24 @@
 <!--                  Event box --> 
 
 <!--                    Event Box  -->
-              <div class="event-wrap">
+              <div class="event-wrap feature-event sticky-event">
                 <div class="date-wrap">
-                  <p class="event-date">27th July</p>
-                  <p class="event-time">11:00-15:00</p>
+                  <p class="event-date">17th Sept</p>
+                  <p class="event-time">18:30-20:30</p>
                 </div>
-                <h2 class="event-title">Hermitage Summer Fun</h2>
-                <p class="event-subheader"></p>
-                <p class="event-description">BBQ with activities including raffle, tombola, face painting, stream dipping, bug hunt and hook a duck</p>
+                <h2 class="event-title">Open Evening</h2>
+                <p class="event-subheader">Much more than just a school...</p>
+                <p class="event-description">Come along to meet our staff and have a look around our amazing facilities.</p>
                 <div class="link-wrap">
-                  <a href="/assets/events/hermitage_summer_fun.pdf" target="_blank" class="button success radius">View the Flyer</a>
+                  <a href="assets/events/open_evening.pdf" target="_blank" class="button success radius">View our Flyer</a>
                 </div>
                 <div class="bottom-wrap">
-                  <div class="location-wrap">Hermitage Open Space</div>
-                  <div class="cost-wrap"></div>
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Free</div>
                 </div>
               </div>
 <!--                  Event box --> 
 
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date"></p>
-                  <p class="event-time"></p>
-                </div>
-                <h2 class="event-title">SkoolKit Free Delivery</h2>
-                <p class="event-subheader">Preorder Uniform</p>
-                <p class="event-description">Avoid the crowds, buy early - Free delivery codes included!</p>
-                <div class="link-wrap">
-                  <a href="/assets/events/skoolkit.pdf" target="_blank" class="button success radius">View the Flyer</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap">Online</div>
-                  <div class="cost-wrap">Various</div>
-                </div>
-              </div>
-<!--                  Event box -->
 
 <!--                  Event Box -->
               <div class="event-wrap">
@@ -120,25 +102,6 @@
                 <p class="event-description">Free breakfast for EVERY student. <br> Choose from: Hot bagels, Cereals or Porridge (other options available but will be charged)</p>
                 <div class="link-wrap">
                   <a href="/assets/events/big_breakfast.pdf" target="_blank" class="button success radius">View our Flyer</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
-<!--                    Event Box  -->
-              <div class="event-wrap feature-event">
-                <div class="date-wrap">
-                  <p class="event-date">Summer Holidays</p>
-                  <p class="event-time"></p>
-                </div>
-                <h2 class="event-title">Connect4Summer</h2>
-                <p class="event-subheader">Childcare, Activties and Healthy Food</p>
-                <p class="event-description">Connect4Summer will be providing an exciting programme that will include a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
-                <div class="link-wrap">
-                  <a href="/connect4summer.php" target="_blank" class="button success radius">Connect4Summer Page</a>
                 </div>
                 <div class="bottom-wrap">
                   <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
