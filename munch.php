@@ -119,18 +119,32 @@
             <h4>MUNCH in Numbers 2017-2018</h4>
             <hr>
                 <ul class="bullet">
-                    <li>2,570 meals provided so far</li>
+                    <li>2,570 meals provided</li>
                     <li>1,892 children attended</li>
                     <li>34 schools involved</li>
                     <li>60 Average daily attendance</li>
                     <li>20+ organisations fund the project</li>
-                    <li>4 churches  volunteering</li>
+                    <li>4 churches volunteering</li>
                     <li>120 guests for Christmas Lunch</li>
                 </ul>
             <hr>
             
         </div>
-        <div class="medium-6 columns text-center">
+
+        <div class="medium-6 columns">
+            <h4>MUNCH in Numbers 2018-2019</h4>
+            <hr>
+                <ul class="bullet">
+                    <li>5832 meals provided so far</li>
+                    <li>577 children attended</li>
+                    <li>58 schools involved</li>
+                    <li>158 guests for Christmas Lunch</li>
+                </ul>
+            <hr>
+            
+        </div>
+
+        <div class="columns text-center">
             <a href="assets/munch/munch_review_2018.pdf" target="_blank" class="button success radius">Munch Review</a>
         </div>
     </div>
