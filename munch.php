@@ -135,7 +135,7 @@
             <h4>MUNCH in Numbers 2018-2019</h4>
             <hr>
                 <ul class="bullet">
-                    <li>5832 meals provided so far</li>
+                    <li>5,832 meals provided</li>
                     <li>577 children attended</li>
                     <li>58 schools involved</li>
                     <li>158 guests for Christmas Lunch</li>
