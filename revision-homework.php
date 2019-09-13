@@ -106,6 +106,7 @@
         <div class="medium-pull-0 medium-offset-0 medium-5 columns">
           <h3>External Resources</h3>
           <ul class="circle">
+            <li><a href="//www.bbc.com/ownit">BBC Own IT</a></li>
             <li><a href="//www.learningscientists.org/" target="_blank">The Learning Scientists website</a></li>
             <li><a href="//www.understood.org/en/school-learning/learning-at-home/homework-study-skills/7-tips-for-improving-your-childs-homework-and-study-skills" target="_blank">Top 10 Homework Tips</a></li>
             <li><a href="//www.bbc.co.uk/education/levels/z4kw2hv" target="_blank">Keystage 3 Bitesize</a></li>
