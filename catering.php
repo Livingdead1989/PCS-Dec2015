@@ -141,6 +141,9 @@
             </div>
             <div class="row">
                 <div class="columns">
+                    <h4>Educatering Excellence Award 2019 - Finalist</h4>
+                    <p>Secondary School Caterer of the Year</p>
+
                     <h4>Educatering Excellence Award 2018 - Winner</h4>
                     <p>Secondary School Caterer of the Year</p>
 
@@ -151,15 +154,18 @@
                     <p>Newcomer of the Year - <strong>Steven Cross</strong></p>
                     <p>Employees who are new to a company or are in a new role within their existing company who have made an impact within the past 2 years.</p>
                     <p>Judges look for evidence based examples of how the individual has shown outstanding commitment to their new roles and enhanced the performance of the school meal provision.</p>
-                    <ul class="text-center small-block-grid-1 medium-block-grid-3">
+                    <ul class="text-center small-block-grid-1 medium-block-grid-4">
                         <li>
-                            <img style="max-height: 220px;" src="images/schoolmeals/educatering-2016.jpg" alt="Park Community School Educatering Excellence Awards - Newcomer of the Year">
+                            <img style="max-height: 220px;" src="images/schoolmeals/educatering-2016.jpg" alt="Park Community School Educatering Excellence Awards 2016 - Newcomer of the Year">
                         </li>
                         <li>
-                            <img style="max-height: 220px;" src="images/schoolmeals/educatering-2017.jpg" alt="Park Community School Educatering Excellence Awards - Secondary School Caterer of the Year">
+                            <img style="max-height: 220px;" src="images/schoolmeals/educatering-2017.jpg" alt="Park Community School Educatering Excellence Awards 2017 - Secondary School Caterer of the Year">
                         </li>
                         <li>
-                            <img style="max-height: 220px;" src="images/schoolmeals/educatering-2018.jpg" alt="Park Community School Educatering Excellence Awards - Secondary School Caterer of the Year">
+                            <img style="max-height: 220px;" src="images/schoolmeals/educatering-2018.jpg" alt="Park Community School Educatering Excellence Awards 2018 - Secondary School Caterer of the Year">
+                        </li>
+                        <li>
+                            <img style="max-height: 220px;" src="images/schoolmeals/educatering-2019.png" alt="Park Community School Educatering Excellence Awards 2019 - Secondary School Caterer of the Year">
                         </li>
                     </ul>
                     <p>For more information about Educatering Awards please visit their <a href="//educateringawards.co.uk/">website</a>.</p>
