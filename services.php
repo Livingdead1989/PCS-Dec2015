@@ -30,7 +30,7 @@
     </div>
     <div class="row">
 
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
           <br>
               <ul class="pricing-table">
                 <li class="title"><img class="fixed-size-100" src="images/logo/insight.png" alt="TASC - Insight"><br>Insight</li>
@@ -81,7 +81,7 @@
         <br>
         </div>
 
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
         <br>
             <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/cogs.svg" alt="Manage Engine Self Service Portal - Password Reset"><br>Self Service</li>
