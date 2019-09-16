@@ -140,7 +140,13 @@
 
             <br>
 
-            <ul class="text-center large-block-grid-3 medium-block-grid-2 small-block-grid-1">
+            <ul class="text-center large-block-grid-4 medium-block-grid-3 small-block-grid-2">
+                <li>
+                    <div class="menu-box"><a href="/connect4summer.php">
+                            <img src="images/index/connect4summer.jpg" alt="Connect4Summer">
+                            <p>Connect4Summer</p>
+                        </a></div>
+                </li>
                 <li>
                     <div class="menu-box"><a href="/munch.php">
                             <img src="images/index/munch.jpg" alt="MUNCH">
