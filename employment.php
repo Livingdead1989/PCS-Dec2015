@@ -38,16 +38,7 @@
 				</span>
 			</li>  -->
 
-      <li>
-        <h4>Attendance Officer</h4>  
-        <p><em>Closing Date: 9th Sept 2019</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/attendance_officer.pdf" target="_blank">Position Details</a>
-        </span>
-      </li> 
-      
-			<!-- <li><br><span class="subheader">Please check back later.</span></li> --> 
+			<li><br><span class="subheader">Please check back later.</span></li> 
 
 			            
           
