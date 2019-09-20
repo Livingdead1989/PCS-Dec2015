@@ -54,7 +54,7 @@
                     <li>Girls may wear black or opaque tights.</li>
                 </ul>
                 <li>Plain black shoes with sensible heels.</li>
-                <li>A rucksack must be brought to school each day.</li>
+                <li>Year 7 students must be bring a rucksack to school each day.</li>
                 <br>
             </ul>
             <p><small>For more detailed information please view the schools policy <a href="/assets/policies/dress-code-for-students.pdf" target="_blank">"Dress Code for Students"</a>.</small></p>
