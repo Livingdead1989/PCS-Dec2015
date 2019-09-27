@@ -218,7 +218,7 @@
                 </li>
             </ul>
 <!-- OTHER COMPANIES -->
-            <ul class="text-center medium-block-grid-2 small-block-grid-1">
+            <ul class="text-center medium-block-grid-4 small-block-grid-1">
                 <h4>Facilitating Other Organisations</h4>
                 <li>
                     <div class="menu-box"><a href="/nursery.php">
@@ -226,10 +226,22 @@
                             <p>Springwood Park Nursery</p>
                         </a></div>
                 </li>
-                                <li>
+                <li>
                     <div class="menu-box"><a href="/scitt.php">
                             <img src="images/index/scitt-logo.jpg" alt="The Scolent SCITT - Much More Than Just a School">
                             <p>The Solent SCITT</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="#">
+                            <img src="images/index/flash_radio.jpg" alt="The Flash Radio - Not for profit community radio station run entirely by volunteers">
+                            <p>The Flash Radio</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="#">
+                            <img src="images/index/mind.jpg" alt="Mind - The mental health charity">
+                            <p>Mind</p>
                         </a></div>
                 </li>
             </ul>
