@@ -48,13 +48,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="columns">
-        <p><a href="/assets/events/activity_track .pdf" style="color: #474747">Free Running Track - Vote for us!</a></p> 
+        <p><a href="#" style="color: #474747"></a></p> 
     </div>
   </div>
-</section>
+</section> -->
 <!-- END NOTIFICATION -->
 
 
