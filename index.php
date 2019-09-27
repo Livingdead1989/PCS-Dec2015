@@ -87,8 +87,11 @@
         <div class="large-4 columns show-for-large-up">
             <div>
                 <br><br><br>
-                <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/ParkSchSocial" data-widget-id="672042040872542208" data-chrome="nofooter noborders">Tweets by @ParkSchSocial</a>
-                <script src="js/twitter.min.js"></script>
+                <a href="https://twitter.com/intent/tweet?button_hashtag=ParkSchSocial&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-lang="en" data-dnt="true" data-show-count="false">Tweet #ParkSchSocial</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+                <!-- <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/ParkSchSocial" data-widget-id="672042040872542208" data-chrome="nofooter noborders">Tweets by @ParkSchSocial</a>
+                <script src="js/twitter.min.js"></script> -->
             </div>
         <br>
         </div>
