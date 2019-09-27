@@ -63,63 +63,27 @@
     <div class="row">
     <br>
         <div class="large-8 columns">
-            <div class="row">
-                <div class="large-11 columns">
-                <br>
-                <h3>Welcome to Park...</h3>
-                <div class="text-center">
-                    </div>
-                    <!-- <div class="medium-offset-1 medium-10 large-offset-0 large-12 flex-video widescreen border-radius-5">
-                      <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/album/5574215/embed" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div> 
-                        </div> -->
-
-                    <div class="medium-offset-1 medium-10 large-offset-0 large-12">
-                        <div class="homepage-slider">
-                            
-                            <!-- VIMEO PROMO VIDEO -->
-                            <div>
-                            	<div class="flex-video widescreen border-radius-5">
-                                    <iframe src="https://player.vimeo.com/video/299177189?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                                </div>
-                            </div>
-
+        <br>
+        <h3>Welcome to Park...</h3>
+        <div class="text-center">
+            </div>
+            <div class="medium-offset-1 medium-10 large-offset-0 large-12">
+                <!-- SLIDER -->
+                <div class="homepage-slider">
+                    
+                    <!-- VIMEO PROMO VIDEO -->
+                    <div>
+                    	<div class="flex-video widescreen border-radius-5">
+                            <iframe src="https://player.vimeo.com/video/299177189?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
                     </div>
-                    
-                    <br>
+
                 </div>
             </div>
-
-            <!-- <div class="row">
-                <div class="large-11 columns"><br class="show-for-large-up">
-                    <ul class="small-block-grid-1 medium-block-grid-3 text-center">
-
-                        <li>
-                          <a href="//login.microsoftonline.com" target="_blank">
-                              <img class="fixed-size-100" src="images/logo/office365.svg" alt="Microsoft Office 365">
-                              <p>Office 365</p>
-                          </a>
-                        </li>
-
-                        <li>
-                          <a href="//insight.pcs.hants.sch.uk:444" target="_blank">
-                              <img class="fixed-size-100" src="/images/logo/insight.png" alt="Homework Online Management">
-                              <p>Insight</p>
-                          </a>
-                        </li>
-
-                        <li>
-                          <a href="//members.gcsepod.com" target="_blank">
-                              <img class="fixed-size-100" src="images/logo/gcsepod_round.png" alt="GCSE Pod">
-                              <p>GCSE Pod</p>
-                          </a>
-                        </li>
-
-                    </ul>
-                    <br>
-                </div>
-            </div> -->
+            
+        <br>
         </div>
+
         <div class="large-4 columns show-for-large-up">
             <div>
                 <br><br><br>
