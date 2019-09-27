@@ -106,7 +106,7 @@
 
             <br>
 <!-- EXTRA MILE -->
-            <ul class="text-center medium-block-grid-2 small-block-grid-1">
+            <ul class="text-center medium-block-grid-2 small-block-grid-2">
                 <h4>Going The Extra Mile</h4>
                 <li>
                     <div class="menu-box"><a href="/connect4summer.php">
@@ -184,7 +184,7 @@
                 </li>
             </ul>
 <!-- OTHER COMPANIES -->
-            <ul class="text-center medium-block-grid-4 small-block-grid-1">
+            <ul class="text-center medium-block-grid-4 small-block-grid-2">
                 <h4>Facilitating Other Organisations</h4>
                 <li>
                     <div class="menu-box"><a href="/nursery.php">
@@ -228,17 +228,17 @@
             <h3>Leadership Team</h3>
             <br>
 
-        <div class="large-4 medium-12 columns text-center  team-member-container">
+        <div class="medium-4 columns text-center  team-member-container">
             <img src="images/slt/c-anders.jpg" alt="" class="team-member">
             <p>Mr C Anders</p>
             <p class="subheader">Headteacher</p>
         </div>
-        <div class="large-4 medium-6 columns text-center  team-member-container">
+        <div class="medium-4 small-6 columns text-center  team-member-container">
             <img src="images/slt/e-capaldi.jpg" alt="" class="team-member">
             <p>Mrs E Capaldi</p>
             <p class="subheader">Head of School</p>
         </div>
-        <div class="large-4 medium-6 columns text-center  team-member-container end">
+        <div class="medium-4 small-6 columns text-center  team-member-container end">
             <img src="images/slt/s-parish.jpg" alt="" class="team-member">
             <p>Mrs S Parish</p>
             <p class="subheader">Business &amp; Community Manager</p>
