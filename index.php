@@ -86,7 +86,7 @@
 
         <div class="large-4 columns show-for-large-up">
             <div>
-                <br><br><br>
+                <br>
 
                 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/ParkSchSocial" data-widget-id="672042040872542208" data-chrome="nofooter noborders">Tweets by @ParkSchSocial</a>
                 <script src="js/twitter.min.js"></script>
