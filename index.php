@@ -139,8 +139,9 @@
             <h3>Much More Than Just A School...</h3>
 
             <br>
-
-            <ul class="text-center large-block-grid-4 medium-block-grid-3 small-block-grid-2">
+<!-- EXTRA MILE -->
+            <ul class="text-center medium-block-grid-2 small-block-grid-1">
+                <h4>Going The Extra Mile</h4>
                 <li>
                     <div class="menu-box"><a href="/connect4summer.php">
                             <img src="images/index/connect4summer.jpg" alt="Connect4Summer">
@@ -152,47 +153,27 @@
                             <img src="images/index/munch.jpg" alt="MUNCH">
                             <p>MUNCH</p>
                         </a></div>
+                </li>  
+            </ul>
+<!-- STUDENT EXTRA -->
+            <ul class="text-center medium-block-grid-5 small-block-grid-2">
+                <h4>Giving Our Students Extra</h4>
+                <li>
+                    <div class="menu-box"><a href="/race-at-our-place.php">
+                            <img src="images/index/cancer_research.jpg" alt="Park Community Race at Our Place - Much More Than Just a School">
+                            <p>Race at Our Place</p>
+                        </a></div>
                 </li>
                 <li>
-                    <div class="menu-box"><a href="/community-services.php">
-                            <img src="images/index/community.jpg" alt="Park Community - Much More Than Just a School">
-                            <p>Community &amp; Services</p>
+                    <div class="menu-box"><a href="/greenpower.php">
+                            <img src="images/index/greenpower.jpg" alt="Park Community Greenpower - Much More Than Just a School">
+                            <p>Greenpower</p>
                         </a></div>
                 </li>
                 <li>
                     <div class="menu-box"><a href="/marketgarden.php">
                             <img src="images/index/farm.jpg" alt="Park Community Market Garden - Much More Than Just a School">
                             <p>Market Garden</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="/design-print.php">
-                            <img src="images/index/unit.jpg" alt="Park Community Enterprises - Much More Than Just a School">
-                            <p>Park Design &amp; Print</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="/dickinson-centre.php">
-                            <img src="images/index/dickinson-centre.jpg" alt="Park Community Dickinson Centre - Much More Than Just a School">
-                            <p>Dickinson Centre</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="/nursery.php">
-                            <img src="images/index/nursery-logo.jpg" alt="Springwood Nursery - Much More Than Just a School">
-                            <p>Springwood Park Nursery</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="/suite.php">
-                            <img src="images/index/sontronics.jpg" alt="The Suite - Much More Than Just a School">
-                            <p>The Suite</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="/scitt.php">
-                            <img src="images/index/scitt-logo.jpg" alt="The Scolent SCITT - Much More Than Just a School">
-                            <p>The Solent SCITT</p>
                         </a></div>
                 </li>
                 <li>
@@ -207,16 +188,48 @@
                             <p>Charity</p>
                         </a></div>
                 </li>
+            </ul>
+<!-- INHOUSE SERVICES -->
+            <ul class="text-center medium-block-grid-4 small-block-grid-2">
+                <h4>In-house Services</h4>
                 <li>
-                    <div class="menu-box"><a href="/race-at-our-place.php">
-                            <img src="images/index/cancer_research.jpg" alt="Park Community Race at Our Place - Much More Than Just a School">
-                            <p>Race at Our Place</p>
+                    <div class="menu-box"><a href="/dickinson-centre.php">
+                            <img src="images/index/dickinson-centre.jpg" alt="Park Community Dickinson Centre - Much More Than Just a School">
+                            <p>Dickinson Centre</p>
                         </a></div>
                 </li>
                 <li>
-                    <div class="menu-box"><a href="/greenpower.php">
-                            <img src="images/index/greenpower.jpg" alt="Park Community Greenpower - Much More Than Just a School">
-                            <p>Greenpower</p>
+                    <div class="menu-box"><a href="/community-services.php">
+                            <img src="images/index/community.jpg" alt="Park Community - Much More Than Just a School">
+                            <p>Community &amp; Services</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="/design-print.php">
+                            <img src="images/index/unit.jpg" alt="Park Community Enterprises - Much More Than Just a School">
+                            <p>Park Design &amp; Print</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="/suite.php">
+                            <img src="images/index/sontronics.jpg" alt="The Suite - Much More Than Just a School">
+                            <p>The Suite</p>
+                        </a></div>
+                </li>
+            </ul>
+<!-- OTHER COMPANIES -->
+            <ul class="text-center medium-block-grid-2 small-block-grid-1">
+                <h4>Facilitating Other Organisations</h4>
+                <li>
+                    <div class="menu-box"><a href="/nursery.php">
+                            <img src="images/index/nursery-logo.jpg" alt="Springwood Nursery - Much More Than Just a School">
+                            <p>Springwood Park Nursery</p>
+                        </a></div>
+                </li>
+                                <li>
+                    <div class="menu-box"><a href="/scitt.php">
+                            <img src="images/index/scitt-logo.jpg" alt="The Scolent SCITT - Much More Than Just a School">
+                            <p>The Solent SCITT</p>
                         </a></div>
                 </li>
             </ul>
