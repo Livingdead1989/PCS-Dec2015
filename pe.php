@@ -31,140 +31,337 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose</h3>
-            <p>As a department we aim to create an inspirational working environment, where we strive to actively engage students in learning. Where participation and achievement are measured, monitored and celebrated.</p>
 
-            <p>We aim to provide a challenging, disciplined and safe environment for high quality learning and teaching, with an extensive selection of activities, through route ways, to ensure each student is offered a stimulating and relevant choice in their learning.</p>
+        <h3>Intent</h3>
+            <p>As a department we aim to create an inspirational working environment for both staff and students, where, together, we strive to actively engage students in learning. Participation and achievement are measured, monitored and celebrated. By the end of their physical education at Park, students should have developed a personal commitment to, and genuine passion for, maintaining their health and well-being into adult life.</p> 
+            <p>During Key Stage 3 and 4 core PE the department aim to inspire students to be active and engaged in a range of sports / activities contributing to an active healthy lifestyle. This is by offering routeways to personalised learning and promote physical activity. For example, competitive sports v health related fitness.</p>
+            <p>Within Key Stage 4 examination PE we endeavour to develop depth of knowledge in areas of sport and fitness. Aiding success through the implementation of revision strategies for unit focus. Linking practical and theory to apply knowledge. Ensuring feedback is given (constantly) both verbally and written throughout tasks. Progress is tracked and visible to all throughout lessons. Summative feedback assigned with an expectation of independent application with a 15-day improvement window. A comprehensive revision guide is produced by the department and given to all students to support independent preparation for exams.</p>
+            <p>In summary, our core curriculum offers students ownership of their physical education experience at Park. Allowing each student to select the most suitable routeway for themselves. This maybe through a highly competitive sports route, with specific focus on examination criteria and a high level of execution of key skills. Through a traditional PE experience or through an alternative health related fitness programme. This allows students to develop in-depth knowledge of body systems, components of fitness and methods of training through a range of fitness activities such as Zumba, yoga or circuit training. With a view that this empowers the students to continue practical involvement outside of education.</p>
 
-            <p>Students who thrive in and enjoy PE will be encouraged to take BTEC Sport as an option at Year 9. Here they will further develop skills learnt at Key Stage 3 and apply them to more theoretical concepts with the subject, such as anatomy and physiology and sports analysis.</p>
 
-            <p>By the end of their physical education at Park, the students should have developed a personal commitment to, and genuine passion for, maintaining their health and well-being into adult life.</p> 
 
-            <h3>Aims</h3>
-            <ul class="circle">
-                <li>Provide outstanding teaching and learning for all students.</li>
+        <h3>Implementation</h3>
+        <br>
+        <a href="/assets/curriculum/pe/implementation.pdf" target="_blank" class="button">View our Implementation Table</a>
 
-                <li>Inspire students to achieve academically and within sporting environments.</li>
 
-                <li>Develop competitive, successful sporting teams that encourage students to develop personal qualities of commitment, fairness, enthusiasm, and an appreciation of honest competition and good sportsmanship.</li>
 
-                <li>Allow for the acquisition and application of vital transferable skills to a range of sporting activities.</li>
-
-                <li>Develop an appreciation of skilful and creative performances in a variety of sports activities.</li>
-
-                <li>Promote the awareness, understanding and appreciation of how physical activity benefits the students social, moral, physical, spiritual and cognitive development.</li>
-
-                <li>Allow learners to achieve their full potential, recognize the uniqueness of the individual and encourage self-worth.</li>
-
-                <li>Inspire enjoyment of physical activity to prepare students for participating in physical activity in their adult life.</li>
-
-                <li>Encourage the development of a variety of desirable personal qualities such as politeness, perseverance, honesty, integrity, a sense of justice, initiative, and independence.</li>
+        <h3>Additional Opportunities</h3>
+            <ul>
+                <li>Sports ambassador programme allowing students to develop their ability to coach and support students within our school, local junior schools and area competitions.</li>
+                <li>Invitations to a wide variety of after school clubs and events.</li>
+                <li>Representative opportunities in all area sport.</li>
+                <li>Selection opportunities to represent the district and county in various sports.</li>
+                <li>Sports development programme through a selection process run by two high level sports performers.</li>
+                <li>Involvement in the Duke of Edenborough Award.</li>
+                <li>Sports captains for inter family sport and Parks Festival of Sport (Sports Day).</li>
+                <li>Race at our Place for Cancer Research.</li>
+                <li>Off-site opportunities with the department through OAA orienteering and Cross Country.</li>
             </ul>
 
-            <h3>Teaching and Learning in PE</h3>
+
+        
+        <h3>Impact</h3>
+            <p>All students will study sport at Park and within this they will develop a clear understanding of where to go next with assignments is shared within all lessons (pass criteria to merit and merit to distinction etc). Promoting accountability through strict deadlines and the sharing of each student's assignment completions, grade and actions to achieve projection (or higher). The department develop independence through structured stuck resources and models used within lessons and available to students through a shared platform.</p>
+            <p>Through our structured curriculum and precise delivery of theory content examination outcomes have seen superb improvements over recent years with students becoming highly confident in unit content and assignment application.</p> 
+            <p>2019 = 100% Pass – distinction* <em>(66 distinction*, 23 distinctions, 36 merits, 19 pass)<em></p>
+            <p>2018 = 100% Pass-distinction* <em>(63 distinction*, 17 distinctions, 54 merits, 20 pass)<em></p> 
+            <p>2017 = 98% Pass – distinction*</p> 
+            <p>Through our involvement of the students in their own learning, practical/physical improvement and development are evident within core PE. We experience increased participation and enjoyment seen through high levels of engagement in their personally chosen routeway within the subject. Students arrive to lessons with full PE kit and positive attitudes towards the lessons. This is seen through student voice surveys and observations lessons. Our curriculum allows connectedness between practical improvement and secured theory knowledge through deep thinking, high challenge and precise knowledge. Improvement in practical ability is not only seen within their chosen routeway activities but also measured through regular fitness testing throughout the year so students are able celebrate their individual development at regular intervals.</p> 
+
+
+
+
+        <h3>Teaching and Learning in PE</h3>
             <p>PE lessons will take many forms which will engage and challenge students. PE teachers will use a combination of drill and game approaches to ensuring that students understand the requirements of certain sports and physical activities. Key skills such as leadership, teamwork and positive communication are encouraged throughout, and students will frequently be expected to problem solve as part of a group to overcome a scenario provided to them.</p>
-
-            <p>Students who want to improve further will be encouraged to attend extra-curricular opportunities, and at times be asked to represent the school across a number of sports. Those students that are outstanding performers may be asked to take on leadership roles within lessons, with the opportunity to be part of the sports ambassador programme. </p>
-            
+            <p>Students who want to improve further will be encouraged to attend extra-curricular opportunities, and at times be asked to represent the school across a number of sports. Those students that are outstanding performers may be asked to take on leadership roles within lessons, with the opportunity to be part of the sports ambassador programme.</p>
 
 
-            <h3>Areas of Study</h3>
-            <p>The specific aims of our core PE program are to enable pupils to improve their physical performance by practicing and refining techniques which are fundamental to physical activities, of which they can then master. Also, to ensure they have a deep understanding for how their bodies respond to exercise and effective ways to train for their individual needs.</p>
 
-            <h5><strong>KS3 - KeyStage 3</strong></h5>
-            <p>Within Key Stage 3 PE students experience a wide range of activities and sports which allow for independence and resilience to be developed as well as a deeper understanding for various rules and regulations of sports and how their bodies adapt and adjust during exercise.</p>
-            <p>Sports offered within this key stage fall within 3 pathways; Competitive, traditional and health related exercise of which the students choose the pathway they would like to pursue.</p>
-
-            <ul class="circle"><strong>Activities include:</strong>
-                <li>Basketball</li>
-                <li>Netball</li>
-                <li>Tag Rugby</li>
-                <li>American Flag Football</li>
-                <li>Badminton</li>
-                <li>Athletics</li>
-                <li>Rounders</li>
-                <li>Football</li>
-                <li>Fitness</li>
-                <li>Lacrosse</li>
-                <li>Volleyball</li>
-                <li>Yoga</li>
-                <li>Insanity</li>
-                <li>Gymnastics</li>
-                <li>Zumba</li>
-                <li>Aerobics</li>
-            </ul>
-
-            <h5>Assessment and feedback</h5>
+        <h3>Assessment and Feedback</h3> 
+        <p><strong>Key Stage 3:</strong></p> 
             <p>Multiple choice testing will take place half termly with structured end of unit/topic teacher assessment, focusing on specific theory content which is mapped across the year to establish a basic understanding of key elements (muscles, body systems, components of fitness and methods of training). Teacher assessment will also be conducted half termly to assess practical performance in each discipline.</p>
+            <p>Feedback is given as regular verbal feedback throughout practical lessons. Students will be able to identify working levels and how to improve through verbal feedback and practical application. Models are used through teacher and student demonstrations enabling improvement of performance analysis.</p>
+            <p><strong>Core PE</strong></p>
+                <div class="large-6 columns">
+                    <table>
+                      <tr>
+                        <th>Practical Assessments</th>
+                      </tr>
+                      <tr>
+                        <td><li>Frequent verbal feedback given to all students from both teaching staff and coaching from peers.</li></td>
+                      </tr>
+                      <tr>
+                        <td><li>End of half term moderation week to assess in formal conditions the application of skill and understanding.</li></td>
+                      </tr>
+                      <tr>
+                        <td><li>Use of iPads in small groups to self review and assess performance.</li></td>
+                      </tr>
+                      <tr>
+                        <td><li>Use of practical exam board criteria to grade skill level.</li></td>
+                      </tr>
+                    </table>
+                </div>
+                <div class="large-6 columns">
+                    <table>
+                      <tr>
+                        <th>Multiple Choice Testing</th>
+                      </tr>
+                      <tr>
+                        <td><li>Once a term.</li></td>
+                      </tr>
+                      <tr>
+                        <td><li>Content delivered to all groups through practical - relating to BTEC criteria and link to real world context.</li></td>
+                      </tr>
+                      <tr>
+                        <td><li>Students are given a list of topics to revise through on HW forum and hand outs.</li></td>
+                      </tr>
+                      <tr>
+                        <td><li>Follow up activities - class led and idividual.</li></td>
+                      </tr>
+                      <tr>
+                        <td><li>Revision drop-in sessions.</li></td>
+                      </tr>
+                    </table>
+                </div>
+        <p><strong>Key Stage 4:</strong></p> 
+            <p>Online exams are completed in BTEC Sport by students to ensure unit achievement this is through developed knowledge from KS3 theory input. Practical assessment is completed through BTEC criteria of Pass / Merit in relation to performance and application of skills within practise and competitive situations.</p>  
+            <p>A tracker is used throughout every lesson for immediate feedback on progress to course / unit completion and to what grade. Students can reflect on current working grade compared to projection and are able to then implement feedback and next step criteria effectively. Further feedback takes place after students have completed units of work at the end of each term/deadline which they are then issued this feedback form and 15 days to implement improvements.</p>  
+            <p>Regular feedback is given in books and on summative assessment forms at the end of units/assignments. It is also seen every lesson through verbal diagnostic conversations with suggested improvements. Books show specific feedback which stretch the level of understanding which is also specific to the attainment criteria for that task. Exemplar assignments are used throughout the course to promote independence and implementation of I do, you do, and we do. This is measured through progress on the class tracker and shown in improved work within portfolios.</p>
+            <p><strong>Year 9-11 examination PE</strong></p>
+                <div class="large-6 columns">
+                    <table>
+                      <tr>
+                        <th>Practical Assessments</th>
+                      </tr>
+                      <tr>
+                        <td><li>Frequent verbal feedback.</li></td>
+                        <td><li>Use of iPads to compare performance to high level performance.</li></td>
+                        <td><li>Self analysis of performance.</li></td>
+                        <td><li>Half term assessment and moderation weeks.</li></td>
+                        <td><li>Use of practical exam board criteria to grade skill level.</li></td>
+                      </tr>
+                    </table>
+                </div>
+                <div class="large-6 columns">
+                    <table>
+                      <tr>
+                        <th>Testing and Coursework</th>
+                      </tr>
+                      <tr>
+                        <td><li>Online tests for unit content.</li></td>
+                        <td><li>Mocks used (paper based) to assess retention of cotent.</li></td>
+                        <td><li>Strict course work deadlines, marking and resubmission (15 day window)</li></td>
+                        <td><li>Assessment tracked and displayed to students to see progress and current attainment score/grade.</li></td>
+                        <td><li>Feedback given in books and through summative assessment forms.</li></td>
+                      </tr>
+                    </table>
+                </div>
 
-            <p>Feedback is given as regular verbal feedback throughout practical lessons. Students will be able to identify working levels and how to improve through verbal feedback and practical application. Models are used through teacher and student demonstrations enabling improvement of performance analysis.</p> 
+
+
+        <h3>Participation</h3>
+            <p>All students are given the opportunity to participate in after school clubs, irrelevant of their experience or ability.</p> 
+            <p>The department have been recognised by National School Sports Awards gaining both Silver and Gold Awards for their sporting opportunities for young people over the last two years.</p> 
+            <p>Our fitness clubs run every evening with an average of 20 students attending each session. We participate in area competitions/leagues with teams for each year group in the following sports; Netball, Football. Basketball, Volleyball, Athletics, Cross Country, Badminton and Dodgeball.</p> 
 
 
 
-            <h5><strong>KS4 - KeyStage 4</strong></h5>
-            <p>Within Key Stage 4 PE, students can experience a high level of independence and a range of sports of which are focused towards their interests. Within Key Stage 4 we are developing students to have the confidence to continue exercising when they leave Park. We continue to develop their understanding of a range of sports, rules and regulations. We look in depth at both short and long-term benefits of exercising. We do this through 3 pathways; competitive, traditional and health related exercise, of which the students choose the pathway they would like to pursue.</p> 
+        <h3>Destinations</h3>
+            <p>Our subject has seen an increase in not only student enjoyment but student successes over recent years. There has been a considerable increase in the number of students who continue to study sports related qualifications after Park at either Havant or Southdowns Colleges.</p> 
+            <p>The department has very positive relationships with various further education and higher education facilities (Havant, Southdowns and Chichester University). This enables the opportunity for many young people study of sports courses to continue to develop and the ability to work within our team on placements.</p> 
+            <p>We have recently accommodated 2 previous Park Community students who are currently studying a degree in ‘Physical Education in Secondary Years’ at Chichester University, with a plan to then complete PGCE qualifications in PE. We have also worked with an additional 6 students studying ‘BTEC Level 3 in Sport and Fitness’ at Southdowns through work experiences enabling them to enrich their university applications with in school experience.</p>   
 
-            <ul class="circle"><strong>Activities include:</strong>
-                <li>Basketball</li>
-                <li>Netball</li>
-                <li>Volleyball</li>
-                <li>Badminton</li>
-                <li>Athletcis</li>
-                <li>Rounders</li>
-                <li>Softball</li>
-                <li>Tag Rugby</li>
-                <li>American Flag Football</li>
-                <li>Fitness</li>
-                <li>Lacrosse</li>
-                <li>Yoga</li>
-                <li>Trampolining</li>
-                <li>Aerobics</li>
-                <li>Zumba</li>
-                <li>Insanity</li>
+
+
+        <h3>Student Voice</h3>
+            <blockquote>
+                “PE at Park is so different to my old school. The PE teachers have fun with you and join in to help you play better sometimes. They tell you how to improve, let your friends give feedback and we use the iPads to watch professions and compare ourselves. I really like all the clubs we can do after school as well. I am going to join the Football and Basketball teams”
+                <cite>Alfie Year 7</cite>
+            </blockquote>
+            <blockquote>
+                “I enjoy PE because we can develop skills in our chosen sports and develop our overall health. We can see how much we have improved with fitness testing.”
+                <cite>Asha Year 9</cite>
+            </blockquote>
+            <blockquote>
+                “I really like that I got to choose the types of activities I complete. I chose HRE, health related exercise. I have really liked doing Aerobics and Zumba because I enjoy independent activities a lot more then invasion games”.
+                <cite>Chloe Year 9</cite>
+            </blockquote>
+            <blockquote>
+                “Within PE we are always very active. The PE department push you to work hard but in a positive way. They reward us loads for hard work and celebrate our achievements in assemblies, on social media, display boards and in assemblies all the time. I really like that because it feels good to know your effort is noticed”.
+                <cite>Jake Year 8</cite>
+            </blockquote>
+            <blockquote>
+                “Theory lessons are demanding. You are given sporting scenarios and assignments that relate to them. Then you learn a lot of content through the PE department in theory and practical lessons which will help you to apply it to the assignment set. This is marked and you get opportunities to improve these. You always know the grade you are working at and its clear how you can improve. I like the link that is made between the practical and theory lessons”.
+                <cite>Ben Year 11</cite>
+            </blockquote>
+
+
+        <h3>Dictionary of Terms</h3>
+        <table>
+          <tr>
+            <th>Assessment/Command Word<br></th>
+            <th>Definition</th>
+          </tr>
+          <tr>
+            <td colspan="2"><strong>Pass Command Words</strong></td>
+          </tr>
+          <tr>
+            <td>List</td>
+            <td>Write a list of the main items (not sentences).</td>
+          </tr>
+          <tr>
+            <td>State</td>
+            <td>Point out or list the main features.</td>
+          </tr>
+          <tr>
+            <td>Define</td>
+            <td>To state the meaning of something using the correct terms.</td>
+          </tr>
+          <tr>
+            <td>Identify</td>
+            <td>Give all the basic facts which relate to a topic.</td>
+          </tr>
+          <tr>
+            <td>Outline</td>
+            <td>Write a clear description but without going into too much detail.</td>
+          </tr>
+          <tr>
+            <td>Demonstrate</td>
+            <td>Show that you can do a particular activity or skill.</td>
+          </tr>
+          <tr>
+            <td>Explain</td>
+            <td>Make your point clear by providing sufficient detail. </td>
+          </tr>
+          <tr>
+            <td>Describe</td>
+            <td>Give a clear, straightforward description which includes all of the main points. </td>
+          </tr>
+          <tr>
+            <td>Summarise</td>
+            <td>Write down or articulate briefly the main points or essential features</td>
+          </tr>
+            <td colspan="2"><strong>Merit Command Words</strong></td>
+          </tr>
+          <tr>
+            <td>Discuss</td>
+            <td>To present an argument for and against.</td>
+          </tr>
+          <tr>
+            <td>Explain</td>
+            <td>Give logical reasons to support your view.</td>
+          </tr>
+          <tr>
+            <td>Describe</td>
+            <td>Give a full description including details of all the relevant features.</td>
+          </tr>
+          <tr>
+            <td>Demonstrate</td>
+            <td>Prove you can carry out a more complex activity.</td>
+          </tr>
+          <tr>
+            <td>Analyse</td>
+            <td>Identify the factors that apply, and state how these are linked and how each of them relates to the topic.</td>
+          </tr>
+          <tr>
+            <td>Justify</td>
+            <td>Give reasons for the points you are marking so that the marker knows how you arrived at that conclusion.</td>
+          </tr>
+          <tr>
+            <td>Suggest</td>
+            <td>Give your own ideas and thoughts.</td>
+          </tr>
+          <tr>
+            <td colspan="2"><strong>Distinction Command Words</strong></td>
+          </tr>
+          <tr>
+            <td>Assess</td>
+            <td>Evaluate in terms of advantages and disadvantages.</td>
+          </tr>
+          <tr>
+            <td>Analyse</td>
+            <td>Identify several relevant factors, show how they are linked, and explain the importance of each.</td>
+          </tr>
+          <tr>
+            <td>Evaluate</td>
+            <td>Bring together all of your information and make a judgement on the importance or success of something.</td>
+          </tr>
+          <tr>
+            <td>Recommend</td>
+            <td>Suggest changes or improvements.</td>
+          </tr>
+          <tr>
+            <td>Make recommendations</td>
+            <td>Make relevant and appropriate suggestions; usually for improvement.</td>
+          </tr>
+          <tr>
+            <td>Select and demonstrate</td>
+            <td>Select several relevant examples or pieces of related evidence which clearly support the arguments you are making. This may include showing particular practical skills.</td>
+          </tr>
+          <tr>
+            <td>Review</td>
+            <td>Consider each factor in turn, providing a description and explanation of their uses, strengths and weaknesses, making recommendations.</td>
+          </tr>
+        </table>
+        <br>
+        <a href="/assets/curriculum/pe/pe_dictionary.pdf" target="_blank" class="button">Full Dictionary - Gloassary - Key Words</a>
+
+
+
+        <h3>BTEC Specifications</h3>
+        <p>The link provided to view the specifications for BTEC Sport:</p>
+        <a href="//qualifications.pearson.com/content/dam/pdf/BTEC-Firsts/Sport/2012/Specification-and-sample-assessments/9781446936368_BTECFIRST_L12_AWARD_SPORT_Iss3.pdf" target="_blank" class="button">Pearson BTEC Sport Specification</a>
+
+
+
+
+        <h3>Supportive Guides for Revision</h3>
+            <ul class="small-block-grid-1 large-block-grid-3">
+              <li>
+                <!-- Resource 1 -->
+                <ul class="pricing-table">
+                  <li class="title">BTEC First Award Sport Student Book</li>
+                  <li class="price">ISBN:9781446905555</li>
+                  <li class="bullet-item">Back by popular demand, our Award book covers Units 1–6 so learners have relevant and specific content to complete the new Pearson BTEC Level 1/Level 2 First Award in Sport.</li>
+                  <li class="bullet-item">Provides all the underpinning knowledge and understanding needed at Level 2 to help learners prepare for the course.</li>
+                  <li class="bullet-item">Activities in each unit provide support and guidance for learners, and can be used in the classroom or for independent work.</li>
+                  <li class="bullet-item">The new BTEC Assessment Zone guides learners through the challenges of both internal and external assessment with grading tips and support for external assessment.</li>
+                  <li class="cta-button"><a class="button" target="_blank" href="//www.pearsonschoolsandfecolleges.co.uk/FEAndVocational/Sport/BTEC/BTEC-Firsts-Sport-2012/ISBN/StudentResources/BTECFirstAwardSportStudentBook.aspx">Buy Now</a></li>
+                </ul>
+              </li>
+              <li>
+                <!-- Resource 2 -->
+                <ul class="pricing-table">
+                  <li class="title">BTEC First in Sport Revision Guide</li>
+                  <li class="price">ISBN:9781446906705</li>
+                  <li class="bullet-item">Ideal for classroom or independent study, this Revision Guide is the smart choice for learners studying for the externally assessed units of the new BTEC First in Sport from 2012 and 2013. </li>
+                  <li class="bullet-item">The one topic-per-page format provides hassle-free revision for learners with no lengthy set-up time and no complex revision concepts.</li>
+                  <li class="bullet-item">Written with learners in mind - in an informal voice that talks directly to them.</li>
+                  <li class="bullet-item">Visually engaging pages break the content down into easily-digestible points, with revision activities and worked examples that prepare learners for the test.</li>
+                  <li class="bullet-item">Designed to be used alongside the Workbook with one-to-one page correspondence to make it easy to use the books together.</li>
+                  <li class="cta-button"><a class="button" target="_blank" href="//www.pearsonschoolsandfecolleges.co.uk/FEAndVocational/Sport/BTEC/BTEC-Firsts-Sport-2012/ISBN/RevisionGuidesandWorkbooks/BTECFirstsinSportRevisionGuide.aspx">Buy Now</a></li>
+                </ul>
+              </li>
+              <li>
+                <!-- Resource 3 -->
+                <ul class="pricing-table">
+                  <li class="title">BTEC First in Sport Revision Workbook</li>
+                  <li class="price">ISBN:9781446906712</li>
+                  <li class="bullet-item">This Revision Workbook delivers hassle-free question practice, covering one topic per page and avoiding lengthy set up time. </li>
+                  <li class="bullet-item">Build your confidence with guided practice questions, before moving onto unguided questions and practice tests.</li>
+                  <li class="bullet-item">With one-to-one page correspondence between this Workbook and the Revision Guide, this hugely popular Revision series offers the best value available for BTEC learners.</li>
+                  <li class="cta-button"><a class="button" target="_blank" href="//www.pearsonschoolsandfecolleges.co.uk/FEAndVocational/Sport/BTEC/BTEC-Firsts-Sport-2012/ISBN/RevisionGuidesandWorkbooks/BTECFirstsinSportWorkbook.aspx">Buy Now</a></li>
+                </ul>
+              </li>
             </ul>
 
-            <h5><strong>KS4 – Key Stage 4 Examination PE</strong> - BTEC Level 2 Award in Sport</h5>
-            <p>BTEC Level 2 Award in Sport - This course will encourage personal development through practical participation and performance in a range of sports and exercise activities. It gives students a wider understanding and appreciation of health-related fitness, sports and exercise through a selection of specialist units. Throughout the course students are encouraged to develop their people, communication, planning and team working skills. Students are guided through units of study which relate strongly to real life context.</p>
-            <p>This course is made up of 4 units, whereby 25% of the total grade is an online exam which is externally set. The remaining units are coursework based, where students will be required to compile a portfolio of evidence to meet the assessment criteria.</p>
+        
+        
+        
 
-            <p><strong>Main topics students study:</strong><p>
-            
-            <ul class="circle"><strong>Year 9 - 11</strong>
-                <li>Unit 1 – fitness for sport and exercise <em>(online test)</em></li>
-                <li>Unit 2 – practical sports performance <em>(two assignments – rules and regulations in two chosen sports and self-analysis in two chosen sports plus practical assessment)</em></li>
-                <li>Unit 4 – the sports performer in action <em>(two assignments -the short and long term effects of exercise on the musculoskeletal and cardiorespiratory systems and the application of energy systems)</em></li>
-                <li>Unit 5 – training for personal fitness <em>(1 assignment reviewing your personal fitness, planning and implementing a personal training program, finally reviewing your program and progress made)</em></li>
-            </ul>
 
-            <ul class="circle"><strong>Sports</strong>
-                <li>Rounders</li>
-                <li>Netball</li>
-                <li>Football </li>
-                <li>Basketball</li>
-                <li>Badminton</li>
-                <li>Rounders</li>
-                <li>Trampolining</li>
-                <li>And many more …</li>
-            </ul>
-
-            <ul class="circle"><strong>Main skills students develop:</strong>
-                <li>Reading</li>
-                <li>Writing</li>
-                <li>Communication</li>
-                <li>Teamwork</li>
-                <li>Research</li>
-                <li>Analysis</li>
-                <li>Kinesthetic action</li>
-                <li>Performance Analysis</li>
-            </ul>
-
-            <h5>Assessment and feedback – </h5>
-            <p>Online exams are completed in BTEC Sport by students to ensure unit achievement this is through developed knowledge from KS3 theory input. Practical assessment is completed through BTEC criteria of Pass / Merit in relation to performance and application of skills within practise and competitive situations.</p>
-
-            <p>A tracker is used throughout every lesson for immediate feedback on progress to course / unit completion and to what grade. Students can reflect on current working grade compared to projection and are able to then implement feedback and next step criteria effectively. Further feedback takes place after students have completed units of work at the end of each term/deadline which they are then issued this feedback form and 15 days to implement improvements.</p>
-
-            <p>Regular feedback is given in books and on summative assessment forms at the end of units/assignments. It is also seen every lesson through verbal diagnostic conversations with suggested improvements. Books show specific feedback which stretch the level of understanding which is also specific to the attainment criteria for that task. Exemplar assignments are used throughout the course to promote independence and implementation of I do, you do, and we do. This is measured through progress on the class tracker and shown in improved work within portfolios.</p> 
-		
+ 
     </div>
 </section>
     
