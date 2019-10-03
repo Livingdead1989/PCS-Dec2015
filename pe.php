@@ -342,6 +342,8 @@
           </li>
         </ul>
 
+        <br>
+
         <h3>BTEC Specifications</h3>
             <p>The link provided to view the specifications for BTEC Sport:</p>
             <div class="text-center">
