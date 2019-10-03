@@ -36,10 +36,12 @@
             <p>During Key Stage 3 and 4 core PE the department aim to inspire students to be active and engaged in a range of sports / activities contributing to an active healthy lifestyle. This is by offering routeways to personalised learning and promote physical activity. For example, competitive sports v health related fitness.</p>
             <p>Within Key Stage 4 examination PE we endeavour to develop depth of knowledge in areas of sport and fitness. Aiding success through the implementation of revision strategies for unit focus. Linking practical and theory to apply knowledge. Ensuring feedback is given (constantly) both verbally and written throughout tasks. Progress is tracked and visible to all throughout lessons. Summative feedback assigned with an expectation of independent application with a 15-day improvement window. A comprehensive revision guide is produced by the department and given to all students to support independent preparation for exams.</p>
             <p>In summary, our core curriculum offers students ownership of their physical education experience at Park. Allowing each student to select the most suitable routeway for themselves. This maybe through a highly competitive sports route, with specific focus on examination criteria and a high level of execution of key skills. Through a traditional PE experience or through an alternative health related fitness programme. This allows students to develop in-depth knowledge of body systems, components of fitness and methods of training through a range of fitness activities such as Zumba, yoga or circuit training. With a view that this empowers the students to continue practical involvement outside of education.</p>
-            
+
         <h3>Implementation</h3>
             <br>
-            <a href="/assets/curriculum/pe/implementation.pdf" target="_blank" class="button">View our Implementation Table</a>
+            <div class="text-center">
+                <a href="/assets/curriculum/pe/implementation.pdf" target="_blank" class="button">View our Implementation Table</a>
+            </div>
 
         <h3>Additional Opportunities</h3>
             <ul>
@@ -66,7 +68,7 @@
         <!-- ITEM -->
           <li class="accordion-navigation">
             <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Teaching and Learning in PE</a>
-            <div id="panel1d" class="content active" role="tabpanel" aria-labelledby="panel1d-heading">
+            <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
                 <p>PE lessons will take many forms which will engage and challenge students. PE teachers will use a combination of drill and game approaches to ensuring that students understand the requirements of certain sports and physical activities. Key skills such as leadership, teamwork and positive communication are encouraged throughout, and students will frequently be expected to problem solve as part of a group to overcome a scenario provided to them.</p>
                 <p>Students who want to improve further will be encouraged to attend extra-curricular opportunities, and at times be asked to represent the school across a number of sports. Those students that are outstanding performers may be asked to take on leadership roles within lessons, with the opportunity to be part of the sports ambassador programme.</p>
             </div>
@@ -79,95 +81,99 @@
                 <p>Multiple choice testing will take place half termly with structured end of unit/topic teacher assessment, focusing on specific theory content which is mapped across the year to establish a basic understanding of key elements (muscles, body systems, components of fitness and methods of training). Teacher assessment will also be conducted half termly to assess practical performance in each discipline.</p>
                 <p>Feedback is given as regular verbal feedback throughout practical lessons. Students will be able to identify working levels and how to improve through verbal feedback and practical application. Models are used through teacher and student demonstrations enabling improvement of performance analysis.</p>
                 <p><strong>Core PE</strong></p>
-                    <div class="large-6 columns">
-                        <table>
-                          <tr>
-                            <th class="text-center">Practical Assessments</th>
-                          </tr>
-                          <tr>
-                            <td>Frequent verbal feedback given to all students from both teaching staff and coaching from peers.</td>
-                          </tr>
-                          <tr>
-                            <td>End of half term moderation week to assess in formal conditions the application of skill and understanding.</td>
-                          </tr>
-                          <tr>
-                            <td>Use of iPads in small groups to self review and assess performance.</td>
-                          </tr>
-                          <tr>
-                            <td>Use of practical exam board criteria to grade skill level.</td>
-                          </tr>
-                        </table>
-                    </div>
-                    <div class="large-6 columns">
-                        <table>
-                          <tr>
-                            <th class="text-center">Multiple Choice Testing</th>
-                          </tr>
-                          <tr>
-                            <td>Once a term.</td>
-                          </tr>
-                          <tr>
-                            <td>Content delivered to all groups through practical - relating to BTEC criteria and link to real world context.</td>
-                          </tr>
-                          <tr>
-                            <td>Students are given a list of topics to revise through on HW forum and hand outs.</td>
-                          </tr>
-                          <tr>
-                            <td>Follow up activities - class led and idividual.</td>
-                          </tr>
-                          <tr>
-                            <td>Revision drop-in sessions.</td>
-                          </tr>
-                        </table>
+                    <div class="row">
+                        <div class="large-6 columns">
+                            <table>
+                              <tr>
+                                <th class="text-center">Practical Assessments</th>
+                              </tr>
+                              <tr>
+                                <td>Frequent verbal feedback given to all students from both teaching staff and coaching from peers.</td>
+                              </tr>
+                              <tr>
+                                <td>End of half term moderation week to assess in formal conditions the application of skill and understanding.</td>
+                              </tr>
+                              <tr>
+                                <td>Use of iPads in small groups to self review and assess performance.</td>
+                              </tr>
+                              <tr>
+                                <td>Use of practical exam board criteria to grade skill level.</td>
+                              </tr>
+                            </table>
+                        </div>
+                        <div class="large-6 columns">
+                            <table>
+                              <tr>
+                                <th class="text-center">Multiple Choice Testing</th>
+                              </tr>
+                              <tr>
+                                <td>Once a term.</td>
+                              </tr>
+                              <tr>
+                                <td>Content delivered to all groups through practical - relating to BTEC criteria and link to real world context.</td>
+                              </tr>
+                              <tr>
+                                <td>Students are given a list of topics to revise through on HW forum and hand outs.</td>
+                              </tr>
+                              <tr>
+                                <td>Follow up activities - class led and idividual.</td>
+                              </tr>
+                              <tr>
+                                <td>Revision drop-in sessions.</td>
+                              </tr>
+                            </table>
+                        </div>
                     </div>
                 <p><strong>Key Stage 4:</strong></p> 
                 <p>Online exams are completed in BTEC Sport by students to ensure unit achievement this is through developed knowledge from KS3 theory input. Practical assessment is completed through BTEC criteria of Pass / Merit in relation to performance and application of skills within practise and competitive situations.</p>  
                 <p>A tracker is used throughout every lesson for immediate feedback on progress to course / unit completion and to what grade. Students can reflect on current working grade compared to projection and are able to then implement feedback and next step criteria effectively. Further feedback takes place after students have completed units of work at the end of each term/deadline which they are then issued this feedback form and 15 days to implement improvements.</p>  
                 <p>Regular feedback is given in books and on summative assessment forms at the end of units/assignments. It is also seen every lesson through verbal diagnostic conversations with suggested improvements. Books show specific feedback which stretch the level of understanding which is also specific to the attainment criteria for that task. Exemplar assignments are used throughout the course to promote independence and implementation of I do, you do, and we do. This is measured through progress on the class tracker and shown in improved work within portfolios.</p>
                 <p><strong>Year 9-11 examination PE</strong></p>
-                    <div class="large-6 columns">
-                        <table>
-                          <tr>
-                            <th>Practical Assessments</th>
-                          </tr>
-                          <tr>
-                            <td>Frequent verbal feedback.</td>
-                          </tr>
-                          <tr>
-                            <td>Use of iPads to compare performance to high level performance.</td>
-                          </tr>
-                          <tr>
-                            <td>Self analysis of performance.</td>
-                          </tr>
-                          <tr>
-                            <td>Half term assessment and moderation weeks.</td>
-                          </tr>
-                          <tr>
-                            <td>Use of practical exam board criteria to grade skill level.</td>
-                          </tr>
-                        </table>
-                    </div>
-                    <div class="large-6 columns">
-                        <table>
-                          <tr>
-                            <th>Testing and Coursework</th>
-                          </tr>
-                          <tr>
-                            <td>Online tests for unit content.</td>
-                          </tr>
-                          <tr>
-                            <td>Mocks used (paper based) to assess retention of cotent.</td>
-                          </tr>
-                          <tr>
-                            <td>Strict course work deadlines, marking and resubmission (15 day window)</td>
-                          </tr>
-                          <tr>
-                            <td>Assessment tracked and displayed to students to see progress and current attainment score/grade.</td>
-                          </tr>
-                          <tr>
-                            <td>Feedback given in books and through summative assessment forms.</td>
-                          </tr>
-                        </table>
+                    <div class="row">
+                        <div class="large-6 columns">
+                            <table>
+                              <tr>
+                                <th>Practical Assessments</th>
+                              </tr>
+                              <tr>
+                                <td>Frequent verbal feedback.</td>
+                              </tr>
+                              <tr>
+                                <td>Use of iPads to compare performance to high level performance.</td>
+                              </tr>
+                              <tr>
+                                <td>Self analysis of performance.</td>
+                              </tr>
+                              <tr>
+                                <td>Half term assessment and moderation weeks.</td>
+                              </tr>
+                              <tr>
+                                <td>Use of practical exam board criteria to grade skill level.</td>
+                              </tr>
+                            </table>
+                        </div>
+                        <div class="large-6 columns">
+                            <table>
+                              <tr>
+                                <th>Testing and Coursework</th>
+                              </tr>
+                              <tr>
+                                <td>Online tests for unit content.</td>
+                              </tr>
+                              <tr>
+                                <td>Mocks used (paper based) to assess retention of cotent.</td>
+                              </tr>
+                              <tr>
+                                <td>Strict course work deadlines, marking and resubmission (15 day window)</td>
+                              </tr>
+                              <tr>
+                                <td>Assessment tracked and displayed to students to see progress and current attainment score/grade.</td>
+                              </tr>
+                              <tr>
+                                <td>Feedback given in books and through summative assessment forms.</td>
+                              </tr>
+                            </table>
+                        </div>
                     </div>
             </div>
           </li>
@@ -338,7 +344,10 @@
 
         <h3>BTEC Specifications</h3>
             <p>The link provided to view the specifications for BTEC Sport:</p>
-            <a href="//qualifications.pearson.com/content/dam/pdf/BTEC-Firsts/Sport/2012/Specification-and-sample-assessments/9781446936368_BTECFIRST_L12_AWARD_SPORT_Iss3.pdf" target="_blank" class="button">Pearson BTEC Sport Specification</a>
+            <div class="text-center">
+                <a href="//qualifications.pearson.com/content/dam/pdf/BTEC-Firsts/Sport/2012/Specification-and-sample-assessments/9781446936368_BTECFIRST_L12_AWARD_SPORT_Iss3.pdf" target="_blank" class="button">Pearson BTEC Sport Specification</a>
+            </div>
+
         <h3>Supportive Guides for Revision</h3>
             <ul class="small-block-grid-1 large-block-grid-3">
               <li>
@@ -346,10 +355,10 @@
                 <ul class="pricing-table">
                   <li class="title">BTEC First Award Sport Student Book</li>
                   <li class="description">ISBN:9781446905555</li>
-                  <li class="bullet-item">Back by popular demand, our Award book covers Units 1–6 so learners have relevant and specific content to complete the new Pearson BTEC Level 1/Level 2 First Award in Sport.</li>
-                  <li class="bullet-item">Provides all the underpinning knowledge and understanding needed at Level 2 to help learners prepare for the course.</li>
-                  <li class="bullet-item">Activities in each unit provide support and guidance for learners, and can be used in the classroom or for independent work.</li>
-                  <li class="bullet-item">The new BTEC Assessment Zone guides learners through the challenges of both internal and external assessment with grading tips and support for external assessment.</li>
+                  <li class="bullet-item">Covers Units 1–6 has relevant and specific content for the Pearson BTEC Level 1/Level 2 First Award in Sport.</li>
+                  <li class="bullet-item">Underpinning knowledge and understanding needed at Level 2.</li>
+                  <li class="bullet-item">Activities in each unit.</li>
+                  <li class="bullet-item">Grading tips and support.</li>
                   <li class="cta-button"><a class="button" target="_blank" href="//www.pearsonschoolsandfecolleges.co.uk/FEAndVocational/Sport/BTEC/BTEC-Firsts-Sport-2012/ISBN/StudentResources/BTECFirstAwardSportStudentBook.aspx">Buy Now</a></li>
                 </ul>
               </li>
@@ -358,11 +367,10 @@
                 <ul class="pricing-table">
                   <li class="title">BTEC First in Sport Revision Guide</li>
                   <li class="description">ISBN:9781446906705</li>
-                  <li class="bullet-item">Ideal for classroom or independent study, this Revision Guide is the smart choice for learners studying for the externally assessed units of the new BTEC First in Sport from 2012 and 2013. </li>
-                  <li class="bullet-item">The one topic-per-page format provides hassle-free revision for learners with no lengthy set-up time and no complex revision concepts.</li>
-                  <li class="bullet-item">Written with learners in mind - in an informal voice that talks directly to them.</li>
-                  <li class="bullet-item">Visually engaging pages break the content down into easily-digestible points, with revision activities and worked examples that prepare learners for the test.</li>
-                  <li class="bullet-item">Designed to be used alongside the Workbook with one-to-one page correspondence to make it easy to use the books together.</li>
+                  <li class="bullet-item">The one topic-per-page format provides hassle-free revision.</li>
+                  <li class="bullet-item">Written with learners in mind.</li>
+                  <li class="bullet-item">Visually engaging pages break the content down into easily-digestible points.</li>
+                  <li class="bullet-item">Designed to be used alongside the Workbook.</li>
                   <li class="cta-button"><a class="button" target="_blank" href="//www.pearsonschoolsandfecolleges.co.uk/FEAndVocational/Sport/BTEC/BTEC-Firsts-Sport-2012/ISBN/RevisionGuidesandWorkbooks/BTECFirstsinSportRevisionGuide.aspx">Buy Now</a></li>
                 </ul>
               </li>
@@ -371,9 +379,10 @@
                 <ul class="pricing-table">
                   <li class="title">BTEC First in Sport Revision Workbook</li>
                   <li class="description">ISBN:9781446906712</li>
-                  <li class="bullet-item">This Revision Workbook delivers hassle-free question practice, covering one topic per page and avoiding lengthy set up time. </li>
-                  <li class="bullet-item">Build your confidence with guided practice questions, before moving onto unguided questions and practice tests.</li>
-                  <li class="bullet-item">With one-to-one page correspondence between this Workbook and the Revision Guide, this hugely popular Revision series offers the best value available for BTEC learners.</li>
+                  <li class="bullet-item">Hassle-free question practice, covering one topic per page. </li>
+                  <li class="bullet-item">Build your confidence with guided practice questions.</li>
+                  <li class="bullet-item">Unguided questions and practice tests.</li>
+                  <li class="bullet-item">With one-to-one page correspondence between this Workbook and the Revision Guide.</li>
                   <li class="cta-button"><a class="button" target="_blank" href="//www.pearsonschoolsandfecolleges.co.uk/FEAndVocational/Sport/BTEC/BTEC-Firsts-Sport-2012/ISBN/RevisionGuidesandWorkbooks/BTECFirstsinSportWorkbook.aspx">Buy Now</a></li>
                 </ul>
               </li>
