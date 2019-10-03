@@ -86,41 +86,41 @@
                 <div class="large-6 columns">
                     <table>
                       <tr>
-                        <th>Practical Assessments</th>
+                        <th class="text-center">Practical Assessments</th>
                       </tr>
                       <tr>
-                        <td><li>Frequent verbal feedback given to all students from both teaching staff and coaching from peers.</li></td>
+                        <td>Frequent verbal feedback given to all students from both teaching staff and coaching from peers.</td>
                       </tr>
                       <tr>
-                        <td><li>End of half term moderation week to assess in formal conditions the application of skill and understanding.</li></td>
+                        <td>End of half term moderation week to assess in formal conditions the application of skill and understanding.</td>
                       </tr>
                       <tr>
-                        <td><li>Use of iPads in small groups to self review and assess performance.</li></td>
+                        <td>Use of iPads in small groups to self review and assess performance.</td>
                       </tr>
                       <tr>
-                        <td><li>Use of practical exam board criteria to grade skill level.</li></td>
+                        <td>Use of practical exam board criteria to grade skill level.</td>
                       </tr>
                     </table>
                 </div>
                 <div class="large-6 columns">
                     <table>
                       <tr>
-                        <th>Multiple Choice Testing</th>
+                        <th class="text-center">Multiple Choice Testing</th>
                       </tr>
                       <tr>
-                        <td><li>Once a term.</li></td>
+                        <td>Once a term.</td>
                       </tr>
                       <tr>
-                        <td><li>Content delivered to all groups through practical - relating to BTEC criteria and link to real world context.</li></td>
+                        <td>Content delivered to all groups through practical - relating to BTEC criteria and link to real world context.</td>
                       </tr>
                       <tr>
-                        <td><li>Students are given a list of topics to revise through on HW forum and hand outs.</li></td>
+                        <td>Students are given a list of topics to revise through on HW forum and hand outs.</td>
                       </tr>
                       <tr>
-                        <td><li>Follow up activities - class led and idividual.</li></td>
+                        <td>Follow up activities - class led and idividual.</td>
                       </tr>
                       <tr>
-                        <td><li>Revision drop-in sessions.</li></td>
+                        <td>Revision drop-in sessions.</td>
                       </tr>
                     </table>
                 </div>
@@ -135,11 +135,19 @@
                         <th>Practical Assessments</th>
                       </tr>
                       <tr>
-                        <td><li>Frequent verbal feedback.</li></td>
-                        <td><li>Use of iPads to compare performance to high level performance.</li></td>
-                        <td><li>Self analysis of performance.</li></td>
-                        <td><li>Half term assessment and moderation weeks.</li></td>
-                        <td><li>Use of practical exam board criteria to grade skill level.</li></td>
+                        <td>Frequent verbal feedback.</td>
+                      </tr>
+                      <tr>
+                        <td>Use of iPads to compare performance to high level performance.</td>
+                      </tr>
+                      <tr>
+                        <td>Self analysis of performance.</td>
+                      </tr>
+                      <tr>
+                        <td>Half term assessment and moderation weeks.</td>
+                      </tr>
+                      <tr>
+                        <td>Use of practical exam board criteria to grade skill level.</td>
                       </tr>
                     </table>
                 </div>
@@ -149,11 +157,19 @@
                         <th>Testing and Coursework</th>
                       </tr>
                       <tr>
-                        <td><li>Online tests for unit content.</li></td>
-                        <td><li>Mocks used (paper based) to assess retention of cotent.</li></td>
-                        <td><li>Strict course work deadlines, marking and resubmission (15 day window)</li></td>
-                        <td><li>Assessment tracked and displayed to students to see progress and current attainment score/grade.</li></td>
-                        <td><li>Feedback given in books and through summative assessment forms.</li></td>
+                        <td>Online tests for unit content.</td>
+                      </tr>
+                      <tr>
+                        <td>Mocks used (paper based) to assess retention of cotent.</td>
+                      </tr>
+                      <tr>
+                        <td>Strict course work deadlines, marking and resubmission (15 day window)</td>
+                      </tr>
+                      <tr>
+                        <td>Assessment tracked and displayed to students to see progress and current attainment score/grade.</td>
+                      </tr>
+                      <tr>
+                        <td>Feedback given in books and through summative assessment forms.</td>
                       </tr>
                     </table>
                 </div>
@@ -179,22 +195,27 @@
                 “PE at Park is so different to my old school. The PE teachers have fun with you and join in to help you play better sometimes. They tell you how to improve, let your friends give feedback and we use the iPads to watch professions and compare ourselves. I really like all the clubs we can do after school as well. I am going to join the Football and Basketball teams”
                 <cite>Alfie Year 7</cite>
             </blockquote>
+            <br>
             <blockquote>
                 “I enjoy PE because we can develop skills in our chosen sports and develop our overall health. We can see how much we have improved with fitness testing.”
                 <cite>Asha Year 9</cite>
             </blockquote>
+            <br>
             <blockquote>
                 “I really like that I got to choose the types of activities I complete. I chose HRE, health related exercise. I have really liked doing Aerobics and Zumba because I enjoy independent activities a lot more then invasion games”.
                 <cite>Chloe Year 9</cite>
             </blockquote>
+            <br>
             <blockquote>
                 “Within PE we are always very active. The PE department push you to work hard but in a positive way. They reward us loads for hard work and celebrate our achievements in assemblies, on social media, display boards and in assemblies all the time. I really like that because it feels good to know your effort is noticed”.
                 <cite>Jake Year 8</cite>
             </blockquote>
+            <br>
             <blockquote>
                 “Theory lessons are demanding. You are given sporting scenarios and assignments that relate to them. Then you learn a lot of content through the PE department in theory and practical lessons which will help you to apply it to the assignment set. This is marked and you get opportunities to improve these. You always know the grade you are working at and its clear how you can improve. I like the link that is made between the practical and theory lessons”.
                 <cite>Ben Year 11</cite>
             </blockquote>
+            <br>
 
 
         <h3>Dictionary of Terms</h3>
@@ -322,7 +343,7 @@
                 <!-- Resource 1 -->
                 <ul class="pricing-table">
                   <li class="title">BTEC First Award Sport Student Book</li>
-                  <li class="price">ISBN:9781446905555</li>
+                  <li class="description">ISBN:9781446905555</li>
                   <li class="bullet-item">Back by popular demand, our Award book covers Units 1–6 so learners have relevant and specific content to complete the new Pearson BTEC Level 1/Level 2 First Award in Sport.</li>
                   <li class="bullet-item">Provides all the underpinning knowledge and understanding needed at Level 2 to help learners prepare for the course.</li>
                   <li class="bullet-item">Activities in each unit provide support and guidance for learners, and can be used in the classroom or for independent work.</li>
@@ -334,7 +355,7 @@
                 <!-- Resource 2 -->
                 <ul class="pricing-table">
                   <li class="title">BTEC First in Sport Revision Guide</li>
-                  <li class="price">ISBN:9781446906705</li>
+                  <li class="description">ISBN:9781446906705</li>
                   <li class="bullet-item">Ideal for classroom or independent study, this Revision Guide is the smart choice for learners studying for the externally assessed units of the new BTEC First in Sport from 2012 and 2013. </li>
                   <li class="bullet-item">The one topic-per-page format provides hassle-free revision for learners with no lengthy set-up time and no complex revision concepts.</li>
                   <li class="bullet-item">Written with learners in mind - in an informal voice that talks directly to them.</li>
@@ -347,7 +368,7 @@
                 <!-- Resource 3 -->
                 <ul class="pricing-table">
                   <li class="title">BTEC First in Sport Revision Workbook</li>
-                  <li class="price">ISBN:9781446906712</li>
+                  <li class="description">ISBN:9781446906712</li>
                   <li class="bullet-item">This Revision Workbook delivers hassle-free question practice, covering one topic per page and avoiding lengthy set up time. </li>
                   <li class="bullet-item">Build your confidence with guided practice questions, before moving onto unguided questions and practice tests.</li>
                   <li class="bullet-item">With one-to-one page correspondence between this Workbook and the Revision Guide, this hugely popular Revision series offers the best value available for BTEC learners.</li>
