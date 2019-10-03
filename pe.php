@@ -353,8 +353,8 @@
               <li>
                 <!-- Resource 1 -->
                 <ul class="pricing-table">
-                  <li class="title">BTEC First Award Sport Student Book</li>
-                  <li class="description">ISBN:9781446905555</li>
+                  <li class="title">First Award Sport Student Book</li>
+                  <li class="description">ISBN: 9781446905555</li>
                   <li class="bullet-item">Covers Units 1–6 has relevant and specific content for the Pearson BTEC Level 1/Level 2 First Award in Sport.</li>
                   <li class="bullet-item">Underpinning knowledge and understanding needed at Level 2.</li>
                   <li class="bullet-item">Activities in each unit.</li>
@@ -365,8 +365,8 @@
               <li>
                 <!-- Resource 2 -->
                 <ul class="pricing-table">
-                  <li class="title">BTEC First in Sport Revision Guide</li>
-                  <li class="description">ISBN:9781446906705</li>
+                  <li class="title">First in Sport Revision Guide</li>
+                  <li class="description">ISBN: 9781446906705</li>
                   <li class="bullet-item">The one topic-per-page format provides hassle-free revision.</li>
                   <li class="bullet-item">Written with learners in mind.</li>
                   <li class="bullet-item">Visually engaging pages break the content down into easily-digestible points.</li>
@@ -377,12 +377,12 @@
               <li>
                 <!-- Resource 3 -->
                 <ul class="pricing-table">
-                  <li class="title">BTEC First in Sport Revision Workbook</li>
-                  <li class="description">ISBN:9781446906712</li>
+                  <li class="title">First in Sport Revision Workbook</li>
+                  <li class="description">ISBN: 9781446906712</li>
                   <li class="bullet-item">Hassle-free question practice, covering one topic per page. </li>
                   <li class="bullet-item">Build your confidence with guided practice questions.</li>
                   <li class="bullet-item">Unguided questions and practice tests.</li>
-                  <li class="bullet-item">With one-to-one page correspondence between this Workbook and the Revision Guide.</li>
+                  <li class="bullet-item">One-to-one page correspondence with the Revision Guide.</li>
                   <li class="cta-button"><a class="button" target="_blank" href="//www.pearsonschoolsandfecolleges.co.uk/FEAndVocational/Sport/BTEC/BTEC-Firsts-Sport-2012/ISBN/RevisionGuidesandWorkbooks/BTECFirstsinSportWorkbook.aspx">Buy Now</a></li>
                 </ul>
               </li>
