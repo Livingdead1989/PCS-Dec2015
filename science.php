@@ -234,10 +234,9 @@
 <!-- Modal -->
 <div id="revision_resources" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
     <h2>Resources</h2>
-    <p><a href="/assets/curriculum/science/terms_chemistry.pdf" target="_blank">Dictionary of terms - Chemistry</a></p>
-    <p><a href="/assets/curriculum/science/terms_biology.pdf" target="_blank">Dictionary of terms - Biology</a></p>
-    <p><a href="/assets/curriculum/science/yr7_bigpicture.pdf" target="_blank">Year 7 Big Picture</a></p>
-    <p><a href="/assets/curriculum/science/yr8_bigpicture.pdf" target="_blank">Year 8 Big Picture</a></p>
+    <p><a href="/assets/curriculum/science/terms_chemistry.pdf" target="_blank">Dictionary of terms - Chemistry <small>(PDF)</small></a></p>
+    <p><a href="/assets/curriculum/science/terms_biology.pdf" target="_blank">Dictionary of terms - Biology <small>(PDF)</small></a></p>
+    <p><a href="/assets/curriculum/science/ks3_big_picture.pdf" target="_blank">KS3 - Big Picture <small>(PDF)</small></a></p>
   <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
 
