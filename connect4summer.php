@@ -118,15 +118,6 @@
 
 			<hr>
 
-			<div class="row">
-				<div class="small-8 small-push-2 columns">
-					<div class="flex-video widescreen border-radius-5">
-						<iframe src="https://player.vimeo.com/video/348147261?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
-						</iframe>
-					</div>
-				</div>
-			</div>
-
 			<br>
 
 			<h2>What Activities were offered?</h2>
@@ -143,16 +134,6 @@
 				<li>Percussion</li>
 				<li>and much more...</li>
 			</ul>
-			<br>
-
-			<div class="row">
-				<div class="small-8 small-push-2 columns">
-					<div class="flex-video widescreen border-radius-5">
-						<iframe src="https://player.vimeo.com/video/348147274?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
-						</iframe>
-					</div>
-				</div>
-			</div>
 			<br><br>
 		</div>
 	</div>
