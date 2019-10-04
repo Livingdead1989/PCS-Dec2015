@@ -25,6 +25,23 @@
 		<div class="columns">
 			<br>
 			<div class="row">
+				<h2>Connect4Summer 2019 - Review</h2>
+				<p>We are really proud of what we have achieved, 17 organisations have provided free daily child care and 21 organisations have provided free family fun days for 20 days and the feedback from parents has been tremendous....</p>
+				<div class="text-center">
+                  <a href="/assets/connect4summer/connect4summer_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
+                </div>
+			</div>
+		</div>
+	</div>
+</section>			
+
+<section class="grey-bg">
+    <div class="row">
+    	<div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+	<div class="row">
+		<div class="columns">
+			<div class="row">
 				<h2>Connect4Summer in the BBC</h2>
 				<div class="columns small-12 medium-12 large-6">
 					<div class="flex-video widescreen border-radius-5">
@@ -61,8 +78,13 @@
 			<br>
 
 			<p>This scheme has been made possible by a joint funding bid by Park Community School and Romsey Community School.</p>
+		</div>
+	</div>
+</section>
 
-			<hr>
+<section>
+	<div class="row">
+		<div class="columns">
 
 			<p>Venues include:</p>
 			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2">
