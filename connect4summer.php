@@ -30,6 +30,7 @@
 				<div class="text-center">
                   <a href="/assets/connect4summer/connect4summer_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
                 </div>
+                <br><br>
 			</div>
 		</div>
 	</div>
@@ -37,7 +38,7 @@
 
 <section class="grey-bg">
     <div class="row">
-    	<div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    	<div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
 	<div class="row">
 		<div class="columns">
@@ -78,14 +79,18 @@
 			<br>
 
 			<p>This scheme has been made possible by a joint funding bid by Park Community School and Romsey Community School.</p>
+			<br><br>
 		</div>
 	</div>
 </section>
 
 <section>
 	<div class="row">
+    	<div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+	<div class="row">
 		<div class="columns">
-
+			<br><br>
 			<p>Venues include:</p>
 			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2">
 				<li>Park Community School, Havant</li>
