@@ -38,7 +38,7 @@
 
 <section class="grey-bg">
     <div class="row">
-    	<div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    	<div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
 	<div class="row">
 		<div class="columns">
@@ -86,11 +86,11 @@
 
 <section>
 	<div class="row">
-    	<div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    	<div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
 	<div class="row">
 		<div class="columns">
-			<br><br>
+			<br>
 			<p>Venues include:</p>
 			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2">
 				<li>Park Community School, Havant</li>
@@ -118,14 +118,6 @@
 
 			<hr>
 
-			<h2>Free Childcare</h2>
-			<p>Free childcare for children entitled to free school meals provided by Active Kids, booking required.</p>
-			<p>29th July - 23rd August 2019 in The Dickinson Centre at Park Community School.</p>
-
-			<p><strong>Booking Childcare</strong></p>
-			<p>Contact <a href="mailto:kerryainsley@sky.com">kerryainsley@sky.com</a> to book places, each child can have 10 places which are subject to availablity.</p>
-			<br>
-
 			<div class="row">
 				<div class="small-8 small-push-2 columns">
 					<div class="flex-video widescreen border-radius-5">
@@ -137,7 +129,7 @@
 
 			<br>
 
-			<h2>What Activities are offered?</h2>
+			<h2>What Activities were offered?</h2>
 			<p>Our programme is different every day, activities include:</p>
 			<ul>
 				<li>Circus Skills</li>
@@ -161,15 +153,6 @@
 					</div>
 				</div>
 			</div>
-
-			
-
-			<br>
-			<p>Booking required, please come into school for a booking form.</p>
-
-			<div class="text-center">
-                  <a href="/assets/connect4summer/invitation_letter_booking.docx" target="_blank" class="button success radius">Invitation Letter and Booking <small>(.docx)</small></a>
-                </div>
 			<br><br>
 		</div>
 	</div>
