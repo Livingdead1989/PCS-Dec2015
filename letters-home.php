@@ -27,6 +27,18 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
             	<li>           	
+				  <ul class="circle">October 2019<hr>
+				  	<li><a href="/assets/letters/2019-10/year_7_carousel_and_parents_evening.pdf" target="_blank">Year 7 Carousel and Parents Evening</a></li>
+				  	<li><a href="/assets/letters/2019-10/year_8_carousel_and_parents_evening.pdf" target="_blank">Year 8 Carousel and Parents Evening</a></li>
+			  	  </ul>
+				</li>
+				<li>           	
+				  <ul class="circle">September 2019<hr>
+				  	<li><a href="/assets/letters/2019-09/year_10_parents_information_evening.pdf" target="_blank">Year 10 Parents Information Evening</a></li>
+				  	<li><a href="/assets/letters/2019-09/year_10_period_6_letter.pdf" target="_blank">Year 10 Period 6</a></li>
+			  	  </ul>
+				</li>
+            	<li>           	
 				  <ul class="circle">July 2019<hr>
 				  	<li><a href="/assets/letters/2019-07/end_of_year.pdf" target="_blank">End of Year incl Attendance</a></li>
 				  	<li><a href="/assets/letters/2019-07/literature_books.pdf" target="_blank">Literature Books for GCSE</a></li>
