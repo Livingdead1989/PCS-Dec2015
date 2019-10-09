@@ -30,6 +30,7 @@
 				  <ul class="circle">October 2019<hr>
 				  	<li><a href="/assets/letters/2019-10/year_7_carousel_and_parents_evening.pdf" target="_blank">Year 7 Carousel and Parents Evening</a></li>
 				  	<li><a href="/assets/letters/2019-10/year_8_carousel_and_parents_evening.pdf" target="_blank">Year 8 Carousel and Parents Evening</a></li>
+				  	<li><a href="/assets/letters/2019-10/year_9_challenge_day.pdf" target="_blank">Year 9 Challenge Day</a></li>
 			  	  </ul>
 				</li>
 				<li>           	
