@@ -77,6 +77,12 @@
                             <iframe src="https://player.vimeo.com/video/299177189?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
                     </div>
+                    <!-- Image -->
+                    <div>
+                        <div>
+                            <img src="images/news/educatering.png" alt="Headteacher and Head Chef Accepting Award">
+                        </div>
+                    </div>
 
                 </div>
             </div>
