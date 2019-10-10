@@ -80,7 +80,7 @@
                     <!-- Image -->
                     <div>
                         <div>
-                            <img src="images/news/educatering.png" alt="Headteacher and Head Chef Accepting Award">
+                            <img src="images/news/catering/educatering.png" alt="Headteacher and Head Chef Accepting Award">
                         </div>
                     </div>
 
