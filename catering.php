@@ -141,7 +141,7 @@
             </div>
             <div class="row">
                 <div class="columns">
-                    <h4>Educatering Excellence Award 2019 - Finalist</h4>
+                    <h4>Educatering Excellence Award 2019 - Winner</h4>
                     <p>Secondary School Caterer of the Year</p>
 
                     <h4>Educatering Excellence Award 2018 - Winner</h4>
