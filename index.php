@@ -83,6 +83,12 @@
                             <img src="images/news/catering/educatering.png" alt="Headteacher and Head Chef Accepting Award">
                         </div>
                     </div>
+                    <!-- Image -->
+                    <div>
+                        <div>
+                            <img src="images/news/persimmon_building_futures_award/persimmon_building_futures_award.jpg" alt="Business and Community Manager Accepting Award">
+                        </div>
+                    </div>
 
                 </div>
             </div>

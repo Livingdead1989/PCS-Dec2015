@@ -259,6 +259,33 @@
     <?php include("includes/backtotop.html") ?>
 </section>
 
+
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row" id="persimmon_building_futures_award">
+    	<h4>Persimmon Building Futures Awards</h4>
+    		<p>On Tuesday 8 October, Susan Parish, Business and Community Manager attended the Persimmon Building Futures Awards in York. Building Futures was launched to share £1 million to causes supporting under 18s across England. We were shortlisted for a prize towards funding for an activity track at Park Community School. As one of the finalists we were awarded a £5,000 donation on the night. Susan said:</p>
+    		<p>“It was a fantastic night and we were made to feel so special and were surrounded by charities who carry out amazing things. Our thanks to Persimmon for providing these donations which are going to make such a huge difference to so many. Pleased to say, and so well deserved, locally Portsmouth Downs Syndrome Association were the big winners scooping the £100k first prize on the night”.</p>
+			<img src="/images/news/persimmon_building_futures_award/persimmon_building_futures_award.jpg" alt="Accepting the award for Persimmon Building Furtures">       
+    </div>
+    <br><br><br>
+</section>
+
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+
+    </div>
+    <br><br>
+    <?php include("includes/backtotop.html") ?>
+</section>
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
