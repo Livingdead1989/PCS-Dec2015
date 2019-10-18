@@ -91,24 +91,6 @@
               </div>
 <!--                  Event box --> 
 
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">4th, 11th, 18th Oct</p>
-                  <p class="event-time">15:00-15:45</p>
-                </div>
-                <h2 class="event-title">Poppy Wave 2019</h2>
-                <p class="event-subheader"></p>
-                <p class="event-description">Following last year’s success, we would like all our fantastic knitters to once again support our poppy wave and keep knitting.This year, alongside red poppies, which honour military personnel who died in war times, weare also looking to knit purple poppies tocommemorate the animals that were injured and lost their lives in conflict.</p>
-                <div class="link-wrap">
-                  <a href="/assets/events/poppy_flyer.pdf" target="_blank" class="button success radius">View our Flyer</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box --> 
 
 <!--                    Event Box  -->
               <div class="event-wrap">
