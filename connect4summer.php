@@ -27,6 +27,10 @@
 			<div class="row">
 				<h2>Connect4Summer 2019 - Review</h2>
 				<p>We are really proud of what we have achieved, 17 organisations have provided free daily child care and 21 organisations have provided free family fun days for 20 days and the feedback from parents has been tremendous....</p>
+
+				<div class="text-center flex-video widescreen border-radius-5">
+                            <iframe src="https://player.vimeo.com/video/368249167" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                        </div>
 				<div class="text-center">
                   <a href="/assets/connect4summer/connect4summer_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
                 </div>
