@@ -71,10 +71,10 @@
                 <!-- SLIDER -->
                 <div class="homepage-slider">
                     
-                    <!-- VIMEO PROMO VIDEO -->
+                    <!-- VIMEO PROMO PLAYLIST -->
                     <div>
                     	<div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://player.vimeo.com/video/299177189?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                            <iframe src="https://vimeo.com/showcase/5574215/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
                     </div>
                     <!-- Image -->
