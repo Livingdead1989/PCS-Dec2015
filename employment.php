@@ -38,7 +38,16 @@
 				</span>
 			</li>  -->
 
-			<li><br><span class="subheader">Please check back later.</span></li> 
+			<!-- <li><br><span class="subheader">Please check back later.</span></li>  -->
+
+      <li>
+        <h4>Assistant Headteacher</h4>  
+        <p><em>Closing Date: 19th November</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/assistant_headteacher.pdf" target="_blank">Position Details</a>
+        </span>
+      </li> 
 
 			            
           
