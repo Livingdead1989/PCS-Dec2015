@@ -71,16 +71,22 @@
                 <!-- SLIDER -->
                 <div class="homepage-slider">
                     
-                    <!-- VIMEO PROMO PLAYLIST -->
+                    <!-- VIMEO Video -->
                     <div>
                     	<div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://vimeo.com/showcase/5574215/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                            <iframe src="https://vimeo.com/299177189" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
                     </div>
                     <!-- Image -->
                     <div>
                         <div>
                             <img src="images/news/catering/educatering.png" alt="Headteacher and Head Chef Accepting Award">
+                        </div>
+                    </div>
+                    <!-- VIMEO Video -->
+                    <div>
+                        <div class="flex-video widescreen border-radius-5">
+                            <iframe src="https://vimeo.com/368249167" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
                     </div>
                     <!-- Image -->
