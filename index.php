@@ -74,7 +74,7 @@
                     <!-- VIMEO Video -->
                     <div>
                     	<div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://vimeo.com/299177189" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                            <iframe src="https://player.vimeo.com/video/299177189" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
                     </div>
                     <!-- Image -->
@@ -86,7 +86,7 @@
                     <!-- VIMEO Video -->
                     <div>
                         <div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://vimeo.com/368249167" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                            <iframe src="https://player.vimeo.com/video/368249167" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
                     </div>
                     <!-- Image -->
