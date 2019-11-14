@@ -26,12 +26,13 @@
         <div class="medium-12 columns">
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
+            	
             	<li>           	
-				  <ul class="circle">October 2019<hr>
-				  	<li><a href="/assets/letters/2019-10/year_9_parents_evening.pdf" target="_blank">Year 9 Parents Information Evening</a></li>
-				  	<li><a href="/assets/letters/2019-10/year_7_carousel_and_parents_evening.pdf" target="_blank">Year 7 Carousel and Parents Evening</a></li>
-				  	<li><a href="/assets/letters/2019-10/year_8_carousel_and_parents_evening.pdf" target="_blank">Year 8 Carousel and Parents Evening</a></li>
-				  	<li><a href="/assets/letters/2019-10/year_9_challenge_day.pdf" target="_blank">Year 9 Challenge Day</a></li>
+				  <ul class="circle">November 2019<hr>
+				  	<li><a href="/assets/letters/2019-11/federation_joint_statements.pdf" target="_blank">Federation Joint Statements</a></li>
+				  	<li><a href="/assets/letters/2019-11/Joint_statement_relational_conflict_and_bullying.pdf" target="_blank">Joint Statement Relational Conflict and Bullying</a></li>
+				  	<li><a href="/assets/letters/2019-11/Joint_statement_mobile_phones.pdf" target="_blank">Joint Statement Mobile Phones</a></li>
+				  	<li><a href="/assets/letters/2019-11/Joint_statement_behaviour.pdf" target="_blank">Joint Statement Behaviour</a></li>
 			  	  </ul>
 				</li>
 				<li>           	
