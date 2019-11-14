@@ -49,7 +49,16 @@
         </span>
       </li> 
 
-			            
+      <li>
+        <h4>Teaching Assistant</h4>  
+        <p><em>Closing Date: 26th November </em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/teaching_assistant.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
+         
           
 	      </ul>
 	      <hr>
