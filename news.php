@@ -89,9 +89,9 @@
     <?php include("includes/backtotop.html") ?>
 </section>
 
-<section>
+<section class="grey-bg">
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <!-- children and young people award - 21/11/2018 -->
     <?php include("includes/news/children-and-young-people-award.html") ?>
@@ -100,9 +100,9 @@
     <?php include("includes/backtotop.html") ?>
 </section>
 
-<section class="grey-bg">
+<section>
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <!-- hcc community impact award -->
     <?php include("includes/news/hcc-community-impact-award.html") ?>
