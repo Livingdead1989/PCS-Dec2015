@@ -136,7 +136,7 @@
                   <p class="event-time">14:00 - 16:00</p>
                 </div>
                 <h2 class="event-title">Senior Citizens Christmas Party</h2>
-                <p class="event-subheader"></p>
+                <p class="event-subheader">Christmas Tea Party</p>
                 <p class="event-description">Please join us for High Tea and a festive sing along.</p>
                 <div class="link-wrap">
                   <a href="/assets/events/senior_citizen_tea.pdf" target="_blank" class="button success radius">View our flyer...</a>
