@@ -32,47 +32,28 @@
         <div class="large-12 columns">
         <br>
 
-        <h3>Key Stage 3 - Year 7</h3>
-        <p>Timeless themes that run through the course of history forms the structure of our Key Stage 3 curriculum; within this, there is a clear chronology that
-        allows pupils to develop their sense of time. In Year 7, the first theme studied is ‘ordinary lives’.</p>
-        <p>This unit sees the study of:</p>
-        <ul class="circle">
-          <li>how did toilets change in British history?</li>
-          <li>the significance of the Battle of Hastings</li>
-          <li>life as a Medieval peasant and how we interpret their daily routines</li>
-          <li>the Black Death and its dramatic consequences in reshaping society</li>
-          <li>Shakespeare’s England, examining the rise of leisure pursuits such as the theatre</li>
-          <li>an examination of industrial Britain and whether this was really progress for ‘ordinary’ people</li>
-          <li>how life dramatically changed during the 20th century and which factors we attribute to this</li>
+        <h3>Purpose</h3>
+        <p>It is our belief that all students should study the past to develop a sense of their own historical identity. By studying the human mind-set and experience throughout the ages, it allows them to make sense of the world around them. It develops critical and enquiring minds that are able to understand different perspectives and challenge the thinking of others.</p>
+
+        <h3>Aims</h3>
+        <p>Park historians work like detectives, piecing together a range of evidence to help them reconstruct the past. While they enquire, they will question, hypothesise, weigh and evaluate the evidence to help them come to a well-considered conclusion.  They will know that, as historians, there are different judgements that we can draw from the past, even if we are using the same evidence.</p>
+        <p>Historian mastery will see a pupil with a solid chronological framework of history, so that they are able to hypothesise by drawing on their existing knowledge. It is our aim to make them confident in evaluating and critically reading sources, considering their use in the context of their audience and purpose. They recognise how and why historians form certain interpretations about the past. In addition, they are able to articulate and write their own historical thinking with clarity and precision.</p>
+
+        <h3>Areas of Study</h3>
+        <p>The KS3 curriculum follows a two-year course set within a chronological framework. Big enquiry questions drive the learning and are underpinned by the second-order historical concepts to allow our students to think and work like historians.</p>
+        <p>Our year 7 curriculum begins with an investigation into students’ own history through a local study of the development of Leigh Park, as well as the opportunity for students to conduct their own research into their own families or local points of interest. We then journey through pre-20th century history, exploring the Medieval, Early Modern and Industrial periods. Some of the enquiry questions we use to explore the history of these periods include ‘Does Mary I deserve her nickname of ‘Bloody Mary’?’ and ‘How should we remember the British Empire?’.</p>
+        <p>Year 8 continues in a chronological approach and largely focuses on the study of the 20th century. We study a range of historical figures and events, including the Suffragette movement and civil rights in the USA. Enquiry questions that drive the learning include challenging questions such as ‘Was it really the assassination of one man that caused the First World War?’ and ‘Was the Holocaust inevitable?’.</p>
+        <p>Our Key Stage 4 curriculum begins in year 9. As well as selecting topics that are interesting and engaging, we believe these histories are important in understanding significant changes which have helped to shape the world around us.</p>
+
+        <p>The following units are studied under the Edexcel GCSE board: </p>
+        <ul>
+            <li>Paper 1: Crime and Punishment, 1000-present day and Whitechapel, 1870-1900</li>
+            <li>Paper 2: Early Elizabethan England, 1558-1588 and Superpower Relations, 1941-1991</li>
+            <li>Paper 3: Weimar and Nazi Germany, 1918-1939</li>
         </ul>
-        <p>The second theme for our year seven pupils is focused on ‘why were people willing to die for their beliefs’. This includes the importance of religion in Medieval life and the turbulent changes in Tudor England that arose from England’s dramatic break with Rome in the 16th century and the consequences of this.</p>
-        <p>Finally, the theme of ‘power’ is studied. This follows the changes in kingship from Medieval to Tudor England and then the subsequent progress
-        and change from monarchy to a democratic system that we have today.</p>
-
-        <h3>Key Stage - Year 8</h3>
-        <p>Our Year 8 programme of study looks at how democracy and civil rights were won and lost in Britain and Germany in the 20<sup>th</sup> century, including
-        Hitler’s rise to power and a depth-study on the Holocaust.</p>
-        <p>The second term focuses on modern history with the focus on conflict in the nineteenth and twentieth century. In this unit, pupils’ research key
-        developments and events that have shaped our society today; this includes</p>
-        <ul class="circle">
-          <li>the women’s suffrage movement in Britain</li>
-          <li>the two world wars and their significance</li>
-          <li>how the terrorist attacks of September 11<sup>th</sup> marks a turning point in modern history</li>
-        </ul>
-
-
-        <p>In addition, pupils will have the opportunity to investigate their local history to help them connect with a more personal history and help them to
-        understand the immediate world around them.</p>
-
-        <h3>Key Stage 4</h3>
-
-        <p>Key Stage 4 students are currently completing a three year course in GCSE History. Paper 1 focuses on Crime and Punishment over the course of a thousand years, starting in 1000AD. Within this topic, there is a section solely focused on the historic place of Whitechapel during the late 19th century which includes the crimes of Jack the Ripper.</p>
-        <p>Paper 2 Section A is a unit on Superpower Relations 1941-1991 which examines the nuclear stand-off between the USA and Russia that dominated international affairs in the latter part of the 20th century. Section B of this paper is Elizabethan England 1558-1588 is the depth study of choice, studying the problems she encountered in her long reign and how these were dealt with.</p>
-        <p>Paper 3 solely focuses on a modern depth study of Weimar and Nazi Germany, examining Hitler’s rise to power and how life changed for ordinary people in this period. This varied and thought-provoking curriculum is designed to give pupils both depth and breadth of a range of areas to allow them to truly value the lessons from the past and enjoy their learning.</p>
 
         <br>
         </div>
-
     </div>
 </section>
 
