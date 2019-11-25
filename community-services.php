@@ -209,55 +209,63 @@
     </div>
     <br>
     <div class="row">
-        <div class="large-12 columns">
+        <div class="columns">
             <p>We hold weddings at Park Community School to help our local community and ensure essential funds are raised for the benefit of our students.</p>
             <p>Celebrating your wedding at Park Community School gives you the affordability and flexibility to select your wedding day rooms and facilities just how you want them.</p>
             <p>We have two venues to choose from dependent upon the size of your party, with the largest seating 250 guests and various optional extras to ensure you have the wedding of your dreams.</p>
-
-            <div class="text-center">
-                <div class="small-offset-1 small-10 columns">
-                    <!-- SLIDER -->
-                    <div class="homepage-slider">
-                        <!-- Image -->
-                        <div>
-                            <div>
-                                <img src="/images/community/wedding/weddings_at_park_table_2.jpg" alt="Weddings at Park Community School">
-                            </div>
-                        </div>
-                        <!-- Image -->
-                        <div>
-                            <div>
-                                <img src="/images/community/wedding/weddings_at_park_table_1.jpg" alt="Weddings at Park Community School">
-                            </div>
-                        </div>
-                        <!-- Image -->
-                        <div>
-                            <div>
-                                <img src="/images/community/wedding/weddings_at_park_food_1.jpg" alt="Weddings at Park Community School">
-                            </div>
-                        </div>
-                        <!-- Image -->
-                        <div>
-                            <div>
-                                <img src="/images/community/wedding/weddings_at_park_food_2.jpg" alt="Weddings at Park Community School">
-                            </div>
-                        </div>
-                        <!-- Image -->
-                        <div>
-                            <div>
-                                <img src="/images/community/wedding/weddings_at_park_thrones.jpg" alt="Weddings at Park Community School">
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div> 
-
-            <p>Our award winning head chef can assist you in planning your food requirements and we can provide anything from a cold buffet to a three course meal or a hog roast to a barbeque. We can provide as little or as much as you would want, it can be from using disposable cutlery and plates to silver service including cutlery, glasses and linen. We can also design and produce your wedding cake.</p>
-            <p>We offer an excellent range of wines, beers, ciders, soft drinks and spirits at our Bar. We are very happy to consult with you to ensure we are providing the perfect refreshments for you and your guests.</p>
-            <p>We highly recommend that you come and have a look around Park Community School. It is a unique wedding venue which has to be seen to be believed in order to truly experience the atmosphere and surroundings.</p>            
         </div>
     </div>
+
+    <div class="row text-center">
+        <div class="small-offset-1 small-10 columns">
+            <!-- SLIDER -->
+            <div class="homepage-slider">
+                <!-- Image -->
+                <div>
+                    <div>
+                        <img src="/images/community/wedding/weddings_at_park_table_2.jpg" alt="Weddings at Park Community School">
+                    </div>
+                </div>
+                <!-- Image -->
+                <div>
+                    <div>
+                        <img src="/images/community/wedding/weddings_at_park_table_1.jpg" alt="Weddings at Park Community School">
+                    </div>
+                </div>
+                <!-- Image -->
+                <div>
+                    <div>
+                        <img src="/images/community/wedding/weddings_at_park_food_1.jpg" alt="Weddings at Park Community School">
+                    </div>
+                </div>
+                <!-- Image -->
+                <div>
+                    <div>
+                        <img src="/images/community/wedding/weddings_at_park_food_2.jpg" alt="Weddings at Park Community School">
+                    </div>
+                </div>
+                <!-- Image -->
+                <div>
+                    <div>
+                        <img src="/images/community/wedding/weddings_at_park_thrones.jpg" alt="Weddings at Park Community School">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div> 
+
+    <div class="row">
+        <div class="columns">
+            <p>Our award winning head chef can assist you in planning your food requirements and we can provide anything from a cold buffet to a three course meal or a hog roast to a barbeque. We can provide as little or as much as you would want, it can be from using disposable cutlery and plates to silver service including cutlery, glasses and linen. We can also design and produce your wedding cake.</p>
+            <p>We offer an excellent range of wines, beers, ciders, soft drinks and spirits at our Bar. We are very happy to consult with you to ensure we are providing the perfect refreshments for you and your guests.</p>
+            <p>We highly recommend that you come and have a look around Park Community School. It is a unique wedding venue which has to be seen to be believed in order to truly experience the atmosphere and surroundings.</p>  
+        </div>
+    </div>
+
+                      
+        
+    
     <br><br>
 </section>
 
