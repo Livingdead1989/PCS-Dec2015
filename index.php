@@ -66,7 +66,6 @@
         <br>
         <h3>Welcome to Park...</h3>
         <div class="text-center">
-            </div>
             <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                 <!-- SLIDER -->
                 <div class="homepage-slider">
@@ -115,7 +114,7 @@
 
                 </div>
             </div>
-            
+        </div>   
         <br>
         </div>
 
