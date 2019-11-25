@@ -262,10 +262,12 @@
             <p>We highly recommend that you come and have a look around Park Community School. It is a unique wedding venue which has to be seen to be believed in order to truly experience the atmosphere and surroundings.</p>  
         </div>
     </div>
-
-                      
-        
-    
+    <br>
+    <div class="row">
+            <div class="column text-center">
+                <a href="assets/community/wedding_brochure.pdf" target="_blank" class="button success radius">Wedding Brochure PDF</a>
+            </div>
+    </div>
     <br><br>
 </section>
 
