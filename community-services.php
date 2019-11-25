@@ -219,7 +219,7 @@
     <div class="row text-center">
         <div class="columns">
             <!-- SLIDER -->
-            <div class="">
+            <div class="homepage-slider">
                 <!-- Image -->
                 <div>
                     <div>
