@@ -217,7 +217,7 @@
     </div>
 
     <div class="row text-center">
-        <div class="columns">
+        <div class="small-10 small-offset-1 medium-8 medium-offset-2 columns">
             <!-- SLIDER -->
             <div class="homepage-slider">
                 <!-- Image -->
