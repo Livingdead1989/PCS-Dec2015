@@ -69,24 +69,6 @@
             <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                 <!-- SLIDER -->
                 <div class="homepage-slider">
-                     <!-- Image -->
-                    <div>
-                        <div>
-                            <img src="images/news/remember/1.jpg" alt="Rememberance">
-                        </div>
-                    </div>
-                     <!-- Image -->
-                    <div>
-                        <div>
-                            <img src="images/news/remember/2.jpg" alt="Rememberance">
-                        </div>
-                    </div>
-                     <!-- Image -->
-                    <div>
-                        <div>
-                            <img src="images/news/remember/3.jpg" alt="Rememberance">
-                        </div>
-                    </div>
                     <!-- VIMEO Video -->
                     <div>
                     	<div class="flex-video widescreen border-radius-5">
