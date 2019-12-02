@@ -71,6 +71,13 @@
                 <div class="homepage-slider">
                     <!-- VIMEO Video -->
                     <div>
+                        <div class="flex-video widescreen border-radius-5">
+                            <iframe src="https://player.vimeo.com/video/376781468" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                            <p>National Schools Meals Week</p>
+                        </div>
+                    </div>
+                    <!-- VIMEO Video -->
+                    <div>
                     	<div class="flex-video widescreen border-radius-5">
                             <iframe src="https://player.vimeo.com/video/299177189" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
@@ -79,6 +86,7 @@
                     <div>
                         <div>
                             <img src="images/news/catering/educatering.png" alt="Headteacher and Head Chef Accepting Award">
+                            
                         </div>
                     </div>
                     <!-- VIMEO Video -->
