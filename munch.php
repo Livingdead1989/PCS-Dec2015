@@ -145,7 +145,7 @@
         </div>
 
         <div class="columns text-center">
-            <a href="assets/munch/munch_review_2018.pdf" target="_blank" class="button success radius">Munch Review</a>
+            <a href="assets/munch/munch_review_2019.pdf" target="_blank" class="button success radius">Munch Review</a>
         </div>
     </div>
     <br><br>
