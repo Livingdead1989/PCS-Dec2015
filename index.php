@@ -85,7 +85,7 @@
                     <!-- Image -->
                     <div>
                         <div>
-                            <img src="images/christmas/1.jpg" alt="Christmas at Park">
+                            <img src="images/christmas/1.png" alt="Christmas at Park">
                             
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                     <!-- Image -->
                     <div>
                         <div>
-                            <img src="images/christmas/2.jpg" alt="Christmas at Park">
+                            <img src="images/christmas/2.png" alt="Christmas at Park">
                         </div>
                     </div>
 
