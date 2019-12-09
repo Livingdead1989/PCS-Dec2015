@@ -85,7 +85,7 @@
                     <!-- Image -->
                     <div>
                         <div>
-                            <img src="images/news/catering/educatering.png" alt="Headteacher and Head Chef Accepting Award">
+                            <img src="images/christmas/1.jpg" alt="Christmas at Park">
                             
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                     <!-- Image -->
                     <div>
                         <div>
-                            <img src="images/news/persimmon_building_futures_award/persimmon_building_futures_award.jpg" alt="Business and Community Manager Accepting Award">
+                            <img src="images/christmas/2.jpg" alt="Christmas at Park">
                         </div>
                     </div>
 
