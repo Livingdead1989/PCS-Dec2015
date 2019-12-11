@@ -103,6 +103,7 @@
       	<img src="/images/employment/employment-01.jpg" alt="Park Community School - A happy place to be">
       </div>
       <div class="small-12 medium-7 columns">
+        <p>Park Community School is committed to equal opportunities for all students and staff, regardless of race, gender, age, physical disability, political, sexual orientation or religious affiliations or marital status, recognising the benefits that a diverse workforce brings to the School.</p>
         <p>Park Community School and Hampshire County Council are committed to safeguarding and promoting the welfare of children and young people and expect all staff and volunteers to share this commitment. We will ensure that all our recruitment and selection practices reflect this commitment.</p>
         <p>All successful candidates will be subject to satisfactory references and other relevant pre-employment checks including Disclosure and Barring Services (DBS) and medical clearance.</p>
         <p>View our Child Protection Policy on our <a href="/policies.php">policies page</a>.</p>
