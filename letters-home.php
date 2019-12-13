@@ -27,6 +27,11 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
             	<li>           	
+				  <ul class="circle">December 2019<hr>
+				  	<li><a href="/assets/letters/2019-12/reports_spring_term_attendance_uniform_key_dates_end_of_term.pdf" target="_blank">Reports, Spring term Attendance, Unifiorm, Key dates and End of Term</a></li>
+			  	  </ul>
+				</li>
+            	<li>           	
 				  <ul class="circle">November 2019<hr>
 				  	<li><a href="/assets/letters/2019-11/year_10_parents_evening.pdf" target="_blank">Year 10 Parents Evening</a></li>
 				  	<li><a href="/assets/letters/2019-11/federation_joint_statements.pdf" target="_blank">Federation Joint Statements</a></li>
