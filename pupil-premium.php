@@ -2,7 +2,7 @@
 <html class="no-js" lang="en" >
     <head>
 
-        <title>Park Community School | Pupil Premium</title>
+        <title>Park Community School | Pupil Premium and Catch-up Funding</title>
         <?php include("includes/head.html") ?>
     </head>
 <body class="page-school">
@@ -13,7 +13,7 @@
 <header class="header-school">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Pupil Premium</h1>
+            <h1>Pupil Premium and Catch-up Funding</h1>
             <p class="text-capitalize">How we put the money to good use</p>
         </div>
     </div>
