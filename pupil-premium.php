@@ -215,6 +215,52 @@
     <br><br>
 </section>
 
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
+    	<div class="columns">
+    		<h3>Catch-up Funding for Year 7 - 2018/2019</h3>
+
+			<p><strong>In 2018 – 2019 we received £20,068 funding for Year 7 students</strong></p>
+
+			<p>This money was used for:</p>
+
+			<ul>
+				<li>One to one reading, spelling and literacy intervention for 20 Year 7 students – with some students being in receipt of more than 1 round of intervention.</li> 
+				<li>Additional classroom support for one class (18 students).</li> 
+				<li>Reading Plus programme brought in for use with 44 students.</li>
+			</ul>
+
+			<p>In total more than 64 students benefitted from this intervention. The impact of this support was measured through: student and parent feedback, Year 7 progress data, reading and spelling data.</p>
+
+			<p>All students receiving intervention demonstrated improvement in their reading, language or spelling skills with the average gain at or above double ratio. Spelling and reading data collections demonstrated that this progress was maintained after the intervention therefore demonstrating the mastery of key skills enabling them to continue to make progress.</p>
+
+			<p>Parent and student feedback demonstrated positive increases regarding confidence and perception of ability alongside willingness to engage in additional learning outside of the classroom.</p>
+
+			<p><strong>In 2019 - 2020 we expect to receive a similar amount</strong></p> 
+
+			<p>This will be used to help these students secure and close gaps in their literacy and numeracy through small group intervention, 1 to 1 intervention, the Reading Plus programme and in class support.</p>
+
+    	</div>
+    </div>
+    <br><br><br>
+</section>
+
+<section>
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+    <div class="row">
+      <div class="large-12 columns">
+        
+        </div>
+      </div>
+    <br><br>
+</section>
+
 <!-- FOOTER -->
 <?php include("includes/footer.html") ?>
 
