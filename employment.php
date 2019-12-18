@@ -36,9 +36,18 @@
 				<span class="subheader">
 				<a href="assets/recruitment/#.pdf" target="_blank">Position Details</a>
 				</span>
-			</li>  -->
+			</li> 
+ -->
+			<!-- <br><span class="subheader">Please check back later.</span></li> -->
 
-			<br><span class="subheader">Please check back later.</span></li>
+			<li>
+				<h4>Teacher of English</h4>  
+				<p><em>Closing Date: 7th Jan 2020</em></p>
+
+				<span class="subheader">
+				<a href="assets/recruitment/english_teacher.pdf" target="_blank">Position Details</a>
+				</span>
+			</li>
 
             
           
