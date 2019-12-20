@@ -29,6 +29,11 @@
         <br><br>
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
             	<li>
+                    <ul class="circle">Spring 2020
+                      <li><a href="assets/assemblies/2020-spring/smsc1.pdf" target="_blank">Assembly Overview <small>SMSC1</small></a></li>
+                    </ul>
+                </li>
+            	<li>
                     <ul class="circle">Autumn 2019
                       <li><a href="assets/assemblies/2019-autumn/smsc1.pdf" target="_blank">Assembly Overview <small>SMSC1</small></a></li>
                     </ul>
