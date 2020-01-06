@@ -49,6 +49,15 @@
 				</span>
 			</li>
 
+			<li>
+				<h4>Receptionist Administrator</h4>  
+				<p><em>Closing Date: 15th Jan 2020</em></p>
+
+				<span class="subheader">
+				<a href="assets/recruitment/receptionist_administrator.pdf" target="_blank">Position Details</a>
+				</span>
+			</li>
+
             
           
 	      </ul>
