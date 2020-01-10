@@ -32,9 +32,9 @@
                 <iframe src="https://www.youtube-nocookie.com/embed/Z4nN1xSDCdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
-            <h3>Curriculum Overview 2018-19</h2>
-            <p>At Park Community School our curriculum prepares students for a long, successful and happy life. It is vital to us is that students leave secure in all subjects, particularly English and Maths. We ensure each student achieves their personal best. We prepare students to follow a career of their choice by studying a range of relevant subjects in recognised qualifications that leads to further study at college and university, whether academic or vocational.</p>
-            <p>Through the curriculum we seek opportunities to promote ‘joy, glee and delight’, in and out of lessons, and encourage the attitude that work should be finished with ‘polish and panache’ at all times. Our curriculum includes widening opportunities for learning through our smallholding, industrial unit, numerous trips in the UK and abroad. We ensure that the school environment, coupled with our high expectations, enhance wider learning about what it is to be a good citizen. Our pastoral approach and belief in the importance of each child means that personal development, understanding of our role as a citizen, democratic values, and the opportunities of the multicultural society that exists in Great Britain today are important parts of the rounded education we provide. Through the curriculum we continually seek opportunities to celebrate success and academic achievement.</p>
+            <h3>Curriculum Overview 2019-20</h2>
+            <p>At Park Community School our curriculum prepares students for a long, successful and happy life. It is vital to us is that students leave with a basic understanding of many subjects. English and Maths are the most important and we strive to ensure each student achieves their personal best. We prepare students to follow a career of their choice by studying a range of relevant subjects in recognised qualifications that lead to further study at college and university, whether academic or vocational. We are currently reviewing the point at which students choose thier GCSE option courses and the number of options students have at KS4.</p>
+            <p>Through the curriculum we seek opportunities to promote ‘joy, glee and delight’, in and out of lessons, and encourage the attitude that work should be finished with ‘polish and panache’ at all times. Our curriculum includes widening opportunities for learning through our smallholding, industrial unit, school kitchen, numerous trips in the UK and abroad. We ensure that the school environment, coupled with our high expectations, enhance wider learning about what it is to be a good citizen. Our pastoral approach and belief in the importance of each child means that personal development, understanding of our role as a citizen, democratic values, and the opportunities of the multicultural society that exists in Great Britain today are important parts of the rounded education we provide. Through the curriculum we continually seek opportunities to celebrate success and academic achievement.</p>
             <h4>Overview of the curriculum</h4>
             <ul class="accordion" data-accordion role="tablist">
 
@@ -46,8 +46,8 @@
                             <li>Cultural: Geography, History, RE, Spanish</li>
                             <li>The Arts: Art, Dance, Drama, Music</li>
                             <li>Design and Technology: Food and Design Technology</li>
-                            <li>IT opportunities are built in across our curriculum</li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
+                            <li>IT opportunities are built in across our curriculum and through Computer Science</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
                         </ul>
                     </div>
                 </li>
@@ -60,8 +60,8 @@
                             <li>Cultural: Geography, History, RE, Spanish, French</li>
                             <li>The Arts: Art, Dance, Drama, Music</li>
                             <li>Design and Technology: Food and Design Technology</li>
-                            <li>IT opportunities are built in across our curriculum</li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
+                            <li>IT opportunities are built in across our curriculum and through Computer Science</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
                         </ul>
                     </div>
                 </li>
@@ -71,11 +71,11 @@
                     <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
                         <ul>
                             <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
-                            <li>GCSE Combined Science or Physics, Biology and Chemistry</li>
+                            <li>GCSE Science</li>
                             <li>GCSE RE</li>
-                            <li>3 option courses</li>
+                            <li>4 option courses</li>
                             <li>Core PE </li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
                         </ul>
                     </div>
                 </li>
@@ -85,10 +85,10 @@
                     <div id="panel4d" class="content" role="tabpanel" aria-labelledby="panel4d-heading">
                         <ul>
                             <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
-                            <li>GCSE Combined Science or Physics, Biology and Chemistry</li>
-                            <li>2 or 3 option courses</li>
+                            <li>GCSE Science</li>
+                            <li>4 option courses</li>
                             <li>Core PE and RE</li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
                         </ul>
                     </div>
                 </li>
@@ -98,11 +98,10 @@
                     <div id="panel5d" class="content" role="tabpanel" aria-labelledby="panel5d-heading">
                         <ul>
                             <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
-                            <li>GCSE Combined Science or Physics, Biology and Chemistry</li>
-                            <li>2 or 3 option courses</li>
+                            <li>GCSE Science</li>
+                            <li>2 option courses</li>
                             <li>Core PE and RE</li>
-                            <li>BTEC Sport</li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year.</li>
+                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
                         </ul>
                     </div>
                 </li>
@@ -133,9 +132,7 @@
                 <li>Spanish</li>
             </ul>
 
-            <h4>Year 8 Options</h4>
-            <p>At the start of Year 8, students get the chance to target their education through their options. Please take time to view the options that were available to our current Year 9s to select from at the end of Year 8.</p>
-            <p><a href="/assets/curriculum/options_booklet.pdf" target="_blank">Booklet - Courses for Years 9, 10 and 11 (2017-2020)</a></p>
+            <p><a href="/assets/curriculum/options_booklet.pdf" target="_blank">Booklet - Courses for Years 9, 10 and 11 (2019-2020)</a></p>
             <br>
         </div>
 
