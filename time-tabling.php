@@ -29,6 +29,8 @@
                 <li><a href="/assets/timetabling/school-calendar.pdf" target="_blank">Important Dates - <br>School Calendar</a></li>
                 <br>
                 <li><a href="/assets/timetabling/school-day-2019_2020.pdf" target="_blank">The School Day - <br>Shape of the Day 2019-2020</a></li>
+                <br>
+                <li><a href="/assets/timetabling/jan-mocks.pdf" target="_blank">January Mock Timetable</a></li>
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Available in downloadable and printable PDF format.</small></h5>
         </div>
