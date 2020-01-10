@@ -22,7 +22,7 @@
                 <br>
                 <div class="columns">
                     
-                    <h2>Assessment and Reporting 2018</h2>
+                    <h2>Assessment and Reporting 2019-20</h2>
                     <p>At Park Community School we assess your child regularly in lessons to allow us to monitor their progress in relation to what we would expect them to achieve. We then adjust our lesson planning or implement interventions to ensure they are making suitable progress.</p>
                     <br>
                     <h3>There will be two Student Review Days per year</h3>
@@ -32,7 +32,7 @@
                     <p>The traditional Parents’ Evening is your opportunity to discuss your child’s progress with their subject teachers.</p>
                     <p>We also hold additional evenings for parents on specific topics such as how to support your child to achieve success in their examination courses. These evenings usually include a combination of presentations and master-classes.</p>
                     <br>
-                    <h3>We will report home to parents five times a year.</h3>
+                    <h3>We will report home to parents three times a year.</h3>
                     <p>Once a year there will be a full written report which gives an overview from each subject teacher including: a) what has been studied b) how well your son/daughter is doing and c) what they need to do to make further progress.</p>
                     <p>Each other reporting session will be a data report which will include the following information:</p>
                     <ul>

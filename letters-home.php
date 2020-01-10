@@ -101,38 +101,6 @@
 				  	<li><a href="/assets/letters/2019-01/mobile_phones.pdf" target="_blank">Mobile Phones in School</a></li>
 				  </ul>
 				</li>
-            	<li>           	
-				  <ul class="circle">December 2018<hr>
-				  	<li><a href="/assets/letters/2018-12/reports_parkpost_mocktts_ccbooklet_keydates.pdf" target="_blank">Reports, Park Post, Mock TTs, CC booklet & Key Dates</a></li>
-				  </ul>
-				</li>
-            	<li>           	
-				  <ul class="circle">November 2018<hr>
-				  	<li><a href="/assets/letters/2018-11/parent-governors.pdf" target="_blank">Parent Governors</a></li>
-				  </ul>
-				</li>
-            	<li>           	
-				  <ul class="circle">October 2018<hr>
-				  	<li><a href="/assets/letters/2018-10/reports_y7_y11_parentsevening_keydates.pdf" target="_blank">Reports, Year 7 &amp; 11 Parents Evening and Keydates</a></li>
-				  	<li><a href="/assets/letters/2018-10/wex.pdf" target="_blank">WEX placements</a></li>
-				  </ul>
-				</li>
-            	<li>           	
-				  <ul class="circle">July 2018<hr>
-				  	<li><a href="/assets/letters/2018-07/end_and_start_of_academic_year.pdf" target="_blank">End &amp; Start of Academic Year</a></li>
-				  </ul>
-				</li>
-				<li>           	
-				  <ul class="circle">April 2018<hr>
-				  	<li><a href="/assets/letters/2018-04/assessment_reports_park_post_yr11_and_10_gcse_exams_summer_uniform.pdf" target="_blank">Assessment Reports, GCSE Exams &amp; Summer Uniform</a></li>
-				  </ul>
-				</li>
-            	<li>           	
-				  <ul class="circle">March 2018<hr>
-				  	<li><a href="/assets/letters/2018-03/yr11_parentevening.pdf" target="_blank">Year 11 Parent's Evening</a></li>
-				  </ul>
-				</li>
-
             </ul>
             <h5 class="subheader text-capitalize text-center"><small>Can't see what you're looking for please ask at <a href="/contact.php">the school reception</a>.</small></h5>
         </div>

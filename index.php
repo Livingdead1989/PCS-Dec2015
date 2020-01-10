@@ -22,10 +22,8 @@
             <p><em>&#8220;<!-- The headteacher’s vision is to create ‘more than just a school’  -->by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life.<!--  This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain. -->&#8221; - </em>Ofsted January 2017</p>
             
             <div class="small-text-center large-text-right">
-                <a class="small button expand radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
-                <!-- <a class="small button radius success" href="assets/prospectus.pdf">Our Prospectus</a>
-                <a class="small button radius success" href="https://vimeo.com/user91428383" target="_blank">Films</a>
-                <a class="small button radius success" href="assets/statutory/ofsted-report-2017.pdf" target="_blank">Ofsted Report</a> -->
+                <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
+                <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a>
             </div>
 
 
