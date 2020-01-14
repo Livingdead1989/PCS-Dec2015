@@ -174,6 +174,20 @@
               </div>
             </li>
             <!-- /MATHS -->
+            <!-- TECHNOLOGY -->
+            <li class="accordion-navigation">
+              <a href="#panel-tech" role="tab" id="panel-tech-heading" aria-controls="panel-tech">Maths</a>
+              <div id="panel-tech" class="content active" role="tabpanel" aria-labelledby="panel-tech-heading">
+                Technology Revision Resources:
+
+                <ul>
+                  <li><a href="/assets/homework/technology/technology-exam-8-week-revision.pdf">8 Week Revision Plan <small>(PDF)</small></a></li>
+                  <li><a href="/assets/homework/technologytechnology-exam-prep.pdf">Exam Preperation <small>(PDF)</small></a></li>
+                  <li><a href="/assets/homework/technology/technology-exam-support.pdf">Exam Support <small>(PDF)</small></a></li>
+                </ul>
+              </div>
+            </li>
+            <!-- /MATHS -->
           </ul>
           
 
