@@ -176,7 +176,7 @@
             <!-- /MATHS -->
             <!-- TECHNOLOGY -->
             <li class="accordion-navigation">
-              <a href="#panel-tech" role="tab" id="panel-tech-heading" aria-controls="panel-tech">Maths</a>
+              <a href="#panel-tech" role="tab" id="panel-tech-heading" aria-controls="panel-tech">Technology</a>
               <div id="panel-tech" class="content active" role="tabpanel" aria-labelledby="panel-tech-heading">
                 Technology Revision Resources:
 
