@@ -100,9 +100,7 @@
             <li><a href="assets/homework/revision_guides.pdf" target="_blank">Revision Guides</a> <small>(PDF)</small></li>
             <li><a href="assets/homework/yr9_revision_booklet.pdf" target="_blank">Year 9 Revision Booklet</a> <small>(PDF)</small></li>
             <li><a href="/assets/homework/pixl_revisit.pdf">PiXL Revisit Handbook</a></li>
-            <li><a href="/assets/homework/computer-science-paper-1-revision.pdf">Computer Science Revision Paper 1</a></li>
-            <li><a href="/assets/homework/computer-science-paper-2-revision.pdf">Computer Science Revision Paper 2</a></li>
-          </ul>
+            </ul>
         </div>
 
         <div class="medium-pull-0 medium-offset-0 medium-5 columns">
@@ -144,6 +142,19 @@
               </div>
             </li>
             <!-- /SCIENCE -->
+            <!-- COMPUTER SCIENCE -->
+            <li class="accordion-navigation">
+              <a href="#panel-cscience" role="tab" id="panel-cscience-heading" aria-controls="panel-cscience">Computer Science</a>
+              <div id="panel-cscience" class="content active" role="tabpanel" aria-labelledby="panel-cscience-heading">
+                Computer Science Homework Resources:
+
+                <ul>
+                  <li><a href="/assets/homework/computer-science-paper-1-revision.pdf">Computer Science Revision Paper 1 <small>(PDF)</small></a></li>
+                  <li><a href="/assets/homework/computer-science-paper-2-revision.pdf">Computer Science Revision Paper 2 <small>(PDF)</small></a></li>
+                </ul>
+              </div>
+            </li>
+            <!-- /COMPUTER SCIENCE -->
           </ul>
           
 
