@@ -100,6 +100,8 @@
             <li><a href="assets/homework/revision_guides.pdf" target="_blank">Revision Guides</a> <small>(PDF)</small></li>
             <li><a href="assets/homework/yr9_revision_booklet.pdf" target="_blank">Year 9 Revision Booklet</a> <small>(PDF)</small></li>
             <li><a href="/assets/homework/pixl_revisit.pdf">PiXL Revisit Handbook</a></li>
+            <li><a href="/assets/homework/computer-science-paper-1-revision.pdf">Computer Science Revision Paper 1</a></li>
+            <li><a href="/assets/homework/computer-science-paper-2-revision.pdf">Computer Science Revision Paper 2</a></li>
           </ul>
         </div>
 
