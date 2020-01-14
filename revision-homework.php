@@ -155,6 +155,25 @@
               </div>
             </li>
             <!-- /COMPUTER SCIENCE -->
+            <!-- MATHS -->
+            <li class="accordion-navigation">
+              <a href="#panel-maths" role="tab" id="panel-maths-heading" aria-controls="panel-maths">Maths</a>
+              <div id="panel-maths" class="content active" role="tabpanel" aria-labelledby="panel-maths-heading">
+                Maths Homework Resources:
+
+                <ul>
+                  <li><a href="https://www.mymaths.co.uk/secondary.html">My Maths <small>(WEB)</small></a></li>
+                  <li><a href="https://corbettmaths.com/contents/">Corbett Maths <small>(WEB)</small></a></li>
+                </ul>
+                Maths Revision Resources:
+
+                <ul>
+                  <li><a href="https://www.youtube.com/channel/UChtsYbgvLf9Ac0b1GnZ_1lw">Murphy's Maths <small>(WEB)</small></a></li>
+                  <li><a href="https://www.onmaths.com/">Exam Practice and Support <small>(WEB)</small></a></li>
+                </ul>
+              </div>
+            </li>
+            <!-- /MATHS -->
           </ul>
           
 
