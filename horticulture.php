@@ -36,10 +36,10 @@
 
 
             <h3>Exam Board</h3>
-            <p>Royal Horticultural Society (RHS) or Edexcel pending RHS validation.</p>
+            <p>Royal Horticultural Society City & Guilds.</p>
 
             <h3>Type of Qualification</h3>
-            <p>RHS Level 1 Award in Practical Horticulture (or GCSE)</p>
+            <p>City & Guilds Level 1 & 2 Award in Practical Horticulture (or GCSE)</p>
             
             <h3>Areas of Study</h3>
             <ul class="circle">
@@ -52,10 +52,10 @@
             </ul>
             
             <h3>Assessment</h3>
-            <p>Assessment is by means of a range of practical activities timetabled and assessed based on the RHS success criteria.</p>
+            <p>Assessment is by means of a range of practical activities timetabled and assessed based on the City & Guilds success criteria.</p>
 
             <h3>Further study and Career opportunities</h3>
-            <p>The RHS Level 1 Award in Practical Horticulture qualification has been approved within the Qualifications and Credit Framework. As part of the Foundation Learning tier this qualification provides a new and flexible learning programme for young people working at level 1. It helps learners develop their horticultural potential and prepares them to progress towards level 2 qualifications offered by RHS Qualifications and other awarding organisations.</p>
+            <p>The City & Guilds Level 1 Award in Practical Horticulture qualification has been approved within the Qualifications and Credit Framework. As part of the Foundation Learning tier this qualification provides a new and flexible learning programme for young people working at level 1. It helps learners develop their horticultural potential and prepares them to progress towards level 2 qualifications offered by City & Guilds Qualifications and other awarding organisations.</p>
             
             <h3>Careers</h3>
             <p>The horticultural industry is one of the largest employers in the UK. A career in horticulture could mean anything from a hands-on gardener to a research scientist. There are many, many opportunities out there.</p>
