@@ -33,6 +33,18 @@
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
           <br>
               <ul class="pricing-table">
+                <li class="title"><img class="fixed-size-100" src="images/logo/pars.png" alt="TASC - PARS"><br>PARS</li>
+                <li class="bullet-item">Restricted Area</li>
+
+                <li class="cta-button">
+                  <a class="button radius" href="//pars.pcs.hants.sch.uk/pars" target="_blank">Open</a>
+                </li>
+              </ul>
+          <br>
+        </div>
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
+          <br>
+              <ul class="pricing-table">
                 <li class="title"><img class="fixed-size-100" src="images/logo/insight.png" alt="TASC - Insight"><br>Insight</li>
                 <li class="bullet-item">Homework</li>
                 <li class="bullet-item">Achievements</li>
