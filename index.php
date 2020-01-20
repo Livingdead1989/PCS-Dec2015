@@ -24,7 +24,7 @@
             <div class="small-text-center large-text-right">
                 <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
                 <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a>
-                <a class="small button radius success" href="assets/park-post.pdf">Park Post</a>
+                <a class="small button radius success" href="assets/park-post.pdf" target="_blank">Park Post</a>
             </div>
 
 
