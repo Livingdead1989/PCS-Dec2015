@@ -52,6 +52,25 @@
               </div> -->
 <!--                  Event box --> 
 
+<!--                    Event Box  -->
+               <div class="event-wrap feature-event sticky-event">
+                <div class="date-wrap">
+                  <p class="event-date">Thursday</p>
+                  <p class="event-time">18:00-20:00</p>
+                </div>
+                <h2 class="event-title">Cook and Create</h2>
+                <p class="event-subheader">Every Thursday for 6 Weeks</p>
+                <p class="event-description">The course at Park Community School is totally free and for anyone needing a little cooking inspiration.</p>
+                <div class="link-wrap">
+                  <a href="/assets/events/cook-and-create.pdf" target="_blank" class="button success radius">Read More...</a>
+                </div>
+                <div class="bottom-wrap">
+                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
+                  <div class="cost-wrap">Free</div>
+                </div>
+              </div>
+
+
 
 <!--                  Event Box -->
               <div class="event-wrap">
@@ -109,45 +128,6 @@
                 </div>
               </div>
 <!--                  Event box -->
-
-<!--                    Event Box  -->
-              <div class="event-wrap">
-                <div class="date-wrap">
-                  <p class="event-date">2nd December</p>
-                  <p class="event-time">15:45 - 16:15</p>
-                </div>
-                <h2 class="event-title">Christmas Light Switch On</h2>
-                <p class="event-subheader">Turning on of the Christmas lights</p>
-                <p class="event-description">This will be an event for the whole family to enjoy. Please join in with our school choir around the tree and enjoy hot chocolate and marshmallows, mulled wine and mince pies.</p>
-                <div class="link-wrap">
-                  <a href="/assets/events/christmas_light.pdf" target="_blank" class="button success radius">View our flyer...</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box --> 
-
-
-<!--                    Event Box  -->
-              <div class="event-wrap feature-event sticky-event">
-                <div class="date-wrap">
-                  <p class="event-date">25th Dec</p>
-                  <p class="event-time">11:00-16:00</p>
-                </div>
-                <h2 class="event-title">Christmas Day</h2>
-                <p class="event-subheader">MUNCH</p>
-                <p class="event-description">Park Community's MUNCH team invite you to join them for a traditional Christmas lunch.</p>
-                <div class="link-wrap">
-                  <a href="/assets/events/munch_christmas.pdf" target="_blank" class="button success radius">View our flyer...</a>
-                </div>
-                <div class="bottom-wrap">
-                  <div class="location-wrap"><a href="https://www.google.com/maps/place/Park+Community+School/@50.8727033,-0.986906,14z/data=!4m5!3m4!1s0x487444917f5df9f1:0x1e05d50144e0a88a!8m2!3d50.87005!4d-1.001233" target="_blank">Park Community School</a></div>
-                  <div class="cost-wrap">Free</div>
-                </div>
-              </div>
-<!--                  Event box --> 
 
             </div>
               
