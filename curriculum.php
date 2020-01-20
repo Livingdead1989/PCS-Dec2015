@@ -46,8 +46,9 @@ R0r<!doctype html>
                             <li>Cultural: Geography, History, RE, Spanish</li>
                             <li>The Arts: Art, Dance, Drama, Music</li>
                             <li>Design and Technology: Food and Design Technology</li>
+                            <li>Much More Than...: Students go to visit our small holding, participate in an enterprise project at our print business <a href="../design-print.php" target="_blank">(PDP)</a> and develop culinary skills in our school <a href="../catering.php" target="_blank">kitchen.</a></li>
                             <li>IT opportunities are built in across our curriculum and through Computer Science</li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
+                            <li>SMSC: including mentoring and personal development.</li>
                         </ul>
                     </div>
                 </li>
@@ -60,8 +61,9 @@ R0r<!doctype html>
                             <li>Cultural: Geography, History, RE, Spanish, French</li>
                             <li>The Arts: Art, Dance, Drama, Music</li>
                             <li>Design and Technology: Food and Design Technology</li>
+                            <li>Much More Than...: Students go to visit our small holding, learn about and apply constuction skills in our <a href="../apex-centre.php" target="_blank">Apex Centre</a> and develop catering skills in our school <a href="../catering.php" target="_blank">kitchen.</a></li>
                             <li>IT opportunities are built in across our curriculum and through Computer Science</li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
+                            <li>SMSC: including mentoring and personal development.</li>
                         </ul>
                     </div>
                 </li>
@@ -70,12 +72,12 @@ R0r<!doctype html>
                     <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Year 9</a>
                     <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
                         <ul>
-                            <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
-                            <li>GCSE Science</li>
-                            <li>GCSE RE</li>
-                            <li>4 option courses</li>
-                            <li>Core PE </li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
+                            <li>English Language and English Literature, Maths</li>
+                            <li>Science</li>
+                            <li>RE</li>
+                            <li>PE </li>
+                            <li>4 subjects from the following: Art, Business Studies, Computer Science, Construction, Dance, Drama, Graphics, Horticulture, Food and Nutrition, Geography, History, Media Studies, Music, Photography, PE, Psychology, Resistant Materials, Spanish</li>
+                            <li>SMSC: including mentoring and personal development.</li>
                         </ul>
                     </div>
                 </li>
@@ -84,11 +86,11 @@ R0r<!doctype html>
                     <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 10</a>
                     <div id="panel4d" class="content" role="tabpanel" aria-labelledby="panel4d-heading">
                         <ul>
-                            <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
-                            <li>GCSE Science</li>
-                            <li>4 option courses</li>
+                            <li>English Language and English Literature, Maths</li>
+                            <li>Science</li>
                             <li>Core PE and RE</li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
+                            <li>4 subjects from the following: Art, Computer Science, Construction, Dance, Drama, Graphics, Horticulture, Food and Nutrition, Geography, History, Media Studies, Music, Photography, PE,  Resistant Materials, RS, Spanish</li>
+                            <li>SMSC: including mentoring and personal development.</li>
                         </ul>
                     </div>
                 </li>
@@ -97,40 +99,17 @@ R0r<!doctype html>
                     <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 11</a>
                     <div id="panel5d" class="content" role="tabpanel" aria-labelledby="panel5d-heading">
                         <ul>
-                            <li>GCSE Subject lessons in English Language and English Literature, Maths</li>
-                            <li>GCSE Science</li>
-                            <li>2 option courses</li>
+                            <li>English Language and English Literature, Maths</li>
+                            <li>Science</li>
                             <li>Core PE and RE</li>
-                            <li>SMSC: Including mentoring, Personal Development and Character Building are covered at regular points through the year and in a weekly lesson.</li>
+                            <li>2 subjects from the following: Art, Dance, Food and Nutrition, Geography, History, Music, Photography, PE, Resistant Materials, Spanish</li>
+                            <li>SMSC: including mentoring and personal development.</li>
                         </ul>
                     </div>
                 </li>
 
             </ul>
             <br>
-            <h4>Option choices offered include<br>
-            <small>Most courses are GCSE.</small></h4>
-
-            <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-4">
-                <li>Art</li>
-                <li>Computer Science</li>
-                <li>Construction</li>
-                <li>Dance</li>
-                <li>Drama</li>
-                <li>Graphics</li>
-                <li>Horticulture</li>
-                <li>Food and Nutrition</li>
-                <li>French</li>
-                <li>Geography</li>
-                <li>History</li>
-                <li>Media Studies</li>
-                <li>Music</li>
-                <li>Photography</li>
-                <li>PE</li>
-                <li>Psychology</li>
-                <li>Resistant Materials</li>
-                <li>Spanish</li>
-            </ul>
 
             <p><a href="/assets/curriculum/options_booklet.pdf" target="_blank">Booklet - Courses for Years 9, 10 and 11 (2019-2020)</a></p>
             <br>

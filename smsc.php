@@ -58,6 +58,14 @@
             
             <p><strong>Mentoring</strong> – Mentors have a specific slot during the Tuesday amphitheatre time where they mentor students on a one to one basis. These sessions will focus on academic achievement and progress as well as community and extra-curricular involvement. It is an essential part of life at Park as we believe that good solid relationships should be forged between at least one adult and student in their time at school. This means that they always feel safe and supported in the school environment. Mentors also have opportunities to meet for one to one sessions with students and their parents at the two Student Review Days held at the start of each academic year and at the mid-point in February.</p>
             
+            <p><strong>Personal Development</strong> – In these daily lessons students work with their mentors. The sessions are divided into 3 types:</p>
+
+            <ol>
+                <li>Reading – Monday to Thursday A programme for each year group will cover the key areas of reading aloud, reading in your head and being read to.  Students will explore a range of texts from reading lists designed to develop cultural capital as well as selecting their own reading material from the library.  Students will develop their active reading skills through the completion of a reading journal.</li>
+                <li>Mentor maths – a weekly class quiz covering different elements of maths – focussing on practising mathematical fluency.</li>
+                <li>Personal Development [SMSC] – this is a slightly longer weekly discussion-based session. Here students cover issues related to Britishness and Culture [including Citizenship], Careers and Enterprise, Health and Well-being, Relationships and Sex Education.</li>
+            </ol>
+
             <p><strong>Challenge days</strong> – Challenge days are whole days off curriculum where students learn and take part in activities that are over and above their normal working day; working on SMSC topics in greater depth. The topics covered include Britishness, tolerance, relationships education, citizenship, making informed choices with regards alcohol and drugs as well as making good career choices. Challenge days are often supported by outside speakers with specialist knowledge and/or real-life experiences in the fields that they are exploring. The days provide invaluable opportunities for students to work outside of their normal comfort zones, which helps to develop their confidence.</p>
             
             <p><strong>Student Voice</strong> - Weekly meetings with the Student Voice Committee and monthly whole school representation gives all students the opportunity to have a voice on subjects that they feel strongly about whether in school or the wider community society. All students opinions matter and we endeavour to be non-judgemental and the chance for students to feel heard and action to be taken as a result.</p>
@@ -100,15 +108,6 @@
             <p>Agreed Syllabus, ‘Living Difference’, for Hampshire, Portsmouth and Southampton</p>
             
             <p>The purpose of RS at Park is therefore to promote students’ spiritual, moral, social and cultural development through an awareness and appreciation of diversity and difference of beliefs and values, cultures and societies within the UK and the wider world. As part of this students are offered the chance to respond and in so doing develop their own sense of self and place in the local, national and global community. In key stage 4 RS will lead to a ½ GCSE qualification.</p>
-
-            <p><strong>Personal Development</strong> – In these daily lessons students work with their mentors. The sessions are divided into 3 types:</p>
-
-            <ol>
-                <li>Reading – Monday to Thursday A programme for each year group will cover the key areas of reading aloud, reading in your head and being read to.  Students will explore a range of texts from reading lists designed to develop cultural capital as well as selecting their own reading material from the library.  Students will develop their active reading skills through the completion of a reading journal.</li>
-                <li>Mentor maths – a weekly class quiz covering different elements of maths – focussing on practising mathematical fluency.</li>
-                <li>Personal Development [SMSC] – this is a slightly longer weekly discussion-based session. Here students cover issues related to Britishness and Culture [including Citizenship], Careers and Enterprise, Health and Well-being, Relationships and Sex Education.</li>
-            </ol>
-
 
             <h4>SMSC Implementation Map</h4>
             <p><a href="assets/curriculum/smsc.pdf">Our SMSC curriculum</a>.</p>
