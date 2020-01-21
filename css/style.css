@@ -462,6 +462,10 @@ header h1, header h3, header p {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
 }
+#site-footer .footer-awards .flex-wrapper .flex-center {
+  justify-content: center;
+}
+
 #site-footer .flex-wrapper a{
     margin: 5px;
 }
