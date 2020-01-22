@@ -34,7 +34,7 @@
             <h3>Purpose</h3>
             <p>Why should you learn a foreign language?  Well -  <em>60% of British employers look for candidates who can speak a foreign language as well as English</em>.</p>
             <p>Whether working on the shop floor dealing with foreign customers, in the port with travellers from Europe, in the transport industry with goods and people from abroad, in the tourist industry travelling or needing to check facilities overseas for your clients, in the building industry sourcing materials or seeking contracts from around the world, in the legal system or in banking, the likelihood is that someone who can make themselves understood and can understand a second language will be more useful than someone who can only speak English.</p>
-            <p>Sometimes it is the skills involved in learning the language that matter rather than the language itself.  We teach French because it is the one with the most links to this part of England and is the nearest to us geographically so we can visit it fairly easily, and Spanish because many of our families holiday in Spain.  Your child will probably not have a choice in Year 7 which language he/she learns but will be given the opportunity to choose whether to switch to the other language or continue with the one they started with. Whichever language is being studied he/she is still learning to listen carefully, develop the confidence to have a go even if not correct, communicate with others, notice patterns, understand consequences, value the need for accuracy, and appreciate cultural differences. Learning a foreign language also reinforces basic literacy skills in English. These are all skills which employers actively look for. </p>
+            <p>Sometimes it is the skills involved in learning the language that matter rather than the language itself.  We teach Spanish because many of our families holiday in Spain.  Your child will probably not have a choice in Year 7 which language he/she learns but will be given the opportunity to choose whether to switch to the other language or continue with the one they started with. Whichever language is being studied he/she is still learning to listen carefully, develop the confidence to have a go even if not correct, communicate with others, notice patterns, understand consequences, value the need for accuracy, and appreciate cultural differences. Learning a foreign language also reinforces basic literacy skills in English. These are all skills which employers actively look for. </p>
             <p>Learning a foreign language gives you keys to new opportunities.</p>
 
             <h3>Aims</h3>
@@ -51,7 +51,7 @@
                     <ul>
                         <li>become more confident, showing a greater willingness to persevere.</li>
                         <li>work independently towards a self-determined goal.</li>
-                        <li>are excited by the opportunity of continuing with a foreign language  (French +/or Spanish) into KS4 for a recognised, accredited qualification and who strive to achieve higher results.</li>
+                        <li>are excited by the opportunity of continuing with a foreign language  into KS4 for a recognised, accredited qualification and who strive to achieve higher results.</li>
                     </ul>
                 </li>
             </ul>
@@ -76,7 +76,7 @@
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
-                            <li>Communicating in simple French i.e.</li>
+                            <li>Communicating</li>
                             <li>Listening and speaking.</li>
                             <li>Reading and writing.</li>
                             <li>Intercultural understanding.</li>
@@ -96,8 +96,7 @@
                         <ul class="circle">
                             <li>Consolidation of basics.</li>
                             <li>World War 1 (joint project with History).</li>
-                            <li>French for business.</li>
-                            <li>Life in other French-speaking countries.</li>
+                            <li>Life in other countries.</li>
                             <li>Healthy lifestyle – food, fitness etc.</li>
                             <li>I’m a celebrity – pupil choice.</li>
                         </ul>
@@ -127,7 +126,7 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Year 9 - GCSE - French and Spanish</a>
+                    <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Year 9 - GCSE - Spanish</a>
                     <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
 
@@ -188,11 +187,11 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 10 - GCSE - French and Spanish</a>
+                    <a href="#panel4d" role="tab" id="panel4d-heading" aria-controls="panel4d">Year 10 - GCSE - Spanish</a>
                     <div id="panel4d" class="content" role="tabpanel" aria-labelledby="panel4d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
-                            <li>French in the world of work
+                            <li>In the world of work
                                 <ul>
                                     <li>Personal ID</li>
                                     <li>Making reservations for travel</li>
@@ -206,7 +205,7 @@
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
-                            <li>Understanding, speaking, reading and writing French</li>
+                            <li>Understanding, speaking, reading and writing</li>
                             <li>Knowledge about language</li>
                             <li>Organisation skills</li>
                             <li>Self-evaluation</li>
@@ -215,11 +214,11 @@
                 </li>
 
                 <li class="accordion-navigation">
-                    <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 11 - GCSE - French and Spanish</a>
+                    <a href="#panel5d" role="tab" id="panel5d-heading" aria-controls="panel5d">Year 11 - GCSE - Spanish</a>
                     <div id="panel5d" class="content" role="tabpanel" aria-labelledby="panel5d-heading">
                         <p class="text-capitalize">Main topics students study:</p>
                         <ul class="circle">
-                            <li>French in the world of work
+                            <li>In the world of work
                                 <ul>
                                     <li>Personal ID</li>
                                     <li>Making reservations for travel</li>
@@ -233,7 +232,7 @@
                         <br>
                         <p class="text-capitalize">Main skills students develop:</p>
                         <ul class="circle">
-                            <li>Understanding, speaking, reading and writing French</li>
+                            <li>Understanding, speaking, reading and writing</li>
                             <li>Knowledge about language</li>
                             <li>Organisation skills</li>
                             <li>Self-evaluation</li>
