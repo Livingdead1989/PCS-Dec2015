@@ -90,6 +90,8 @@
                     <img src="images/schoolmeals/crossandmoody.png" alt="Cross and Moody brand logo">
                 </div>
                 <br>
+                <hr>
+                <br>
             </div>
             <div class="row">
                 <div class="medium-8 columns">
@@ -306,8 +308,7 @@
                    <p>Our award winning in-house chef led catering team prides itself on producing food that is appealing to a range of audiences, meets statuary guidelines and is sourced in the best way possible. We can provide:</p>
 
                    <ul>
-                        <li>Award winning</li>
-                        <li>Chef led catering</li>
+                        <li>Award winning Chef led catering</li>
                         <li>Consultancy and support services</li>
                         <li>Advice on the re-branding of your provision and, if necessary, create this with you.</li>
                         <li>Work with your business manager to set up new suppliers</li>
