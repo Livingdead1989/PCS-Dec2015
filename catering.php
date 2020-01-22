@@ -28,13 +28,19 @@
                     <p>On joining Park Community School, Steven’s focus was to redefine school meals and ensure all our students got a healthy well balanced meal throughout the school day. Steven worked tirelessly to set up Park Catering Services and he is proud to say that good food for all has successfully been embedded within the school’s ethos.</p>
                     <p>Steven runs the school farm growing a large percentage of our own fruit and vegetables which are used within the school kitchens.  We have also reared more than 80 pigs on the farm, the meat from which has been used for school lunches.  Steven has been instrumental in forging links with local food producers to increase our organic produce usage.</p>
                     <p>Looking to the future, Steven is now developing Park Catering Services to help our students and community to understand how to grow their own food, food processes and benefits of a healthy nutritious diet.</p>
+
+                    <br>
+
+                    <a class="button radius success expand" href="#parkcatering">Park Catering Service</a>
+
+                    <br>
                 </div>
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
                     <img src="images/schoolmeals/schoolmeals-01.jpg" alt="Our Head Chief, Hard at Work">
                     <br><br>
                     <a href="/assets/schoolmeals/menu.pdf" target="_blank">
                         <img class="border-grey-radius" src="images/schoolmeals/menu.jpg" alt="Park Community School Kitchen - The Watering Hole Menu">
-                        <p class="text-center">Menu 2018-2019</p>
+                        <p class="text-center">Sample Menu</p>
                     </a>
                     <a href="/assets/schoolmeals/educatering.pdf" target="_blank">
                         <img class="border-grey-radius" src="images/schoolmeals/educatering.jpg" alt="Educatering">
@@ -51,13 +57,22 @@
             </div>
             <div class="row">
                 <div class="medium-push-4 medium-8 columns">
-                    <h4>LACA Award</h4>
+                    <h4>LACA Award 2019</h4>
+                    <p>Park Community School we are very proud to say that Steven Cross our Head chef has won the 2019 LACA School Chef of the Year.</p>
+                    <p>Steven progressed through Regional and National finals seeing off thousands of other school caterers and be crown overall champion.</p>
+                    <p>Entrants have 90 minutes to prepare, cook and serve an imaginative, school compliant two course menu including a minimum of one different McDougalls product in each course, suitable for serving to 11 year old pupils, primary year 6 or secondary year 7.</p>
+
+                    <hr>
+
+                    <h4>LACA Award 2018</h4>
                     <p>Park Community School have made the finals of this prestigious awards for 2018</p>
                     <p>Every year the LACA Awards for Excellence acknowledge individuals and teams of people who continue to make a real difference in education catering. Good management, strong performances and high achievements deserve to be recognised at any time. Acknowledgement of effort is particularly important to not only reward but sustain motivation.</p>
-                    <p>There are 11 awards this year, including a new category for 2018, the LACA Apprentice/Trainee Award.</p>
-                    <p><a href="//laca.co.uk/laca-awards-excellence" target="_blank">LACA awards</a></p>
                 </div>
-                <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/laca_awards.jpg" alt="Educatering - Much More than just a School"></div>
+                <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns">
+                    <!-- <img src="images/schoolmeals/laca_awards_2019.jpg" alt="LACA - Much More than just a School">
+                    <br> -->
+                    <img src="images/schoolmeals/laca_awards.jpg" alt="LACA - Much More than just a School">
+                </div>
             </div>
             <br><br>
             <?php include ("includes/backtotop.html") ?>
@@ -68,6 +83,17 @@
             </div>
             <div class="row">
                 <div class="medium-8 columns">
+                    <h3>Cross&amp;Moody | <small>Our Brands</small></h3>
+                    <p>These brand favourites have been developed by our award winning chefs Steven Cross and Alex Moody. All product used are of the best quality always try to use local seasonal organic produce.</p>
+                </div>
+                <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
+                    <img src="images/schoolmeals/crossandmoody.png" alt="Cross and Moody brand logo">
+                </div>
+            </div>
+            <div class="row">
+                <div class="medium-8 columns">
+                    <h3>Cross&amp;Moody | <small>Our Brands</small></h3>
+                    <p>These brand favourites have been developed by our award winning chefs Steven Cross and Alex Moody. All product used are of the best quality always try to use local seasonal organic produce.</p>
                     <h4>Park Porkies</h4>
                     <p>Park Community School have developed its own Pork based products which are now used in school and sold to external customers.</p>
                     <ul class="circle">
@@ -142,7 +168,7 @@
             <div class="row">
                 <div class="columns">
                     <h4>Educatering Excellence Award 2019 - Winner</h4>
-                    <p>Secondary School Caterer of the Year</p>
+                    <p>Social and Good Award</p>
 
                     <h4>Educatering Excellence Award 2018 - Winner</h4>
                     <p>Secondary School Caterer of the Year</p>
@@ -274,6 +300,48 @@
             <div class="row">
                 <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
             </div>
+            <div class="row" id="parkcatering">
+               <h3>Park Catering Service</h3> 
+               <p>Our award winning in-house chef led catering team prides itself on producing food that is appealing to a range of audiences, meets statuary guidelines and is sourced in the best way possible. We can provide:</p>
+
+               <ul>
+                    <li>Award winning</li>
+                    <li>Chef led caterin</li>
+                    <li>Consultancy and support services</li>
+                    <li>Advice on the re-branding of your provision and, if necessary, create this with you.</li>
+                    <li>Work with your business manager to set up new suppliers</li>
+                    <li>Contact your local Environmental Health team and set the school up with them</li>
+                    <li>Train all your kitchen colleagues</li>
+                    <li>Work with your chef during the first weeks of service</li>
+                    <li>Provide menu packs</li>
+                    <li>Provide ongoing telephone and support visits throughout the year</li>
+                    <li>Event catering</li>
+                    <li>Function catering</li>
+               </ul>
+
+               <p>If you would like to know more about how we can support you, please contact our Catering team at <script type="text/javascript">document.write('<'+'a'+' '+'h'+'r'+'e'+'f'+'='+"'"+'m'+'a'+'i'+'l'+'t'+'o'+':'+'p'+'a'+'r'+'k'+'c'+'a'+'t'+'e'+'r'+'i'+'n'+'g'+'@'+'p'+'c'+'s'+'.'+'h'+'a'+'n'+'t'+'s'+'.'+'s'+'c'+'h'+'.'+'u'+'k'+"'"+'>'+'p'+'a'+'r'+'k'+'c'+'a'+'t'+'e'+'r'+'i'+'n'+'g'+'@'+'p'+'c'+'s'+'.'+'h'+'a'+'n'+'t'+'s'+'.'+'s'+'c'+'h'+'.'+'u'+'k'+'<'+'/'+'a'+'>');</script> or call 02392 489 800</p>
+
+            </div>
+            <br>
+            <?php include ("includes/backtotop.html") ?>
+        </section>
+
+        <section>
+            <div class="row">
+                <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+            </div>
+            <div class="row">
+                
+            </div>
+            <br>
+            <?php include ("includes/backtotop.html") ?>
+        </section>
+
+
+        <section class="grey-bg">
+            <div class="row">
+                <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+            </div>
             <div class="row">
                 <div class="medium-push-4 medium-8 columns">
                     <h4>Free School Meals</h4>
@@ -294,6 +362,7 @@
             <br><br>
             <?php include ("includes/backtotop.html") ?>
         </section>
+
         <section>
             <div class="row">
                 <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
@@ -315,6 +384,14 @@
             </div><br>
             <?php include ("includes/backtotop.html") ?>
         </section>
+
+
+
+
+        
+
+
+
         <!-- FOOTER -->
         <?php include("includes/footer.html") ?>
         <!-- End Site Footer -->
