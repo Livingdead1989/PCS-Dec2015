@@ -89,11 +89,11 @@
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
                     <img src="images/schoolmeals/crossandmoody.png" alt="Cross and Moody brand logo">
                 </div>
+                <br>
             </div>
             <div class="row">
                 <div class="medium-8 columns">
-                    <h3>Cross&amp;Moody | <small>Our Brands</small></h3>
-                    <p>These brand favourites have been developed by our award winning chefs Steven Cross and Alex Moody. All product used are of the best quality always try to use local seasonal organic produce.</p>
+                    
                     <h4>Park Porkies</h4>
                     <p>Park Community School have developed its own Pork based products which are now used in school and sold to external customers.</p>
                     <ul class="circle">
@@ -301,26 +301,30 @@
                 <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
             </div>
             <div class="row" id="parkcatering">
-               <h3>Park Catering Service</h3> 
-               <p>Our award winning in-house chef led catering team prides itself on producing food that is appealing to a range of audiences, meets statuary guidelines and is sourced in the best way possible. We can provide:</p>
+               <div class="medium-8 columns">
+                   <h3>Park Catering Service</h3> 
+                   <p>Our award winning in-house chef led catering team prides itself on producing food that is appealing to a range of audiences, meets statuary guidelines and is sourced in the best way possible. We can provide:</p>
 
-               <ul>
-                    <li>Award winning</li>
-                    <li>Chef led caterin</li>
-                    <li>Consultancy and support services</li>
-                    <li>Advice on the re-branding of your provision and, if necessary, create this with you.</li>
-                    <li>Work with your business manager to set up new suppliers</li>
-                    <li>Contact your local Environmental Health team and set the school up with them</li>
-                    <li>Train all your kitchen colleagues</li>
-                    <li>Work with your chef during the first weeks of service</li>
-                    <li>Provide menu packs</li>
-                    <li>Provide ongoing telephone and support visits throughout the year</li>
-                    <li>Event catering</li>
-                    <li>Function catering</li>
-               </ul>
+                   <ul>
+                        <li>Award winning</li>
+                        <li>Chef led catering</li>
+                        <li>Consultancy and support services</li>
+                        <li>Advice on the re-branding of your provision and, if necessary, create this with you.</li>
+                        <li>Work with your business manager to set up new suppliers</li>
+                        <li>Contact your local Environmental Health team and set the school up with them</li>
+                        <li>Train all your kitchen colleagues</li>
+                        <li>Work with your chef during the first weeks of service</li>
+                        <li>Provide menu packs</li>
+                        <li>Provide ongoing telephone and support visits throughout the year</li>
+                        <li>Event catering</li>
+                        <li>Function catering</li>
+                   </ul>
 
-               <p>If you would like to know more about how we can support you, please contact our Catering team at <script type="text/javascript">document.write('<'+'a'+' '+'h'+'r'+'e'+'f'+'='+"'"+'m'+'a'+'i'+'l'+'t'+'o'+':'+'p'+'a'+'r'+'k'+'c'+'a'+'t'+'e'+'r'+'i'+'n'+'g'+'@'+'p'+'c'+'s'+'.'+'h'+'a'+'n'+'t'+'s'+'.'+'s'+'c'+'h'+'.'+'u'+'k'+"'"+'>'+'p'+'a'+'r'+'k'+'c'+'a'+'t'+'e'+'r'+'i'+'n'+'g'+'@'+'p'+'c'+'s'+'.'+'h'+'a'+'n'+'t'+'s'+'.'+'s'+'c'+'h'+'.'+'u'+'k'+'<'+'/'+'a'+'>');</script> or call 02392 489 800</p>
-
+                   <p>If you would like to know more about how we can support you, please contact our Catering team at <script type="text/javascript">document.write('<'+'a'+' '+'h'+'r'+'e'+'f'+'='+"'"+'m'+'a'+'i'+'l'+'t'+'o'+':'+'p'+'a'+'r'+'k'+'c'+'a'+'t'+'e'+'r'+'i'+'n'+'g'+'@'+'p'+'c'+'s'+'.'+'h'+'a'+'n'+'t'+'s'+'.'+'s'+'c'+'h'+'.'+'u'+'k'+"'"+'>'+'p'+'a'+'r'+'k'+'c'+'a'+'t'+'e'+'r'+'i'+'n'+'g'+'@'+'p'+'c'+'s'+'.'+'h'+'a'+'n'+'t'+'s'+'.'+'s'+'c'+'h'+'.'+'u'+'k'+'<'+'/'+'a'+'>');</script> or call 02392 489 800</p>
+               </div>
+               <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
+                    <img src="images/schoolmeals/catering_logo.png" alt="Park Community School Catering Service Logo">
+                </div>
             </div>
             <br>
             <?php include ("includes/backtotop.html") ?>
