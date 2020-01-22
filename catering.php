@@ -69,7 +69,7 @@
                     <p>Every year the LACA Awards for Excellence acknowledge individuals and teams of people who continue to make a real difference in education catering. Good management, strong performances and high achievements deserve to be recognised at any time. Acknowledgement of effort is particularly important to not only reward but sustain motivation.</p>
                 </div>
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns">
-                    <img src="images/schoolmeals/laca_awards_2019.jpg" alt="LACA - Much More than just a School">
+                    <img src="images/schoolmeals/laca_2019.png" alt="LACA - Much More than just a School">
                     <br>
                     <img src="images/schoolmeals/laca_awards.jpg" alt="LACA - Much More than just a School">
                 </div>
