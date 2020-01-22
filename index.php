@@ -24,7 +24,6 @@
             <div class="small-text-center large-text-right">
                 <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
                 <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a>
-                <a class="small button radius success" href="assets/park-post.pdf" target="_blank">Park Post</a>
             </div>
 
 
@@ -130,7 +129,13 @@
                             <img src="images/index/munch.jpg" alt="MUNCH">
                             <p>MUNCH</p>
                         </a></div>
-                </li>  
+                </li>
+                <li>
+                    <div class="menu-box"><a href="/catering.php#parkcatering">
+                            <img src="images/index/park_catering.png" alt="Park Catering Services">
+                            <p>Park Catering Services</p>
+                        </a></div>
+                </li> 
             </ul>
 <!-- STUDENT EXTRA -->
             <ul class="text-center medium-block-grid-5 small-block-grid-2">

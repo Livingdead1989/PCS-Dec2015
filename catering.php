@@ -70,7 +70,7 @@
                 </div>
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns">
                     <img src="images/schoolmeals/laca_2019.png" alt="LACA - Much More than just a School">
-                    <br>
+                    <br><br>
                     <img src="images/schoolmeals/laca_awards.jpg" alt="LACA - Much More than just a School">
                 </div>
             </div>
