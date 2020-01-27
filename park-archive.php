@@ -39,7 +39,7 @@
 
                 <li>
                     <a href="assets/news/parkpost/issue23-jan2020.pdf" target="_blank">
-                        <img class="border-grey-radius" src="assets/news/parkpost/covers/issue23-jan2020jpg" alt="Park Post Issue 23 Frontcover">
+                        <img class="border-grey-radius" src="assets/news/parkpost/covers/issue23-jan2020.jpg" alt="Park Post Issue 23 Frontcover">
                         <p>Issue 23 - 2020</p>
                     </a>
                 </li>
