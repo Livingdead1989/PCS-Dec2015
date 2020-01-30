@@ -32,21 +32,15 @@
         <div class="large-12 columns">
         <br>
             <h3>Purpose</h3>
-            <p>Dance at Park helps students develop technical and expressive skills as well as their knowledge and understanding of dance through performance, choreography and critical appreciation. It allows students to actively and physically demonstrate their abilities through exciting and engaging schemes of work which cover different styles and cultures of dance and prepare students for studying at GCSE and BTEC level.</p>
-
-            <p>Dance uses movement symbolically as a fundamental form of human expression. It is both empowering and powerful as a form of non-verbal communication. The value of dance is the development of creative, imaginative, physical, emotional and intellectual capacities. Dance is both physical and expressive. Dance also helps students with essential life skills required after their secondary education and in the world of work or further education. These include skills such as cooperation, communication, leadership and problem solving skills, alongside increased confidence.</p>
+            <p>Dance at Park helps students develop technical and expressive skills as well as a knowledge and understanding of Dance through performance, choreography and critical appreciation. It allows students to actively and physically demonstrate their abilities through exciting and engaging schemes of work which cover different styles and cultures of Dance that prepare students for studying RSL Dance.</p>
 
             <h3>Aims</h3>
-            <p>Dance at Park focuses on dance composition, performance and appreciation of dance. Through exploring different contemporary dance techniques, professional contemporary dance set works, and choreography, students develop their knowledge and understanding of contemporary dance.</p>
-
-            <p>It also allows students to work independently as well as in teams to refine their movements and help build self-confidence, self-awareness, as well as appreciating work of others.</p>
-            
+            <p>Dance uses movement symbolically as a fundamental form of human expression. It is both empowering and powerful as a form of non-verbal communication. The value of Dance is the development of creative, imaginative, physical, emotional and intellectual capacities. Dance is both physical and expressive. Dance also helps students with essential life skills required after their secondary education and into the world of work or further education. These include skills such as cooperation, communication, leadership and problem solving skills alongside increased confidence in taking on new challenges.</p>
+                        
             <h3>Areas of Study</h3>
-            <p>At KS3 students will have a basic introduction to the key skills required to compose, perform and appreciate dance. They will learn how to develop actions based around the theme of sport involving team work skills and working with others. The second unit of study is Bollywood dance which introduces students to a different culture involving performance skills and developing key actions and gestures.</p>
+            <p>The KS3 curriculum enables students to build up a good repertoire of basic skills that students need to master before they go into KS4. Students learn a range of different choreographic devices and performance skills that build their self-confidence and team work skills that are fundamental to their learning. Students have the opportunity to learn different styles of Dance and are encouraged to self assess and evaluate the work of others. Examples of units are Thriller, Boy Blue, Site Sensitive and Shadows which include looking at a wide range of dance styles.</p>
 
-            <p>Students in Year 8 are introduced to creating movements based around a stimulus and involves trio based work and the use of more challenging choreographic devices. Students begin to look at appreciation of other works which prepares them for studying Dance at a higher level.</p>
-
-            <p>GCSE Dance focuses on dance composition, performance and appreciation of dance. Through exploring different contemporary dance techniques, professional contemporary dance set works and choreography, students develop their knowledge and understanding of contemporary dance.</p>
+            <p>Once in KS4 students then begin studying for the RSL Level 2 Certificate in Creative and Performing Arts (Dance) which consists of two units; Ensemble and Live Performance.</p>
 
             <p><strong>Performance</strong> Students look at physical fitness and effectiveness as a performer through safe practice, technique classes, rehearsal and performance. They are encouraged to work together to create and perform pieces which challenge students and enable them to achieve their full potential.</p>
 
