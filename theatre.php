@@ -24,6 +24,7 @@
 <section>
     <div class="row">
         <div class="columns">
+            <br>
             <p>Park Community Theatre is situated on the outskirts of Havant and comprises of the main theatre, a lecture theatre/cinema, a drama studio and a dance studio as well as dressing rooms equipped with back lit mirrors, ample toilet facilities and showers.</p>
             <p>In addition, we also have a licenced bar, which can be located in either the foyer or the auditorium, and restaurant quality catering facilities overseen by our multi award winning chef.</p>
             <p>Outside we offer free on-site parking for over 400 cars and ample space for vans and lorries delivering equipment and scenery.</p>
@@ -60,6 +61,10 @@
                 </div></div>
                 <!-- /Image -->
             </div>
+            <!-- /SLIDER -->
+            <br>
+            <a href="/contact.pdf" target="_blank" class="button success radius">Contact us Today</a>
+            <br>
         </div>
     </div>
     <br><br> 
