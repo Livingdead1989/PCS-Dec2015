@@ -61,7 +61,8 @@
                 <!-- /Image -->
             </div>
         </div>
-    </div> 
+    </div>
+    <br><br> 
 </section>
 <!-- MAIN THEATRE -->
 <section class="grey-bg">
@@ -77,6 +78,7 @@
             <p>This space is perfect for dance shows, musical theatre, theatre productions, concert venue, rehearsal room, <a href="/community-services.php">party room, wedding receptions and for Children’s parties</a>.</p>
         </div>
     </div>
+    <br><br>
 </section>
 <!-- LECTURE THEATRE -->
 <section>
@@ -94,6 +96,7 @@
             <p>This space is perfect for cinema, meeting room, lecture space, rehearsal room, dressing room and for live performance.</p>
         </div>
     </div>
+    <br><br>
 </section>
 <!-- DRAMA STUDIO -->
 <section class="grey-bg">
@@ -107,6 +110,7 @@
             <p>This space is perfect for rehearsal room, dance studio and for studio scale performances.</p>
         </div>        
     </div>
+    <br><br>
 </section>
 <!-- DANCE STUDIO -->
 <section>
@@ -120,6 +124,7 @@
             <p>This space is perfect for dance studio, rehearsal room and for <a href="/community-services.php">soft play parties</a>.</p>
         </div>
     </div>
+    <br><br>
 </section>
 <!-- EQUIPMENT -->
 <section class="grey-bg">
@@ -192,6 +197,7 @@
             <p>In addition to this, theatre also has a very experienced full-time theatre technician who is only too happy to work with you and to help you stage your production to the highest possible standards.</p>
         </div>        
     </div>
+    <br><br>
 </section>
 <!-- PREVIOUS CUSTOMERS -->
 <section>
@@ -222,6 +228,7 @@
             </ul>
         </div>
     </div>
+    <br><br>
 </section>
 
 <!-- FOOTER -->
