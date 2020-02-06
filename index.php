@@ -201,7 +201,7 @@
                 </li>
             </ul>
 <!-- OTHER COMPANIES -->
-            <ul class="text-center medium-block-grid-4 small-block-grid-2">
+            <ul class="text-center medium-block-grid-5 small-block-grid-2">
                 <h4>Facilitating Other Organisations</h4>
                 <li>
                     <div class="menu-box"><a href="/nursery.php">
@@ -216,15 +216,21 @@
                         </a></div>
                 </li>
                 <li>
-                    <div class="menu-box"><a href="#">
+                    <div class="menu-box"><a href="//theflashonair.co.uk/" target="_blank">
                             <img src="images/index/flash_radio.jpg" alt="The Flash Radio - Not for profit community radio station run entirely by volunteers">
                             <p>The Flash Radio</p>
                         </a></div>
                 </li>
                 <li>
-                    <div class="menu-box"><a href="#">
+                    <div class="menu-box"><a href="//www.mind.org.uk/" target="_blank">
                             <img src="images/index/mind.jpg" alt="Mind - The mental health charity">
                             <p>Mind</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="//oarsomechance.org/" target="_blank">
+                            <img src="images/index/oarsome_chance.jpg" alt="Oarsome Chance">
+                            <p>Oarsome Chance</p>
                         </a></div>
                 </li>
             </ul>
