@@ -2,7 +2,7 @@
 <html class="no-js" lang="en" >
     <head>
 
-        <title>Park Community School | Theatre Spaces</title>
+        <title>Park Community School | Theatre</title>
         <?php include("includes/head.html") ?>
     </head>
 <body class="page-misc">
@@ -13,7 +13,7 @@
 <header class="header-misc">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Theatre Spaces</h1>
+            <h1>Park Community Theatre</h1>
             <p class="text-capitalize">Theatres, Cinema, Dance and Drama Studios</p>
         </div>
     </div>
@@ -25,7 +25,7 @@
     <div class="row">
         <div class="columns">
             <br>
-            <p>Park Community Theatre is situated on the outskirts of Havant and comprises of the main theatre, a lecture theatre/cinema, a drama studio and a dance studio as well as dressing rooms equipped with back lit mirrors, ample toilet facilities and showers.</p>
+            <p>Park Community Theatre is situated on the outskirts of Havant and comprises of the main theatre, a lecture theatre/cinema, a drama studio and a dance studio as well as dressing rooms, ample toilet facilities and showers.</p>
             <p>In addition, we also have a licenced bar, which can be located in either the foyer or the auditorium, and restaurant quality catering facilities overseen by our multi award winning chef.</p>
             <p>Outside we offer free on-site parking for over 400 cars and ample space for vans and lorries delivering equipment and scenery.</p>
             <p>The whole complex is on the ground floor and therefore offers flat, direct access from the loading areas to the stage for easy access with scenery etc. and excellent disabled access for audience and performers alike. All spaces are equipped with induction loop facilities and have under-floor heating.</p>
