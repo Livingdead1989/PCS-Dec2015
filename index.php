@@ -117,7 +117,7 @@
 
             <br>
 <!-- EXTRA MILE -->
-            <ul class="text-center medium-block-grid-3 small-block-grid-1">
+            <ul class="text-center medium-block-grid-2 small-block-grid-1">
                 <h4>Going The Extra Mile</h4>
                 <li>
                     <div class="menu-box"><a href="/connect4summer.php">
@@ -131,12 +131,6 @@
                             <p>MUNCH</p>
                         </a></div>
                 </li>
-                <li>
-                    <div class="menu-box"><a href="/catering.php#parkcatering">
-                            <img src="images/index/park_catering.png" alt="Park Catering Services">
-                            <p>Park Catering Services</p>
-                        </a></div>
-                </li> 
             </ul>
 <!-- STUDENT EXTRA -->
             <ul class="text-center medium-block-grid-5 small-block-grid-2">
@@ -173,7 +167,7 @@
                 </li>
             </ul>
 <!-- INHOUSE SERVICES -->
-            <ul class="text-center medium-block-grid-4 small-block-grid-2">
+            <ul class="text-center medium-block-grid-5 small-block-grid-2">
                 <h4>In-house Services</h4>
                 <li>
                     <div class="menu-box"><a href="/dickinson-centre.php">
@@ -197,6 +191,12 @@
                     <div class="menu-box"><a href="/suite.php">
                             <img src="images/index/sontronics.jpg" alt="The Suite - Much More Than Just a School">
                             <p>The Suite</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="/catering.php#parkcatering">
+                            <img src="images/index/park_catering.png" alt="Park Catering Services - Much More Than Just a School">
+                            <p>Park Catering Services</p>
                         </a></div>
                 </li>
             </ul>
