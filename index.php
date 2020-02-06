@@ -167,7 +167,7 @@
                 </li>
             </ul>
 <!-- INHOUSE SERVICES -->
-            <ul class="text-center medium-block-grid-5 small-block-grid-2">
+            <ul class="text-center medium-block-grid-3 small-block-grid-2">
                 <h4>In-house Services</h4>
                 <li>
                     <div class="menu-box"><a href="/dickinson-centre.php">
@@ -191,6 +191,12 @@
                     <div class="menu-box"><a href="/suite.php">
                             <img src="images/index/sontronics.jpg" alt="The Suite - Much More Than Just a School">
                             <p>The Suite</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="/theatre.php">
+                            <img src="images/index/theatre.jpg" alt="Theatre Spaces for Hire - Much More Than Just a School">
+                            <p>Theatre Hire</p>
                         </a></div>
                 </li>
                 <li>
