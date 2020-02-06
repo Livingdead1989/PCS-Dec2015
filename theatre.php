@@ -63,7 +63,7 @@
             </div>
             <!-- /SLIDER -->
             <br>
-            <a href="/contact.pdf" target="_blank" class="button success radius">Contact us Today</a>
+            <a href="/contact.php" target="_blank" class="button success radius">Contact us Today</a>
             <br>
         </div>
     </div>
