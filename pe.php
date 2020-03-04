@@ -41,6 +41,8 @@
             <br>
             <div class="text-center">
                 <a href="/assets/curriculum/pe/implementation.pdf" target="_blank" class="button">View our Implementation Table</a>
+                <a href="/assets/curriculum/pe/ks-3-learning-journey.pdf" target="_blank" class="button">Key Stage 3 Learning Journey</a>
+                <a href="/assets/curriculum/pe/ks-4-learning-journey.pdf" target="_blank" class="button">Key Stage 4 Learning Journey</a>
             </div>
 
         <h3>Additional Opportunities</h3>
