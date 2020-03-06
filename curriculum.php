@@ -33,8 +33,17 @@
             </div>
 
             <h3>Curriculum Overview 2019-20</h2>
-            <p>At Park Community School our curriculum prepares students for a long, successful and happy life. It is vital to us is that students leave with a basic understanding of many subjects. English and Maths are the most important and we strive to ensure each student achieves their personal best. We prepare students to follow a career of their choice by studying a range of relevant subjects in recognised qualifications that lead to further study at college and university, whether academic or vocational. We are currently reviewing the point at which students choose thier GCSE option courses and the number of options students have at KS4.</p>
-            <p>Through the curriculum we seek opportunities to promote ‘joy, glee and delight’, in and out of lessons, and encourage the attitude that work should be finished with ‘polish and panache’ at all times. Our curriculum includes widening opportunities for learning through our smallholding, industrial unit, school kitchen, numerous trips in the UK and abroad. We ensure that the school environment, coupled with our high expectations, enhance wider learning about what it is to be a good citizen. Our pastoral approach and belief in the importance of each child means that personal development, understanding of our role as a citizen, democratic values, and the opportunities of the multicultural society that exists in Great Britain today are important parts of the rounded education we provide. Through the curriculum we continually seek opportunities to celebrate success and academic achievement.</p>
+            <p>At Park we provide a broad curriculum which allows students to find what they love to do. Our curriculum is designed to promote attainment, build resilience and increase autonomy. We are known for our inclusive approach and others describe us as ‘much more than just a school’.</p>
+            <ul class="circle">We do this through:
+                <li>A broad and traditional curriculum which leads to a wide range of GCSEs and other qualifications</li>
+                <li>Our ‘Much More Than Just a School’ curriculum which provides an exciting range of memorable experiences for our students</li>
+                <li>Literacy underpins education at Park. Children read each day; those who struggle with their reading are well supported…</li>
+                <li>Cultural capital is important for GCSE success and success in life. We build cultural capital throughout the curriculum</li>
+                <li>Personal development is fundamental to what we do in preparing students for life after school and the world of work. Our widely recognised careers programme gives children in every year group opportunities to consider their future and meet people from outside of school</li>
+                <li>We encourage students to be ambitious through our links with colleges and universities</li>
+                <li>SMSC at Park promotes British Values through a comprehensive programme of assemblies, personal development and Challenge Days</li>
+                <li>Engaging Park students in our story and developing a sense of pride in this community</li>
+            </ul>
             <h4>Overview of the curriculum</h4>
             <ul class="accordion" data-accordion role="tablist">
 
