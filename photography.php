@@ -31,43 +31,36 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose</h3>
-            <p>Photography at Park enables students to explore a range of lens-based media techniques and processes. This will include theme-based photography such as portraiture, landscape or still life, alongside aspects of exploring imagery and film.</p>
+            <h3>Intent</h3>
+            <p>In photography we encourage pupils to research effectively, read critically, explore creativity and respond visually to a wide range of texts by contemporary and historical artists. Photography is about process and a fundamental part of what we deliver is about the process of taking and manipulating photographs which is underpinned by the process of creating a fully realised sketch book. A further fundamental in photography is the opportunity for increasing cultural capital through artistic investigations and trips to various locations to complete photoshoots but also investigate the historical and architectural makeup of the location.</p>
 
-            <h3>Aims</h3>
+            <h3>Implementation</h3>
+            <p>Our curriculum begins in year 9 and aims to give pupils an introduction to the analysis and practical skills required before they begin working on coursework units. Lessons encourage an ethos of independence and follow the same, repeated structure to ensure pupils are able to follow the process of creating a unit so they are able to be more self motivated as the course continues. This also ensures they are  fully equipped for the exam which follows the same structure and a 10 hour controlled assessment. Coursework teaching is structured to cover the 4 assessment areas required:</p>
             <ul class="circle">
-                <li>To develop and refine ideas through investigation.</li>
-                <li>To record ideas and insights relevant to their intentions in visual forms.</li>
-                <li>To present a personal response demonstrating analytical and critical understanding.</li>
+                <li>AO1 - Pupils will learn how to research and evaluate a range of historical and contemporary artists, evaluate their work and show clear understanding of visual language. They will then respond to it with a pastiche to show understanding.</li>
+                <li>AO2 - Pupils will learn how to refine their work through in camera editing, visual manipulation and a series of testing and evaluating of their ideas. Annotation and explanation are essential and subject specific vocabulary is used.</li>
+                <li>AO3 - Pupils will learn how to record both visually and through writing. Photographs, screen shots, shoot plans and sketches are essential parts of this process. Work must contain both drawings and writing.</li>
+                <li>AO4 - Pupils will learn how to create a fully developed ‘final piece’ which shows clear understanding of visual language and is clearly influenced by the artists they have researched either as a class or as individuals.</li>
             </ul>
+            <p>Due to the nature of the course we are able to give pupils a degree of ownership over how the course is organised for them. While the first unit is always prescribed, subsequent units are chosen by classes after suitable choices are presented to them. In addition to this, during the course of a unit pupils will study 3 photographers together as a class before finding their own influences, ensuring that outcomes will be individual and personal. This same structure is used for the exam unit, when there could be as many as 7 different topics being investigated within one class.
+            </p>
+
+             
+            <h3>Impact</h3>
             
-            <h3>Areas of Study</h3>
-            <p>Unit 1 consists of an introduction to photography, focusing on aspects of composition, how a camera works and exploring the history and development of Photography over the years. Research on a range of photographers from contemporary through to historical artists is compiled and then applied to their own portfolios.</p>
-            <p>Unit 2 consists of exam preparation through analytical and evaluative skills to enable a detailed response set by the board. This will include refining their photographic skills and building up their portfolio in order to achieve their full potential.</p>
-
-            <ul class="accordion" data-accordion role="tablist">
-
-                <li class="accordion-navigation">
-                    <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Year 7-10 - GCSE AQA</a>
-                    <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
-                        <p class="text-capitalize">Main topics students study:</p>
-                        <ul class="circle">
-                            <li>Portraits</li>
-                            <li>Landscapes</li>
-                            <li>Controlled text topic</li>
-                        </ul>
-                        <br>
-                        <p class="text-capitalize">Main skills students develop:</p>
-                        <ul class="circle">
-                            <li>Independence</li>
-                            <li>Technical skills with cameras</li>
-                            <li>Creativity</li>
-                            <li>Visual development</li>
-                        </ul>
-                        <small>For more information please visit the <a href="http://www.aqa.org.uk/" target="_blank">AQA website</a></small>
-                    </div>
-                </li>
+            <ul class="circle">
+                <li>Pupils have a love of photography, both the work of others and the work they are able to create themselves. They see the world differently, appreciating the finer details of their environment.</li>
+                <li>Pupils leave us with a broader cultural capital, a deeper understanding and appreciation of the world around them and the ability to see the creative potential of a range of locations.</li>
+                <li>Pupils are able to confidently use subject specific vocabulary when describing, analysing and evaluating the visual work of others and themselves.</li>
+                <li>Pupils are able to work independently, organise themselves, use equipment confidently and problem solve how to get the results they want to achieve.</li>
             </ul>
+
+             <div class="text-center">
+                        <a role="button" target="_blank" href="assets/curriculum/photography/year-9-photography.pdf" class="button">Year 9</a>
+                        <a role="button" target="_blank" href="assets/curriculum/photography/year-10-photography.pdf" class="button">Year 10</a>
+                        <a role="button" target="_blank" href="assets/curriculum/photography/year-11-photography.pdf" class="button">Year 11</a>
+                        <a role="button" target="_blank" href="assets/curriculum/photography/photography-assessment-policy.pdf" class="button">Assesment Policy</a>
+                    </div>
             <br>
         </div>
 
