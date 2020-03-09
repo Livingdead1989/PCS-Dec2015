@@ -166,12 +166,11 @@
 					<h3>Revision</h3>	
 
 					<div class="row">
-        				<div class="small-centered large-1 column text-center hr-logo white-bg"></div>
-    				</div>
+        				</div>
     				<div class="row">
         				<div class="medium-push-4 medium-8 columns">
-        					<h3>For online resources try the following:</h3>
-            				<p>OCR Mooc – which is free to access once an account has been created<a target="_blank" href="https://cambridgegcsecomputing.org">here</a></p>
+        					<h4>For online resources try the following:</h4>
+            				<p>OCR Mooc – which is free to access once an account has been created <a target="_blank" href="https://cambridgegcsecomputing.org">here</a></p>
             			</div>
         				<div class="small-10 small-centered medium-uncentered medium-pull-8 medium-4 columns"><img src="assets/curriculum/computer-science/cs-revision.jpg" alt="Revision Books"></div>
     					</div>	
