@@ -163,11 +163,10 @@
 							<li>When s/he gets stuck, ask him/her to explain what s/he has done so far and what exactly s/he is finding hard. Try and help him/her to work out where s/he has gone wrong.</li>
 							<li>Trying to ask open-ended questions to keep a conversation going and explain that, with maths, there is often more than one way to solve problems</li>
 
-					<h3>Revision</h3>	
+						<br>
 
+					<h3>Revision</h3>	
 					<div class="row">
-        				</div>
-    				<div class="row">
         				<div class="medium-push-4 medium-8 columns">
         					<h4>For online resources try the following:</h4>
             				<p>OCR Mooc – which is free to access once an account has been created <a target="_blank" href="https://cambridgegcsecomputing.org">here</a></p>
