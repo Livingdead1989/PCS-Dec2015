@@ -37,7 +37,7 @@
             <ul class="circle">We do this through:
                 <li>A broad and traditional curriculum which leads to a wide range of GCSEs and other qualifications</li>
                 <li>Our ‘Much More Than Just a School’ curriculum which provides an exciting range of memorable experiences for our students</li>
-                <li>Literacy underpins education at Park. Children read each day; those who struggle with their reading are well supported…</li>
+                <li>Literacy underpins education at Park. Children read each day; those who struggle with their reading are well supported</li>
                 <li>Cultural capital is important for GCSE success and success in life. We build cultural capital throughout the curriculum</li>
                 <li>Personal development is fundamental to what we do in preparing students for life after school and the world of work. Our widely recognised careers programme gives children in every year group opportunities to consider their future and meet people from outside of school</li>
                 <li>We encourage students to be ambitious through our links with colleges and universities</li>
