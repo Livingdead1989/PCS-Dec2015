@@ -51,6 +51,9 @@
 
             <div class="text-center">
                         <a role="button" target="_blank" href="assets/curriculum/geography/year-7.pdf" class="button">Year 7</a>
+                        <a role="button" target="_blank" href="assets/curriculum/geography/year-8.pdf" class="button">Year 8</a>
+                        <a role="button" target="_blank" href="assets/curriculum/geography/year-9.pdf" class="button">Year 9</a>
+                        <a role="button" target="_blank" href="assets/curriculum/geography/gcse.pdf" class="button">GCSE</a>
                     </div>
         </div>
 
