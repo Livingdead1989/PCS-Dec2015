@@ -28,37 +28,33 @@
         <section>
             <div class="row">
                 <div class="large-12 columns">
-                    	<p>Whether you are planning to enter fashion or finance, or something in-between, here are six key reasons why you should study business and how it can open a world of possibilities for you.</p>
-						<ul>
-							<li>Develop communication skills – master the art of making a point</li>
-							<li>Marketing techniques – know your audience</li>
-							<li>Accounting and budgeting – don’t fall short</li>
-							<li>Entrepreneurship – be the next big thing in business</li>
-							<li>Investment and Finance – money makes the world go around</li>
-							<li>Teamwork – a soft skill desired by most employers</li>
-						</ul>
+                    	<h3>Intent</h3>
+                   			 <p>Whether you are planning to enter fashion or finance, or something in-between, here are six key reasons why you should study business and how it can open a world of possibilities for you.</p>
+                   			 <p>The Pearson Edexcel GCSE in Business has been designed to provide a focused academic qualification. The qualification will provide students with the knowledge, understanding and skills necessary to prepare them for employment or higher education. The course has an essential core of knowledge and applied skills. The essential core gives learners the opportunity to gain a broad understanding and knowledge of small to medium business sectors.</p>
+                   			 <p>Overall, the course has been developed to encourage students’ personal development of knowledge and skills relevant to the business world through practical participation in a range of business activities designed to complement the theory concepts required at GCSE.</p>
 
-						<p>This course draws upon the enterprise studies that all our students experience when they join Park, through their visits to PDP.</p>
-
-						<p>The aims and objectives of this qualification are to enable students to:</p>
-							<ul>
-								<li>know and understand business concepts, business terminology, business objectives, the integrated nature of business activity and the impact of business on individuals and wider society</li>
-								<li>apply knowledge and understanding to contemporary business issues and to different types and sizes of businesses in local, national and global contexts</li>
-								<li>develop as enterprising individuals with the ability to think commercially and creatively to demonstrate business acumen, and draw on evidence to make informed business decisions and solve business problems</li>
-								<li>develop as effective and independent students, and as critical and reflective thinkers with enquiring minds</li>
-								<li>use an enquiring, critical approach to make informed judgements</li>
-								<li>investigate and analyse real business opportunities and issues to construct well-argued, well-evidenced, balanced and structured arguments, demonstrating their depth and breadth of understanding of business</li>
-								<li>develop and apply quantitative skills relevant to business, including using and interpreting data</li>
-							</ul>
+                   			 <p>The course will:</p>
+								<ul>
+									<li>Give students an understanding of what we mean by entrepreneurship and the skills and qualities that an entrepreneur needs in order to set up a successful business</li>
+									<li>Develop an understanding of the key functional areas in a business e.g. marketing, finance, human resources and operations management</li>
+									<li>Learn more about the world we live in and how changes in the economic environment affect people and UK businesses</li>
+									<li>To develop examination skills e.g. interpreting data, developing an analytical argument, making judgements based on available evidence etc.</li>
+									<li>Develop an appreciation of moral and ethical issues related to the operation of a business e.g. the use of child labour in the fashion industry</li>
+								</ul>
 
 
-						<p>Through studying this qualification students will:</p>
-							<ul>
-								<li>apply knowledge and understanding to different business contexts. These include businesses ranging from small enterprises to large multinationals and businesses operating in local, national and global contexts</li>
-								<li>develop an understanding of how these contexts impact on business behaviour</li>
-								<li>use business terminology to identify and explain business activity</li>
-								<li>apply business concepts to familiar and unfamiliar contexts</li>
-							</ul>
+							<h3>Implementation</h3>
+                   			 <p>At Park Community school our Business studies department operates a 2-year course, starting with the introduction to Small Business start-ups in Year 10, which then leads to employment and legal aspects in Year 11, students then develop their knowledge of business calculations and exam technique are reviewed and improved prior to the final exams. The classes will normally have six lessons each, over a fortnight and all students should experience most of these activities:</p>
+                   			 	<ul>
+									<li>Discussion – one to one or small groups</li>
+									<li>Research – group or individual using a variety of methods</li>
+									<li>Report writing – such as analysis of business ideas then justification for a chosen pathway</li>
+									<li>Presentations – generally in groups, designed to increase confidence</li>
+									<li>Marketing – group or individual activities backed by market research</li>
+								</ul>
+								
+                   			 <p>The specification looks at the issues in starting up a business and then in a larger growing firm. It focuses on the key functional areas of Marketing, Finance, Human Resources and Operations. The course provides students with a holistic view of the major issues that face modern businesses.</p>
+						
 
 
 						<h3>Progression</h3>
