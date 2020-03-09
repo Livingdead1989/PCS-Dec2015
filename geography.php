@@ -31,128 +31,27 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose of Study & Intention</h3>
+            <h3>Vision</h3>
+            <p>As the future generation responsible for our planet, we want our students to have a sense of respect for the world and the people in it, enhanced by a sound knowledge and understanding of both physical and human geography. For our students to develop an analytical and evaluative understanding of the world through discussion and written responses on case studies and topical issues.</p>
 
-            <blockquote>Geography is the subject which holds the key to our future <cite>Michael Palin</cite></blockquote>
-            
-            <p>Geography is arguably one of the most diverse, interesting and important subjects the national curriculum offers.</p>
-
-            <p>Geography is primarily concerned with promoting an understanding of the nature of the Earth’s surface and more particularly the character of places, the complex nature of people’s relationships and interactions with their environment, and the importance in human affairs of the location and spatial organisation of human activities. This understanding includes the development of critical awareness of problems and conflicts in the geographical environment which relates to differing attitudes and situations. In this social context geography can also be a valuable medium for developing an understanding of the sensitivity to multicultural communities and societies.</p>
-
-            <h3>Aims</h3>
-            <p>Through the variety of teaching and learning strategies involved within geography, students will form an understanding of the different physical, human and environmental processes that are an integral part of our world.</p>
-
-            <p>Geography seeks to explore the relationship between the Earth and its people through the study of PLACE, SPACE and ENVIRONMENT. Students will ask the questions WHERE, WHAT, WHO, HOW and WHY.</p>
-            <p>The study of PLACE is aimed to allow students to describe and understand not only the location of physical and human features of the Earth, but also the processes, systems and interrelationships that create or influence those features.</p>
-            <p>The study of SPACE teaches students to explore the relationships between places and patterns of activity arising from the use people make of the physical setting where they live and work.</p>
-            <p>The study of the ENVIRONMENT embraces both its physical and human dimensions. Thus it addresses the resources, sometimes scarce and fragile that the Earth provides and on which all human life depends; the impact on those resources of human activities; and the wider social, economic, political and cultural consequences of the interrelationship between the two.</p>
-            
-            <p>The overall implications of sustainability both of land, resources, human actions etc. will promote the development of knowledge, skills, understanding and values in students so they make responsible decisions, both individually and collectively, at both local and global scales, about the environment. </p>
+            <h3>Intent</h3>
+            <p>Geography at Park Community school is designed to develop our student's curiosity about the physical and human world around them. Our students will investigate the local area as well as a variety of case studies from around the world. As a department we are keen to ensure that students understand how Geography influence their everyday lives and how they have a global impact. We also aspire to produce geographical enquirers asking questions and developing an understanding about different cultures and places around the world. Our initial year 7 curriculum is focusing on the Geography of our local area and how this links to our identity and heritage igniting a sense of pride in our community. In years 8 and 9 we broaden students' knowledge of human and physical geography locally and globally, through a range of topics and specific case studies. Within key stage 3 we aim to develop Geographical skills, including the ability to use a range of maps, collect and analyse data and the ability to communicate information in a variety of ways. We also aim to provide memorable fieldwork experiences allowing all year groups to see geography in action and investigate it themselves.</p>
             
 
-            <h3>Curriculum Implementation</h3>
+            <h3>Implementation</h3>
+            <p>We have a progressive Geography curriculum which builds on prior knowledge and skills each year, learners will revisit geographical skills and knowledge in order to embed and deepen understanding. We have a clear structure to our Geography lessons in line with the school policies. All lessons begin with a ‘do now’ task focusing students on entry, then a retrieval quiz enabling students to strengthen their memories, recalling information from the previous lessons and topics.  The student is then ready to investigate new information from the lesson. </p>
+            <p>Students complete Directed Improvement and Reflection Time activities through retrieval quizzes enabling them to identify areas of misconception or weakness and clarify. The new information is presented in a range of ways often through collaborative enquiry and teaching and learning games. Students then get an opportunity to recall, discuss and share the new information before being asked to apply their new knowledge in an exam style question with structure where appropriate or quiz testing memory recall. In Geography we operate a no hands up policy to hold the students focus ensuring they are ready to be called upon. </p>
+            <p>The content of the lessons uses case studies from around the world but also looks locally to geography that the students can relate to wherever possible. This is to ensure that students are aware of the world around them but also their local area and the responsibility and impact they can have.</p>
+            <p>At GCSE we follow the AQA GCSE specification which can be found online <a target="_blank" href="https://filestore.aqa.org.uk/resources/geography/specifications/AQA-8035-SP-2016.PDF">here</a></p>
 
-            <table>
-              <tr>
-                <th></th>
-                <th>Autumn 1</th>
-                <th>Autumn 2</th>
-                <th>Spring 1<br></th>
-                <th>Spring 2</th>
-                <th>Summer 1</th>
-                <th>Summer 2</th>
-              </tr>
-              <tr>
-                <td>YEAR 7</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td></td>
-                <td>Geographical Skills</td>
-                <td>Weather and Climate</td>
-                <td>Climate Change</td>
-                <td>Brazil</td>
-                <td>Population and Urbanisation</td>
-                <td>Rivers</td>
-              </tr>
-              <tr>
-                <td>YEAR 8</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td></td>
-                <td>Africa</td>
-                <td>Crime</td>
-                <td colspan="2">Natural Hazards</td>
-                <td>Global Fashion</td>
-                <td>Coasts</td>
-              </tr>
-              <tr>
-                <td><br>Year 7 and 8 Assessment Model</td>
-                <td colspan="6">Key Stage 3 will be tested with multiple choice tests every term in addition to extended writing and exam style questions within lessons.</td>
-              </tr>
-              <tr>
-                <td>YEAR 9</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td></td>
-                <td colspan="3">The challenge of natural hazards</td>
-                <td colspan="3">The living world</td>
-              </tr>
-              <tr>
-                <td>YEAR 10</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td></td>
-                <td colspan="2">Rivers and Coasts</td>
-                <td colspan="2">Urban issues and challenges</td>
-                <td colspan="2">The changing economic world</td>
-              </tr>
-              <tr>
-                <td>YEAR 11</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td></td>
-                <td colspan="2">Resource management</td>
-                <td><br>Paper 1 and 2 completion<br>Unit 3 Preperation<br></td>
-                <td>Unit 3 Preperation and Fieldwork Lee-On-The-Solent</td>
-                <td colspan="2">Revision</td>
-              </tr>
-              <tr>
-                <td>GCSE Assessment Model</td>
-                <td colspan="6">ALL GCSE units to be tested with exam questions and key term tests.</td>
-              </tr>
-            </table>
+            <h3>Impact</h3>
+            <p>The impact of our Geography curriculum at Park is to equip our students with lifelong Geographical skills and knowledge. As the future generation responsible for our planet, we want our students to have a sense of respect for the world and the people in it, enhanced by an understanding of both physical and human geography. Student will also be equipped to progress onto GCSE Geography and Further Education within Geography. The key stage 3 students learning is assessed against the age-related expectation bands based on the 2014 National Curriculum statements for Geography.</p>
 
             <br>
+
+            <div class="text-center">
+                        <a role="button" target="_blank" href="assets/curriculum/geography/year-7.pdf" class="button">Year 7</a>
+                    </div>
         </div>
 
     </div>
