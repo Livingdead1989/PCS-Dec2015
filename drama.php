@@ -31,14 +31,12 @@
     <div class="row">
         <div class="large-12 columns">
 
-			<div class="text-right"><a href="#" data-reveal-id="revision_resources" class="button round alert">GCSE Revision Resources</a></div>
-
-        	<h3>Purpose</h3>
+			<h3>Purpose</h3>
 			<p>Studying drama requires emotional maturity, and gives students a deep understanding of themselves. Because it involves using not only their voices and bodies, but also emotions and creativity, it is able to engender a deep sense of self-esteem. It is also a subject that requires a great deal of peer trust, and so it plays an important role in teaching communication, listening and empathy skills. Studying Drama is demanding, and teaches students that success only comes from hard work.</p>
 
 			<p>The skills that are learnt by studying Drama are invaluable in later life. For example, being able to speak and present confidently in front of people, and the skill of planning that is required in any production, are useful in many careers. Drama can be a good basis for a career not only in the theatre, but in advertising, the film industry and even in events planning, among many others.</p>
 			
-			<h3>Aims</h3>
+			<h3>Intent</h3>
 			<p>Studying drama requires emotional maturity, and gives students a deep understanding of themselves. Because it involves using not only their voices and bodies, but also emotions and creativity, it is able to engender a deep sense of self-esteem. It is also a subject that requires a great deal of peer trust, and so it plays an important role in teaching communication, listening and empathy skills. Studying Drama is demanding, and teaches students that success only comes from hard work.</p>
 
 			<p>The skills that are learnt by studying Drama are invaluable in later life. For example, being able to speak and present confidently in front of people, and the skill of planning that is required in any production, are useful in many careers. Drama can be a good basis for a career not only in the theatre, but in advertising, the film industry and even in events planning, among many others.</p>
