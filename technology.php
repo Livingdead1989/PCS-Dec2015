@@ -311,22 +311,40 @@
 			<p>Main topics students study:</p>
 
 			<p>To achieve the LASER Level 2 Certificate for Learning, Employability and Progression the learner must achieve a minimum of 25 credits. The credits may be taken from any combination of units but a minimum of 20 credits must be at Level 2.</p>
-			<p>Park community school offer the above course with specific credits awarded in different construction skills. These skills are delivered at our APEX construction skills centre in Leigh Park, Havant. This course is offered to students at Park Community School and it is also offered to other secondary schools in the local area.</p>
+			<p>Here at Park community school we also offer the above course with specific credits awarded in different construction skills. These skills are delivered at our APEX construction skills centre in Leigh Park, Havant. This course is offered to students at Park Community School and it is also offered to other secondary schools in the local area.</p>
 
-			<p>Skills list include;</p>
+			<p>Level 1 Skills list include;</p>
 
 			<ul>
+				<li>Introduction to a training course</li>
+				<li>Health and Safety</li>
+				<li>Measure Distance Length</li>
+				<li>Brickwork</li>
+				<li>Carpentry and Joinery</li>
+				<li>Carpentry Hand Skills</li>
+				<li>Painting and Decorating skills</li>
+				<li>Plastering</li>
+				<li>Wallpapering</li>
+			</ul>
+
+			<p>Level 2 Skills list include;</p>
+
+			<ul>
+				<li>Health and Safety in construction</li>
 				<li>Brickwork</li>
 				<li>Carpentry and Joinery</li>
 				<li>Carpentry Hand Skills</li>
 				<li>Timber in Construction</li>
-				<li>Health and Safety in construction</li>
 				<li>Painting and Decorating skills</li>
 				<li>Plastering and Wallpapering</li>
 				<li>Finance</li>
 			</ul>
 
-			<p>For more information please contact <a href="/contact.php">Park Community School</a>.</p>
+			<p>For more information please contact Daniel Payne, Head of Design and Technology and oversight of APEX centre at<a href="/contact.php">Park Community School</a>.</p>
+
+			<h3>Impact</h3>
+            <p>Our pupils having completed our curriculum are more prepared for life past Park Community School because the problem-solving skills they have learnt are enabling them to be more creative and approach problems with an ‘out of the box’ solution. Our students are independent, organised, and can use machinery confidently. They will have used a small selection of industry standard equipment; this will give them the confidence when working in their future. Our curriculum is progressive and broad enabling our students to have a good knowledge of a variety different specialisms like, Construction, Hospitality and Catering, Design and Model Making, therefore giving our students a range of career paths. Our students leave with a broader cultural capital as in addition to our curriculum we offer a diverse range of extracurricular activities and competitions. We believe that our curriculum gives our students the ‘Practical Skills For Life’ that they need to be successful in their future.</p>
+
 
 
 
