@@ -27,6 +27,11 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
             	<li>           	
+				  <ul class="circle">March 2020<hr>
+				  	<li><a href="/assets/letters/2020-03/coronavirus-advice.pdf" target="_blank">Coronavirus Advice</a></li>
+			  	  </ul>
+				</li>
+            	<li>           	
 				  <ul class="circle">February 2020<hr>
 				  	<li><a href="/assets/letters/2020-02/srd-gcse-course-updates-key-dates.pdf" target="_blank">SRD, GCSE Course Updates and Key Dates</a></li>
 				  	<li><a href="/assets/letters/2020-02/ofsted_inspection_of_hcc_send_provision.pdf" target="_blank">Ofsted Inspection of HCC SEND Provision</a></li>
