@@ -54,7 +54,7 @@
 
                     <div class="text-center">
                         <a role="button" target="_blank" href="assets/curriculum/maths/learning-journey.pdf" class="button">Learning Journey 7</a>
-                        <a role="button" target="_blank" href="assets/curriculum/maths/curriculum-roadmap.pdf" class="button">Curriculm Roadmap</a>
+                        <a role="button" target="_blank" href="assets/curriculum/maths/curriculum-map.pdf" class="button">Curriculm Roadmap</a>
                     </div>
 
             <ul class="accordion" data-accordion role="tablist">
