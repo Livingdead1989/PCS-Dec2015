@@ -31,7 +31,7 @@
     <div class="row">
         <div class="large-12 columns">
     
-        <div class="text-right"><a href="#" data-reveal-id="revision_resources" class="button round alert">Usefull Resources</a></div>
+        <div class="text-right"><a href="#" data-reveal-id="revision_resources" class="button round alert">Useful Resources</a></div>
 
         <br>
             <h3>Intent</h3>
