@@ -31,26 +31,31 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose</h3>
-            <p>The vision of mathematics and teaching at park community school is to inspire and engage students in their understanding of number and wider areas of the subject. Problem solving is integral to the way in which we teach mathematics at the school. Our curriculum provides a foundation for understanding and developing students’ ability to reason, whilst also nurturing curiosity and enjoyment for the subject.</p>
+            <h3>Intent</h3>
+                    <p>The vision of mathematics and teaching at park community school is to inspire and engage students in their understanding of number and wider areas of the subject. Problem solving is integral to the way in which we teach mathematics at the school. Our curriculum provides a foundation for understanding and developing students’ ability to reason, whilst also nurturing curiosity and enjoyment for the subject.
+                    </p>
+                    <p>We aim to develop students’ understanding of mathematical concepts and processes to enable students to solve problems using a variety of techniques and skills. This requires students to be fluent in the fundamentals of mathematics and to reason mathematically. This occurs through repeated practise to increase fluency and mastery, use of skills in familiar and unfamiliar contexts, learning of formulae, application to calculations, analysis and interpretation of mathematical information, as well as contextualising and applying appropriate elements to situations within which students are familiar.
+                    </p>
 
-            <h3>Aims</h3>
-            <p>We aim to develop students’ understanding of mathematical concepts and processes to enable students to solve problems using a variety of techniques and skills. This requires students to be fluent in the fundamentals of mathematics and to reason mathematically. This occurs through repeated practise to increase fluency and mastery, use of skills in familiar and unfamiliar contexts, learning of formulae, application to calculations, analysis and interpretation of mathematical information, as well as contextualising and applying appropriate elements to situations within which students are familiar.</p>
+                    <h3>Implementation</h3>
+                    <ul class="circle">
+                        <li>Number</li>
+                        <li>Algebra</li>
+                        <li>Ratio, Proportion and Rates of Change</li>
+                        <li>Geometry and measures: learn and apply formulae solve problems</li>
+                        <li>Probability</li>
+                        <li>Statistics</li>
+                    </ul>
+                    <p>Years 7 - 11 – from years 7 to 11 we follow a single programme of study leading to a GCSE in mathematics.</p>
+                    <p>Years 7 - 9 - our key stage 3 curriculum is designed to equip students with the mathematical knowledge and skill to successfully embark on their GCSE course in Year 10. It covers the full mathematical spectrum of Number, Ratio, Algebra, Geometry, Statistics and Probability required for their GCSE. We help the students achieve mastery in the use of this knowledge by emphasising the importance of using mathematical reasoning when solving problems in many different contexts.
+                    </p>
+                    <p>Years 10 - 11 - our key stage 4 curriculum continues to build towards GCSE mathematics. The syllabus we follow is Edexcel with students either following the foundation or higher specification.</p>
+                    <p>We also offer GCSE statistics as an additional GCSE qualification to those pupils who wish to pursue it.</p>
 
-            <h3>Areas of Study</h3>
-            <ul class="circle">
-                <li>Number</li>
-                <li>Algebra</li>
-                <li>Ratio, Proportion and Rates of Change</li>
-                <li>Geometry and measures: learn and apply formulae solve problems.</li>
-                <li>Probability</li>
-                <li>Statistics</li>
-            </ul>
-            <p><strong>Years 7 - 11</strong> – from years 7 to 11 we follow a single programme of study leading to a GCSE in mathematics.</p>
-            <p><strong>Years 7 - 8</strong> - our curriculum is designed to equip students with the mathematical knowledge and skill to successfully embark on their GCSE course in Year 9. It covers the full mathematical spectrum of Number, Ratio, Algebra, Geometry, Statistics and Probability required for their GCSE. We help the students achieve mastery in the use of this knowledge by emphasising the importance of using mathematical reasoning when solving problems in many different contexts.</p>
-            <p><strong>Years 9 - 11</strong> - our curriculum continues to build towards GCSE mathematics. The syllabus we follow is Edexcel with students either following the foundation or higher specification.</p>
-
-            <p>View our <a href="assets/curriculum/curriculum-roadmap.pdf" target="_blank">Curriculum Roadmap</a></p>
+                    <div class="text-center">
+                        <a role="button" target="_blank" href="assets/curriculum/maths/learning-journey.pdf" class="button">Learning Journey 7</a>
+                        <a role="button" target="_blank" href="assets/curriculum/maths/curriculum-roadmap.pdf" class="button">Curriculm Roadmap</a>
+                    </div>
 
             <ul class="accordion" data-accordion role="tablist">
 
