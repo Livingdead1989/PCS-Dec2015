@@ -61,6 +61,10 @@
         <p>Students are provided with the vocabulary to explain the world around them and appreciate the value of an extended vocabulary.</p>
         <p>Students leave Park Community School able to read, write and communicate well.</p>
 
+        <div class="text-center">
+                        <a role="button" target="_blank" href="assets/curriculum/english/curriculum-overview.pdf" class="button">Curriculum Overview</a>
+        </div>
+
         <h3>What do students study at Park Community School?</h3>
         <ul>
             <li><a href="assets/curriculum/english/year7.pdf">Year 7</a></li>
