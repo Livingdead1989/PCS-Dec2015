@@ -30,6 +30,35 @@
 <section>
     <div class="row">
         <div class="large-12 columns">
+
+         	<h3>What Design and Technology aims to provide for our students:</h3>
+			<p>Design and Technology prepares pupils to engage with rapidly changing technologies as well as challenging current designs so that students can creatively improve standards and solve real life problems. Our aim is to provide a rich and challenging curriculum that ensures all pupils will have the opportunity to produce excellent work by pushing their own boundaries and exploring their creativity. Design and Technology teaches students to learn about a wide range of materials, processes and manufacturing techniques. Pupils will become proficient in joining materials, developing drawing techniques, critiquing designed products and create effective products, dishes and outcomes. Design and Technology enables our students to combine practical skills with an understanding of aesthetics, social, environmental issues functional and industrial practices.</p>
+
+
+        	<h3>Curriculum Intent</h3>
+            <p>Design and technology is an inspiring, rigorous and practical subject. Students studying it will use their creativity and imagination to design and make a range of products that solve a variety of issues. Whilst designing students will consider other individuals needs as well as their own to produce the most effective outcome. Design and Technology requires a broad subject knowledge that draws upon other areas of the curriculum, for example, science engineering and maths. Pupils learn how to take risks and are required to design innovatively to produce new and interesting products and concepts.</p>
+            <p> All pupils will develop their creative, technical and practical skills to be able to partake in using new technologies successfully. Students will need to develop their knowledge and understanding of the subject so that they are able to design high quality products and prototypes for a variety of end users. Most importantly students will need to learn to have a critical eye when looking at existing product to analyse their strengths, weaknesses and suggest possible improvements as well as evaluate the successfulness of their own work.</p>
+
+			<h3>Curriculum Implementation</h3>
+			<p>Students will learn why conducting extensive research from a range of cultures and being able to understand a variety of needs is important when designing.</p>
+			<p>Being able to produce a design brief and understanding the how this is used in industry will enable students to keep their design focused and relevant. </p>
+			<p>Effective problem solving skills are vital for the students to critique their work and give careful thought about how this item could be developed of further changed or improved.</p>
+			<p>Students will learn a variety of hand skills with told and also machine processes, this will enable them to create an item/prototype/product that will fit within their specification parameters and show their skill.</p>
+			<p>A range of materials will be considered and will enable students to be critical but selective with their decision making process to create a final outcome.</p>
+			<p>Analysis of past and present designs will assist the students in understanding the limitations and possibilities that designing and creating can present.</p>
+			<p>Testing and learning about new technologies are important parts of students learning as this will enable students to show that they are becoming thoughtful designers. They will use their knowledge and responsibility as an environmentally considerate designer to create a sustainable product.</p>
+			<p>Whilst developing their skills student will need to be able to describe why a good technical understanding will help them to create a more effective outcome.</p>
+			<p>For further information on how our curriculum is implemented please click on the following links.</p>
+
+			<div class="text-center">
+                        <a role="button" target="_blank" href="assets/curriculum/technology/y7_curriculum.pdf" class="button">Year 7</a>
+                        <a role="button" target="_blank" href="assets/curriculum/technology/y8_curriculum.pdf" class="button">Year 8</a>
+                        <a role="button" target="_blank" href="assets/curriculum/technology/y9_art_design_3d_design_curriculum.pdf" class="button">Year 9 Art/3D Design</a>
+                        <a role="button" target="_blank" href="assets/curriculum/technology/y9_hospitality_catering_curriculum.pdf" class="button">Year Year 9 Hospitality & Catering</a>
+                        <a role="button" target="_blank" href="assets/curriculum/technology/y10_art_design_3d_design_curriculum.pdf" class="button">Year 10 Art/3D Design</a>
+                        <a role="button" target="_blank" href="assets/curriculum/technology/y10_hospitality_catering_curriculum.pdf" class="button">Year 10 Hospitality & Catering</a>
+            </div>
+
 			<h3>Year 7 Design and Technology transition curriculum </h3>
 
 			<p>Year 7 Design and Technology at Park is designed to enable our students to make a successful transition from Key Stage 2. Students will study three main areas. Our Core curriculum where students are learning the foundations of the subject. Design and Technology where students are learning the design process and health and safety legislation whilst using new equipment. They will also study Food and Catering including health and hygiene basics and cooking skills.</p> 
