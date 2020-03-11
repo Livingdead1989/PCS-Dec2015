@@ -38,39 +38,6 @@
 				</span>
 			</li>-->
 			 <li>
-				<h4>Teacher of Computer Science</h4>  
-				<p><em>Closing Date: Tuesday, 10 March 2020</em></p>
-
-				<span class="subheader">
-				<a href="assets/recruitment/computer-science-teacher.pdf" target="_blank">Position Details</a>
-				</span>
-			</li>
-
-			<hr> 
-
-			 <li>
-				<h4>Lead Teacher of English</h4>  
-				<p><em>Closing Date: Tuesday, 10 March 2020</em></p>
-
-				<span class="subheader">
-				<a href="assets/recruitment/lead-english.pdf" target="_blank">Position Details</a>
-				</span>
-			</li>
-
-        <hr> 
-
-       <li>
-        <h4>Lead Teacher of Science</h4>  
-        <p><em>Closing Date: Tuesday, 10 March 2020</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/lead-science.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-       <hr> 
-
-       <li>
         <h4>Teacher of Science</h4>  
         <p><em>Closing Date: Tuesday, 17 March 2020</em></p>
 
@@ -78,7 +45,7 @@
         <a href="assets/recruitment/teacher-science.pdf" target="_blank">Position Details</a>
         </span>
       </li>
-			<!-- <br><span class="subheader">Please check back later.</span></li> -->
+      <!-- <br><span class="subheader">Please check back later.</span></li> -->
 
 			        
           
