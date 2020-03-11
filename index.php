@@ -20,7 +20,12 @@
         </div>
         <div class="medium-7 columns">
             <p>Information update 10 March 2020</p>
-            <p>Dear Parents, we have had a few enquiries about the school trip returning from Spain this evening.  The Government advice does not indicate a risk to the health of others from travellers returning from Spain.  Please refer to gov.uk and FCO websites for further information.  As a school we will continue to follow the official guidance. <a target="_blank" href="/assets/letters/2020-03/coronavirus-advice.pdf" class="button">Coronavirus Advice</a></p>
+            <p>Dear Parents, we have had a few enquiries about the school trip returning from Spain this evening.  The Government advice does not indicate a risk to the health of others from travellers returning from Spain.  Please refer to gov.uk and FCO websites for further information.  As a school we will continue to follow the official guidance.</p> 
+
+            <div class="small-text-center large-text-right">
+                <a target="_blank" href="/assets/letters/2020-03/coronavirus-advice.pdf" class="button warning">Coronavirus Advice</a>
+            </div>
+
             
             <div class="small-text-center large-text-right">
                 <a class="small button radius success" href="assets/news/parkpost/issue23-jan2020.pdf">Park Post</a>
