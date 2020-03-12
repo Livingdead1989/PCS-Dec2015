@@ -59,7 +59,163 @@
                         <a role="button" target="_blank" href="assets/curriculum/science/ks4-trilogy.pdf" class="button">Key Stage 4 Trilogy</a>
                     </div>
                     
+                    <h3>Subject Content</h3>
 
+            <ul class="accordion" data-accordion role="tablist">
+                <li class="accordion-navigation">
+                    <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Biology</a>
+                    <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
+                        <ul>
+                            <li>Cell biology</li>
+                            <li>Organisation</li>
+                            <li>Infection and response</li>
+                            <li>Bioenergetics</li>
+                            <li>Homeostasis and response</li>
+                            <li>Inheritance, variation and evolution</li>
+                            <li>Ecology</li>
+                            <li>Key ideas</li>
+                        </ul>
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel2d" role="tab" id="panel2d-heading" aria-controls="panel2d">Chemistry</a>
+                    <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
+                        <ul>
+                            <li>Atomic structure and the periodic table</li>
+                            <li>Bonding, structure, and the properties of matter</li>
+                            <li>Quantitative chemistry</li>
+                            <li>Chemical changes</li>
+                            <li>Energy changes</li>
+                            <li>The rate and extent of chemical change</li>
+                            <li>Organic chemistry</li>
+                            <li>Chemical analysis</li>
+                            <li>Chemistry of the atmosphere</li>
+                            <li>Using resources</li>
+                            <li>Key ideas</li>
+                        </ul>
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Physics</a>
+                    <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
+                        <ul>
+                            <li>Energy</li>
+                            <li>Electricity</li>
+                            <li>Particle model of matter</li>
+                            <li>Atomic structure</li>
+                            <li>Forces</li>
+                            <li>Waves</li>
+                            <li>Magnetism and electromagnetism</li>
+                            <li>Key ideas</li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+
+            <h3>How and What is Assessed</h3>
+
+            <ul class="accordion" data-accordion role="tablist">
+                <li class="accordion-navigation">
+                    <a href="#panel1p" role="tab" id="panel1p-heading" aria-controls="panel1p">Biology Paper 1</a>
+                    <div id="panel1p" class="content" role="tabpanel" aria-labelledby="panel1p-heading">
+                        <h4>What's Assessed</h4>
+                        <p>Biology Topics 1-4: Cell Biology; Organisation; Infection and Response; and Bioenergetics.</p>
+                        <h4>How It's Assessed</h4>
+                        <ul class="circle">
+                            <li>Written Exam: 1 hour 15 minutes</li>
+                            <li>Foundation and Higher Tier</li>
+                            <li>70 Marks</li>
+                            <li>16.7% of GCSE</li>
+                        </ul>
+                        <h4>Questions</h4>
+                        <p>Multiple Choice, Structured, Closed Short Answer and Open Response.</p>
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel2p" role="tab" id="panel2p-heading" aria-controls="panel2p">Biology Paper 2</a>
+                    <div id="panel2p" class="content" role="tabpanel" aria-labelledby="panel2p-heading">
+                        <h4>What's Assessed</h4>
+                        <p>Biology Topics 5-7: Homeostasis and Response; Inheritance, Variation and Evolution; and Ecology.</p>
+                        <h4>How It's Assessed</h4>
+                        <ul class="circle">
+                            <li>Written Exam: 1 hour 15 minutes</li>
+                            <li>Foundation and Higher Tier</li>
+                            <li>70 Marks</li>
+                            <li>16.7% of GCSE</li>
+                        </ul>
+                        <h4>Questions</h4>
+                        <p>Multiple Choice, Structured, Closed Short Answer and Open Response.</p>
+                    </div>
+                </li>
+
+                <li class="accordion-navigation">
+                    <a href="#panel3p" role="tab" id="panel3p-heading" aria-controls="panel3p">Chemistry Paper 1</a>
+                    <div id="panel3p" class="content" role="tabpanel" aria-labelledby="panel3p-heading">
+                        <h4>What's Assessed</h4>
+                        <p>Chemistry Topics 8-12: Atomic Structure and the Periodic Table; Bonding, Structure, and the Properties of Matter; Quantitative Chemistry; Chemical Changes; and Energy changes.</p>
+                        <h4>How It's Assessed</h4>
+                        <ul class="circle">
+                            <li>Written Exam: 1 hour 15 minutes</li>
+                            <li>Foundation and Higher Tier</li>
+                            <li>70 Marks</li>
+                            <li>16.7% of GCSE</li>
+                        </ul>
+                        <h4>Questions</h4>
+                        <p>Multiple Choice, Structured, Closed Short Answer and Open Response.</p>
+                    </div>
+                </li>
+                 <li class="accordion-navigation">
+                    <a href="#panel4p" role="tab" id="panel4p-heading" aria-controls="panel4p">Chemistry Paper 1</a>
+                    <div id="panel4p" class="content" role="tabpanel" aria-labelledby="panel4p-heading">
+                        <h4>What's Assessed</h4>
+                        <p>Chemistry Topics 13-17: The Rate and Extent of Chemical change; Organic Chemistry; Chemical Analysis of the Atmosphere; and using resources.</p>
+                        <h4>How It's Assessed</h4>
+                        <ul class="circle">
+                            <li>Written Exam: 1 hour 15 minutes</li>
+                            <li>Foundation and Higher Tier</li>
+                            <li>70 Marks</li>
+                            <li>16.7% of GCSE</li>
+                        </ul>
+                        <h4>Questions</h4>
+                        <p>Multiple Choice, Structured, Closed Short Answer and Open Response.</p>
+                    </div>
+                </li>
+                <li class="accordion-navigation">
+                    <a href="#panel5p" role="tab" id="panel5p-heading" aria-controls="panel5p">Physics Paper 1</a>
+                    <div id="panel5p" class="content" role="tabpanel" aria-labelledby="panel5p-heading">
+                        <h4>What's Assessed</h4>
+                        <p>Physics Topics 18-21: Energy; Electricity; Particle Model of Matter; and Atomic Structure.</p>
+                        <h4>How It's Assessed</h4>
+                        <ul class="circle">
+                            <li>Written Exam: 1 hour 15 minutes</li>
+                            <li>Foundation and Higher Tier</li>
+                            <li>70 Marks</li>
+                            <li>16.7% of GCSE</li>
+                        </ul>
+                        <h4>Questions</h4>
+                        <p>Multiple Choice, Structured, Closed Short Answer and Open Response.</p>
+                    </div>
+                </li>
+                <li class="accordion-navigation">
+                    <a href="#panel6p" role="tab" id="panel6p-heading" aria-controls="panel6p">Physics Paper 2</a>
+                    <div id="panel6p" class="content" role="tabpanel" aria-labelledby="panel6p-heading">
+                        <h4>What's Assessed</h4>
+                        <p>Physics Topics 22-24: Forces; Waves; and Magnetism and Electromagnetism.</p>
+                        <h4>How It's Assessed</h4>
+                        <ul class="circle">
+                            <li>Written Exam: 1 hour 15 minutes</li>
+                            <li>Foundation and Higher Tier</li>
+                            <li>70 Marks</li>
+                            <li>16.7% of GCSE</li>
+                        </ul>
+                        <h4>Questions</h4>
+                        <p>Multiple Choice, Structured, Closed Short Answer and Open Response.</p>
+                    </div>
+                </li>
+            </ul>
 
             <br>
         </div>
