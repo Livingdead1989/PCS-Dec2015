@@ -82,6 +82,10 @@
             <p>The theatre features retractable seating which allows for the space to be set up in a cabaret style with chairs and tables. In this configuration the venue can hold 100 people seated and 80 standing and have the bar located in the auditorium; an ideal set up for concerts and cabaret events.</p>
             <p>This space is perfect for dance shows, musical theatre, theatre productions, concert venue, rehearsal room, <a href="/community-services.php">party room, wedding receptions and for Children’s parties</a>.</p>
         </div>
+        <div class="column text-center">
+        	<a href="images/theatre/theatre_ground_plan.pdf" target="_blank" class="button success radius">Main Theatre Floor Plan</a>
+        	<br>
+        </div>
     </div>
     <br><br>
 </section>
