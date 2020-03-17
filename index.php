@@ -23,7 +23,7 @@
             <p>Dear Parents, we have had a few enquiries about the school trip returning from Spain this evening.  The Government advice does not indicate a risk to the health of others from travellers returning from Spain.  Please refer to gov.uk and FCO websites for further information.  As a school we will continue to follow the official guidance.</p> 
 
             <div class="small-text-center large-text-right">
-                <a target="_blank" href="/assets/letters/2020-03/coronavirus-advice.pdf" class="button warning">Coronavirus Advice</a>
+                <a target="_blank" href="/assets/letters/2020-03/coronavirus-advice-16.pdf" class="button warning">Coronavirus Advice</a>
             </div>
 
             
