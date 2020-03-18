@@ -19,11 +19,13 @@
             <br><br>
         </div>
         <div class="medium-7 columns">
+			            <p><em>&#8220;<!-- The headteacher’s vision is to create ‘more than just a school’  -->by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life.<!--  This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain. -->&#8221; - </em>Ofsted January 2017</p>
+			
             <p>Information update 10 March 2020</p>
             <p>Dear Parents, we have had a few enquiries about the school trip returning from Spain this evening.  The Government advice does not indicate a risk to the health of others from travellers returning from Spain.  Please refer to gov.uk and FCO websites for further information.  As a school we will continue to follow the official guidance.</p> 
 
             <div class="small-text-center large-text-right">
-                <a target="_blank" href="/assets/letters/2020-03/coronavirus-advice-16.pdf" class="button warning">Coronavirus Advice</a>
+                <a href="#" class="button warning" data-reveal-id="coronavirus">Coronavirus (COVID-19) Advice</a>
             </div>
 
             
@@ -34,6 +36,23 @@
             </div>
 
 
+						<div id="coronavirus" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Coronavirus (COVID-19) Advice</h2>
+							<p>As the Coronavirus situation develops we ask parents and carers to refer to the Government website for further information.</p>
+							<p>As a school we will continue to follow the official guidance and support our students, below you will find useful websites and resources.</p>
+                          
+                          <p class="lead">Resources</p>
+                          <ul>
+							  <li><a href="//www.gov.uk/government/topical-events/coronavirus-covid-19-uk-government-response" target="_blank">UK Government Response to Coronavirus (COVID-19)</a></li>
+							  <li><a href="/assets/letters/2020-03/coronavirus-advice-16.pdf" target="_blank">Park Community School's Letter to Parents</a></li>
+							  <li><a href="/assets/office365_login.pdf" target="_blank">How to login to Office 365 <small>(PDF)</small> - Study from Home</a></li>                          
+                          </ul>
+                          
+                          
+                          
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
+						
                         <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Headteacher's Welcome</h2>
                           <p class="lead">Mr Christopher Anders</p>
