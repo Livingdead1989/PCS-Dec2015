@@ -36,6 +36,7 @@
 
 						<div id="coronavirus" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Coronavirus (COVID-19) Advice</h2>
+                            <p>The Prime Minister has announced that schools will close for most children after school on Friday. He stated that certain children of ‘key workers’ and children in vulnerable groups will still attend school. We await further clarification and will confirm all details as soon as we have them.</p>
 							<p>As the Coronavirus situation develops we ask parents and carers to refer to the Government website for further information.</p>
 							<p>As a school we will continue to follow the official guidance and support our students, below you will find useful websites and resources.</p>
                           
