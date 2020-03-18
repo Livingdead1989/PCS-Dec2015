@@ -19,11 +19,9 @@
             <br><br>
         </div>
         <div class="medium-7 columns">
-			            <p><em>&#8220;<!-- The headteacher’s vision is to create ‘more than just a school’  -->by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life.<!--  This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain. -->&#8221; - </em>Ofsted January 2017</p>
+			<p><em>&#8220;<!-- The headteacher’s vision is to create ‘more than just a school’  -->by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life.<!--  This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain. -->&#8221; - </em>Ofsted January 2017</p>
 			
-            <p>Information update 10 March 2020</p>
-            <p>Dear Parents, we have had a few enquiries about the school trip returning from Spain this evening.  The Government advice does not indicate a risk to the health of others from travellers returning from Spain.  Please refer to gov.uk and FCO websites for further information.  As a school we will continue to follow the official guidance.</p> 
-
+           
             <div class="small-text-center large-text-right">
                 <a href="#" class="button warning" data-reveal-id="coronavirus">Coronavirus (COVID-19) Advice</a>
             </div>
