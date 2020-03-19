@@ -43,7 +43,7 @@
                           <p class="lead">Resources</p>
                           <ul>
 							  <li><a href="//www.gov.uk/government/topical-events/coronavirus-covid-19-uk-government-response" target="_blank">UK Government Response to Coronavirus (COVID-19)</a></li>
-							  <li><a href="/assets/letters/2020-03/coronavirus-advice-19.pdf" target="_blank">Park Community School's Letter to Parents</a></li>
+							  <li><a href="/assets/letters/2020-03/coronavirus-advice-19.pdf" target="_blank">Park Community School's Letter to Parents <small>(19th March)</small></a></li>
 							  <li><a href="/assets/office365_login.pdf" target="_blank">How to login to Office 365 <small>(PDF)</small> - Study from Home</a></li>                          
                           </ul>
                           
