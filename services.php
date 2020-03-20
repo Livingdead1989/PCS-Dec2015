@@ -42,6 +42,7 @@
               </ul>
           <br>
         </div>
+
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
           <br>
               <ul class="pricing-table">
@@ -101,6 +102,16 @@
               <li class="bullet-item">Self Service Portal</li>
               <li class="bullet-item">Manage Engine</li>
               <li class="cta-button"><a class="button radius" href="https://ss.pcs.hants.sch.uk" target="_blank">Open</a></li>
+            </ul>
+        <br>
+        </div>
+
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <br>
+            <ul class="pricing-table">
+              <li class="title"><img class="fixed-size-100" src="images/tv.png" alt="Manage Engine Self Service Portal - Password Reset"><br>Remote Support</li>
+              <li class="bullet-item">TeamViewer Quick Support </li>
+              <li class="cta-button"><a class="button radius" href="https://get.teamviewer.com/6f5tzsu" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>
