@@ -22,6 +22,7 @@
 
             <div class="small-text-center large-text-right">
                 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u" target="_blank" class="button alert" >Key Worker Form</a>
+                <a href="/assets/letters/2020-03/t-andc-key-worker.pdf" target="_blank" class="button alert" >T&C Key Worker</a>
                 <a href="/assets/office365_login.pdf" target="_blank" class="button alert" >Study From Home</a>
             </div>
 
