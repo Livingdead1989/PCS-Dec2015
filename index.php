@@ -38,7 +38,7 @@
            
             <div class="small-text-center large-text-right">
                 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u" target="_blank" class="button warning" >Key Worker Form</a>
-                <a href="#" class="button warning" data-reveal-id="coronavirus">Coronavirus (COVID-19) Advice</a>
+                <a href="/assets/office365_login.pdf" target="_blank" class="button warning" >Study From Home</a>
             </div>
 
             
