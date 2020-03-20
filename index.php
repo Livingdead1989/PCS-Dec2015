@@ -10,6 +10,20 @@
 <!-- NAVIGATION -->
 <?php include("includes/topnav.html") ?>
 
+<!-- Corona Notification -->
+<section>
+    <div class="row">
+        <div class="columns"></div>
+        <p>The government has asked parents to keep their children at home, wherever possible, and asked schools to remain open only for those children who absolutely need to attend. Please <a href="www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers?utm_source=3af9bd53-8b24-49d0-92be-34d607ef773a&utm_medium=email&utm_campaign=govuk-notifications&utm_content=immediate">click here for a latest government guidance for parents</a>.</p>
+        <p>If you are a 'key worker' and you would like to apply to enrol your child in our Key Worker provision, please follow the link to the <a href="forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u">Office 365 form here</a>.</p>
+        <p>If you are the parent of a 'vulnerable' child, you do not need to take action, you will be contacted by school staff.</p>
+        <p>Please note, you will need to provide evidence of your status as a key worker.</p>
+        <p>It is important to underline that schools, colleges and other educational establishments remain safe places for children. But the fewer children making the journey to school, and the fewer children in educational settings, the lower the risk that the virus can spread and infect vulnerable individuals in wider society.</p>
+        <p>Many Thanks</p>
+
+    </div>
+</section>
+
 <!-- HEADER SECTION -->
 <header id="homepage-hero">
     <div class="row">
@@ -23,6 +37,7 @@
 			
            
             <div class="small-text-center large-text-right">
+                <a href="forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u" class="button warning" >Key Worker Form</a>
                 <a href="#" class="button warning" data-reveal-id="coronavirus">Coronavirus (COVID-19) Advice</a>
             </div>
 
