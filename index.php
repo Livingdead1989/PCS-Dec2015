@@ -108,6 +108,13 @@
                 <!-- SLIDER -->
                 <div class="homepage-slider">
                     
+                    <!-- Image -->
+                    <div>
+                        <div class="border-radius-5">
+                            <img src="/images/index/work-pack.jpg" alt="Work Pack">
+                            <p>Students Work Pack</p>
+                        </div>
+                    </div>
                     <!-- VIMEO Video -->
                     <div>
                         <div class="flex-video widescreen border-radius-5">
