@@ -13,14 +13,25 @@
 <!-- Corona Notification -->
 <section style="background-color:#f08a24; color:white;">
     <div class="row">
-        <div class="columns"></div>
-        <p>The government has asked parents to keep their children at home, wherever possible, and asked schools to remain open only for those children who absolutely need to attend. Please <a target="_blank" href="https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers?utm_source=3af9bd53-8b24-49d0-92be-34d607ef773a&utm_medium=email&utm_campaign=govuk-notifications&utm_content=immediate">click here for a latest government guidance for parents</a>.</p>
-        <p>If you are a 'key worker' and you would like to apply to enrol your child in our Key Worker provision, please follow the link to the <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u">Office 365 form here</a>.</p>
-        <p>If you are the parent of a 'vulnerable' child, you do not need to take action, you will be contacted by school staff.</p>
-        <p>Please note, you will need to provide evidence of your status as a key worker.</p>
-        <p>It is important to underline that schools, colleges and other educational establishments remain safe places for children. But the fewer children making the journey to school, and the fewer children in educational settings, the lower the risk that the virus can spread and infect vulnerable individuals in wider society.</p>
-        <p>Many Thanks</p>
+        <div class="columns">
+            <p>The government has asked parents to keep their children at home, wherever possible, and asked schools to remain open only for those children who absolutely need to attend. Please <a target="_blank" href="https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers?utm_source=3af9bd53-8b24-49d0-92be-34d607ef773a&utm_medium=email&utm_campaign=govuk-notifications&utm_content=immediate">click here for a latest government guidance for parents</a>.<br>
+            If you are a 'key worker' and you would like to apply to enrol your child in our Key Worker provision, please follow the link to the <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u">Office 365 form here</a>.<br>
+            If you are the parent of a 'vulnerable' child, you do not need to take action, you will be contacted by school staff.<br>
+            Please note, you will need to provide evidence of your status as a key worker.<br>
+            It is important to underline that schools, colleges and other educational establishments remain safe places for children. But the fewer children making the journey to school, and the fewer children in educational settings, the lower the risk that the virus can spread and infect vulnerable individuals in wider society.</p>
 
+            <div class="small-text-center large-text-right">
+                <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u" target="_blank" class="button alert" >Key Worker Form</a>
+                <a href="/assets/office365_login.pdf" target="_blank" class="button alert" >Study From Home</a>
+            </div>
+
+            
+            <div class="small-text-center large-text-right">
+                <a class="small button radius success" href="assets/letters/2020-03/parent-letter-home-learning.pdf">Parent Home Learning</a>
+                <a class="small button radius success" href="assets/letters/2020-03/year-7-10-home-learning.pdf">Year 7-10 Home Learning</a>
+                <a class="small button radius success" href="assets/letters/2020-03/year11-support.pdf">Year 11 Home Learning</a>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -34,13 +45,6 @@
         </div>
         <div class="medium-7 columns">
 			<p><em>&#8220;<!-- The headteacher’s vision is to create ‘more than just a school’  -->by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life.<!--  This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain. -->&#8221; - </em>Ofsted January 2017</p>
-			
-           
-            <div class="small-text-center large-text-right">
-                <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u" target="_blank" class="button warning" >Key Worker Form</a>
-                <a href="/assets/office365_login.pdf" target="_blank" class="button warning" >Study From Home</a>
-            </div>
-
             
             <div class="small-text-center large-text-right">
                 <a class="small button radius success" href="assets/news/parkpost/issue23-jan2020.pdf">Park Post</a>
