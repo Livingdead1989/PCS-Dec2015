@@ -28,6 +28,7 @@
 
             
             <div class="small-text-center large-text-right">
+                <a class="small button radius success" target="_blank" href="assets/letters/2020-03/virtual-school.pdf">Virtual School Guide</a>
                 <a class="small button radius success" target="_blank" href="assets/letters/2020-03/parent-letter-home-learning.pdf">Parent Home Learning</a>
                 <a class="small button radius success" target="_blank" href="assets/letters/2020-03/year-7-10-home-learning.pdf">Year 7-10 Home Learning</a>
                 <a class="small button radius success" target="_blank" href="assets/letters/2020-03/year11-support.pdf">Year 11 Home Learning</a>
