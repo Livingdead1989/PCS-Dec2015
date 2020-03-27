@@ -14,11 +14,22 @@
 <section style="background-color:#f08a24; color:white;">
     <div class="row">
         <div class="columns">
-            <p>The government has asked parents to keep their children at home, wherever possible, and asked schools to remain open only for those children who absolutely need to attend. Please <a target="_blank" href="https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers?utm_source=3af9bd53-8b24-49d0-92be-34d607ef773a&utm_medium=email&utm_campaign=govuk-notifications&utm_content=immediate">click here for a latest government guidance for parents</a>.<br>
-            If you are a 'key worker' and you would like to apply to enrol your child in our Key Worker provision, please follow the link to the <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u">Office 365 form here</a>.<br>
-            If you are the parent of a 'vulnerable' child, you do not need to take action, you will be contacted by school staff.<br>
-            Please note, you will need to provide evidence of your status as a key worker.<br>
-            It is important to underline that schools, colleges and other educational establishments remain safe places for children. But the fewer children making the journey to school, and the fewer children in educational settings, the lower the risk that the virus can spread and infect vulnerable individuals in wider society.</p>
+            <h3>Easter School</h3>
+            <p>We would like to update you around our plans for 'Key Worker' provision during the Easter Holiday. Please note, that this provision is ONLY available to students:
+            <ul>
+                    <li>Who are in Years 7 to 11 at Park</li>
+                    <li>Where there is NO alternative child care provision in place</li>
+                    <li>Whose parents are 'Key Workers' or are themselves identified as ‘vulnerable’</li>
+            </ul>
+            <br>
+            'Key Workers' who have already used the Key Worker Scheme at Park will automatically become eligible for this provision and will be contacted directly. If you have NOT previously used our 'Key Worker School provision, then you will need to complete the form which must be completed by 3pm on Thursday 2 April and provide evidence of Key Worker status through a separate email to info@pcs.hants.sch.uk giving your name, job and your child’s name. Your evidence might be a company letter headed note from your employer, a payslip or a photo of your work ID badge.
+            <br>
+            The Easter School will run between Monday 6 April and Friday 17 April. We currently aim to run from 8.30am and 2.45pm daily (except weekends and bank holidays). Final hours may have to change dependant on staff availability. A free lunch will be provided. We may not be able to accommodate special diets beyond vegetarian. Students do not need to wear their school uniform for the Easter School.<br>
+            and email info@pcs.hants.sch.uk indicating the dates on which you expect to use the Easter School provision at Park.    
+            To book your child on, please complete the <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUMTg5NVE3M01DTUEyWUZDNTRXUEo4SVI0US4u">Key Worker Form here</a>.
+            <br>
+            Many Thanks
+            </p>
 
             <div class="small-text-center large-text-right">
                 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u" target="_blank" class="button alert" >Key Worker Form</a>
