@@ -21,7 +21,6 @@
                     <li>Where there is NO alternative child care provision in place</li>
                     <li>Whose parents are 'Key Workers' or are themselves identified as ‘vulnerable’</li>
             </ul>
-            <br>
             'Key Workers' who have already used the Key Worker Scheme at Park will automatically become eligible for this provision and will be contacted directly. If you have NOT previously used our 'Key Worker School provision, then you will need to complete the form which must be completed by 3pm on Thursday 2 April and provide evidence of Key Worker status through a separate email to info@pcs.hants.sch.uk giving your name, job and your child’s name. Your evidence might be a company letter headed note from your employer, a payslip or a photo of your work ID badge.
             <br>
             The Easter School will run between Monday 6 April and Friday 17 April. We currently aim to run from 8.30am and 2.45pm daily (except weekends and bank holidays). Final hours may have to change dependant on staff availability. A free lunch will be provided. We may not be able to accommodate special diets beyond vegetarian. Students do not need to wear their school uniform for the Easter School.<br>
