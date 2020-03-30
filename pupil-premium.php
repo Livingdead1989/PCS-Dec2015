@@ -28,13 +28,13 @@
           
           <p>Our Pupil Premium Strategy is focussed on 4 broad areas:</p>
           <ol>
+            <li>Behaviour for learning that allows all to succeed</li>
+            <li>Attendance and parental engagement</li>
+            <li>All students to be able to read at their chronological age and above</li>
             <li>High quality teaching which develops independence</li>
-            <li>A broad curriculum which develops Cultural Capital and student leadership</li>
-            <li>Behaviour for Learning</li>
-            <li>Parental engagement and attendance</li>
           </ol>
 
-          <p>Our Pupil Premium strategy is based on a comprehensive understanding of our students, their families and the community. We regularly review its impact using internal and external data and current research produced the Education Endowment Foundation. Park Community School participated in the ‘Improving Outcomes for Disadvantaged Learners’ project with Hampshire and Rosendale Research during 2017-18.</p>
+          <p>Our Pupil Premium strategy is based on a comprehensive understanding of our students, their families and the community. We regularly review its impact using internal and external data and current research produced the Education Endowment Foundation. Park Community School participated in the ‘Improving Outcomes for Disadvantaged Learners’ project with Hampshire and Rosendale Research during 2017-18, and is currently taking part in the Havant Tackling Disadvantage project in partnership with other local schools and HIAS.</p>
         </div>
         <div class="small-10 small-centered medium-uncentered medium-5 columns">
           <br><img src="images/pupil-premium/pupil-premium-01.jpg" alt="Park Community School students enjoy school life." />
@@ -72,11 +72,13 @@
     </div>
     <div class="row">
         <div class="medium-8 medium-push-4 columns">
-          <p>In 2018 the gap in achievement between non PP and PP students in GCSEs was -0.12 for Progress 8 (PP-0.88, non PP -0.76)</p>
+          <p>In 2019 the gap in achievement between non-PP and PP students in GCSEs was -0.39 for Progress 8 (PP-1.09, non-PP -0.69</p>
+          <p>In 2019/20 1:1 reading intervention with 69 students has seen 81% of students making double ratio gains, with a further 6% making progress but below the double ratio gains. Year 7 in the group made on average 28 months progress, Year 8 22 months and year 11 26 months. 70 % of the 60 students who made progress have now made enough progress that they have moved in to the correct chronological age reading bracket.</p>
           <p>Main barriers to educational achievement faced by eligible students could include:</p>
                 <ul class="circle">
                    <li>Low aspiration</li>
-                   <li>Gaps in learning</li>
+                   <li>Gaps in learning, including for a significant number of low reading ages that makes accessing texts a significant challenge</li>
+                   <li>Reading ages below chronological age</li>
                    <li>Parents who have poor experiences of school, or have not completed further education or in some cases do not value education</li>
                    <li>Large number of siblings</li>
                    <li>Often in single parent families</li>
@@ -85,6 +87,7 @@
                    <li>Inconsistent attendance at school</li>
                    <li>Personal health related and well-being issues</li>
                    <li>Low self-esteem</li>
+                   <li>Low exposure to the wider community which impacts negatively on a student’s Cultural Capital.</li>
                </ul>
                <p>This is not an exhaustive list and by no means applies to all students who may qualify for Pupil Premium. </p>
         </div>
@@ -116,7 +119,8 @@
                   <li>Explicit teaching of memory and revision</li>
                   <li>Residential visits</li>
                   <li>Staff focus on success for all PP students</li>
-                  <li>1 : 1 Mentoring</li>
+                  <li>Academic and reading coaches</li>
+                  <li>Dedicated projects aimed at raising expectations and aspirations aimed at year 7 and 8 boys</li>
                 </ul>
               </li>
 
@@ -131,6 +135,7 @@
                   <li>Enrichment activities</li>
                   <li>International visits/trips</li>
                   <li>Social & cultural visits/trips</li>
+                  <li>Year 7 and 8 Much More Than Just A School curriculum experiences, including PDP, Farm and school kitchens</li>
                 </ul>
               </li>
 
@@ -142,7 +147,6 @@
                     <li>Referral meeting attended by Key Stage leaders, Lead WSG behavior, Lead WSG pastoral, SENCO, Deputy Headteacher pastoral, Medical officer. Focus:</li>
                     <li>Nurture programmes</li>
                     <li>Individual programmes</li>
-                    <li>Communitas: Youth Workers available during school day</li>
                     <li>Medical & Emotional support</li>
 
                 </ul>
@@ -162,6 +166,7 @@
                 <ul class="circle">
                     <li>Attendance groups</li>
                     <li>1:1 Support and intervention</li>
+                    <li>Dedicated Attendance team</li>
                 </ul>
               </li>
           </ul>
