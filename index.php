@@ -38,6 +38,7 @@
 
             
             <div class="small-text-center large-text-right">
+                <a class="small button radius success" target="_blank" href="/assets/letters/2020-04/newsletter-03-04.pdf">Newsletter</a>
                 <a class="small button radius success" target="_blank" href="weekly-challenge.php">Weekly Challenge</a>
                 <a class="small button radius success" target="_blank" href="assets/letters/2020-03/virtual-school.pdf">Virtual School Guide</a>
                 <a class="small button radius success" target="_blank" href="assets/letters/2020-03/parent-letter-home-learning.pdf">Parent Home Learning</a>

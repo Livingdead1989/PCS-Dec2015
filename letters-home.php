@@ -28,6 +28,12 @@
             <ul class="small-block-grid-1">
             	<li>           	
 				  <ul class="circle">March 2020<hr>
+				  	<li><a href="/assets/letters/2020-04/newsletter-03-04.pdf" target="_blank">Newsletter</a></li>
+			  	  </ul>
+				</li>
+
+            	<li>           	
+				  <ul class="circle">March 2020<hr>
 				  	<li><a href="/assets/letters/2020-03/parent-letter-25-03.pdf" target="_blank">Parent Update 25th March</a></li>
 				  	<li><a href="/assets/letters/2020-03/year-11-update-24-03.pdf" target="_blank">Year 11 Update 24th March</a></li>
 				  	<li><a href="/assets/letters/2020-03/key-worker.pdf" target="_blank">Key Worker Scheme</a></li>
