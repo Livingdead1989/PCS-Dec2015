@@ -27,8 +27,9 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
             	<li>           	
-				  <ul class="circle">March 2020<hr>
+				  <ul class="circle">April 2020<hr>
 				  	<li><a href="/assets/letters/2020-04/newsletter-03-04.pdf" target="_blank">Newsletter</a></li>
+				  	<li><a href="/assets/letters/2020-04/exam-info.pdf" target="_blank">Ofqual Exam Marking</a></li>
 			  	  </ul>
 				</li>
 
