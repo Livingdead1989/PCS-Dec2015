@@ -32,6 +32,15 @@
     <div class="row">
         <br>
         <div id="park-post" class="medium-12 columns">
+            <h3>News Articles</h3>
+            <p>Below are some intresting News Articles</p>
+                <li>            
+                  <ul class="circle"><hr>
+                    <li><a href="https://www.portsmouth.co.uk/education/leigh-parks-park-community-school-teacher-turns-his-design-skills-saving-lives-new-face-shield-2536701" target="_blank">Leigh Park's Park Community School teacher turns his design skills to saving lives with new face shield</a></li>
+                    <li><a href="https://www.portsmouth.co.uk/education/cash-grant-helps-park-community-school-feed-community-during-pandemic-2536164" target="_blank">Cash grant helps Park Community School feed community during pandemic</a></li>
+                  </ul>
+                </li>
+
             <h3>Park Post</h3>
             <p>Park Post is our magazine, celebrating all that is great about Park Community School!</p>
             <p>Park Post is available in downloadable PDF format.</p>
