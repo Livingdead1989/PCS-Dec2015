@@ -12,15 +12,13 @@
 <!-- HEADER SECTION -->
 <header class="header-misc">
     <div class="row">
-        <div class="medium-8 large-8 columns">
+      <div class="medium-8 large-8 columns">
             <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/munch/munch_logo.png" alt="MUNCH"></div>
-    </div>
-    <div class="medium-12 columns">
-            <br>
-            <p class="text-capitalize">MUNCH ensures that no child, no matter what school or age need go hungry during the holidays.</p>
-        </div>
-            
-        </div>
+      </div>
+      <div class="medium-12 columns">
+              <br>
+              <p class="text-capitalize">MUNCH ensures that no child, no matter what school or age need go hungry during the holidays.</p>
+      </div>
     </div>
 </header>
 
@@ -34,8 +32,21 @@
 
 <!-- CONTENT -->
 <section>
-    
-
+  <div class="row">
+    <div class="columns">
+      <h4>MUNCH during COVID-19</h4>
+      <p>With social distancing and isolation we are striving to maintain our MUNCH project by offering munch food bags and access to our MUNCH fridge and freezer.</p>
+      <ul class="clearing-thumbs" data-clearing>
+        <li><a href="/images/munch/munch_preparation.jpg"><img src="/images/munch/munch_preparation_tb.jpg"></a></li>
+        <li><a href="/images/munch/munch_meals_and_freezer.jpg"><img src="/images/munch/munch_meals_and_freezer_tb.jpg"></a></li>
+        <li><a href="/images/munch/munch_bags_of_food.jpg"><img src="/images/munch/munch_bags_of_food_tb.jpg"></a></li>
+        <li><a href="/images/munch/munch_freezer.jpg"><img src="/images/munch/munch_freezer_tb.jpg"></a></li>
+      </ul>
+      <hr>
+    </div>
+  </div>
+</section>
+<section>
 
     <div class="row">
         <br>
@@ -57,8 +68,6 @@
             <p>We have expanded MUNCH to both Thursday nights and Sunday lunches.  2 course Sunday lunches start monthly from Sunday 25th March and Thursday nights meals start weekly from Thursday March 29th.</p>
             <br><br>
         </div>
-
-        
     <br><br><br>
 </section>
 
@@ -87,7 +96,7 @@
         <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
-        
+
         <div class="columns">
             <p>At Park on Tuesday we were delighted to welcome Katy Trapani the Community Champion from Asda Havant who kindly presented Susan Parish, Business and Community Manager at Park Community School a  cheque to help support the MUNCH project that is running throughout the holidays. Susan said “I am delighted to accept this on behalf of Park Community School for the MUNCH project, it makes such a difference and ensures that no child or parent will go hungry in Leigh Park”.</p>
             <p>Katy also kindly brought along crayons, games and drawing pads for the children to enjoy when they come to MUNCH. Thank you so much to the ASDA Foundation.</p>
@@ -96,7 +105,7 @@
         <div class="medium-6 columns text-center">
             <img src="images/munch/munch_asda_award.jpg">
         </div>
-        
+
         <div class="medium-6 columns text-center">
             <img src="images/munch/munch_asda_award2.jpg">
         </div>
@@ -105,7 +114,7 @@
         <br>
             <p>If anyone is hungry throughout the holidays please do <a href="/contact.php">contact Park Community School</a> for further details.</p>
         </div>
-        
+
     </div>
     <br><br><br>
 </section>
@@ -128,7 +137,7 @@
                     <li>120 guests for Christmas Lunch</li>
                 </ul>
             <hr>
-            
+
         </div>
 
         <div class="medium-6 columns">
@@ -141,7 +150,7 @@
                     <li>158 guests for Christmas Lunch</li>
                 </ul>
             <hr>
-            
+
         </div>
 
         <div class="columns text-center">
