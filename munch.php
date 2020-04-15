@@ -36,12 +36,21 @@
     <div class="columns">
       <h4>MUNCH during COVID-19</h4>
       <p>With social distancing and isolation we are striving to maintain our MUNCH project by offering munch food bags and access to our MUNCH fridge and freezer.</p>
+
       <ul class="clearing-thumbs" data-clearing>
         <li><a href="/images/munch/munch_preparation.jpg"><img src="/images/munch/munch_preparation_tb.jpg"></a></li>
         <li><a href="/images/munch/munch_meals_and_freezer.jpg"><img src="/images/munch/munch_meals_and_freezer_tb.jpg"></a></li>
         <li><a href="/images/munch/munch_bags_of_food.jpg"><img src="/images/munch/munch_bags_of_food_tb.jpg"></a></li>
         <li><a href="/images/munch/munch_freezer.jpg"><img src="/images/munch/munch_freezer_tb.jpg"></a></li>
       </ul>
+
+      <br>
+
+      <div class="flex-video widescreen border-radius-5">
+          <iframe src="https://player.vimeo.com/video/407516405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      </div>
+
+      <br>
       <hr>
     </div>
   </div>
