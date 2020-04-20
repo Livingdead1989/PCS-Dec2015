@@ -48,6 +48,20 @@
                     </a>
                 </li>
 
+                <li class="">
+                     <a href="assets/challenge/poetry-competition.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/poetry-comp.jpg" alt="">
+                        <p>Poetry Competition</p>
+                    </a>
+                </li>
+
+                <li class="">
+                     <a href="assets/challenge/pe-competition.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/pe-comp.jpg" alt="">
+                        <p>PE Competition</p>
+                    </a>
+                </li>
+
             </ul>
 
         </div>
