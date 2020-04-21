@@ -28,6 +28,7 @@
             <ul class="small-block-grid-1">
             	<li>           	
 				  <ul class="circle">April 2020<hr>
+				  	<li><a href="/assets/letters/2020-04/exam-guidance.pdf" target="_blank">Year 11 Exam Guidance</a></li>
 				  	<li><a href="/assets/letters/2020-04/newsletter-03-04.pdf" target="_blank">Newsletter</a></li>
 				  	<li><a href="/assets/letters/2020-04/exam-info.pdf" target="_blank">Ofqual Exam Marking</a></li>
 			  	  </ul>
