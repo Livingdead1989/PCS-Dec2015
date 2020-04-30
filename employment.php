@@ -31,7 +31,7 @@
 	      <ul class="no-bullet">
 			 <li>
 				<h4>Lead Teacher of English</h4>  
-				<p><em>Closing Date: 4th May 2020 </em></p>
+				<p><em>Closing Date: 12th May 2020 </em></p>
 
 				<span class="subheader">
 				<a href="assets/recruitment/lead-english.pdf" target="_blank">Position Details</a>
@@ -40,7 +40,7 @@
 			      
       <li>
         <h4>Teacher of English</h4>  
-        <p><em>Closing Date: 4th May 2020 </em></p>
+        <p><em>Closing Date: 12th May 2020 </em></p>
 
         <span class="subheader">
         <a href="assets/recruitment/english.pdf" target="_blank">Position Details</a>
@@ -49,7 +49,7 @@
       
       <li>
         <h4>Teacher of Science</h4>  
-        <p><em>Closing Date: 4th May 2020 </em></p>
+        <p><em>Closing Date: 12th May 2020 </em></p>
 
         <span class="subheader">
         <a href="assets/recruitment/science.pdf" target="_blank">Position Details</a>
@@ -58,7 +58,7 @@
 
       <li>
         <h4>Teaching Assistant</h4>  
-        <p><em>Closing Date: 4th May 2020 </em></p>
+        <p><em>Closing Date: 12th May 2020 </em></p>
 
         <span class="subheader">
         <a href="assets/recruitment/teaching-assistant.pdf" target="_blank">Position Details</a>
