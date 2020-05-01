@@ -62,6 +62,21 @@
                     </a>
                 </li>
 
+                    <li class="">
+                     <a href="assets/challenge/maths.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/maths.jpg" alt="">
+                        <p>Maths Challenge</p>
+                    </a>
+                </li>
+
+                <li class="">
+                     <a href="assets/challenge/spanish.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/spanish.jpg" alt="">
+                        <p>Spanish Challenge</p>
+                    </a>
+                </li>
+
+              
             </ul>
 
         </div>
