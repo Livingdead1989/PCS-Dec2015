@@ -90,7 +90,7 @@
                 <li>
                     <div class="menu-box"><a href="#" data-reveal-id="pty-BouncyCastle">
                             <img src="images/community/bouncycastle.jpg" alt="">
-                            <p>Bouncy Castle</p>
+                            <p>Pirate Bouncy Castle</p>
                         </a></div>
                 </li>
                 <li>
@@ -109,12 +109,6 @@
                     <div class="menu-box"><a href="#" data-reveal-id="pty-TreasureHunt">
                             <img src="images/community/treasurehunt.jpg" alt=" ">
                             <p>Treasure Hunt Play 'n' Slide &amp; Bouncy Castle</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="#" data-reveal-id="pty-facefanatics">
-                            <img src="images/community/face_fanatics.jpg" alt=" ">
-                            <p>Face Fanatics</p>
                         </a></div>
                 </li>
                 <li>
@@ -333,9 +327,6 @@
 
 <!-- TreasureHunt -->
 <?php include( "includes/community/treasurehunt.html" ) ?>
-
-<!-- FaceFanatics -->
-<?php include( "includes/community/facefanatics.html" ) ?>
 
 <!-- PartySpace -->
 <?php include( "includes/community/partyspace.html" ) ?>
