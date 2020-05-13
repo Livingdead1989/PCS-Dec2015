@@ -29,52 +29,8 @@
         <p><em>Governor vacancies are available on the <a href="/governors.php">Governors page</a>.</em></p>
         <hr>
 	      <ul class="no-bullet">
-			 <li>
-				<h4>Lead Teacher of English</h4>  
-				<p><em>Closing Date: 12th May 2020 </em></p>
-
-				<span class="subheader">
-				<a href="assets/recruitment/lead-english.pdf" target="_blank">Position Details</a>
-				</span>
-      </li>
-			      
-      <li>
-        <h4>Teacher of English</h4>  
-        <p><em>Closing Date: 12th May 2020 </em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/english.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-      
-      <li>
-        <h4>Teacher of Science</h4>  
-        <p><em>Closing Date: 12th May 2020 </em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/science.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-      <li>
-        <h4>Teaching Assistant</h4>  
-        <p><em>Closing Date: 12th May 2020 </em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/teaching-assistant.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-       <li>
-        <h4>Lead Teacher of Maths</h4>  
-        <p><em>Closing Date: 12th May 2020 </em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/lead-maths.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-			 
-			<!--<br><span class="subheader">Please check back later.</span> -->
+			 			 
+			<br><span class="subheader">Please check back later.</span>
 
 			        
           
