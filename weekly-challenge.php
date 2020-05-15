@@ -76,6 +76,20 @@
                     </a>
                 </li>
 
+                 <li class="">
+                     <a href="assets/challenge/maths-puzzle.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/maths-puzzle.jpg" alt="">
+                        <p>Maths Puzzle</p>
+                    </a>
+                </li>
+
+                <li class="">
+                     <a href="assets/challenge/kindness-challenge.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/kindness-challenge.jpg" alt="">
+                        <p>Kindness Challenge</p>
+                    </a>
+                </li>
+
               
             </ul>
 
