@@ -26,7 +26,17 @@
             <h3>Weekly Challenge</h3>
 
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
-                
+
+                <li class="">
+                    <a href="assets/challenge/kindness_challenge.docx" target="_blank">
+                        <p>Kindness Challenge</p>
+                    </a>
+                </li> 
+                <li class="">
+                    <a href="assets/challenge/history_project.pptx" target="_blank">
+                        <p>History Project</p>
+                    </a>
+                </li>                
                 <li class="">
                     <a href="assets/challenge/art-31-03.pdf" target="_blank">
                         <img class="small-6 medium-10 border-grey-radius" src="images/challenge/art-31-03.jpg" alt="">
