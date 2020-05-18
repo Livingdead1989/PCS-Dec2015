@@ -26,6 +26,13 @@
         <div class="medium-12 columns">
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
+            	<li>
+            		<ul class="circle">May 2020<hr>
+            			<li><a href="/assets/letters/2020-05/newsletter-15-05.pdf" target="_blank">Newsletter 15th May</a></li>
+            			<li><a href="/assets/letters/2020-05/newsletter-08-05.pdf" target="_blank">Newsletter 8th May</a></li>
+						<li><a href="/assets/letters/2020-05/newsletter-01-05.pdf" target="_blank">Newsletter 1st May</a></li>
+            		</ul>
+            	</li>
             	<li>           	
 				  <ul class="circle">April 2020<hr>
 				  	<li><a href="/assets/letters/2020-04/exam-guidance.pdf" target="_blank">Year 11 Exam Guidance</a></li>
