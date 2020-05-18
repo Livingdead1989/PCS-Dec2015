@@ -10,42 +10,8 @@
 <!-- NAVIGATION -->
 <?php include("includes/topnav.html") ?>
 
-<!-- Corona Notification -->
-<section style="background-color:#f08a24; color:white;">
-    <div class="row">
-        <div class="columns">
-            <p>lf you need to use our for 'Key Worker' provision please complete the request form linked below. Please note, that this provision is ONLY available to students:
-            <ul>
-                    <li>Who are in Years 7 to 11 at Park or whose parents are staff at Park</li>
-                    <li>Where there is NO alternative child care provision in place</li>
-                    <li>Whose parents are 'Key Workers' or are identified as ‘vulnerable’ by the school or Hampshire County Council</li>
-            </ul>
-            'Key Workers' who have already used the Key Worker School at Park will automatically remain eligible for this provision. If you have NOT previously used our 'Key Worker School provision, then you will need to complete the form and provide evidence of Key Worker status through a separate email to info@pcs.hants.sch.uk giving your name, job and your child’s name. Your evidence might be a company letter headed note from your employer, a payslip or a photo of your work ID badge. The Key Worker School will run between Monday and Friday from 8.30am and 2.45pm so long as staffing allows. A free lunch will be provided. We may not be able to accommodate special diets beyond vegetarian. Students need to wear their school uniform and normal expectations of conduct and behaviour apply.
-            <br>
-            We are now using the Department for Education’s (DfE’s) free school meal voucher scheme. Vouchers for £15 per week are sent from the provider, Edenred, direct to you by email. We provide the email address to Edenred for them to contact you. Please make sure your email address is correct in our school records. If the email address needs to be changed please email <a href="mailto:itservices@pcs.hants.sch.uk">IT Services.</a> The number of vouchers being sent out nationally means there can be up to a few days delay to the time you receive your voucher from when the school makes the request, this is beyond the school’s control.
-            <br>
-            Many Thanks
-            </p>
-
-            <div class="small-text-center large-text-right">
-                <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUREo4QkMxT1BJQkhFVDJXTDdSNzBLSFFFMy4u" target="_blank" class="button alert" >Key Worker Form</a>
-                <a href="/assets/letters/2020-03/t-and-c-key-worker.pdf" target="_blank" class="button alert" >T&C Key Worker</a>
-                <a href="/assets/office365_login.pdf" target="_blank" class="button alert" >Study From Home</a>
-            </div>
-
-            
-            <div class="small-text-center large-text-right">
-                <a class="small button radius success" target="_blank" href="https://vimeo.com/showcase/7029024">Assemblies</a>
-                <a class="small button radius success" target="_blank" href="/assets/letters/2020-05/newsletter-08-05.pdf">Newsletter</a>
-                <a class="small button radius success" target="_blank" href="weekly-challenge.php">Weekly Challenge</a>
-                <a class="small button radius success" target="_blank" href="assets/letters/2020-03/virtual-school.pdf">Virtual School Guide</a>
-                <a class="small button radius success" target="_blank" href="assets/letters/2020-03/parent-letter-home-learning.pdf">Parent Home Learning</a>
-                <a class="small button radius success" target="_blank" href="assets/letters/2020-03/year-7-10-home-learning.pdf">Year 7-10 Home Learning</a>
-                <a class="small button radius success" target="_blank" href="assets/letters/2020-03/year11-support.pdf">Year 11 Home Learning</a>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- COVID SECTION -->
+<?php include("includes/covid.html") ?>
 
 <!-- HEADER SECTION -->
 <header id="homepage-hero">
@@ -63,26 +29,6 @@
                 <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
                 <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a>
             </div>
-
-
-						<div id="coronavirus" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Coronavirus (COVID-19) Advice</h2>
-                            <p>The Prime Minister has announced that schools will close for most children after school on Friday. He stated that certain children of ‘key workers’ and children in vulnerable groups will still attend school. We await further clarification and will confirm all details as soon as we have them.</p>
-							<p>As the Coronavirus situation develops we ask parents and carers to refer to the Government website for further information.</p>
-							<p>As a school we will continue to follow the official guidance and support our students, below you will find useful websites and resources.</p>
-                          
-                          <p class="lead">Resources</p>
-                          <ul>
-							  <li><a href="//www.gov.uk/government/topical-events/coronavirus-covid-19-uk-government-response" target="_blank">UK Government Response to Coronavirus (COVID-19)</a></li>
-							  <li><a href="/assets/letters/2020-03/coronavirus-advice-19.pdf" target="_blank">Park Community School's Letter to Parents <small>(19th March)</small></a></li>
-							  <li><a href="/assets/office365_login.pdf" target="_blank">How to login to Office 365 <small>(PDF)</small> - Study from Home</a></li>                          
-                          </ul>
-                          
-                          
-                          
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-						
                         <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Headteacher's Welcome</h2>
                           <p class="lead">Mr Christopher Anders</p>
@@ -123,14 +69,6 @@
             <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                 <!-- SLIDER -->
                 <div class="homepage-slider">
-                    
-                    <!-- Image -->
-                    <div>
-                        <div class="border-radius-5">
-                            <img src="/images/index/work-pack.jpg" alt="Work Pack">
-                            <p>Students Work Pack</p>
-                        </div>
-                    </div>
                     <!-- VIMEO Video -->
                     <div>
                         <div class="flex-video widescreen border-radius-5">
