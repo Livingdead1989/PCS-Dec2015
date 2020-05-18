@@ -29,8 +29,26 @@
         <p><em>Governor vacancies are available on the <a href="/governors.php">Governors page</a>.</em></p>
         <hr>
 	      <ul class="no-bullet">
-			 			 
-			<br><span class="subheader">Please check back later.</span>
+
+        <li>
+          <h4>Lead Teacher of Maths</h4>  
+          <p><em>Closing Date: 26th May 2020</em></p>
+
+          <span class="subheader">
+          <a href="assets/recruitment/lead_math.pdf" target="_blank">Position Details</a>
+          </span>
+        </li>
+  
+<!-- <li>
+  <h4>POSITION</h4>  
+  <p><em>Closing Date: </em></p>
+
+  <span class="subheader">
+  <a href="assets/recruitment/#.pdf" target="_blank">Position Details</a>
+  </span>
+</li>
+ -->			 			 
+			<!-- <br><span class="subheader">Please check back later.</span> -->
 
 			        
           
