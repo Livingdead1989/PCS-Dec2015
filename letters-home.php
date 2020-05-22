@@ -28,6 +28,10 @@
             <ul class="small-block-grid-1">
             	<li>
             		<ul class="circle">May 2020<hr>
+            			<li><a href="/assets/letters/2020-05/yr10_facetoface.pdf" target="_blank">Year 10 face to face support in school</a></li>
+            			<li><a href="/assets/letters/2020-05/yr9_reports_rl.pdf" target="_blank">Year 9 reports &amp; remote learning</a></li>
+            			<li><a href="/assets/letters/2020-05/yr78_reports_rl.pdf" target="_blank">Year 7 and 8 reports &amp; remote learning</a></li>
+            			<li><a href="/assets/letters/2020-05/newsletter-22-05.pdf" target="_blank">Newsletter 22nd May</a></li>
             			<li><a href="/assets/letters/2020-05/newsletter-15-05.pdf" target="_blank">Newsletter 15th May</a></li>
             			<li><a href="/assets/letters/2020-05/newsletter-08-05.pdf" target="_blank">Newsletter 8th May</a></li>
 						<li><a href="/assets/letters/2020-05/newsletter-01-05.pdf" target="_blank">Newsletter 1st May</a></li>
