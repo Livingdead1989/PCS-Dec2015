@@ -30,15 +30,7 @@
         <hr>
 	      <ul class="no-bullet">
 
-        <li>
-          <h4>Lead Teacher of Maths</h4>  
-          <p><em>Closing Date: 26th May 2020</em></p>
-
-          <span class="subheader">
-          <a href="assets/recruitment/lead_math.pdf" target="_blank">Position Details</a>
-          </span>
-        </li>
-  
+          
 <!-- <li>
   <h4>POSITION</h4>  
   <p><em>Closing Date: </em></p>
@@ -48,7 +40,7 @@
   </span>
 </li>
  -->			 			 
-			<!-- <br><span class="subheader">Please check back later.</span> -->
+			<br><span class="subheader">Please check back later.</span>
 
 			        
           
