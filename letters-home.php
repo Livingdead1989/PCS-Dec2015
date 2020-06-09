@@ -27,6 +27,10 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
             	<li>
+            		<ul class="circle">June 2020<hr>
+            			<li><a href="/assets/letters/2020-06/newsletter-05-06.pdf" target="_blank">Newsletter 5th June</a></li>
+            		</ul>
+            	<li>
             		<ul class="circle">May 2020<hr>
             			<li><a href="/assets/letters/2020-05/yr10_facetoface.pdf" target="_blank">Year 10 face to face support in school</a></li>
             			<li><a href="/assets/letters/2020-05/yr9_reports_rl.pdf" target="_blank">Year 9 reports &amp; remote learning</a></li>
