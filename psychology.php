@@ -31,55 +31,81 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Purpose</h3>
-            <p>The course will provide students with a sound understanding of the various methods and approaches in psychology at an introductory level.  This will provide a basis for those students who are considering studying Psychology at a higher level.  The course will give students an awareness of research into human behaviour and motivation and will develop both scientific and analytical skills.</p>
+            <h3>Intention</h3>
+			<ul>
+				<li>Engage students in the process of psychological enquiry.</li>
+				<li>Help students develop as effective and independent learners, and as critical and reflective thinkers with enquiring minds.</li>
+				<li>For students to develop an awareness of why psychology matters.</li>
+				<li>Enable students to acquire knowledge and understanding of how psychology works and its essential role in society.</li>
+				<li>Support students in developing an understanding of the relationship between psychology and social, cultural, scientific and contemporary issues, and its impact on everyday life.</li>
+			</ul>
+			<p><em>What makes people tick? Why do some people behave the way they do?</em></p>
+			<p>Psychology is the scientific study of the mind and human behaviour. Psychologists observe and conduct experiments to find out more about the way people act and interact. They try to understand what motivates, challenges or changes us and use this understanding to help us tackle personal and social problems.</p>
+			<p>At Park Community School we intend to give students a broad introduction to a range of areas within Psychology, to help them develop critical and analytical thinking alongside developing research skills.  The course will provide students with a sound understanding of the various methods and approaches in psychology at an introductory level. This will provide a basis for those students who are considering studying Psychology at a higher level.</p>
 
-            <p>Students will be introduced to key methods and approaches in Psychology through the core areas of social, cognitive, developmental, biological and individual differences.  The purpose of this is to give students a basic general understanding of what this discipline involves and why psychological research is important in society today.</p>
+			<h3>Implementation</h3>
+			<table>
+				<thead>
+				  <tr>
+				    <th>Year</th>
+				    <th>Unit</th>
+				    <th>Topics and Notes</th>
+				  </tr>
+				</thead>
+				<tbody>
+				  <tr>
+				    <td>9</td>
+				    <td>Memory</td>
+				    <td>This unit explores the processes and structures of our memory.  We<br>will explore different models for how our memory works alongside case<br>studies of individuals with abnormal memories.</td>
+				  </tr>
+				  <tr>
+				    <td></td>
+				    <td>Perception<br></td>
+				    <td>Through this unit you will explore how it is that we perceive the<br>world the way that we do.  We will look at how the brain allows us to<br>see a stable consistent world, the role of nature and nurture in<br>perception, optical illusions and how other factors such as our<br>emotional state can affect our perception of the world.</td>
+				  </tr>
+				  <tr>
+				    <td></td>
+				    <td>Development</td>
+				    <td>This unit looks at how humans develop and learn.  We will explore<br>early brain development, followed by investigating theories of<br>cognitive development and how learning can affect this development. <br>This unit is about how our mental abilities develop and the role<br>education plays in this.</td>
+				  </tr>
+				  <tr>
+				    <td>10</td>
+				    <td>Research Methods</td>
+				    <td>This unit is about how psychologists plan, carry out and evaluate<br>their research.  It includes elements of the use of data, research<br>types and methodology and ethical issues relating to psychological<br>research.</td>
+				  </tr>
+				  <tr>
+				    <td></td>
+				    <td>Social Influence</td>
+				    <td>Social Influence looks at how individuals interact with others, and<br>how others can alter our behaviour and responses.  Topics range from<br>conformity and obedience, to prosocial and antisocial behaviour in<br>crowds.</td>
+				  </tr>
+				  <tr>
+				    <td></td>
+				    <td>Language Thought and Communication</td>
+				    <td>This unit looks at the ways in which human beings communicate.  We<br>will explore the relationship between language and thought, how human<br>communication is different from animal communication and the types<br>and influence of non-verbal communication.</td>
+				  </tr>
+				  <tr>
+				    <td></td>
+				    <td>Brain and Neuropsychology</td>
+				    <td>Brain and Neuropsychology introduces the structure and functions of<br>the brain and nervous system.  It then moves on to explore how<br>developments in technology, particularly modern scanning techniques,<br>are advancing our understanding of psychology.</td>
+				  </tr>
+				  <tr>
+				    <td>11</td>
+				    <td>Psychological Problems<br></td>
+				    <td>This unit offers an introduction to mental health, including its<br>characteristics and the challenges posed by mental health issues to<br>society today.  This is followed by an exploration of two specific<br>examples of common mental health issues in the U.K; depression and<br>addiction.</td>
+				  </tr>
+				  <tr>
+				    <td></td>
+				    <td>Revision</td>
+				    <td></td>
+				  </tr>
+				</tbody>
+			</table>
 
-            <p>AQA state “The topic areas have been chosen because of their importance and prominence within the core area and their relevance to everyday life. The specification requires candidates to understand ethical issues that must be considered when conducting research in psychology.”</p>
-
-            <h3>Aims</h3>
-            <ul class="circle">
-                <li>Engage in the process of psychological enquiry.</li>
-                <li>Develop as effective and independent learners, and as critical and reflective thinkers with enquiring minds.</li>
-                <li>Develop an awareness of why psychology matters.</li>
-                <li>Acquire knowledge and understanding of how psychology works and its essential role in society.</li>
-                <li>Develop an understanding of the relationship between psychology and social, cultural, scientific and contemporary issues, and its impact on everyday life.</li>
-                <li>Develop an understanding of ethical issues in psychology.</li>
-                <li>Develop an understanding of the contribution of psychology to individual, social and cultural diversity.</li>
-                <li>Develop a critical approach to scientific evidence and methods.</li>
-            </ul>
-
-            <h3>Areas of Study</h3>
-
-            <p>Year 9</p>
-            <p><strong>Memory</strong> – Students investigate different explanations of how our memory works, the reasons that we forget and the reliability of eye-witness testimony as used within the context of the criminal justice system.  Alongside this, students will develop practical uses for this research such as revision tips to aid memory.</p>
-
-            <p><strong>Non-Verbal Communication</strong> - We communicate with each other every day but rarely stop to think about how or why we do this.  This unit looks at the side of communication that is often ignored.  With only 7% of our communication through words why is it that we don’t spend more time thinking about the other aspects of our communication?  This unit examines areas such as body language, eye-contact, and social norms.</p>
-
-            <p><strong>Development of Personality</strong> - This unit examines different types of personality such as neuroticism, introversion and extraversion.  The main focus is on anti-social personality disorder, its causes symptoms and solutions.  Why is it that we all have such different personalities, how do these develop, and what are the consequences for us?</p>
-
-            <p><strong>Stereotyping, Prejudice and Discrimination</strong> - This unit reflects on us as social animals.  Are stereotypes a necessary aspect to how we function?  Do we need stereotypes within a society?  We go on to question why some people are prejudiced and discriminate and where these traits might come from.  Finally there is an exploration of research into ways this can be reduced within society.</p>
+			<h3>Impact</h3>
+			<p>Students will leave us with a deeper understanding and appreciation of the way our minds work and the influence we have on each other as groups and individuals.  They will be more self-aware, and they will leave us having developed critical and analytical thinking, alongside an appreciation of how scientific research is carried out.  Students will leave with a GCSE demonstrating their achievement and progress in this, and more prepared to interact positively with society in modern Britain.  They will leave fully prepared to continue studying Psychology at a higher level.</p>
 
 
-
-            <p>Year 10</p>
-            <p><strong>Learning</strong> - How do human beings learn?  We can train dogs but can we do the same with human beings?  This unit looks at research into how behaviour can be taught or ‘conditioned’ in animals and whether this can be applied to humans.  Do we learn in the same way or are the processes more complex?  This will also include the treatment of phobias, behaviour shaping and aversion therapy as practical applications of the research.</p>
-
-            <p><strong>Social Influence</strong> - Why is it that people follow instructions from authority figures without question?  Why is it that so few bystanders will offer help to others?  This unit looks at questions of obedience, authority, peer pressure and conformity.  It examines the way individuals behave on their own and in groups, and the factors that influence this behaviour.</p>
-
-            <p><strong>Sex and Gender</strong> - This unit looks at the differences between sex and gender identification.  It will look at how our gender identity develops and the effects of various external factors, including role models, family, and society, on this development.  Finally we will look at the role and the effect of the media on gender development and the theories of Freud and other psychologists.</p>
-
-            <p><strong>Aggression</strong> - Aggression is used as the focus to gain an understanding of different approaches to psychology.  It will be examined from a biological, psychodynamic and social learning perspective.  We will look at theories for the development of aggressive behaviour and research into factors that can increase and reduce aggressive behaviour in individuals and society. </p>
-
-
-
-            <p>Year 11</p>
-            <p><strong>Research Methods</strong> - This unit includes how psychological research is conducted and how to evaluate the results provided.  Students will carry out a piece of psychological research to gain a practical insight into these questions.  They will follow the steps used in carrying out research and will consider the pros and cons of different methods and styles of study.</p>
-
-            <p><strong>Revision</strong> - Students will have the chance to reflect on the topics from year 9 and 10 in light of what they have learnt through their research methods unit.  They will look at practical ways of applying this and develop their own study and revision techniques based on their learning.</p>
-
-            <p><em>Note: Year 9 students will be following the new G.C.S.E specification.  Details to be confirmed.</em></p>
+            
             <br>
         </div>
 
