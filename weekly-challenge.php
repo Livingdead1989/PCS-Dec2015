@@ -28,6 +28,18 @@
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
 
                 <li class="">
+                    <a href="assets/challenge/pe_competition.pptx" target="_blank">
+                        <p>PE Competition</p>
+                    </a>
+                </li> 
+
+                <li class="">
+                    <a href="assets/challenge/art_comp.jpg" target="_blank">
+                        <p>Art Competition</p>
+                    </a>
+                </li> 
+
+                <li class="">
                     <a href="assets/challenge/kindness_challenge.docx" target="_blank">
                         <p>Kindness Challenge</p>
                     </a>
