@@ -28,6 +28,7 @@
             <ul class="small-block-grid-1">
             	<li>
             		<ul class="circle">June 2020<hr>
+            			<li><a href="/assets/letters/2020-06/yr6_parent_08-06.pdf" target="_blank">Year 6 Transition</a></li>
             			<li><a href="/assets/letters/2020-06/yr10-face-to-face.pdf" target="_blank">10th June - Year 10 Face-to-Face</a></li>
             			<li><a href="/assets/letters/2020-06/newsletter-05-06.pdf" target="_blank">Newsletter 5th June</a></li>
             		</ul>
@@ -44,6 +45,7 @@
             	</li>
             	<li>           	
 				  <ul class="circle">April 2020<hr>
+				  	<li><a href="/assets/letters/2020-04/yr6_parents_welcome_29-04.pdf" target="_blank">Year 6 Parents Welcome to Park</a></li>
 				  	<li><a href="/assets/letters/2020-04/exam-guidance.pdf" target="_blank">Year 11 Exam Guidance</a></li>
 				  	<li><a href="/assets/letters/2020-04/newsletter-03-04.pdf" target="_blank">Newsletter</a></li>
 				  	<li><a href="/assets/letters/2020-04/exam-info.pdf" target="_blank">Ofqual Exam Marking</a></li>
