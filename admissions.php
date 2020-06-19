@@ -137,9 +137,9 @@
                 <li>The school day</li>
                 <li>Required equipment</li>
             </ul>
-            <div class="small-only-text-center">
+            <!--<div class="small-only-text-center">
                 <a href="/assets/moving-up.pdf" target="_blank" class="button radius">Moving Up!</a>
-            </div>
+            </div> -->
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/admissions/admissions-03.jpg" alt="Park Community School Students"></div>
     </div><br>
