@@ -25,6 +25,11 @@
 		<div class="columns">
 			<br>
 			<div class="row">
+				<h2>Connect4Summer 2020</h2>
+			<div class="small-text-center large-text-right">
+                <a class="small button radius" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
+            </div>
+
 				<h2>Connect4Summer 2019 - Review</h2>
 				<p>We are really proud of what we have achieved, 17 organisations have provided free daily child care and 21 organisations have provided free family fun days for 20 days and the feedback from parents has been tremendous....</p>
 
