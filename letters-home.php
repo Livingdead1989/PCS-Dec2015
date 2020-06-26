@@ -28,6 +28,7 @@
             <ul class="small-block-grid-1">
             	<li>
             		<ul class="circle">June 2020<hr>
+            			<li><a href="assets/letters/2020-06/newsletter-26-06.pdf" target="_blank">Newsletter 26th June</a></li>
             			<li><a href="/assets/letters/2020-06/year-6-transition-visits.pdf" target="_blank">22nd June Year 6 Transition Visits</a></li>
             			<li><a href="/assets/letters/2020-06/year-7-and-8-face-to-face.pdf" target="_blank">22nd June Year 7 and 8 Face to Face Meetings</a></li>
             			<li><a href="/assets/letters/2020-06/newsletter-19-06.pdf" target="_blank">Newsletter 19th June</a></li>
