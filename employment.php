@@ -40,12 +40,20 @@
   </span>
 </li>
  -->	
- <li>
+<li>
   <h4>Cafe Manager</h4>  
   <p><em>Closing Date: 15th July 2020</em></p>
 
   <span class="subheader">
   <a href="assets/recruitment/cafe_manager.pdf" target="_blank">Position Details</a>
+  </span>
+</li>
+<li>
+  <h4>Cafe Assistant</h4>  
+  <p><em>Closing Date: 15th July 2020</em></p>
+
+  <span class="subheader">
+  <a href="assets/recruitment/cafe_assistant.pdf" target="_blank">Position Details</a>
   </span>
 </li>
 			 			 
