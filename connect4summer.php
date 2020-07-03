@@ -24,7 +24,6 @@
 	<div class="row">
 		<div class="columns">
 			<br>
-			<div class="row">
 				<h2>Connect4Summer 2020</h2>
 				<p>Connect4Summer is back at Park for 2020! Join us from 29th July-25th August for a summer of fun.</p>
 				<p>FREE Family Fun Days, childcare and Teen Projects.</p>
@@ -37,11 +36,28 @@
 				<li>Gaming design with Stuart: specialist in gaming design and app creation. Learn to create your own game with a focus on creativity and strategy. Create an app that you can download to your phone at the end of the course.</li>
 				<li>Artwork and graffiti with James Waterfield: specialist in teaching art. One of James’ passions is creating large graffiti displays at festivals. On the day you will work on a design and then using spray paint create your own artwork to take home and display.</li>
 			</ul>
-			<div class="small-text-center large-text-right">
-                <a class="small button radius" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
+			<div class="small-text-center">
+                <a class="large button radius" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
             </div>
 
-				<h2>Connect4Summer 2019 - Review</h2>
+        	<div class="small-offset-2 small-8 text-center">
+        		<div class="flex-video widescreen border-radius-5">
+	                <iframe src="https://player.vimeo.com/video/434748011" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+	            </div>
+        	</div>
+
+			<br><br>
+		</div>
+	</div>
+</section>			
+
+<section class="grey-bg">
+    <div class="row">
+    	<div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+	<div class="row">
+		<div class="columns">
+			<h2>Connect4Summer 2019 - Review</h2>
 				<p>We are really proud of what we have achieved, 17 organisations have provided free daily child care and 21 organisations have provided free family fun days for 20 days and the feedback from parents has been tremendous....</p>
 
 				<div class="text-center flex-video widescreen border-radius-5">
@@ -51,14 +67,13 @@
                   <a href="/assets/connect4summer/connect4summer_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
                 </div>
                 <br><br>
-			</div>
 		</div>
 	</div>
-</section>			
+</section>
 
-<section class="grey-bg">
-    <div class="row">
-    	<div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+<section>
+	<div class="row">
+    	<div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
 	<div class="row">
 		<div class="columns">
@@ -99,61 +114,6 @@
 			<br>
 
 			<p>This scheme has been made possible by a joint funding bid by Park Community School and Romsey Community School.</p>
-			<br><br>
-		</div>
-	</div>
-</section>
-
-<section>
-	<div class="row">
-    	<div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
-    </div>
-	<div class="row">
-		<div class="columns">
-			<br>
-			<p>Venues include:</p>
-			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2">
-				<li>Park Community School, Havant</li>
-				<li>Acorn Centre, Wecock Farm</li>
-				<li>Woodlands Community Hall, Headley Down</li>
-				<li>Wooteys Junior School, Alton</li>
-				<li>Alderwood Leisure Centre, Rushmoor</li>
-				<li>Grange Community Junior School, Farnborough</li>
-				<li>Westside Community Centre, Basingstoke</li>
-				<li>Southview Junior School, Basingstoke</li>
-				<li>Knights Enham Junior School, Test Valley</li>
-				<li>Roman Way Primary School, Test Valley</li>
-				<li>Carroll Centre, Winchester</li>
-				<li>Hilt Community Centre, Chandlers Ford</li>
-				<li>Pavilion on the Park, Eastleigh</li>
-				<li>Romsey Community School, Romsey</li>
-				<li>Testwood School, New Forest</li>
-				<li>Itchen College, Southampton</li>
-				<li>Alver Valley School, Gosport</li>
-				<li>St. Vincents College, Gosport</li>
-				<li>Salvation Army, Portsmouth</li>
-				<li>Medina Primary School, Cosham</li>
-				<li>Hayling Island Community Centre</li>
-			</ul>
-
-			<hr>
-
-			<br>
-
-			<h2>What Activities were offered?</h2>
-			<p>Our programme is different every day, activities include:</p>
-			<ul>
-				<li>Circus Skills</li>
-				<li>Dr Blendo Science Extravaganza</li>
-				<li>Craft</li>
-				<li>Woodwork</li>
-				<li>Cookery</li>
-				<li>Painting</li>
-				<li>Dance</li>
-				<li>Singing</li>
-				<li>Percussion</li>
-				<li>and much more...</li>
-			</ul>
 			<br><br>
 		</div>
 	</div>
