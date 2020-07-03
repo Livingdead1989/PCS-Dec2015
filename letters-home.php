@@ -29,6 +29,7 @@
             	<li>
             		<ul class="circle">July 2020<hr>
             			<!-- <li><a href="/assets/letters/2020-07/#.pdf" target="_blank"></a></li> -->
+            			<li><a href="/assets/letters/2020-07/newsletter-03-07.pdf" target="_blank">Newsletter 3rd July</a></li>
             			<li><a href="/assets/letters/2020-07/yr7-9_term_end_arrangements.pdf" target="_blank">Year 7 & 9 End of Term Arrangements</a></li>
             			<li><a href="/assets/letters/2020-07/yr10_term_end_arrangements.pdf" target="_blank">Year 10 End of Term Arrangements</a></li>
             		</ul>
