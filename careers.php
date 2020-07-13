@@ -63,6 +63,7 @@
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
           </div>
           <!-- /MODAL -->
+           <a href="/assets/apprenticeship_parent_pack.pdf" class="button radius" target="_blank">Parent and Carer Apprenticeship Pack</a>
         </div>
         <div class="small-6 small-pull-3 medium-pull-0 medium-4 columns">
           <img src="images/careers/logo.png" alt="">
