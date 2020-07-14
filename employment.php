@@ -42,7 +42,7 @@
  -->	
 <li>
   <h4>Cafe Manager</h4>  
-  <p><em>Closing Date: 15th July 2020</em></p>
+  <p><em>Closing Date: 22nd July 2020</em></p>
 
   <span class="subheader">
   <a href="assets/recruitment/cafe_manager.pdf" target="_blank">Position Details</a>
