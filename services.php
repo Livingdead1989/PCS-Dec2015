@@ -33,19 +33,6 @@
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
           <br>
               <ul class="pricing-table">
-                <li class="title"><img class="fixed-size-100" src="images/logo/pars.png" alt="TASC - PARS"><br>PARS</li>
-                <li class="bullet-item">Restricted Area</li>
-
-                <li class="cta-button">
-                  <a class="button radius" href="//pars.pcs.hants.sch.uk/pars" target="_blank">Open</a>
-                </li>
-              </ul>
-          <br>
-        </div>
-
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
-          <br>
-              <ul class="pricing-table">
                 <li class="title"><img class="fixed-size-100" src="images/logo/insight.png" alt="TASC - Insight"><br>Insight</li>
                 <li class="bullet-item">Homework</li>
                 <li class="bullet-item">Achievements</li>
@@ -73,45 +60,11 @@
         <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
         <br>
             <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/logo/gcsepod_round.png" alt="GCSE Pod"><br>GCSE Pod</li>
-              <li class="bullet-item">GCSE Pod</li>
-              <li class="bullet-item">Revision</li>
-              <li class="bullet-item">Homework</li>
-              <li class="cta-button"><a class="button radius" href="//www.gcsepod.com/parents/" target="_blank">Open</a></li>
-            </ul>
-        <br>
-        </div>
-
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
-        <br>
-            <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/logo/tucasi.png" alt="Tucasi - Online Payments"><br>Tucasi</li>
               <li class="bullet-item">Online Payments</li>
               <li class="bullet-item">Secure</li>
               <li class="bullet-item">Quick and Easy</li>
               <li class="cta-button"><a class="button radius" href="//www.scopay.com/pcs" target="_blank">Open</a></li>
-            </ul>
-        <br>
-        </div>
-
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
-        <br>
-            <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/cogs.svg" alt="Manage Engine Self Service Portal - Password Reset"><br>Self Service</li>
-              <li class="bullet-item">Password Resets</li>
-              <li class="bullet-item">Self Service Portal</li>
-              <li class="bullet-item">Manage Engine</li>
-              <li class="cta-button"><a class="button radius" href="https://ss.pcs.hants.sch.uk" target="_blank">Open</a></li>
-            </ul>
-        <br>
-        </div>
-
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
-        <br>
-            <ul class="pricing-table">
-              <li class="title"><img class="fixed-size-100" src="images/tv.png" alt="Manage Engine Self Service Portal - Password Reset"><br>Remote Support</li>
-              <li class="bullet-item">TeamViewer Quick Support </li>
-              <li class="cta-button"><a class="button radius" href="https://get.teamviewer.com/6f5tzsu" target="_blank">Open</a></li>
             </ul>
         <br>
         </div>
