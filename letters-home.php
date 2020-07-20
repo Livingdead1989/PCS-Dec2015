@@ -29,6 +29,7 @@
             	<li>
             		<ul class="circle">July 2020<hr>
             			<!-- <li><a href="/assets/letters/2020-07/#.pdf" target="_blank"></a></li> -->
+            			<li><a href="/assets/letters/2020-07/gcse_results_day_2020.pdf" target="_blank">GCSE Results Day 2020</a></li>
             			<li><a href="/assets/letters/2020-07/newsletter-10-07.pdf" target="_blank">Newsletter 10th July</a></li>
             			<li><a href="/assets/letters/2020-07/newsletter-03-07.pdf" target="_blank">Newsletter 3rd July</a></li>
             			<li><a href="/assets/letters/2020-07/yr7-9_term_end_arrangements.pdf" target="_blank">Year 7 & 9 End of Term Arrangements</a></li>
