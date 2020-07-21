@@ -68,14 +68,6 @@
             <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                 <!-- SLIDER -->
                 <div class="homepage-slider">
-
-                    <!-- VIMEO Video -->
-                    <div>
-                        <div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://player.vimeo.com/video/440002226" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                            <p>Year 11 Leaver's Video</p>
-                        </div>
-                    </div>
                     <!-- VIMEO Video -->
                     <div>
                         <div class="flex-video widescreen border-radius-5">
