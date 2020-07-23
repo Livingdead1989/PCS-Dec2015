@@ -39,18 +39,10 @@
   <a href="assets/recruitment/#.pdf" target="_blank">Position Details</a>
   </span>
 </li>
- -->	
-<li>
-  <h4>Cafe Manager</h4>  
-  <p><em>Closing Date: 22nd July 2020</em></p>
-
-  <span class="subheader">
-  <a href="assets/recruitment/cafe_manager.pdf" target="_blank">Position Details</a>
-  </span>
-</li>
+ -->
 
 			 			 
-			<!-- <br><span class="subheader">Please check back later.</span> -->
+			<br><span class="subheader">Please check back later.</span>
 
 			        
           
