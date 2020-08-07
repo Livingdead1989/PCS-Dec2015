@@ -28,24 +28,28 @@
             <ul class="text-center small-block-grid-1 medium-block-grid-3">
 
                 <li class="">
-                    <a href="assets/challenge/pe_competition.pptx" target="_blank">
+                    <a href="assets/challenge/pe_competition-2.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/pe_competition-2.jpg" alt="">
                         <p>PE Competition</p>
                     </a>
                 </li> 
 
                 <li class="">
                     <a href="assets/challenge/art_comp.jpg" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/art_comp.jpg" alt="">
                         <p>Art Competition</p>
                     </a>
                 </li> 
 
                 <li class="">
-                    <a href="assets/challenge/kindness_challenge.docx" target="_blank">
+                    <a href="assets/challenge/kindness_challenge.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/kindness_challenge.jpg" alt="">
                         <p>Kindness Challenge</p>
                     </a>
                 </li> 
                 <li class="">
-                    <a href="assets/challenge/history_project.pptx" target="_blank">
+                    <a href="assets/challenge/history_project.pdf" target="_blank">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/history_project.jpg" alt="">
                         <p>History Project</p>
                     </a>
                 </li>                
