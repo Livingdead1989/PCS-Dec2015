@@ -24,6 +24,9 @@
     <div class="row">
         <br>
         <div class="medium-7 columns">
+
+            <p>Working independently is an essential skill for success in school, exams and life. At Park, we develop this through the provision of our full curriculum being accessible remotely to ensure that all students can access learning at any time and revisit their learning to master it. We expect students to work at home as well as in school.</p>
+
             <p>Homework is a significant way through which we increase students’ <strong>Understanding</strong> and <strong>Mastery</strong> of content and skills, and raise standards.</p>
 
             <p>The expectations of new exam syllabuses and a move to terminal examinations in all subjects over the next three years, means that students must be supported to consolidate, review and revise learning outside of lessons in order to fully master the knowledge and skills they require. <br>Homework is a vital part of this.</p>
@@ -75,10 +78,6 @@
           </ul>
           <h4 class="text-capitalize">The Internet has lots of helpful resources</h4>
           <p>If your child has forgotten some facts or how to solve a maths problem, there will always be a <a href="//www.youtube.com/channel/UC3yA8nDwraeOfnYfBWun83g" target="_blank">YouTube</a> video on it that you can watch together.</p>
-          <p>Some great YouTubers are:</p>
-          <ul>
-            <li>English: <a href="//www.youtube.com/user/mrbruff/featured">MrBruff</a> or <a href="//www.youtube.com/channel/UC0jbf4wI1GPts6hpbKZ-7Bw/featured">Mrs Whelan's English</a>.</li>
-          </ul>
 
         </div>
         <div class="medium-pull-0 medium-offset-0 medium-5 columns"><br class="show-for-medium-up"><img class="hide-for-small" src="images/homework/homework-02.jpg" alt="Park Community School - Encourage students to value their work"></div>
@@ -114,6 +113,8 @@
             <li><a href="//mymaths.co.uk">MyMaths</a></li>
             <li><a href="//corbettmaths.com/">Corbettmaths</a></li>
             <li><a href="//www.youtube.com/channel/UChtsYbgvLf9Ac0b1GnZ_1lw">Murphy's Maths Youtube account</a></li>
+            <li><a href="//www.youtube.com/user/mrbruff/featured">MrBruff</a></li>
+            <li><a href="//www.youtube.com/channel/UC0jbf4wI1GPts6hpbKZ-7Bw/featured">Mrs Whelan's English</a></li>
           </ul>
         </div>
     </div>
@@ -129,65 +130,14 @@
 
           <h3>Subjects Resources</h3>
 
-          <ul class="accordion" data-accordion role="tablist">
-            <!-- SCIENCE -->
-            <li class="accordion-navigation">
-              <a href="#panel-science" role="tab" id="panel-science-heading" aria-controls="panel-science">Science</a>
-              <div id="panel-science" class="content active" role="tabpanel" aria-labelledby="panel-science-heading">
-                Science Homework Resources:
+          <a class="button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
 
-                <ul>
-                  <li><a href="assets/homework/science/required_practicals.pdf">AQA Combined/Separate Science Required Practicals <small>(PDF)</small></a></li>
-                </ul>
-              </div>
-            </li>
-            <!-- /SCIENCE -->
-            <!-- COMPUTER SCIENCE -->
-            <li class="accordion-navigation">
-              <a href="#panel-cscience" role="tab" id="panel-cscience-heading" aria-controls="panel-cscience">Computer Science</a>
-              <div id="panel-cscience" class="content active" role="tabpanel" aria-labelledby="panel-cscience-heading">
-                Computer Science Homework Resources:
-
-                <ul>
-                  <li><a href="/assets/homework/computer-science-paper-1-revision.pdf">Computer Science Revision Paper 1 <small>(PDF)</small></a></li>
-                  <li><a href="/assets/homework/computer-science-paper-2-revision.pdf">Computer Science Revision Paper 2 <small>(PDF)</small></a></li>
-                </ul>
-              </div>
-            </li>
-            <!-- /COMPUTER SCIENCE -->
-            <!-- MATHS -->
-            <li class="accordion-navigation">
-              <a href="#panel-maths" role="tab" id="panel-maths-heading" aria-controls="panel-maths">Maths</a>
-              <div id="panel-maths" class="content active" role="tabpanel" aria-labelledby="panel-maths-heading">
-                Maths Homework Resources:
-
-                <ul>
-                  <li><a href="https://www.mymaths.co.uk/secondary.html">My Maths <small>(WEB)</small></a></li>
-                  <li><a href="https://corbettmaths.com/contents/">Corbett Maths <small>(WEB)</small></a></li>
-                </ul>
-                Maths Revision Resources:
-
-                <ul>
-                  <li><a href="https://www.youtube.com/channel/UChtsYbgvLf9Ac0b1GnZ_1lw">Murphy's Maths <small>(WEB)</small></a></li>
-                  <li><a href="https://www.onmaths.com/">Exam Practice and Support <small>(WEB)</small></a></li>
-                </ul>
-              </div>
-            </li>
-            <!-- /MATHS -->
-            <!-- TECHNOLOGY -->
-            <li class="accordion-navigation">
-              <a href="#panel-tech" role="tab" id="panel-tech-heading" aria-controls="panel-tech">Technology</a>
-              <div id="panel-tech" class="content active" role="tabpanel" aria-labelledby="panel-tech-heading">
-                Technology Revision Resources:
-
-                <ul>
-                  <li><a href="/assets/homework/technology/technology-exam-8-week-revision.pdf">8 Week Revision Plan <small>(PDF)</small></a></li>
-                  <li><a href="/assets/homework/technologytechnology-exam-prep.pdf">Exam Preperation <small>(PDF)</small></a></li>
-                  <li><a href="/assets/homework/technology/technology-exam-support.pdf">Exam Support <small>(PDF)</small></a></li>
-                </ul>
-              </div>
-            </li>
-            <!-- /MATHS -->
+          <ul>
+            <li><a target="_blank" href="//vimeo.com/showcase/7145412">Lockdown Learning Revision Videos</a></li>
+            <li><a target="_blank" href="//members.gcsepod.com/login">GCSEpod</a></li>
+            <li><a target="_blank" href="//app.senecalearning.com/login">SENECA</a></li>
+            <li><a target="_blank" href="//www.thenational.academy/">The National Academy</a></li>
+            <li><a target="_blank" href="//www.bbc.co.uk/teach/live-lessons/">BBC Live Lessons</a></li>
           </ul>
           
 

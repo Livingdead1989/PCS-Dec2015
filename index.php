@@ -43,8 +43,26 @@
                         <!-- COVID-19 -->
                         <div id="COVID-19" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">COVID-19</h2>
-                          <p class="lead">In preparation of an additional lockdown</p>
-                          <p></p>
+                          
+                            <p>We are delighted to welcome all students back to school from September 2020. The information on this page outlines:</p>
+                            <ul>
+                                <li>How we have reduced the risks of Covid 19 in school</li>
+                                <li>Accessing learning remotely if your child is shielding or they are part of a group sent home to self isolate</li>
+                                <li>Frequently Asked Questions</li>
+                            </ul>
+                            <p>For the first part of the year, students will be taught in Year Zones and will not mix with other year groups. The zones limit contact by operating:</p>
+                            <ul>
+                                <li>Separate entrance and exits to the school building</li>
+                                <li>Different lunch and break times from most other zones</li>
+                            </ul>
+                            <p>All students will follow their full curriculum which is broad and balanced. We have made some changes, for instance, in September:</p>
+                            <ul>
+                                <li>Assemblies will be less frequent and may be delivered virtually</li>
+                                <li>Physical Education will not involve contact sports</li>
+                                <li>Music will not involve singing or sharing instruments</li>
+                            </ul>
+                            <p>In the event of any Lockdown, student learning can be accessed in the Student area of our website. Parents can learn about how to support with this <a href="#" data-reveal-id="covid-parent">here</a>.</p> 
+
                           <hr>
                           <ul>
                             <li><a href="/assets/letters/2020-07/faq_parents_and_students.pdf" target="_blank">FAQ for Parents and Students</a></li>
