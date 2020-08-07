@@ -13,7 +13,7 @@
 <header class="header-parent">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Weekly Challenge <small>March - June 2020</small></h1>
+            <h1>Weekly Challenge <small>March - June</small></h1>
             <p class="text-capitalize"></p>
         </div>
     </div>
@@ -43,7 +43,7 @@
 
                 <li class="">
                     <a href="assets/challenge/kindness_challenge.pdf" target="_blank">
-                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/kindness_challenge.jpg" alt="">
+                        <img class="small-6 medium-10 border-grey-radius" src="images/challenge/kindness-challenge.jpg" alt="">
                         <p>Kindness Challenge</p>
                     </a>
                 </li> 
