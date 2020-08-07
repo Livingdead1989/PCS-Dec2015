@@ -2,7 +2,7 @@
 <html class="no-js" lang="en" >
     <head>
 
-        <title>Park Community School | Revision &amp; Homework</title>
+        <title>Park Community School | Remote Learning, Revision and Homework</title>
         <?php include("includes/head.html") ?>
     </head>
 <body class="page-learning">
@@ -13,7 +13,7 @@
 <header class="header-learning">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Revision &amp; Homework</h1>
+            <h1>Remote Learning, Revision and Homework</h1>
             <p class="text-capitalize">Learning is for life</p>
         </div>
     </div>

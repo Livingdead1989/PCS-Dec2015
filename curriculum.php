@@ -32,7 +32,7 @@
                 <iframe src="https://www.youtube-nocookie.com/embed/Z4nN1xSDCdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
-            <h3>Curriculum Overview 2019-20</h2>
+            <h3>Curriculum Overview 2020-2021</h2>
             <p>At Park we provide a broad curriculum which allows students to find what they love to do. Our curriculum is designed to promote attainment, build resilience and increase autonomy. We are known for our inclusive approach and others describe us as ‘much more than just a school’.</p>
             <ul class="circle">We do this through:
                 <li>A broad and traditional curriculum which leads to a wide range of GCSEs and other qualifications</li>
@@ -52,7 +52,7 @@
                     <div id="panel1d" class="content" role="tabpanel" aria-labelledby="panel1d-heading">
                         <ul>
                             <li>Core Subjects: English, Maths and Science</li>
-                            <li>Cultural: Geography, History, RE, Spanish</li>
+                            <li>Cultural: Geography, History, Religious Education, Spanish</li>
                             <li>The Arts: Art, Dance, Drama, Music</li>
                             <li>Design and Technology: Food and Design Technology</li>
                             <li>Much More Than...: Students go to visit our small holding, participate in an enterprise project at our print business <a href="../design-print.php" target="_blank">(PDP)</a> and develop culinary skills in our school <a href="../catering.php" target="_blank">kitchen.</a></li>
@@ -67,7 +67,7 @@
                     <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
                         <ul>
                             <li>Core Subjects: English, Maths and Science</li>
-                            <li>Cultural: Geography, History, RE, Spanish, French</li>
+                            <li>Cultural: Geography, History, Religious Education, Spanish, French</li>
                             <li>The Arts: Art, Dance, Drama, Music</li>
                             <li>Design and Technology: Food and Design Technology</li>
                             <li>Much More Than...: Students go to visit our small holding, learn about and apply constuction skills in our <a href="../apex-centre.php" target="_blank">Apex Centre</a> and develop catering skills in our school <a href="../catering.php" target="_blank">kitchen.</a></li>
@@ -81,11 +81,12 @@
                     <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Year 9</a>
                     <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
                         <ul>
-                            <li>English Language and English Literature, Maths</li>
-                            <li>Science</li>
-                            <li>RE</li>
-                            <li>PE </li>
-                            <li>4 subjects from the following: Art, Business Studies, Computer Science, Construction, Dance, Drama, Graphics, Horticulture, Food and Nutrition, Geography, History, Media Studies, Music, Photography, PE, Psychology, Resistant Materials, Spanish</li>
+                            <li>Core Subjects: English, Maths and Science</li>
+                            <li>Cultural: Geography, History, Religious Education, Spanish, French</li>
+                            <li>The Arts: Art, Dance, Drama, Music</li>
+                            <li>Design and Technology: Food and Design Technology</li>
+                            <li>Much More Than...: Students go to visit our small holding, learn about and apply constuction skills in our <a href="../apex-centre.php" target="_blank">Apex Centre</a> and develop catering skills in our school <a href="../catering.php" target="_blank">kitchen.</a></li>
+                            <li>IT opportunities are built in across our curriculum and through Computer Science</li>
                             <li>SMSC: including mentoring and personal development.</li>
                         </ul>
                     </div>
@@ -97,8 +98,8 @@
                         <ul>
                             <li>English Language and English Literature, Maths</li>
                             <li>Science</li>
-                            <li>Core PE and RE</li>
-                            <li>4 subjects from the following: Art, Computer Science, Construction, Dance, Drama, Graphics, Horticulture, Food and Nutrition, Geography, History, Media Studies, Music, Photography, PE,  Resistant Materials, RS, Spanish</li>
+                            <li>Core PE and Religious Education</li>
+                            <li>4 subjects from the following: Art, Computer Science, Construction, Dance, Drama, Graphics, Horticulture, Food and Nutrition, Geography, History, Music, Photography, PE,  Resistant Materials, RS, Spanish</li>
                             <li>SMSC: including mentoring and personal development.</li>
                         </ul>
                     </div>
@@ -110,7 +111,7 @@
                         <ul>
                             <li>English Language and English Literature, Maths</li>
                             <li>Science</li>
-                            <li>Core PE and RE</li>
+                            <li>Core PE and Religious Education</li>
                             <li>2 subjects from the following: Art, Dance, Food and Nutrition, Geography, History, Music, Photography, PE, Resistant Materials, Spanish</li>
                             <li>SMSC: including mentoring and personal development.</li>
                         </ul>
@@ -120,7 +121,7 @@
             </ul>
             <br>
 
-            <p><a href="/assets/curriculum/options_booklet.pdf" target="_blank">Booklet - Courses for Years 9, 10 and 11 (2019-2020)</a></p>
+            <p><a href="/assets/curriculum/options_booklet.pdf" target="_blank">Booklet - GCSE Courses (2019-2022)</a></p>
             <br>
         </div>
 

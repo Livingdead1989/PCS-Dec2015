@@ -47,12 +47,12 @@
                 <li>Relationships and Sex Education,</li>
                 <li>Religious Studies</li>
             </ul>
-            <p>These areas are underpinned by our work as a Rights Respecting School – In a Rights Respecting School the students have an opportunity to learn about the United Nations Convention on the Rights of the Child through family assemblies and student-led groups. As a Rights Respecting School we not only teach our students about children’s rights but we also model rights and respect in all our relationships between staff, staff and students, and between students.</p>
+            <p>These areas are underpinned by our work as a Rights Respecting School – In a Rights Respecting School the students have an opportunity to learn about the United Nations Convention on the Rights of the Child through House assemblies and student-led groups. As a Rights Respecting School we not only teach our students about children’s rights but we also model rights and respect in all our relationships between staff, staff and students, and between students.</p>
 
             <p><strong>‘More Than just a school;’ An expansive curriculum</strong></p>
 
 
-            <p><strong>Assemblies</strong> – At Park Community school we have weekly school, year and family assemblies where students gather together for a common purpose. A wide variety of areas are covered which are closely matched in content to different areas of the curriculum. There are common termly themes throughout the year which are underpinned by specific local, British or worldwide celebration and awareness days. This means that there is a coherence to the delivery of SMSC across the school as a community.</p>
+            <p><strong>Assemblies</strong> – At Park Community school we have weekly school, year and House assemblies where students gather together for a common purpose. A wide variety of areas are covered which are closely matched in content to different areas of the curriculum. There are common termly themes throughout the year which are underpinned by specific local, British or worldwide celebration and awareness days. This means that there is a coherence to the delivery of SMSC across the school as a community.</p>
             
             <p><strong>Butterfly Broadcasts</strong> – This is a broadcast, which lasts around 4 minutes, shown during the week in a Personal Development slot. It covers the local, national and international news of the day. It is an important feature of the week as it allows students to consider current affairs; broadening their knowledge of the world around them.</p>
             
@@ -97,7 +97,7 @@
             </ul>
 
 
-            <p><strong>Families</strong> – The overall aim of the Family system is to connect all year groups within the school, providing them with the opportunity to further develop skills and experiences to become confident and well-rounded individuals. Families aim to get students to work to help each other build confidence through collaboration, persevering through a task, taking risks as a group to achieve a common goal and learning to be enquiring and creative in a safe atmosphere. Families do this by providing Family members with enjoyable and competitive Family events as well as learning about the UNCRC and raising awareness of those in need.</p>
+            <p><strong>Families</strong> – The overall aim of the House system is to connect all year groups within the school, providing them with the opportunity to further develop skills and experiences to become confident and well-rounded individuals. Families aim to get students to work to help each other build confidence through collaboration, persevering through a task, taking risks as a group to achieve a common goal and learning to be enquiring and creative in a safe atmosphere. Families do this by providing House members with enjoyable and competitive House events as well as learning about the UNCRC and raising awareness of those in need.</p>
             
             <p><strong>Careers [Information, Advice and Guidance]</strong> –Students learn about the world of work and the range of opportunities open to them after their time at Park. We work very closely with local employers through our career related sessions with EBP. We offer careers fairs, speakers, college taster days and university residentials including Oxford/Cambridge and mock interviews with local employers. All students can have a 1:1 personal careers appointment with our trained independent impartial careers advisor. All students also undertake  two weeks work experience during year 10.</p>
             
@@ -110,7 +110,7 @@
             <p>The purpose of RS at Park is therefore to promote students’ spiritual, moral, social and cultural development through an awareness and appreciation of diversity and difference of beliefs and values, cultures and societies within the UK and the wider world. As part of this students are offered the chance to respond and in so doing develop their own sense of self and place in the local, national and global community. In key stage 4 RS will lead to a ½ GCSE qualification.</p>
 
             <h4>SMSC Implementation Map</h4>
-            <p><a href="assets/curriculum/smsc.pdf">Our SMSC curriculum</a>.</p>
+            <p><a href="assets/curriculum/smsc.pdf">Our SMSC curriculum - 2019/20</a>.</p>
             <p>SMSC explores many issues that are of interest to parents. Helpful sources of support for parents can be found at the following links:</p>
             <ul>
                 <li><a target="_blank" href="//hampshirecamhs.nhs.uk">https://hampshirecamhs.nhs.uk/</a></li>

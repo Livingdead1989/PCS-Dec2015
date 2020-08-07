@@ -10,9 +10,6 @@
 <!-- NAVIGATION -->
 <?php include("includes/topnav.html") ?>
 
-<!-- COVID SECTION -->
-<?php include("includes/covid.html") ?>
-
 <!-- HEADER SECTION -->
 <header id="homepage-hero">
     <div class="row">
@@ -25,9 +22,12 @@
 			<p><em>&#8220;<!-- The headteacher’s vision is to create ‘more than just a school’  -->by providing all pupils with a range of additional opportunities to raise their aspirations and ensure they are very well prepared for adult life.<!--  This is realised through a curriculum which balances academic and vocational qualifications with activities that promote pupils’ social, moral, spiritual and cultural development. Staff are committed to this vision and provide a wide range of opportunities and support for pupils. This combination develops pupils’ well-being as well as promoting their academic achievement and prepares them well for life in modern Britain. -->&#8221; - </em>Ofsted January 2017</p>
             
             <div class="small-text-center large-text-right">
-                <a class="small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
+                <a class="expand small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
+                <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
+                <a class="small button radius warning" href="#" data-reveal-id="COVID-19">COVID-19</a>
                 <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a>
             </div>
+                        <!-- HEADTEACHERS WELCOME -->
                         <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Headteacher's Welcome</h2>
                           <p class="lead">Mr Christopher Anders</p>
@@ -38,6 +38,23 @@
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
                         </div>
+                        <!-- /HEADTEACHERS WELCOME -->
+
+                        <!-- COVID-19 -->
+                        <div id="COVID-19" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">COVID-19</h2>
+                          <p class="lead">In preparation of an additional lockdown</p>
+                          <p></p>
+                          <hr>
+                          <ul>
+                            <li><a href="/assets/letters/2020-07/faq_parents_and_students.pdf" target="_blank">FAQ for Parents and Students</a></li>
+                            <li><a href="/assets/letters/2020-07/end_and_start_of_term-school_zones_faq.pdf" target="_blank">Year 6-10 End and Start of Term and School Zones FAQ</a></li>
+                          </ul>
+                          
+
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
+                        <!-- /COVID-19 -->
         </div>
         
     </div>
@@ -55,6 +72,10 @@
   </div>
 </section> -->
 <!-- END NOTIFICATION -->
+
+
+<!-- COVID SECTION -->
+<?php include("includes/covid.html") ?>
 
 
 <!-- CONTENT -->
