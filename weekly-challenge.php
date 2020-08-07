@@ -13,7 +13,7 @@
 <header class="header-parent">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Weekly Challenge</h1>
+            <h1>Weekly Challenge <small>March - June 2020</small></h1>
             <p class="text-capitalize"></p>
         </div>
     </div>
