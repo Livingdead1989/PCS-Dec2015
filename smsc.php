@@ -42,9 +42,9 @@
             <p>Our approach to SMSC is divided into 5 main areas of study:</p>
             <ul>
                 <li>Britishness and Culture [including Citizenship], </li>
-                <li>Careers and Enterprise [including Information, Advice and Guidance], </li>
+                <li>Careers and Enterprise [including Information, Advice and Guidance], - <a href="assets/curriculum/smsc/overview_ceiag.pdf">Overview of CEIAG per year</a></li>
                 <li>Health and Well-being, </li>
-                <li>Relationships and Sex Education,</li>
+                <li>Relationships and Sex Education, - <a href="assets/curriculum/smsc/learning_journey_rse.pdf">The Learning Journey</a></li>
                 <li>Religious Studies</li>
             </ul>
             <p>These areas are underpinned by our work as a Rights Respecting School – In a Rights Respecting School the students have an opportunity to learn about the United Nations Convention on the Rights of the Child through House assemblies and student-led groups. As a Rights Respecting School we not only teach our students about children’s rights but we also model rights and respect in all our relationships between staff, staff and students, and between students.</p>
@@ -97,7 +97,7 @@
             </ul>
 
 
-            <p><strong>Families</strong> – The overall aim of the House system is to connect all year groups within the school, providing them with the opportunity to further develop skills and experiences to become confident and well-rounded individuals. Families aim to get students to work to help each other build confidence through collaboration, persevering through a task, taking risks as a group to achieve a common goal and learning to be enquiring and creative in a safe atmosphere. Families do this by providing House members with enjoyable and competitive House events as well as learning about the UNCRC and raising awareness of those in need.</p>
+            <p><strong>Houses</strong> – The overall aim of the House system is to connect all year groups within the school, providing them with the opportunity to further develop skills and experiences to become confident and well-rounded individuals. Houses aim to get students to work to help each other build confidence through collaboration, persevering through a task, taking risks as a group to achieve a common goal and learning to be enquiring and creative in a safe atmosphere. Houses do this by providing House members with enjoyable and competitive House events as well as learning about the UNCRC and raising awareness of those in need.</p>
             
             <p><strong>Careers [Information, Advice and Guidance]</strong> –Students learn about the world of work and the range of opportunities open to them after their time at Park. We work very closely with local employers through our career related sessions with EBP. We offer careers fairs, speakers, college taster days and university residentials including Oxford/Cambridge and mock interviews with local employers. All students can have a 1:1 personal careers appointment with our trained independent impartial careers advisor. All students also undertake  two weeks work experience during year 10.</p>
             

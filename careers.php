@@ -64,6 +64,7 @@
           </div>
           <!-- /MODAL -->
            <a href="/assets/apprenticeship_parent_pack.pdf" class="button radius" target="_blank">Parent and Carer Apprenticeship Pack</a>
+           <a href="assets/curriculum/smsc/overview_ceiag.pdf">Overview of CEIAG per year</a>
         </div>
         <div class="small-6 small-pull-3 medium-pull-0 medium-4 columns">
           <img src="images/careers/logo.png" alt="">
