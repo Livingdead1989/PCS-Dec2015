@@ -30,7 +30,7 @@
             <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2">
                 <li>
                     <ul class="circle">Summer 2020
-                      <li><a href="//vimeo.com/showcase/7029024" target="_blank">COVID-19 Video Assemblies <small>(Vimeo)</small></a></li>
+                      <li><a href="//vimeo.com/showcase/7029024" target="_blank">Virtual assemblies <small>(Vimeo)</small></a></li>
                     </ul>
                 </li>
             	<li>
