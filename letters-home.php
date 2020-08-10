@@ -27,8 +27,14 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
             	<li>
+            		<ul class="circle">August 2020<hr>
+            			<!-- <li><a href="/assets/letters/2020-08/#.pdf" target="_blank"></a></li> -->
+            			<li><a href="/assets/letters/2020-08/yr7_parents_blazers_aug_2020.pdf" target="_blank">Year 7 Purchasing of Blazers</a></li>
+            			<li><a href="/assets/letters/2020-08/yr11_gcse_results_further_information.pdf" target="_blank">Year 11 GCSE Results Further Information</a></li>
+            		</ul>
+            	</li>
+            	<li>
             		<ul class="circle">July 2020<hr>
-            			<!-- <li><a href="/assets/letters/2020-07/#.pdf" target="_blank"></a></li> -->
             			<li><a href="/assets/letters/2020-07/faq_parents_and_students.pdf" target="_blank">FAQ for Parents and Students</a></li>
             			<li><a href="/assets/letters/2020-07/end_and_start_of_term-school_zones_faq.pdf" target="_blank">Year 6-10 End and Start of Term and School Zones FAQ</a></li>
             			<li><a href="/assets/letters/2020-07/newsletter-17-07.pdf" target="_blank">Newsletter 17th July</a></li>
