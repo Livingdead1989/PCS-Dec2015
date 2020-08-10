@@ -107,25 +107,31 @@
             <div class="medium-offset-1 medium-10 large-offset-0 large-12">
                 <!-- SLIDER -->
                 <div class="homepage-slider">
-                    <!-- VIMEO Video -->
+                    <!-- VIMEO Showcase Video Reel -->
                     <div>
+                        <div class="flex-video widescreen border-radius-5">
+                            <iframe src="https://vimeo.com/showcase/5574215/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <!-- VIMEO Video -->
+                    <!-- <div>
                         <div class="flex-video widescreen border-radius-5">
                             <iframe src="https://player.vimeo.com/video/426939801" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                             <p>Welcome to Park</p>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- VIMEO Video -->
-                    <div>
+                    <!-- <div>
                     	<div class="flex-video widescreen border-radius-5">
                             <iframe src="https://player.vimeo.com/video/299177189" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- VIMEO Video -->
-                    <div>
+                    <!-- <div>
                         <div class="flex-video widescreen border-radius-5">
                             <iframe src="https://player.vimeo.com/video/368249167" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
-                    </div>                   
+                    </div> -->                   
 
                 </div>
             </div>
