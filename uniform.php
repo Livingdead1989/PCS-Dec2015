@@ -47,7 +47,7 @@
                 <li>Park cardigan, sweatshirt or jumper may be worn under a blazer.</li></ul>
 
                 <li>White shirt with collar capable of taking a tie.</li>
-                <li>School tie colour based on family.</li>
+                <li>School tie.</li>
                 <br>
                 <li>Black full length trousers.</li>
                 <ul>
