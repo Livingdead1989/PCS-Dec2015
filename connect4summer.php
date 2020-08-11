@@ -140,7 +140,7 @@
 
 			</div>
 
-	<hr>
+	<br><hr>
 
 	<div class="row">
 		<div class="columns">
@@ -153,7 +153,7 @@
 		</div>
 	</div>
 
-	<hr>
+	<br><hr>
 
 	<div class="row">
 		<div class="columns">
