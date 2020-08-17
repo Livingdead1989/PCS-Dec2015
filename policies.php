@@ -131,7 +131,7 @@
             <li>
                 <a href="/assets/policies/dress-code-for-students.pdf" target="_blank">
                     <div class="policy-container">
-                        <p>Dress Code for Students</p>
+                        <p>Dress Code for Students (Uniform)</p>
                     </div>
                 </a>
             </li>
