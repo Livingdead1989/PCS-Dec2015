@@ -29,6 +29,8 @@
             	<li>
             		<ul class="circle">August 2020<hr>
             			<!-- <li><a href="/assets/letters/2020-08/#.pdf" target="_blank"></a></li> -->
+            			<li><a href="/assets/letters/2020-08/return-information-booklet.pdf" target="_blank">Return Information Booklet</a></li>
+            			<li><a href="/assets/letters/2020-08/welcome-back.pdf" target="_blank">Welcome Back</a></li>
             			<li><a href="/assets/letters/2020-08/yr7_parents_blazers_aug_2020.pdf" target="_blank">Year 7 Purchasing of Blazers</a></li>
             			<li><a href="/assets/letters/2020-08/yr11_gcse_results_further_information.pdf" target="_blank">Year 11 GCSE Results Further Information</a></li>
             		</ul>

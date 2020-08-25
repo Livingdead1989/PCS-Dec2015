@@ -25,6 +25,7 @@
                 <a class="expand small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
                 <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
                 <a class="small button radius warning" href="#" data-reveal-id="COVID-19">COVID-19</a>
+                <a class="small button radius warning" href="#" data-reveal-id="RETURN">Return to School</a>
                 <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a>
             </div>
                         <!-- HEADTEACHERS WELCOME -->
@@ -73,6 +74,22 @@
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
                         </div>
                         <!-- /COVID-19 -->
+
+                        <!-- RETURN -->
+                        <div id="RETURN" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                          <h2 id="modalTitle">Return to School</h2>
+                          
+                            <p>We are delighted to welcome all students back to school from September 2020.</p>
+                           <hr>
+                          <ul>
+                            <li><a href="/assets/letters/2020-08/return-information-booklet.pdf" target="_blank">Return Information Booklet</a></li>
+                            <li><a href="/assets/letters/2020-08/welcome-back.pdf" target="_blank">Welcome Back</a></li></li>
+                          </ul>
+                          
+
+                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                        </div>
+                        <!-- /RETURN -->
         </div>
         
     </div>
