@@ -66,6 +66,7 @@
 
                           <hr>
                           <ul>
+                            <li><a href="https://www.gov.uk/government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-in-the-autumn-term" target="_blank">What parents and carers need to know about early years providers, schools and colleges in the autumn term</a></li>
                             <li><a href="/assets/letters/2020-07/faq_parents_and_students.pdf" target="_blank">FAQ for Parents and Students</a></li>
                             <li><a href="/assets/letters/2020-07/end_and_start_of_term-school_zones_faq.pdf" target="_blank">Year 6-10 End and Start of Term and School Zones FAQ</a></li>
                           </ul>
