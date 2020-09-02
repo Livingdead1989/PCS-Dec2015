@@ -60,16 +60,14 @@
             
             <br>
             <div class="text-center">
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-spanish.pdf" class="button">Year 7 Overview</a>  
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year8-spanish.pdf" class="button">Year 8 Overview</a> 
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year9-spanish.pdf" class="button">Year 9 Overview</a>  
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year10-spanish.pdf" class="button">Year 10 Overview</a>                      
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year11-spanish.pdf" class="button">Year 11 Overview</a>                      
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-homework-project1.pdf" class="button">Year 7 Project 1</a> 
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-homework-project2.pdf" class="button">Year 7 Project 2</a> 
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year8-homework-project1.pdf" class="button">Year 8 Project 1</a>                      
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year8-homework-project2.pdf" class="button">Year 8 Project 2</a>                      
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year9-homework-project.pdf" class="button">Year 9 Project</a>                      
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-mfl.pdf" class="button">Year 7 Overview</a>  
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year8-mfl.pdf" class="button">Year 8 Overview</a> 
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year9-mfl.pdf" class="button">Year 9 Overview</a>  
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year10-mfl.pdf" class="button">Year 10 Overview</a>                      
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year11-mfl.pdf" class="button">Year 11 Overview</a>                      
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-homework-project1.pdf" class="button">Year 7 Term 1 Homework</a> 
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-homework-project2.pdf" class="button">Year 7 Term 1 Reading</a> 
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year8-homework-project1.pdf" class="button">Year 7 Term 1 Remote Learning</a>                   
             </div>
             <br>
             <div class="text-center">
