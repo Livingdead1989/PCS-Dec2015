@@ -65,9 +65,10 @@
                         <a role="button" target="_blank" href="assets/curriculum/mfl/year9-mfl.pdf" class="button">Year 9 Overview</a>  
                         <a role="button" target="_blank" href="assets/curriculum/mfl/year10-mfl.pdf" class="button">Year 10 Overview</a>                      
                         <a role="button" target="_blank" href="assets/curriculum/mfl/year11-mfl.pdf" class="button">Year 11 Overview</a>                      
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-homework-project1.pdf" class="button">Year 7 Term 1 Homework</a> 
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-homework-project2.pdf" class="button">Year 7 Term 1 Reading</a> 
-                        <a role="button" target="_blank" href="assets/curriculum/mfl/year8-homework-project1.pdf" class="button">Year 7 Term 1 Remote Learning</a>                   
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-homework.pdf" class="button">Year 7 Term 1 Homework</a> 
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year8-homework.pdf" class="button">Year 8 Term 1 Homework</a>
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year9-homework.pdf" class="button">Year 9 Term 1 Homework</a>
+                        <a role="button" target="_blank" href="assets/curriculum/mfl/year7-8-reading-project.pdf" class="button">Year 7 and 8 Term 1 Reading Project</a> 
             </div>
             <br>
             <div class="text-center">
@@ -76,6 +77,27 @@
                         <a role="button" target="_blank" href="assets/curriculum/mfl/curriculum-map.pdf" class="button">Curriculum Map</a>
                         <a role="button" target="_blank" href="assets/curriculum/mfl/language-lesson.pdf" class="button">Language Lesson</a> 
             </div>
+
+        <h4>Additional opportunities:</h4>
+        <ul>
+            <li>Language Ambassadors (all years).</li>
+            <li>Students teaching Spanish in Primary Schools (all years).</li>
+            <li>Linguists of the Half-Term (all years).</li>
+            <li>Homework Club (Year 7, 8 and 9) - tbc.</li>
+            <li>Christmas activities  (all years).</li>
+            <li>Reward/Revision college & university trips (all years).</li>
+            <li>Period 6 sessions (GCSE) - tbc.</li>
+            <li>MFL assemblies (whole school).</li>
+            <li>Portsmouth College programme (GCSE).</li>
+        </ul>
+
+        <h3>Useful Links</h3>
+        <p>Exam Board</p>
+        <ul>
+            <li><a target="_blank" href="//www.aqa.org.uk/subjects/languages/gcse/spanish-8698">AQA Spanish GCSE</a></li>
+            <li><a target="_blank" href="assets/curriculum/mfl/aqa-subject-content">AQA Spanish Subject Content</a></li>
+        </ul>
+
         </div>
 
     </div>
