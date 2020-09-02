@@ -95,7 +95,16 @@
         <p>Exam Board</p>
         <ul>
             <li><a target="_blank" href="//www.aqa.org.uk/subjects/languages/gcse/spanish-8698">AQA Spanish GCSE</a></li>
-            <li><a target="_blank" href="assets/curriculum/mfl/aqa-subject-content">AQA Spanish Subject Content</a></li>
+            <li><a target="_blank" href="assets/curriculum/mfl/aqa-subject-content.pdf">AQA Spanish Subject Content</a></li>
+        </ul>
+
+        <p>Revision</p>
+        <ul>
+            <li><a target="_blank" href="//www.linguascope.com/"></a>Linguascope (username and password available from teachers)</li>
+            <li><a target="_blank" href="//members.gcsepod.com/login?redirect_to=https%3A%2F%2Fmembers.gcsepod.com">GCSE POD</a></li>
+            <li><a target="_blank" href="//www.memrise.com/">MEMRISE</a></li>
+            <li><a target="_blank" href="assets/curriculum/mfl/pearson-revision.pdf">Pearson Revision Book Sample (full books available to buy from school).</a></li>
+            <li><a target="_blank" href="assets/curriculum/mfl/pearson-workbook.pdf">Pearson Workbook Book Sample (full books available to buy from school).</a></li>
         </ul>
 
         </div>
