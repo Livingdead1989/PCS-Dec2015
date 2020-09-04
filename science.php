@@ -68,35 +68,35 @@
                         
                         <h4>Year 7</h4>
                             <ul>
-                                <li>Identity</li>
-                                <li>Organisms</li>
-                                <li>Forces 1</li>
-                                <li>Reactions 1</li>
-                                <li>Particles</li>
-                                <li>Electricity</li>
+                                <li><a href="assets/curriculum/science/ks3/7-1_identity.pdf">Identity</a></li>
+                                <li><a href="assets/curriculum/science/ks3/7-2_organisms.pdf">Organisms</a></li>
+                                <li><a href="assets/curriculum/science/ks3/7-3_forces_1.pdf">Forces 1</a></li>
+                                <li><a href="assets/curriculum/science/ks3/7-4_reactions_1.pdf">Reactions 1</a></li>
+                                <li><a href="assets/curriculum/science/ks3/7-5_particles.pdf">Particles</a></li>
+                                <li><a href="assets/curriculum/science/ks3/7-6_electricity.pdf">Electricity</a></li>
                             </ul>
                         <hr>
 
                         <h4>Year 8</h4>
                             <ul>
-                                <li>Body Systems</li>
-                                <li>Sound</li>
-                                <li>Light</li>
-                                <li>Magnets</li>
-                                <li>Speed</li>
-                                <li>Reactions 2</li>
-                                <li>Pressure</li>
+                                <li><a href="assets/curriculum/science/ks3/8-1_body_systems.pdf">Body Systems</a></li>
+                                <li><a href="assets/curriculum/science/ks3/8-2_sound.pdf">Sound</a></li>
+                                <li><a href="assets/curriculum/science/ks3/8-3_light.pdf">Light</a></li>
+                                <li><a href="assets/curriculum/science/ks3/8-4_magnets.pdf">Magnets</a></li>
+                                <li><a href="assets/curriculum/science/ks3/8-5_reactions_2.pdf">Reactions 2</a></li>
+                                <li><a href="assets/curriculum/science/ks3/8-6_speed.pdf">Speed</a></li>
+                                <li><a href="assets/curriculum/science/ks3/8-7_pressure.pdf">Pressure</a></li>
                             </ul>
                         <hr>
 
                         <h4>Year 9</h4>
                             <ul>
-                                <li>Photosynthesis &amp; Respiration</li>
-                                <li>Earth</li>
-                                <li>Energy</li>
-                                <li>Static</li>
-                                <li>Forces 2</li>
-                                <li>Reactions 3</li>
+                                <li><a href="assets/curriculum/science/ks3/9-1_photosynthesis_respiration.pdf">Photosynthesis &amp; Respiration</a></li>
+                                <li><a href="assets/curriculum/science/ks3/9-2_earth.pdf">Earth</a></li>
+                                <li><a href="assets/curriculum/science/ks3/9-3_energy.pdf">Energy</a></li>
+                                <li><a href="assets/curriculum/science/ks3/9-4_static.pdf">Static</a></li>
+                                <li><a href="assets/curriculum/science/ks3/9-5_forces_2.pdf">Forces 2</a></li>
+                                <li><a href="assets/curriculum/science/ks3/9-6_reactions_3.pdf">Reactions 3</a></li>
                             </ul>
                     </div>
                 </li>
@@ -116,26 +116,26 @@
 
                         <h4>Year 10</h4>
                             <ul>
-                                <li>B5 Homeostasis and response</li>
-                                <li>B6 Inheritance, Variation and Evolution</li>
-                                <li>B7 Ecology</li>
-                                <li>C1 Atomic structure and periodic table</li>
-                                <li>C2 Structure and Bonding</li>
-                                <li>C3 Quantitative chemistry</li>
-                                <li>C4 Chemical changes</li>
-                                <li>C5 Energy changes</li>
+                                <li><a href="assets/curriculum/science/ks4/b5_homeostasis_and_response.pdf">B5 Homeostasis and response</a></li>
+                                <li><a href="assets/curriculum/science/ks4/b6_Inheritance_variation_and_evolution.pdf">B6 Inheritance, Variation and Evolution</a></li>
+                                <li><a href="assets/curriculum/science/ks4/b7_ecology.pdf">B7 Ecology</a></li>
+                                <li><a href="assets/curriculum/science/ks4/c1_atomic_structure_and_periodic_table.pdf">C1 Atomic structure and periodic table</a></li>
+                                <li><a href="assets/curriculum/science/ks4/c2_structure_and_bonding.pdf">C2 Structure and Bonding</a></li>
+                                <li><a href="assets/curriculum/science/ks4/c3_quantitative_chemistry.pdf">C3 Quantitative chemistry</a></li>
+                                <li><a href="assets/curriculum/science/ks4/c4_chemical_changes.pdf">C4 Chemical changes</a></li>
+                                <li><a href="assets/curriculum/science/ks4/c5_energy_changes.pdf">C5 Energy changes</a></li>
                             </ul>
                         <hr>
                         
                         <h4>Year 11</h4>
                             <ul>
-                                <li>B5 Homeostasis and response</li>
-                                <li>B6 Inheritance, Variation and Evolution</li>
-                                <li>B7 Ecology</li>
-                                <li>P5 Forces</li>
-                                <li>P6 Waves</li>
-                                <li>P7 Magnets</li>
-                                <li>C10 Using resources</li>
+                                <li><a href="assets/curriculum/science/ks4/b5_homeostasis_and_response.pdf">B5 Homeostasis and response</a></li>
+                                <li><a href="assets/curriculum/science/ks4/b6_Inheritance_variation_and_evolution.pdf">B6 Inheritance, Variation and Evolution</a></li>
+                                <li><a href="assets/curriculum/science/ks4/b7_ecology.pdf">B7 Ecology</a></li>
+                                <li><a href="assets/curriculum/science/ks4/p5_forces.pdf">P5 Forces</a></li>
+                                <li><a href="assets/curriculum/science/ks4/p6_waves.pdf">P6 Waves</a></li>
+                                <li><a href="assets/curriculum/science/ks4/p7_magnets.pdf">P7 Magnets</a></li>
+                                <li><a href="assets/curriculum/science/ks4/c10_using_resources.pdf">C10 Using resources</a></li>
                             </ul>
                     </div>
                 </li>
