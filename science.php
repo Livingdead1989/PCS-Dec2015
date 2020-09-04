@@ -141,7 +141,16 @@
                 </li>
             </ul>
 
-            
+            <h3>Useful Links</h3>
+            <ul>
+                <li><a href="//www.bbc.co.uk/bitesize/subjects/zng4d2p">Bitesize KS3 Science</a></li>
+                <li><a href="//filestore.aqa.org.uk/resources/science/specifications/AQA-8464-SP-2016.PDF">AQA GCSE Combined Science Trilogy <small>(PDF)</small></a></li>
+                <li><a href="//www.bbc.co.uk/bitesize/subjects/zrkw2hv">Bitesize GCSE Science</a></li>
+                <li><a href="//www.s-cool.co.uk">S-cool the revision website</a></li>
+                <li><a href="//www.youtube.com/channel/UCqbOeHaAUXw9Il7sBVG3_bw">Free Science Lessons <small>(YouTube)</small></a></li>
+                <li><a href="//www.youtube.com/channel/UCS3wWlfGUijnRIf745lRl2A">FuseSchool - Global Education <small>(YouTube)</small></a></li>
+                <li><a href="//www.thenational.academy">Oak National Academy</a></li>
+            </ul>
 
             <br>
         </div>
