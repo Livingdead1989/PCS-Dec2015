@@ -24,6 +24,7 @@
     <div class="row">
         <br>
         <div class="medium-6 columns">
+            <br>
             <p>Welcome to the Tea Rooms, situated in Staunton Park. The Coach House was built in the Nineteenth Century. As a result of Heritage Lottery funding the building and the surrounding park have been beautifully renovated for the benefit of the public.</p>
 
             <p>We are pleased to work in partnership with Staunton Country Park and Hampshire Countryside Service and have the opportunity to be part of the transformation of Leigh Park Gardens. There is synergy between all partners to provide a great destination for many years to come.</p>

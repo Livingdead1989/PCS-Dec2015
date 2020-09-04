@@ -179,7 +179,7 @@
 
             <br>
 <!-- EXTRA MILE -->
-            <ul class="text-center medium-block-grid-2 small-block-grid-1">
+            <ul class="text-center medium-block-grid-3 small-block-grid-1">
                 <h4>Going The Extra Mile</h4>
                 <li>
                     <div class="menu-box"><a href="/connect4summer.php">

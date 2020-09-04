@@ -337,7 +337,15 @@
                 <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
             </div>
             <div class="row">
-                
+                <div class="medium-6 columns">
+                    <br>
+                    <h4>Tea Rooms at The Coach House</h4>
+                    <p>The Tea Rooms, situated in Staunton Park. The Coach House was built in the Nineteenth Century. As a result of Heritage Lottery funding the building and the surrounding park have been beautifully renovated for the benefit of the public.</p>
+                    <p>We believe managing the Tea Rooms will give us the opportunity to showcase our skills and provide great food to the public.</p>
+
+                    <a href="/tearooms.php" class="button success radius">Tea Rooms at The Coach House page</a>
+                </div>
+                <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-6 columns"><img src="images/schoolmeals/tearooms_coachhouse.png" alt="Tea Rooms at The Coach House"></div>
             </div>
             <br>
             <?php include ("includes/backtotop.html") ?>
