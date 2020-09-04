@@ -64,7 +64,7 @@
 
         </div>
         <div class="columns">
-            <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
+            <ul class="small-block-grid-2 medium-block-grid-4">
               <li><img src="images/tearooms/staunton_country_park.jpg" alt=""></li>
               <li><img src="images/tearooms/hampshire_countryside_service.jpg" alt=""></li>
               <li><img src="images/tearooms/park_community_school.jpg" alt=""></li>
