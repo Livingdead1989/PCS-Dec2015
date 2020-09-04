@@ -193,6 +193,12 @@
                             <p>MUNCH</p>
                         </a></div>
                 </li>
+                <li>
+                    <div class="menu-box"><a href="/tearooms.php">
+                            <img src="images/index/tearooms.jpg" alt="Tea Rooms at The Coach House">
+                            <p>Tea Rooms at The Coach House</p>
+                        </a></div>
+                </li>
             </ul>
 <!-- STUDENT EXTRA -->
             <ul class="text-center medium-block-grid-5 small-block-grid-2">
