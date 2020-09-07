@@ -225,8 +225,10 @@
                     <br>
                     <li><a href="//vimeo.com/showcase/7029024" target="_blank">Video Assemblies</a></li>
                     <li><a href="//vimeo.com/showcase/7145412">Lockdown Learning Revision Videos</a></li>
-                    <li><a href="assets/reading_process.pdf">Reading Process</a></li>
+                    <br>
                     <li><a href="assets/reading_together.pdf">Reading Together</a></li>
+                    <li><a href="assets/reading_process.pdf">Reading Process</a></li>
+                    <li><a href="assets/reading_plus_guide.pdf">Reading Plus Guide</a></li>
                 </ul>              
               
               <a class="close-reveal-modal" aria-label="Close">&#215;</a>
