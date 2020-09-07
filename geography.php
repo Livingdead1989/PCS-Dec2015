@@ -50,10 +50,8 @@
             <br>
 
             <div class="text-center">
-                        <a role="button" target="_blank" href="assets/curriculum/geography/year-7.pdf" class="button">Year 7</a>
-                        <a role="button" target="_blank" href="assets/curriculum/geography/year-8.pdf" class="button">Year 8</a>
-                        <a role="button" target="_blank" href="assets/curriculum/geography/year-9.pdf" class="button">Year 9</a>
-                        <a role="button" target="_blank" href="assets/curriculum/geography/gcse.pdf" class="button">GCSE</a>
+                        <a role="button" target="_blank" href="assets/curriculum/geography/ks3_curriculum_map.pdf" class="button">Key Stage 3 - Curriculum Map</a>
+                        <a role="button" target="_blank" href="assets/curriculum/geography/ks4_curriculum_map.pdf" class="button">Key Stage 4 - Curriculum Map</a>
                     </div>
         </div>
 
