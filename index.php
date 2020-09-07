@@ -110,9 +110,206 @@
 <!-- END NOTIFICATION -->
 
 
-<!-- COVID SECTION -->
-<?php include("includes/covid.html") ?>
+<!-- BUTTONS -->
+<section>
+    <div class="row">
+        <div class="columns">
+            <br>
+                        
+            <div class="small-text-center large-text-right">
+                <a class="small button radius" href="#" data-reveal-id="yr11-leavers">Year 11 Leavers</a>
+                <a class="small button radius" href="#" data-reveal-id="covid-y6trans">Year 6 Transition</a>
+                <a class="small button radius" href="#" data-reveal-id="covid-newsletters">Newsletters</a>
+                <a class="small button radius" href="//vimeo.com/showcase/7029024">Assemblies</a>
+                <a class="small button radius" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
+                <a class="small button radius" href="#" data-reveal-id="covid-student">Student - Learning</a>
+            </div>
 
+            <!-- Year 11 Leavers -->
+            <div id="yr11-leavers" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">Year 11 Leavers</h2>
+
+                <div class="flex-video widescreen border-radius-5">
+                    <iframe src="https://player.vimeo.com/video/440002226" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                </div>
+
+                <ul>
+                    <li><a href="/assets/letters/2020-08/gcse-and-november-exam.pdf" target="_blank">Year 11 GCSE and November Exams</a></li>
+                    <li><a href="/assets/letters/2020-08/yr11_gcse_results_further_information.pdf" target="_blank">GCSE Results Day 2020 <small>- Furhter Information Aug 2020</small></a></li>
+                    <li><a href="/assets/year11-leavers/ofqual_letter_gcse_2020.pdf" target="_blank">Ofqual Letter to Students for GCSE 2020</a></li>
+                    <li><a href="/assets/year11-leavers/student_guide_gcse_results_2020.pdf" target="_blank">Student Guide for GCSE Results 2020</a></li>
+                    <li><a href="//www.gov.uk/government/publications/awarding-qualifications-in-summer-2020" target="_blank">Awarding qualifications in summer 2020</a></li>
+                    <li><a href="//www.youtube.com/watch?v=npM16I5nogg" target="_blank">Grading in 2020 - information for students <small>(YouTube)</small></a></li>
+                </ul>
+
+              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+
+            <!-- YR6TRANS -->
+            <div id="covid-y6trans" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">Year 6 Transition</h2>
+                <p>To ensure a smooth Year 6 transition during Covid-19 we have created this section with all the relevant information for our parents and carers.</p>
+
+                <ul>
+                    <li><a target="_blank" href="/assets/admissions/pcs_parental_combined_consent_booklet_2020.pdf">Parental Combined Consent Booklet<small>(PDF)</small></a></li>
+                    <li><a target="_blank" href="/assets/letters/2020-06/year-6-transition-visits.pdf">22nd June Year 6 Transition Visits <small>(PDF)</small></a></li>
+                    <li><a target="_blank" href="/assets/letters/2020-06/year-6-transition-programme.pdf">8th June Year 6 Transition Programme <small>(PDF)</small></a></li>
+                    <li><a target="_blank" href="/assets/letters/2020-04/yr6_parents_welcome_29-04.pdf">29th April Year 6 Parent Welcome <small>(PDF)</small></a></li>
+                    <li><a href="/uniform.php">Park's Uniform Policy</a></li>
+                    <li><a href="/policies.php">Park's Policies Page</a></li>
+                    <li><a href="//vimeo.com/showcase/7279918" target="_blank">Year 6 Transition Videos</a></li>
+                    
+                </ul>
+
+                <div class="flex-video widescreen border-radius-5">
+                    <iframe src="https://player.vimeo.com/video/426939801" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                </div>
+
+                <p><em>Information is added on a regular basis so please check back.</em></p>
+
+              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+
+            <!-- NEWSLETTERS -->
+            <div id="covid-newsletters" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">Newsletters</h2>
+                <ul>
+                    <li><a href="/assets/letters/2020-07/newsletter-17-07.pdf" target="_blank">Newsletter 17th July</a></li>
+                    <li><a href="/assets/letters/2020-07/newsletter-10-07.pdf" target="_blank">Newsletter 10th July</a></li>
+                    <li><a href="/assets/letters/2020-07/newsletter-03-07.pdf" target="_blank">Newsletter 3rd July</a></li>
+                    <li><a href="assets/letters/2020-06/newsletter-26-06.pdf" target="_blank">26th June 2020</a></li>
+                    <li><a href="assets/letters/2020-06/newsletter-19-06.pdf" target="_blank">19th June 2020</a></li>
+                    <li><a href="assets/letters/2020-06/newsletter-12-06.pdf" target="_blank">12th June 2020</a></li>
+                    <li><a href="assets/letters/2020-06/newsletter-05-06.pdf" target="_blank">5th June 2020</a></li>
+                    <li><a href="assets/letters/2020-05/newsletter-22-05.pdf" target="_blank">22nd May 2020</a></li>
+                    <li><a href="assets/letters/2020-05/newsletter-15-05.pdf" target="_blank">15th May 2020</a></li>
+                    <li><a href="assets/letters/2020-05/newsletter-08-05.pdf" target="_blank">8th May 2020</a></li>
+                    <li><a href="assets/letters/2020-05/newsletter-01-05.pdf" target="_blank">1st May 2020</a></li>
+                </ul>
+
+                <p>You can view all of our letters home via our <a href="letters-home.php">Letters Home</a> page.</p>
+              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+
+
+            <!-- PARENT HOME LEARNING -->
+            <div id="covid-parent" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">Parent - Learning</h2>
+                <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
+
+                <p>Your child can use the link above to log on and access all of their learning remotely. They will find:</p>
+                <ul>
+                    <li>An overview of every half term for each subject</li>
+                    <li>Lead PowerPoints with videos explaining the learning</li>
+                    <li>All the resources they will need including video clips and live demonstrations</li>
+                    <li>Quizzes and application tasks to help them show they know</li>
+                </ul>
+                <p>Students can use this area to revise, access homework and revision and use for remote learning if they are required to work from home</p>
+
+                <p><strong>In the event of Lockdown</strong></p>
+                <p>If school is required to Lockdown for some or all students, all your learning is there ready for students. Teachers will:</p>
+                <ul>
+                    <li>Set work via Teams each week</li>
+                    <li>Offer Live lessons once every week</li>
+                    <li>Give feedback on work via Teams</li>
+                </ul>
+                <p>Additional work and resources can be accessed via:</p>
+                <ul>
+                    <li><a href="//www.thenational.academy/">The National Academy</a></li>
+                    <li><a href="//www.bbc.co.uk/teach/live-lessons/">BBC Live Lessons</a></li>
+                    <br>
+                    <li><a href="https://insight.pcs.hants.sch.uk:444/" target="_blank">Insight for Parents</a></li>
+                    <li><a href="https://www.scopay.com/pcs" target="_blank">Tucasi online-payments</a></li>
+                    <li><a href="assets/login-help.pdf">Need help logging in?</a></li>
+                    <li><a href="/assets/letters/2020-03/virtual-school.pdf" target="_blank">Hampshire Guide for Parents and Carers - Virtual Learning</a></li>
+                    <br>
+                    <li><a href="//vimeo.com/showcase/7029024" target="_blank">Video Assemblies</a></li>
+                    <li><a href="//vimeo.com/showcase/7145412">Lockdown Learning Revision Videos</a></li>
+                    <li><a href="assets/reading_process.pdf">Reading Process</a></li>
+                    <li><a href="assets/reading_together.pdf">Reading Together</a></li>
+                </ul>              
+              
+              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+
+
+            <!-- STUDENT HOME LEARNING -->
+            <div id="covid-student" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">Student - Learning</h2>
+                <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
+
+                <p>Use the link above and you school log-on to access learning for all of your subject areas. You’ll find:</p>
+                <ul>
+                    <li>An overview of every half term for each subject</li>
+                    <li>Lead PowerPoints with videos explaining your learning</li>
+                    <li>All the resources you will need including video clips and live demonstrations</li>
+                    <li>Quizzes and application tasks to help you show you know</li>
+                </ul>
+                <p>You can use this area to revise, access homework and revision and use for remote learning if you are required to work from home.</p>
+
+                <p><strong>In the event of Lockdown</strong></p>
+                <p>If school is required to Lockdown for some or all students, all your learning is there ready for you. Teachers will:</p>
+                <ul>
+                    <li>Set your work via Teams each week</li>
+                    <li>Offer Live lessons once every week</li>
+                    <li>Give you feedback on your work via Teams</li>
+                </ul>
+                <p>Additional lessons and support can be found at:</p>
+                <ul>
+                    <li><a href="assets/login-help.pdf">Need help logging in?</a></li>
+                    
+                    <li><a href="//vimeo.com/showcase/7029024" target="_blank">Video Assemblies</a></li>
+                    <li><a href="//vimeo.com/showcase/7145412">Lockdown Learning Revision Videos</a></li>
+                    <li><a href="assets/reading_plus_top_tips.pptx">Reading Plus Top Tips</a></li>
+
+                    <hr>
+                    <li><a href="#" data-reveal-id="virtual-sports">Virtual Sports Day 2020</a></li>
+                    <li><a href="weekly-challenge.php">Weekly Challenge March-June 2020</a></li>
+                    <li><a href="assets/reading_process.pdf">Reading Process</a></li>
+                </ul>
+
+              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+
+            <!-- virtual-sports -->
+            <div id="virtual-sports" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">Virtual Sports Day</h2>
+            <div class="small-text-center large-text-right">
+                <a class="small button radius" target="_blank" href="https://vimeo.com/showcase/7294651">Virtual Sports Day 2020</a>
+            </div>
+                <p>Welcome everyone to the launch of Park Community Schools Sports Fortnight 2020 – 10 days – 12 Challenges!</p>
+                <p>This year our competition will all be done at home, with you emailing in your results which we will collate results. On the email please remember to identify the event, what your result is and the family team you belong to.</p>
+                <p>As usual it will be a ‘battle of the families’ with Austen, Dickins, Brunel and Nelson all competing to be the 2020 Sports Fortnight Champions.</p>
+                <p>The competition has been launched the week after the Youth Sports Trust National School Sports Week, which celebrates the important role of Physical Education and School Sport in enhancing young people’s wellbeing. It is also within our usual Fresher Week and so we have invited year 6 to also take part.</p>
+
+                <h2>What you need to do:</h2>
+                <ul>
+                    <li>First of all watch the introduction video from Mrs Cavanagh and Mrs Bearpark.</li>
+                    <li>You then have 10 days to complete 12 challenges – you can complete these at a time / day to suit you. But 1 or 2 events will go live each day for you to access on the school website, Facebook page and the PE shared area. </li>
+                    <li>So you know what to do – each challenge has a demonstration from one of your PE teachers, SLT staff or Family Leader. They will talk you through the event and give you a score to try to beat.</li>
+                    <li>It does not matter if you don’t beat them. You will get 5 points for each event you take part in and send your honest results in for. 10 points if you do beat the member of staff and then the following points for the result itself. 15 points if you are the best in your year group, 10 points if you are second in your year group and 5 points if you are third in your year group.</li>
+                    <li>All scores will be collated for each Family – and the Family that gets the highest score at the end of the fortnight will be Park Community Schools Virtual Sports Fortnight Champions 2020.</li>
+                    <li>The deadline for ALL scores to be email in to C.Bearpark@pcs.hants.sch.uk or L.Cavanagh@pcs.hants.sch.uk is 3pm Friday 10th July, 2020.</li>
+            <div class="small-text-center large-text-right">
+                <a class="small button radius" target="_blank" href="https://vimeo.com/showcase/7294651">Virtual Sports Day Challenges</a>
+            </div>
+                </ul>
+
+                <div class="flex-video widescreen border-radius-5">
+                    <iframe src="https://player.vimeo.com/video/433618806" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                </div>
+                <div class="flex-video widescreen border-radius-5">
+                    <iframe src="https://player.vimeo.com/video/433525549" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                </div>
+
+                <p><em>Information is added on a regular basis so please check back.</em></p>
+
+              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+
+        </div>
+    </div>
+</section>
 
 <!-- CONTENT -->
 <section>
