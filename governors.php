@@ -270,12 +270,28 @@
             </div>
 
             <div class="medium-4 columns text-center  team-member-container">
-                <a>
-                  <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
-                <p>Pending</p>
-                Parent Governor</a>
+                      <a href="#" data-reveal-id="Governor-nmcmullan">
+                        <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
+                      <p>Mrs N McMullan</p>
+                      Governor Details</a>
+                              <div id="Governor-nmcmullan" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                                <h2 id="modalTitle">Mrs N McMullan</h2>
+                                <p class="lead">Appointed: 10.11.2019 <br>Term Expires: 09.11.2023</p>
+                                <p>Category: Parent Governor</p>
+                                <p>Committee Membership:</p>
+                                  <ul class="circle">
+                                      <li>TBA</li>
+                                  </ul>
+                                <p>Pecuniary Interests:</p>
+                                  <ul class="circle">
+                                    <li>TBA</li>
+                                  </ul>
+
+                              <a class="close-reveal-modal" aria-label="Close">&#215;</a>    
+                       </div>
             </div>
 
+            
             <div class="medium-4 columns text-center  team-member-container end">
                 <a>
                   <img src="images/governors/person.jpg" alt="Governor Profile Image" class="team-member">
