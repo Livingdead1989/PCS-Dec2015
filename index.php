@@ -23,10 +23,13 @@
             
             <div class="small-text-center large-text-right">
                 <a class="expand small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
-                <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
-                <a class="small button radius warning" href="#" data-reveal-id="COVID-19">COVID-19</a>
                 <a class="small button radius warning" href="#" data-reveal-id="RETURN">Return to School</a>
-                <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a>
+                <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
+                <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Learning</a>
+                <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a> 
+                <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
+                <a class="small button radius success" href="#" data-reveal-id="COVID-19">COVID-19</a>
+                
             </div>
                         <!-- HEADTEACHERS WELCOME -->
                         <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
@@ -68,7 +71,6 @@
                           <ul>
                             <li><a href="https://www.gov.uk/government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-in-the-autumn-term" target="_blank">What parents and carers need to know about early years providers, schools and colleges in the autumn term</a></li>
                             <li><a href="/assets/letters/2020-07/faq_parents_and_students.pdf" target="_blank">FAQ for Parents and Students</a></li>
-                            <li><a href="/assets/letters/2020-07/end_and_start_of_term-school_zones_faq.pdf" target="_blank">Year 6-10 End and Start of Term and School Zones FAQ</a></li>
                           </ul>
                           
 
@@ -117,10 +119,9 @@
             <br>
                         
             <div class="small-text-center large-text-right">
+                <a class="small button radius" href="/letters-home.php" >letters</a>
                 <a class="small button radius" href="#" data-reveal-id="covid-newsletters">Newsletters</a>
                 <a class="small button radius" href="//vimeo.com/showcase/7029024">Assemblies</a>
-                <a class="small button radius" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
-                <a class="small button radius" href="#" data-reveal-id="covid-student">Student - Learning</a>
             </div>
 
             <!-- NEWSLETTERS -->
