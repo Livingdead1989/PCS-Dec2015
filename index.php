@@ -32,10 +32,10 @@
                         <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Headteacher's Welcome</h2>
                           <p class="lead">Mr Christopher Anders</p>
-                          <p>Welcome to Park Community School.  Our school now provides an expansive park environment.  Through a wide variety of lessons and other opportunities to learn, we encourage our young people to discover what they love. We have themed the areas of the school around ‘Parks of the World’, using supersized photos to brighten corridors and show what an exciting world we live in.  As well as the school site, we have three other facilities to provide a great curriculum and exciting places in which to learn.  Our school focuses on three areas of learning, we describe these as attainment, resilience and autonomy.</p>
-                          <p>Over the last seven years we have planned and then constructed our new school.  Two-thirds of the school has been rebuilt with the remaining third refurbished.  The fantastic buildings now support students’ learning and enrich their time at school.  </p>
-                          <p>We have a wonderful theatre, lecture theatre, restaurant and outdoor areas, including a floodlit STP (synthetic turf pitch). The Watering Hole restaurant serves award-winning school meals, prepared by our chefs and their catering team, all at affordable prices. Our classrooms include the latest large touch-screen technology. We have invested heavily in computers, laptops, iPads and software to allow students to use a comprehensive range of electronic devices. Our science labs and technology rooms have all been refurbished and house new equipment, including 3D printers and a laser cutter, as well as an industrial catering room.</p>
-                          <p>I hope that the information on this website gives you some idea of our vision and principles, as well as the facilities, and curriculum that we offer to students.  It also includes details of other activities we undertake, such as teacher training through the Solent SCITT, and printing and enterprise through our industrial unit and construction skills centre.</p>
+                          <p>Welcome to Park Community School. Our school provides an expansive park environment. Through a wide variety of lessons and other opportunities to learn, we encourage our young people to discover what they love. We have themed the areas of the school around ‘Parks of the World’, using displays and photos to brighten corridors and show what an exciting world we live in. As well as the school site, we have four other facilities to provide a great curriculum and exciting places in which to learn. Our school focuses on three areas of learning, we describe these as attainment, resilience and autonomy.</p>
+                          <p>Over the last decade we have planned and then constructed our new school. Two-thirds of the school was rebuilt with the remaining third refurbished. The fantastic buildings now support students’ learning and enrich their time at school.</p>
+                          <p>We have a wonderful theatre, lecture theatre, restaurant and outdoor areas, including a floodlit STP (synthetic turf pitch). Many areas are used by community groups and other organisations as well as for parties outside of school time. The Watering Hole restaurant serves award-winning school meals, prepared by our chefs and their catering team, all at affordable prices. Our classrooms include the latest large touch-screen technology. We have invested heavily in computers, laptops, iPads and software to allow students to use a comprehensive range of electronic devices. Our science labs and technology rooms have all been refurbished and house new equipment, including 3D printers and a laser cutter, as well as an industrial catering room.</p>
+                          <p>I hope that the information on this website gives you some idea of our vision and principles, as well as the facilities, and curriculum that we offer to students. It also includes details of other activities we undertake, such as teacher training through the Solent SCITT which is based at the school, and printing and enterprise through our industrial unit and construction skills centre. Munch and Connect4Summer are initiatives for our wider community. We recently opened the Coach House Tea Room in Staunton Country Park. School should be about finding what you love to do as well as academic learning and being well-prepared for the next steps in life, at Park we are proud to be Much More Than Just a School.</p>
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
                         </div>
@@ -117,57 +117,10 @@
             <br>
                         
             <div class="small-text-center large-text-right">
-                <a class="small button radius" href="#" data-reveal-id="yr11-leavers">Year 11 Leavers</a>
-                <a class="small button radius" href="#" data-reveal-id="covid-y6trans">Year 6 Transition</a>
                 <a class="small button radius" href="#" data-reveal-id="covid-newsletters">Newsletters</a>
                 <a class="small button radius" href="//vimeo.com/showcase/7029024">Assemblies</a>
                 <a class="small button radius" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
                 <a class="small button radius" href="#" data-reveal-id="covid-student">Student - Learning</a>
-            </div>
-
-            <!-- Year 11 Leavers -->
-            <div id="yr11-leavers" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                <h2 id="modalTitle">Year 11 Leavers</h2>
-
-                <div class="flex-video widescreen border-radius-5">
-                    <iframe src="https://player.vimeo.com/video/440002226" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                </div>
-
-                <ul>
-                    <li><a href="/assets/letters/2020-08/gcse-and-november-exam.pdf" target="_blank">Year 11 GCSE and November Exams</a></li>
-                    <li><a href="/assets/letters/2020-08/yr11_gcse_results_further_information.pdf" target="_blank">GCSE Results Day 2020 <small>- Furhter Information Aug 2020</small></a></li>
-                    <li><a href="/assets/year11-leavers/ofqual_letter_gcse_2020.pdf" target="_blank">Ofqual Letter to Students for GCSE 2020</a></li>
-                    <li><a href="/assets/year11-leavers/student_guide_gcse_results_2020.pdf" target="_blank">Student Guide for GCSE Results 2020</a></li>
-                    <li><a href="//www.gov.uk/government/publications/awarding-qualifications-in-summer-2020" target="_blank">Awarding qualifications in summer 2020</a></li>
-                    <li><a href="//www.youtube.com/watch?v=npM16I5nogg" target="_blank">Grading in 2020 - information for students <small>(YouTube)</small></a></li>
-                </ul>
-
-              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-            </div>
-
-            <!-- YR6TRANS -->
-            <div id="covid-y6trans" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                <h2 id="modalTitle">Year 6 Transition</h2>
-                <p>To ensure a smooth Year 6 transition during Covid-19 we have created this section with all the relevant information for our parents and carers.</p>
-
-                <ul>
-                    <li><a target="_blank" href="/assets/admissions/pcs_parental_combined_consent_booklet_2020.pdf">Parental Combined Consent Booklet<small>(PDF)</small></a></li>
-                    <li><a target="_blank" href="/assets/letters/2020-06/year-6-transition-visits.pdf">22nd June Year 6 Transition Visits <small>(PDF)</small></a></li>
-                    <li><a target="_blank" href="/assets/letters/2020-06/year-6-transition-programme.pdf">8th June Year 6 Transition Programme <small>(PDF)</small></a></li>
-                    <li><a target="_blank" href="/assets/letters/2020-04/yr6_parents_welcome_29-04.pdf">29th April Year 6 Parent Welcome <small>(PDF)</small></a></li>
-                    <li><a href="/uniform.php">Park's Uniform Policy</a></li>
-                    <li><a href="/policies.php">Park's Policies Page</a></li>
-                    <li><a href="//vimeo.com/showcase/7279918" target="_blank">Year 6 Transition Videos</a></li>
-                    
-                </ul>
-
-                <div class="flex-video widescreen border-radius-5">
-                    <iframe src="https://player.vimeo.com/video/426939801" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                </div>
-
-                <p><em>Information is added on a regular basis so please check back.</em></p>
-
-              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
 
             <!-- NEWSLETTERS -->
