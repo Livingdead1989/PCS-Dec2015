@@ -119,7 +119,7 @@
             <br>
                         
             <div class="small-text-center large-text-right">
-                <a class="small button radius" href="/letters-home.php" >letters</a>
+                <a class="small button radius" href="/letters-home.php" >Letters</a>
                 <a class="small button radius" href="#" data-reveal-id="covid-newsletters">Newsletters</a>
                 <a class="small button radius" href="//vimeo.com/showcase/7029024">Assemblies</a>
             </div>
