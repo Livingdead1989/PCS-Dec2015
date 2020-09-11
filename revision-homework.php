@@ -22,6 +22,47 @@
 <!-- CONTENT -->
 <section>
     <div class="row">
+        <h3>Student - Remote Learning</h3>
+                <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
+
+                <p>Use the link above and you school log-on to access learning for all of your subject areas. You’ll find:</p>
+                <ul>
+                    <li>An overview of every half term for each subject</li>
+                    <li>Lead PowerPoints with videos explaining your learning</li>
+                    <li>All the resources you will need including video clips and live demonstrations</li>
+                    <li>Quizzes and application tasks to help you show you know</li>
+                </ul>
+                <p>You can use this area to revise, access homework and revision and use for remote learning if you are required to work from home.</p>
+
+                <p><strong>In the event of Lockdown</strong></p>
+                <p>If school is required to Lockdown for some or all students, all your learning is there ready for you. Teachers will:</p>
+                <ul>
+                    <li>Set your work via Teams each week</li>
+                    <li>Offer Live lessons once every week</li>
+                    <li>Give you feedback on your work via Teams</li>
+                </ul>
+                <p>Additional lessons and support can be found at:</p>
+                <ul>
+                    <li><a href="assets/login-help.pdf">Need help logging in?</a></li>
+                    
+                    <li><a href="//vimeo.com/showcase/7029024" target="_blank">Video Assemblies</a></li>
+                    <li><a href="//vimeo.com/showcase/7145412">Lockdown Learning Revision Videos</a></li>
+                    <li><a href="assets/reading_plus_top_tips.pptx">Reading Plus Top Tips</a></li>
+
+                    <hr>
+                    <li><a href="#" data-reveal-id="virtual-sports">Virtual Sports Day 2020</a></li>
+                    <li><a href="weekly-challenge.php">Weekly Challenge March-June 2020</a></li>
+                    <li><a href="assets/reading_process.pdf">Reading Process</a></li>
+                </ul>
+    </div>
+    <br><br><br>
+</section>
+
+<section class="grey-bg">
+    <div class="row">
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+    </div>
+    <div class="row">
         <br>
         <div class="medium-7 columns">
 
@@ -36,9 +77,9 @@
     <br><br><br>
 </section>
 
-<section class="grey-bg">
+<section>
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
         <div class="medium-12 columns">
@@ -56,9 +97,9 @@
     <br><br><br>
 </section>
 
-<section>
+<section class="grey-bg">
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
         <br>
@@ -85,9 +126,9 @@
     <br><br><br>
 </section>
 
-<section class="grey-bg">
+<section>
     <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
     </div>
     <div class="row">
         <br>
@@ -116,32 +157,6 @@
             <li><a href="//www.youtube.com/user/mrbruff/featured">MrBruff</a></li>
             <li><a href="//www.youtube.com/channel/UC0jbf4wI1GPts6hpbKZ-7Bw/featured">Mrs Whelan's English</a></li>
           </ul>
-        </div>
-    </div>
-    <br><br><br>
-</section>
-
-<section>
-    <div class="row">
-        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
-    </div>
-    <div class="row">
-        <div class=" columns">
-
-          <h3>Subjects Resources</h3>
-
-          <a class="button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
-
-          <ul>
-            <li><a target="_blank" href="//vimeo.com/showcase/7145412">Lockdown Learning Revision Videos</a></li>
-            <li><a target="_blank" href="//members.gcsepod.com/login">GCSEpod</a></li>
-            <li><a target="_blank" href="//app.senecalearning.com/login">SENECA</a></li>
-            <li><a target="_blank" href="//www.thenational.academy/">The National Academy</a></li>
-            <li><a target="_blank" href="//www.bbc.co.uk/teach/live-lessons/">BBC Live Lessons</a></li>
-          </ul>
-          
-
-          <br><br>
         </div>
     </div>
 </section>
