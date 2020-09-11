@@ -240,7 +240,9 @@
                                   </ul>
                                 <p>Pecuniary Interests:</p>
                                   <ul class="circle">
-                                    <li>TBA</li>
+                                    <li>Member of University of Winchester Academy Trust</li>
+                                    <li>Chair of Governors Wallisdean Federation</li>
+                                    <li>Trustee of Trosnant Junior School Fund</li>
                                   </ul>
 
                               <a class="close-reveal-modal" aria-label="Close">&#215;</a>    
