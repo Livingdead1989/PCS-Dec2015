@@ -22,8 +22,11 @@
 <!-- CONTENT -->
 <section>
     <div class="row">
+        <br>
         <h3>Student - Remote Learning</h3>
-                <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
+                <div class="text-center">
+                    <a class="button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
+                </div>
 
                 <p>Use the link above and you school log-on to access learning for all of your subject areas. You’ll find:</p>
                 <ul>
@@ -159,6 +162,7 @@
           </ul>
         </div>
     </div>
+    <br><br><br>
 </section>
 
 <!-- FOOTER -->
