@@ -25,7 +25,7 @@
                 <a class="expand small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
                 <a class="small button radius warning" href="#" data-reveal-id="RETURN">Return to School</a>
                 <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
-                <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Learning</a>
+                <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Remote Learning</a>
                 <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a> 
                 <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
                 <a class="small button radius success" href="#" data-reveal-id="COVID-19">COVID-19</a>
