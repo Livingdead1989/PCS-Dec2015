@@ -71,6 +71,7 @@
             <li><a href="assets/curriculum/english/year8.pdf">Year 8</a></li>
             <li><a href="assets/curriculum/english/year9.pdf">Year 9</a></li>
             <li><a href="assets/curriculum/english/year10.pdf">Year 10</a></li>
+            <li><a href="assets/curriculum/english/year11.pdf">Year 11</a></li>
             <li><a href="assets/curriculum/english/gcse.pdf">AQA English Language GCSE</a></li>
         </ul>
 
