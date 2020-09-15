@@ -40,7 +40,7 @@
         <h3>Curriculum Implementation</h3>
             <p>The KS3 curriculum follows a three-year course set within a chronological framework. Big enquiry questions drive the learning and are underpinned by the second-order historical concepts to allow our students to think and work like historians.</p> 
             <p>Our year 7 curriculum begins with an investigation into students’ own history through a local study of the development of Leigh Park, as well as the opportunity for students to conduct their own research into their own families or local points of interest. We then journey through pre-20th century history, exploring the Medieval, Early Modern and Industrial periods. Some of the enquiry questions we use to explore the history of these periods include ‘Does Mary I deserve her nickname of ‘Bloody Mary’?’ and ‘How should we remember the British Empire?’</p> 
-            <p>Years 8 and 9 continue in a chronological approach and largely focuses on the study of the 20th century. We study a range of historical figures and events, including the Suffragette movement and civil rights in the USA. Enquiry questions that drive the learning include challenging questions such as ‘Was it really the assassination of one man that caused the First World War?’ and ‘Was the Holocaust inevitable?’ </p> 
+            <p>Years 8 and 9 continue in a chronological approach and largely focuses on the study of the 20th century. We study a range of historical figures and events, including the Suffragette movement and civil rights in the USA. Enquiry questions that drive the learning include challenging questions such as ‘Was it really the assassination of one man that caused the First World War?’ and ‘Was the Holocaust inevitable?’</p> 
             <p>Our Key Stage 4 curriculum begins in year 10. As well as selecting topics that are interesting and engaging, we believe these histories are important in understanding significant changes which have helped to shape the world around us.</p> 
             <p>The following units are studied under the Edexcel GCSE board: </p>
             <ul>
@@ -48,6 +48,11 @@
                 <li>Paper 2: Early Elizabethan England, 1558-1588 and Superpower Relations, 1941-1991</li>
                 <li>Paper 3: Weimar and Nazi Germany, 1918-1939</li>
             </ul>
+
+        <h3>Impact</h3>
+            <p>Students leave GCSE History having gained a deeper understanding into British and world history, increasing their cultural capital. Further to this, their opportunity to explore the significant events and people that have shaped our historical identity and the world around us today, will help students to understand current affairs and be more politically engaged.</p>
+            <p>Students develop critical thinking and evaluative skills that will equip them necessary life skills. Those that choose to take History at GCSE will also gain a qualification to reflect their achievement and progress.</p>
+
         <br>
         </div>
     </div>
