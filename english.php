@@ -62,7 +62,8 @@
         <p>Students leave Park Community School able to read, write and communicate well.</p>
 
         <div class="text-center">
-                        <a role="button" target="_blank" href="assets/curriculum/english/curriculum-overview.pdf" class="button">Curriculum Overview</a>
+                        <a role="button" target="_blank" href="assets/curriculum/english/curriculum-overview-ks3.pdf" class="button">KS3 Curriculum Journey</a>
+                        <a role="button" target="_blank" href="assets/curriculum/english/curriculum-overview-ks4.pdf" class="button">KS4 Curriculum Journey</a>
         </div>
 
         <h3>What do students study at Park Community School?</h3>
