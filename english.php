@@ -38,7 +38,7 @@
         <h3>Implementation</h3>
         <p>Our curriculum begins in year 6 with our transition scheme, which has been co-planned with our primary feeder schools. As a result, students transition into life at Park Community School much more confidently because they are given the opportunity to develop and build upon the work they have started in year 6.</p>
         <p>From year 7 to 11, key threads have been pulled through the curriculum so that students are constantly returning to key concepts but from new perspectives. This enables students to develop mastery of these key concepts, securing understanding and ensuring key knowledge is stored in students’ long term memory.</p>  
-        <p>Our English lessons are built on the ethos of facilitating and encouraging deep thinking with opportunities for students to work collaboratively to discuss and challenge opinions and ideas. We have carefully selected a range of engaging and challenging texts including whole novels as well as a range of thought-provoking short stories, poetry, drama and non-fiction texts to widen students’ cultural capital but also to provide them with high quality stimulus for thought. These are supplemented with cross-curricular lectures, which students are invited to attend to broaden their wider knowledge of conceptual theories, such as feminist theory and Marxism, which can broaden their perspectives on the texts to which they are exposed.</p>
+        <p>Our English lessons are built on the ethos of facilitating and encouraging deep thinking with opportunities for students to work collaboratively to discuss and challenge opinions and ideas. We have carefully selected a range of engaging and challenging texts including whole novels as well as a range of thought-provoking short stories, poetry, drama and non-fiction texts to widen students’ cultural capital but also to provide them with high quality stimulus for thought.</p>
 
         <h4>Additional opportunities:</h4>
         <ul>
@@ -46,7 +46,6 @@
             <li>Debate Club – students participate in interschool debate competitions across the county and potentially further afield.</li>
             <li>Journalism – students have the opportunity within lessons and as part of extra-curricular programmes to prepare articles and written pieces to be published in ‘Park Post’.</li>
             <li>Amphitheatre Performances – students are encouraged to celebrate their work as part of live readings during the school amphitheatre slot as well as using this as a forum to develop their spoken language skills</li>
-            <li>Year 11 Year Book Editorial Team</li>
             <li>Creative writing competitions</li>
             <li>Storyteller visits</li>
             <li>Theatre trips</li>
@@ -80,6 +79,7 @@
         <ul>
             <li><a target="_blank" href="//www.aqa.org.uk/subjects/english/gcse/english-literature-8702">AQA English Literature GCSE</a></li>
             <li><a target="_blank" href="//www.aqa.org.uk/subjects/english/gcse/english-language-8700">AQA English Language GCSE</a></li>
+            <li><a target="_blank" href="//www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-9-1-first-language-english-0990/">‘Cambridge iGCSE English Language</a></li>
         </ul>
         <p>Revision</p>
         <ul>
@@ -93,6 +93,8 @@
             <li><a target="_blank" href="//www.youtube.com/channel/UCM2vdqz-7e4HAuzhpFuRY8w">Mr Bruff</a></li>
             <li><a target="_blank" href="//www.youtube.com/channel/UC0jbf4wI1GPts6hpbKZ-7Bw">Mrs Whelan’s English</a></li>
             <li><a target="_blank" href="//www.youtube.com/channel/UCJhuqpyhE8NzYZFkwTzi_7g">Stacey Reay</a></li>
+            <li><a target="_blank" href="//www.bbc.co.uk/bitesize/examspecs/zcbchv4">GCSE Bitesize Language</a></li>
+            <li><a target="_blank" href="//www.bbc.co.uk/bitesize/examspecs/zxqncwx">GCSE Bitesize Literature</a></li>
         </ul>
 
             
