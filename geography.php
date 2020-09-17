@@ -31,9 +31,6 @@
     <div class="row">
         <div class="large-12 columns">
         <br>
-            <h3>Vision</h3>
-            <p>As the future generation responsible for our planet, we want our students to have a sense of respect for the world and the people in it, enhanced by a sound knowledge and understanding of both physical and human geography. For our students to develop an analytical and evaluative understanding of the world through discussion and written responses on case studies and topical issues.</p>
-
             <h3>Intent</h3>
             <p>As the future generation responsible for our planet, we want our students to respect our world and the people in it, building a sound knowledge and understanding of both physical and human geography. They will do this by developing an analytical and evaluative understanding of the world through discussion and written responses on case studies and topical issues.</p>
             <p>Geography at Park Community School is designed to develop our students’ curiosity about the physical and human world around them. Our students will investigate the local area as well as a variety of case studies from around the world. As a department, we are keen to ensure that students understand how geography influences their everyday lives and how they impact the future of our planet. We also aspire to produce geographical enquirers, asking questions and developing an understanding about different cultures and places around the world.</p>
