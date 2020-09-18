@@ -28,7 +28,9 @@
             <ul class="small-block-grid-1">
             	<li>
             		<ul class="circle">September 2020<hr>
-            			<li><a href="/assets/letters/2020-09/welcome-back.pdf" target="_blank">Welcome Back</a></li>
+            			<li><a href="/assets/letters/2020-09/newsletter-18-09.pdf" target="_blank">Newsletter 18th September</a></li>
+            		    <li><a href="/assets/letters/2020-09/welcome-back.pdf" target="_blank">Welcome Back</a></li>
+	
             		</ul>
             	<li>
             		<ul class="circle">August 2020<hr>
