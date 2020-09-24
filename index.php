@@ -71,6 +71,7 @@
                           <ul>
                             <li><a href="https://www.gov.uk/government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-in-the-autumn-term" target="_blank">What parents and carers need to know about early years providers, schools and colleges in the autumn term</a></li>
                             <li><a href="/assets/letters/2020-07/faq_parents_and_students.pdf" target="_blank">FAQ for Parents and Students</a></li>
+                            <li><a href="/assets/letters/2020-09/nhs_testtrace.pdf" target="_blank">NHS Test and Trace - PHE</a></li>
                           </ul>
                           
 
