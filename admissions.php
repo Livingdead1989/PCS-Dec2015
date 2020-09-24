@@ -25,6 +25,11 @@
     <div class="row">
         <br>
         <div class="medium-8 columns">
+            <p id="covid-openevening"><strong>COVID-19 Open Evening Changes</strong></p>
+            <p>Due to the restrictions imposed due to COVID-19 we are unable to hold our usual Open Evening this year.</p>
+            <p>We will be producing a virtual version soon and we will be arranging late afternoon tours for small groups later this half term.</p>
+            <p>If you would be interested please mail us at <a href="mailto:tours@pcs.hants.sch.uk">tours@pcs.hants.sch.uk</a>, please identify what day of the week you would prefer and what sort of time would be best and we will try to accommodate you as best we can.</p>
+            <hr>
             <h3>Applying for a place at Park Community School</h3>
             <p>If you are interested in applying for a place at Park Community School, you are always welcome to visit us and get a more detailed picture by talking to our students and staff, and by seeing the school in action.
             <br>Find our Admissions Policy in the Policies section.</p>
