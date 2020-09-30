@@ -217,7 +217,7 @@
                 <p>Additional lessons and support can be found at:</p>
                 <ul>
                     <li><a href="assets/login-help.pdf">Need help logging in?</a></li>
-                    
+                    <li><a href="//vimeo.com/463321464" target="_blank">Accessing INSIGHT</a></li>
                     <li><a href="//vimeo.com/showcase/7029024" target="_blank">Video Assemblies</a></li>
                     <li><a href="//vimeo.com/showcase/7145412">Lockdown Learning Revision Videos</a></li>
                     <li><a href="assets/reading_plus_top_tips.pptx">Reading Plus Top Tips</a></li>
