@@ -27,6 +27,12 @@
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
             	<li>
+            		<ul class="circle">October 2020<hr>
+            			<li><a href="/assets/letters/2020-10/newsletter-2-10.pdf" target="_blank">Newsletter 2nd October</a></li>
+            		    	
+            		</ul>
+            	<li>
+            	<li>
             		<ul class="circle">September 2020<hr>
             			<li><a href="/assets/letters/2020-09/newsletter-18-09.pdf" target="_blank">Newsletter 18th September</a></li>
             		    <li><a href="/assets/letters/2020-09/welcome-back.pdf" target="_blank">Welcome Back</a></li>
