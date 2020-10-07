@@ -287,7 +287,7 @@
                     <!-- VIMEO Showcase Video Reel -->
                     <div>
                         <div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://vimeo.com/showcase/5574215/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                            <iframe src="https://player.vimeo.com/video/462988107" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
                     </div>
                     <!-- VIMEO Video -->
