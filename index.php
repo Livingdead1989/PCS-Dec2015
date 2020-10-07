@@ -120,6 +120,7 @@
             <br>
                         
             <div class="small-text-center large-text-right">
+                <a class="small button radius" href="//vimeo.com/" target="_blank">Vimeo</a>
                 <a class="small button radius" href="/letters-home.php" >Letters</a>
                 <a class="small button radius" href="#" data-reveal-id="covid-newsletters">Newsletters</a>
                 <a class="small button radius" href="//vimeo.com/showcase/7029024">Assemblies</a>
@@ -252,7 +253,7 @@
                     <li>All scores will be collated for each Family – and the Family that gets the highest score at the end of the fortnight will be Park Community Schools Virtual Sports Fortnight Champions 2020.</li>
                     <li>The deadline for ALL scores to be email in to C.Bearpark@pcs.hants.sch.uk or L.Cavanagh@pcs.hants.sch.uk is 3pm Friday 10th July, 2020.</li>
             <div class="small-text-center large-text-right">
-                <a class="small button radius" target="_blank" href="https://vimeo.com/showcase/7294651">Virtual Sports Day Challenges</a>
+                <a class="small button radius" target="_blank" href="https://vimeo.com/462988107">Welcome to Park</a>
             </div>
                 </ul>
 
