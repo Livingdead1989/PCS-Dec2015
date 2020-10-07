@@ -48,7 +48,7 @@
                   <td>£448,850</td>
                 </tr>
                 <tr>
-                  <td>Service Children / LAC</td>
+                  <td>Service Children</td>
                   <td>£3,100</td>
                 </tr>
                 <tr>
@@ -58,7 +58,7 @@
               </table>
 
           <p>Grant Allocation:</p>
-          <p>In 2019/2020 the school received £434,735 for Pupil Premium (PP) and £17,865 for Looked After Children (LAC). </p>
+          <p>In 2019/2020 the school received £434,635 for Pupil Premium (PP) and £17,965 for Looked After Children (LAC). </p>
           <p>The school spent £560,622 providing additional support for PP students. The pupil Premium is grant funding and is in addition to the school’s Delegated Budget. The school chooses to invest additional funding from its delegated budget to support pupil Premium funding.</p>
           <p>The Pupil Premium is allocated by calculating the number of students who are on Free School Meals (FSM) or have had FSM in the last six years. Students who have been in care continuously for more than six months or have a parent in the Armed Services also lead to some additional funding for the school.</p>
         </div>
@@ -245,9 +245,11 @@
 
 			<p>Parent and student feedback demonstrated positive increases regarding confidence and perception of ability alongside willingness to engage in additional learning outside of the classroom.</p>
 
-			<p><strong>In 2019 - 2020 we expect to receive a similar amount</strong></p> 
+			<p><strong>In 2019 - 2020 we received £19,989, which is used to help these students secure and close gaps in their literacy and numeracy through small group intervention, 1 to 1 intervention, the Reading Plus programme and in class support.</strong></p> 
 
-			<p>This will be used to help these students secure and close gaps in their literacy and numeracy through small group intervention, 1 to 1 intervention, the Reading Plus programme and in class support.</p>
+			<h3>Coronavirus Catch-up Premium (2020-2021)</h3>
+
+      <p><strong>The allocation of £70,960 will be received in three tranches and will be used to deliver small group and 1 to 1 tuition.</strong></p>
 
     	</div>
     </div>
