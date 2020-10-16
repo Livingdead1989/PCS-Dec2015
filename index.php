@@ -130,6 +130,7 @@
             <div id="covid-newsletters" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                 <h2 id="modalTitle">Newsletters</h2>
                 <ul>
+                    <li><a href="/assets/letters/2020-10/newsletter-16-10.pdf" target="_blank">Newsletter 16th October</a></li>
                     <li><a href="/assets/letters/2020-10/newsletter-2-10.pdf" target="_blank">Newsletter 2nd October</a></li>
                     <li><a href="/assets/letters/2020-09/newsletter-18-09.pdf" target="_blank">Newsletter 18th September</a></li>
                     <li><a href="/assets/letters/2020-07/newsletter-17-07.pdf" target="_blank">Newsletter 17th July</a></li>
