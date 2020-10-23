@@ -28,6 +28,7 @@
             <ul class="small-block-grid-1">
             	<li>
             		<ul class="circle">October 2020<hr>
+                        <li><a href="/assets/letters/2020-10/general-letter-22.pdf" target="_blank">General Letter 22nd October</a></li>
                         <li><a href="/assets/letters/2020-10/newsletter-16-10.pdf" target="_blank">Newsletter 16th October</a></li>
                         <li><a href="/assets/letters/2020-10/general-letter-12.pdf" target="_blank">General Letter 12th October</a></li>
                         <li><a href="/assets/letters/2020-10/pe-lessons.pdf" target="_blank">PE Lessons 9th October</a></li>
