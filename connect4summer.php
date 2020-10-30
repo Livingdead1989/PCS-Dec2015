@@ -35,11 +35,9 @@
 			</div>
 			<br>
 
-			<p>The project for 2020 is based on the pilot year and has been expanded to include more venues in Hampshire, Portsmouth, Southampton and the Isle of Wight.</p>
+			<p>The project for 2020 was based on the pilot year and was expanded to include more venues in Hampshire, Portsmouth, Southampton and the Isle of Wight.</p>
 
-			<p>The programme is run in 50 venues and includes a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
-
-			<p>The 20-day project runs from 29 July - 25 August, 10am-3pm.</p> 
+			<p>The programme ran in 50 venues and includes a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
 
 			<div class="small-offset-2 small-8 text-center">
 				<div class="flex-video widescreen border-radius-5">
@@ -59,29 +57,20 @@
     </div>
 	<div class="row">
 		<div class="columns">
-
-			<br>
-				<h2>Connect4Summer 2020</h2>
-				<p>Connect4Summer is back at Park for 2020! Join us from 29th July-25th August for a summer of fun.</p>
-				<p>FREE Family Fun Days, childcare and Teen Projects.</p>
-				<p>Please visit <a href="https://connect4.org.uk/" target="_blank">Connect4Summer</a> for booking and more information. Contact hello@active-kids.com for childcare bookings.</p>
-				<p>Family Fun Days: daily craft, sport, cookery, storytelling, Daily Mile, two-course hot lunch and a specialist. Specialists include: Family First Aid, Art Projects, Yoga, Martial Arts, Lego and a Science Professor.</p>
-				<p>Childcare: We are providing 10 free childcare sessions to families in receipt of Free School Meals (FSM) with working parents. Please contact Active Kids directly. Children must be aged 5 and older. You will be required to provide proof of FSM.</p>
-				<p>Teen Projects:</p>
-			<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2">
-				<li>Woodwork with Tux Mokgethi: specialist in Design and Technology. Tux worked with our families last year and this was an extremely popular activity. He is very excited to work with our teens this year using wood to create a design for them to take home. They will use a variety of tools and materials, all provided for free to our teens.</li>
-				<li>Gaming design with Stuart: specialist in gaming design and app creation. Learn to create your own game with a focus on creativity and strategy. Create an app that you can download to your phone at the end of the course.</li>
-				<li>Artwork and graffiti with James Waterfield: specialist in teaching art. One of James’ passions is creating large graffiti displays at festivals. On the day you will work on a design and then using spray paint create your own artwork to take home and display.</li>
-			</ul>
-			<div class="small-text-center">
-                <a class="large button radius" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
-            </div>
+			<h2>Connect4Summer 2020 - Review</h2>
+			<p>Connect4Summer has been successful for its second year, and we are extremely proud of the joy and happiness we have managed to bring to families while helping with mental health issues raised by COVID-19.</p>
+			<p>We have been able to bring a 20-day programme to venues around Hampshire, Portsmouth, Southampton and Isle of Wight while maintaining government guidelines.</p>
+			<p>Please take the time to view our Connect4Summer 2020 review, and we'd like to thank all the 420+ employed to make this fantastic event possible once again.</p>
 
             <div class="small-offset-2 small-8 text-center">
 				<div class="flex-video widescreen border-radius-5">
-					<iframe src="https://player.vimeo.com/video/434748011" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+					<iframe src="https://player.vimeo.com/video/451756772" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 				</div>
 			</div>
+
+			<div class="text-center">
+                  <a href="/assets/connect4summer/connect4summer2020_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
+                </div>
 		
 			<br><br>
 			
@@ -97,7 +86,7 @@
 		<div class="columns">
 			<div class="row">
 				<h2>Connect4Summer 2019 - Review</h2>
-				<p>We are really proud of what we have achieved, 17 organisations have provided free daily child care and 21 organisations have provided free family fun days for 20 days and the feedback from parents has been tremendous....</p>
+				<p>We are really proud of what we have achieved, 17 organisations have provided free daily child care and 21 organisations have provided free family fun days for 20 days and the feedback from parents has been tremendous.</p>
 
 				<div class="small-offset-2 small-8 text-center">
 					<div class="text-center flex-video widescreen border-radius-5">
@@ -106,7 +95,7 @@
 	            </div>
 
 				<div class="text-center">
-                  <a href="/assets/connect4summer/connect4summer_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
+                  <a href="/assets/connect4summer/connect4summer2019_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
                 </div>
 
                 <br><br>
