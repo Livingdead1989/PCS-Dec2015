@@ -26,6 +26,11 @@
         <div class="medium-12 columns">
         	<p>We feel that everyone should be kept informed. Below you will find all the letters we send home so you get the information needed, regardless of the animals eating it or it getting lost!</p>
             <ul class="small-block-grid-1">
+                <li>
+                    <ul class="circle">November 2020<hr>
+                        <li><a href="/assets/letters/2020-11/general-letter-04.pdf" target="_blank">General Letter 4th November</a></li>
+                    </ul>
+                <li>
             	<li>
             		<ul class="circle">October 2020<hr>
                         <li><a href="/assets/letters/2020-10/general-letter-22.pdf" target="_blank">General Letter 22nd October</a></li>
