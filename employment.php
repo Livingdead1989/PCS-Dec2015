@@ -36,7 +36,7 @@
   <p><em>Closing Date: 20th November 2020</em></p>
 
   <span class="subheader">
-  <a href="assets/recruitment/teachin-assistant.pdf" target="_blank">Position Details</a>
+  <a href="assets/recruitment/teaching-assistant.pdf" target="_blank">Position Details</a>
   </span>
 </li>
 
