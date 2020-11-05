@@ -31,18 +31,18 @@
 	      <ul class="no-bullet">
 
           
-<!-- <li>
-  <h4>POSITION</h4>  
-  <p><em>Closing Date: </em></p>
+<li>
+  <h4>Teaching Assistant</h4>  
+  <p><em>Closing Date: 20th November 2020</em></p>
 
   <span class="subheader">
-  <a href="assets/recruitment/#.pdf" target="_blank">Position Details</a>
+  <a href="assets/recruitment/teachin-assistant.pdf" target="_blank">Position Details</a>
   </span>
 </li>
- -->
+
 
 			 			 
-			<br><span class="subheader">Please check back later.</span>
+			<!--<br><span class="subheader">Please check back later.</span>-->
 
 			        
           
