@@ -28,6 +28,7 @@
             <ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">November 2020<hr>
+                        <li><a href="/assets/letters/2020-11/year-7parent-meetings.pdf" target="_blank">Year 7 Parent Meetings</a></li>
                         <li><a href="/assets/letters/2020-11/general-letter-04.pdf" target="_blank">General Letter 4th November</a></li>
                     </ul>
                 <li>
