@@ -23,12 +23,11 @@
             
             <div class="small-text-center large-text-right">
                 <a class="expand small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
-                <a class="small button radius warning" href="#" data-reveal-id="RETURN">Return to School</a>
                 <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
                 <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Remote Learning</a>
-                <a class="small button radius success" href="assets/prospectus.pdf">Prospectus</a> 
-                <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a>
-                <a class="small button radius success" href="#" data-reveal-id="COVID-19">COVID-19</a>
+                <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a> 
+                <!-- <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a> -->
+                <!-- <a class="small button radius success" href="#" data-reveal-id="COVID-19">COVID-19</a> -->
                 
             </div>
                         <!-- HEADTEACHERS WELCOME -->
@@ -45,7 +44,7 @@
                         <!-- /HEADTEACHERS WELCOME -->
 
                         <!-- COVID-19 -->
-                        <div id="COVID-19" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                        <!-- <div id="COVID-19" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">COVID-19</h2>
                           
                             <p>We are delighted to welcome all students back to school from September 2020. The information on this page outlines:</p>
@@ -76,24 +75,8 @@
                           
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
+                        </div> -->
                         <!-- /COVID-19 -->
-
-                        <!-- RETURN -->
-                        <div id="RETURN" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Return to School</h2>
-                          
-                            <p>We are delighted to welcome all students back to school from September 2020.</p>
-                           <hr>
-                          <ul>
-                            <li><a href="/assets/letters/2020-08/return-information-booklet.pdf" target="_blank">Return Information Booklet</a></li>
-                            <li><a href="/assets/letters/2020-08/welcome-back.pdf" target="_blank">Welcome Back</a></li></li>
-                          </ul>
-                          
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-                        <!-- /RETURN -->
         </div>
         
     </div>
@@ -103,13 +86,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="columns">
-        <p><a href="admissions.php#covid-openevening" style="color: #474747">COVID-19 Open Evening Changes</a></p> 
+        <p><a href="" style="color: #474747"></a></p> 
     </div>
   </div>
-</section>
+</section> -->
 <!-- END NOTIFICATION -->
 
 
@@ -119,15 +102,14 @@
         <div class="columns">
             <br>
                         
-            <div class="small-text-center large-text-right">
-                <a class="small button radius" href="//vimeo.com/" target="_blank">Vimeo</a>
+            <!-- <div class="small-text-center large-text-right">
                 <a class="small button radius" href="/letters-home.php" >Letters</a>
                 <a class="small button radius" href="#" data-reveal-id="covid-newsletters">Newsletters</a>
                 <a class="small button radius" href="//vimeo.com/showcase/7029024">Assemblies</a>
-            </div>
+            </div> -->
 
             <!-- NEWSLETTERS -->
-            <div id="covid-newsletters" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+            <!-- <div id="covid-newsletters" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                 <h2 id="modalTitle">Newsletters</h2>
                 <ul>
                     <li><a href="/assets/letters/2020-10/newsletter-16-10.pdf" target="_blank">Newsletter 16th October</a></li>
@@ -149,7 +131,7 @@
                 <p>You can view all of our letters home via our <a href="letters-home.php">Letters Home</a> page.</p>
               <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
-
+ -->
 
             <!-- PARENT HOME LEARNING -->
             <div id="covid-parent" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
@@ -435,7 +417,7 @@
                 </li>
             </ul>
 <!-- OTHER COMPANIES -->
-            <ul class="text-center medium-block-grid-5 small-block-grid-2">
+            <ul class="text-center medium-block-grid-3 small-block-grid-3">
                 <h4>Facilitating Other Organisations</h4>
                 <li>
                     <div class="menu-box"><a href="/nursery.php">
@@ -454,7 +436,7 @@
                             <img src="images/index/flash_radio.jpg" alt="The Flash Radio - Not for profit community radio station run entirely by volunteers">
                             <p>The Flash Radio</p>
                         </a></div>
-                </li>
+                </li><!-- 
                 <li>
                     <div class="menu-box"><a href="//www.mind.org.uk/" target="_blank">
                             <img src="images/index/mind.jpg" alt="Mind - The mental health charity">
@@ -466,7 +448,7 @@
                             <img src="images/index/oarsome_chance.jpg" alt="Oarsome Chance">
                             <p>Oarsome Chance</p>
                         </a></div>
-                </li>
+                </li> -->
             </ul>
 
             <br>
