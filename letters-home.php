@@ -28,7 +28,7 @@
             <ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">November 2020<hr>
-                        <li><a href="/assets/letters/2020-10/newsletter-13-11.pdf" target="_blank">Newsletter 13th November</a></li>
+                        <li><a href="/assets/letters/2020-11/newsletter-13-11.pdf" target="_blank">Newsletter 13th November</a></li>
                         <li><a href="/assets/letters/2020-11/year8-9-reports.pdf" target="_blank">Year 8 and 9 Reports</a></li>
                     	<li><a href="/assets/letters/2020-11/yr11-parent-evening_mock-exam-timetable.pdf" target="_blank">Year 11 Parents Evening and Mock Exam Timetable</a></li>
                         <li><a href="/assets/letters/2020-11/year-7parent-meetings.pdf" target="_blank">Year 7 Parent Meetings</a></li>
