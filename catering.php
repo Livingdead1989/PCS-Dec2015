@@ -51,35 +51,12 @@
             </div>
             <br><br>
         </section>
+
+        
+
         <section class="grey-bg">
             <div class="row">
                 <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
-            </div>
-            <div class="row">
-                <div class="medium-push-4 medium-8 columns">
-                    <h4>LACA Award 2019</h4>
-                    <p>Park Community School we are very proud to say that Steven Cross our Head chef has won the 2019 LACA School Chef of the Year.</p>
-                    <p>Steven progressed through Regional and National finals seeing off thousands of other school caterers and be crown overall champion.</p>
-                    <p>Entrants have 90 minutes to prepare, cook and serve an imaginative, school compliant two course menu including a minimum of one different McDougalls product in each course, suitable for serving to 11 year old pupils, primary year 6 or secondary year 7.</p>
-
-                    <hr>
-
-                    <h4>LACA Award 2018</h4>
-                    <p>Park Community School have made the finals of this prestigious awards for 2018</p>
-                    <p>Every year the LACA Awards for Excellence acknowledge individuals and teams of people who continue to make a real difference in education catering. Good management, strong performances and high achievements deserve to be recognised at any time. Acknowledgement of effort is particularly important to not only reward but sustain motivation.</p>
-                </div>
-                <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns">
-                    <img src="images/schoolmeals/laca_2019.png" alt="LACA - Much More than just a School">
-                    <br><br>
-                    <img src="images/schoolmeals/laca_awards.jpg" alt="LACA - Much More than just a School">
-                </div>
-            </div>
-            <br><br>
-            <?php include ("includes/backtotop.html") ?>
-        </section>
-        <section>
-            <div class="row">
-                <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
             </div>
             <div class="row">
                 <div class="medium-8 columns">
@@ -133,37 +110,62 @@
             <br><br>
             <?php include ("includes/backtotop.html") ?>
         </section>
-        <section class="grey-bg">
+
+        <section>
             <div class="row">
-                <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+                <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
             </div>
             <div class="row">
-                <div class="columns text-center">
-                    <img src="images/munch/munch_logo.png" alt="MUNCH">
-                </div>
-            </div>
-            <div class="row">
-                <div class="columns">
-                    <br>
-                    <p>Ensures that no child, no matter what school or age need go hungry during the holidays.</p>
-                    <p>As a school we were aware of the food poverty that some of our community experience and were concerned our students were going hungry. This was reinforced when our local community told us how the food bank was consistently running out of food. We set up a community group to tackle food poverty in our area and in April 2017 MUNCH was born.</p>
+                <div class="medium-push-4 medium-8 columns">
+                    <h4>LACA Award 2019</h4>
+                    <p>Park Community School we are very proud to say that Steven Cross our Head chef has won the 2019 LACA School Chef of the Year.</p>
+                    <p>Steven progressed through Regional and National finals seeing off thousands of other school caterers and be crown overall champion.</p>
+                    <p>Entrants have 90 minutes to prepare, cook and serve an imaginative, school compliant two course menu including a minimum of one different McDougalls product in each course, suitable for serving to 11 year old pupils, primary year 6 or secondary year 7.</p>
 
-                    <div class="row">
-                        <div class="columns small-8 small-push-2">
-                            <div class="flex-video widescreen border-radius-5">
-                                <iframe src="https://www.youtube-nocookie.com/embed/lkUDau7jY4Q" frameborder="0" allowfullscreen></iframe>
-                            </div>
-                        </div>
-                    </div>
+                    <hr>
 
-                    <p class="text-center">For more information view our <a href="/munch.php">Munch page</a>.</p>
+                    <h4>LACA Award 2018</h4>
+                    <p>Park Community School have made the finals of this prestigious awards for 2018</p>
+                    <p>Every year the LACA Awards for Excellence acknowledge individuals and teams of people who continue to make a real difference in education catering. Good management, strong performances and high achievements deserve to be recognised at any time. Acknowledgement of effort is particularly important to not only reward but sustain motivation.</p>
                 </div>
-                
+                <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-8 medium-offset-0 medium-4 columns">
+                    <img src="images/schoolmeals/laca_2019.png" alt="LACA - Much More than just a School">
+                    <br><br>
+                    <img src="images/schoolmeals/laca_awards.jpg" alt="LACA - Much More than just a School">
+                </div>
             </div>
             <br><br>
             <?php include ("includes/backtotop.html") ?>
         </section>
+
+
+        
         <!-- Awards -->
+
+        <section class="grey-bg">
+            <div class="row">
+                <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+            </div>
+            
+            <div class="row">
+                <div class="columns">
+                    <h4>Public Sector Catering Awards Winner 2020</h4>
+                    <p>Education Award - <strong>Park Community School Catering Team</strong></p>
+                    <p>Chef of the Year - <strong>Steven Cross</strong></p>
+
+                    <p>Park Community School are thrilled that we scooped both Education Catering Award and Steven Cross for Becoming the Public Sector Chef of the year, it’s not every day you win these prestigious awards.</p>
+
+                    <img src="images/schoolmeals/publicsectorcatering-winner2020.jpg" alt="Public Sector Catering Award 2020">
+
+                    <p>Head Chef Steven Cross worked with Tilda throughout Hotober to <a href="//www.tilda.com/professionals/article/hurrah-for-hotober-the-return-of-hot-lunches-to-schools/">create amazing onepot vegan dishes</a>. Why not check them out at the link attached and create your own one pot dish.</p>
+                </div>
+            </div>
+
+            <br><br>
+            <?php include ("includes/backtotop.html") ?>
+        </section>
+
+
         <section>
             <div class="row">
                 <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
@@ -203,6 +205,8 @@
             <br><br>
             <?php include ("includes/backtotop.html") ?>
         </section>
+
+
         <section class="grey-bg">
             <div class="row">
                 <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
@@ -278,6 +282,8 @@
             <br><br><br>
             <?php include ("includes/backtotop.html") ?>
         </section>
+
+
         <section>
             <div class="row">
                 <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
@@ -399,9 +405,49 @@
             <?php include ("includes/backtotop.html") ?>
         </section>
 
+        <section class="grey-bg">
+            <div class="row">
+                <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+            </div>
+            <div class="row">
+                <div class="columns text-center">
+                    <img src="images/munch/munch_logo.png" alt="MUNCH">
+                </div>
+            </div>
+            <div class="row">
+                <div class="columns">
+                    <br>
+                    <p>Ensures that no child, no matter what school or age need go hungry during the holidays.</p>
+                    <p>As a school we were aware of the food poverty that some of our community experience and were concerned our students were going hungry. This was reinforced when our local community told us how the food bank was consistently running out of food. We set up a community group to tackle food poverty in our area and in April 2017 MUNCH was born.</p>
+
+                    <div class="row">
+                        <div class="columns small-8 small-push-2">
+                            <div class="flex-video widescreen border-radius-5">
+                                <iframe src="https://www.youtube-nocookie.com/embed/lkUDau7jY4Q" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p class="text-center">For more information view our <a href="/munch.php">Munch page</a>.</p>
+                </div>
+                
+            </div>
+            <br><br>
+            <?php include ("includes/backtotop.html") ?>
+        </section>
 
 
-
+        <section>
+            <div class="row">
+                <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+            </div>
+            <div class="row">
+                <div class="columns">
+                    
+                </div>
+            </div><br>
+            <?php include ("includes/backtotop.html") ?>
+        </section>
         
 
 
