@@ -159,6 +159,7 @@
                         <img src="images/schoolmeals/publicsectorcatering-winner2020.jpg" alt="Public Sector Catering Award 2020">
                     </div>
 
+                    <br>
                     <p>Head Chef Steven Cross worked with Tilda throughout Hotober to <a href="//www.tilda.com/professionals/article/hurrah-for-hotober-the-return-of-hot-lunches-to-schools/">create amazing onepot vegan dishes</a>. Why not check them out at the link attached and create your own one pot dish.</p>
                 </div>
             </div>
