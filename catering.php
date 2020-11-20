@@ -155,7 +155,9 @@
 
                     <p>Park Community School are thrilled that we scooped both Education Catering Award and Steven Cross for Becoming the Public Sector Chef of the year, it’s not every day you win these prestigious awards.</p>
 
-                    <img src="images/schoolmeals/publicsectorcatering-winner2020.jpg" alt="Public Sector Catering Award 2020">
+                    <div class="text-center">
+                        <img src="images/schoolmeals/publicsectorcatering-winner2020.jpg" alt="Public Sector Catering Award 2020">
+                    </div>
 
                     <p>Head Chef Steven Cross worked with Tilda throughout Hotober to <a href="//www.tilda.com/professionals/article/hurrah-for-hotober-the-return-of-hot-lunches-to-schools/">create amazing onepot vegan dishes</a>. Why not check them out at the link attached and create your own one pot dish.</p>
                 </div>
