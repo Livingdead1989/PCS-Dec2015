@@ -39,12 +39,22 @@
         <a href="assets/recruitment/mfl_teacher.pdf" target="_blank">Position Details</a>
         </span>
       </li>
+      <hr>
       <li>
         <h4>Teacher of Maths</h4>  
         <p><em>Closing Date: 3rd December 2020</em></p>
 
         <span class="subheader">
         <a href="assets/recruitment/math_teacher.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+      <hr>
+      <li>
+        <h4>Teacher of PE</h4>  
+        <p><em>Closing Date: 3rd December 2020</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/pe_teacher.pdf" target="_blank">Position Details</a>
         </span>
       </li>
 
