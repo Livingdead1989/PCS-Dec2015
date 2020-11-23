@@ -28,6 +28,7 @@
             <ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">November 2020<hr>
+                        <li><a href="/assets/letters/2020-11/general-letter-covid19.pdf" target="_blank">General Letter - COVID-19</a></li>
                         <li><a href="/assets/letters/2020-11/covid-sympton-study.pdf" target="_blank">COVID Sympton Study APP</a></li>
                         <li><a href="/assets/letters/2020-11/newsletter-13-11.pdf" target="_blank">Newsletter 13th November</a></li>
                         <li><a href="/assets/letters/2020-11/year8-9-reports.pdf" target="_blank">Year 8 and 9 Reports</a></li>
