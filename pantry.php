@@ -99,7 +99,7 @@
             </ul>
 
         </div>
-        <div class="medium-pull-0 medium-offset-0 medium-7 columns"><img src="images/pantry/pantry.jpg" alt="MUNCH Pantry a helping hand not a hand out"></div>
+        <div class="medium-pull-0 medium-offset-0 medium-7 columns"><img src="images/pantry/pantry.png" alt="MUNCH Pantry a helping hand not a hand out"></div>
     </div><br><br><br>
 </section>
 

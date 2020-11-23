@@ -343,7 +343,7 @@
                 </li>
                 <li>
                     <div class="menu-box"><a href="/pantry.php">
-                            <img src="images/index/pantry.php" alt="MUNCH Pantry">
+                            <img src="images/index/pantry.png" alt="MUNCH Pantry">
                             <p>MUNCH Pantry</p>
                         </a></div>
                 </li>
