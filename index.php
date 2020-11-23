@@ -321,7 +321,7 @@
 
             <br>
 <!-- EXTRA MILE -->
-            <ul class="text-center medium-block-grid-3 small-block-grid-1">
+            <ul class="text-center medium-block-grid-2 small-block-grid-1">
                 <h4>Going The Extra Mile</h4>
                 <li>
                     <div class="menu-box"><a href="/connect4summer.php">
@@ -339,6 +339,12 @@
                     <div class="menu-box"><a href="/tearooms.php">
                             <img src="images/index/tearooms.jpg" alt="Tea Rooms at The Coach House">
                             <p>Tea Rooms at The Coach House</p>
+                        </a></div>
+                </li>
+                <li>
+                    <div class="menu-box"><a href="/pantry.php">
+                            <img src="images/index/pantry.php" alt="MUNCH Pantry">
+                            <p>MUNCH Pantry</p>
                         </a></div>
                 </li>
             </ul>
