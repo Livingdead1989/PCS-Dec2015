@@ -26,7 +26,8 @@
         <div class=columns>
             <h3>What is a community pantry?</h3>
             <p>A pantry is 'get more for less', it is to help family budgets go further.</p>
-            <p>You pay £5 and choose from a selection of groceries, fresh and frozen food up to an average of value £15.</p>
+            <p>Our community has been receiving food from Foodbank PO9 and the Munch fridge in the Dickinson Centre for several years. A Community Food Pantry is the next step for families enabling them to make a choice of the food that they can have in return for a weekly subscription of £5.</p>
+            <p>We are extremely grateful to Havant Borough Council and the Guinness Partnership who recognised the idea as an alternative way of helping the community. Once the promise of funding had been made finding a venue was a little trickier. PCS have a good relationship with The Swallow Pub who always support our charity initiatives and we approached them to be the venue for the Munch Pantry and they have truly welcomed us. Unusual venue maybe but it is a venue known by most, on a bus route and with parking. As we have enough space we will be able to invite visitors to meet members of the community for example Citizens Advice Bureau, staff to help prepare a CV and many more.</p>
 
             <div class="text-center">
                 <a class="button radius success" href="assets/pantry/flyer.pdf">Pantry Flyer <small>(PDF)</small></a>
