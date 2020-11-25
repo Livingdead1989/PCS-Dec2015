@@ -27,6 +27,7 @@
         	<ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">November 2020<hr>
+                        <li><a href="/assets/letters/2020-11/25-november-general-letter.pdf" target="_blank">Important General Letter - COVID-19</a></li>
                         <li><a href="/assets/letters/2020-11/federation-js-parent.pdf" target="_blank">Federation Joint Statement - Parent Letter</a></li>
                         <li><a href="/assets/letters/2020-11/federation-js-relational-conflict-and-bullying.pdf" target="_blank">Federation Joint Statement - Relational, Conflict and Bullying</a></li>
                         <li><a href="/assets/letters/2020-11/federation-js-expectations.pdf" target="_blank">Federation Joint Statement - Expectations</a></li>
