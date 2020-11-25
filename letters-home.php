@@ -27,6 +27,11 @@
         	<ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">November 2020<hr>
+                        <li><a href="/assets/letters/2020-11/federation-js-parent.pdf" target="_blank">Federation Joint Statement - Parent Letter</a></li>
+                        <li><a href="/assets/letters/2020-11/federation-js-relational-conflict-and-bullying.pdf" target="_blank">Federation Joint Statement - Relational, Conflict and Bullying</a></li>
+                        <li><a href="/assets/letters/2020-11/federation-js-Expectations.pdf" target="_blank">Federation Joint Statement - Expectations</a></li>
+                        <li><a href="/assets/letters/2020-11/federation-js-attendance.pdf" target="_blank">Federation Joint Statement - Attendance</a></li>
+                        <li><a href="/assets/letters/2020-11/federation-js-social-media-and-mobile-phones.pdf" target="_blank">Federation Joint Statement - Social Media and Mobile Phnes</a></li>
                         <li><a href="/assets/letters/2020-11/general-letter-covid19.pdf" target="_blank">General Letter - COVID-19</a></li>
                         <li><a href="/assets/letters/2020-11/covid-sympton-study.pdf" target="_blank">COVID Sympton Study APP</a></li>
                         <li><a href="/assets/letters/2020-11/newsletter-13-11.pdf" target="_blank">Newsletter 13th November</a></li>
