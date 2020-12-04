@@ -26,6 +26,11 @@
         <div class="medium-12 columns">
         	<ul class="small-block-grid-1">
                 <li>
+                    <ul class="circle">December 2020<hr>
+                        <li><a href="/assets/letters/2020-12/general-letter-4.pdf" target="_blank">4 December 2020 – General Letter</a></li>
+                    </ul>
+                <li>
+                <li>
                     <ul class="circle">November 2020<hr>
                         <li><a href="/assets/letters/2020-11/newsletter-27-11.pdf" target="_blank">Newsletter 27th November</a></li>
                         <li><a href="/assets/letters/2020-11/general-letter-27.pdf" target="_blank">27th November 2020 - Changes and Reminders Affecting all Students</a></li>
