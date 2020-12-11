@@ -70,7 +70,7 @@
         <br>
         <div class="medium-12 columns">
           <h3>How to find us</h3>
-          <p>The Swallow, 500 Dunsbury Way, Havant, PO9 5BL</p>
+          <p>The Swallow Pub, 500 Dunsbury Way, Havant, PO9 5BL</p>
 
           <!-- Show Reel Video -->
           <div class="flex-video widescreen border-radius-5">
@@ -91,8 +91,7 @@
             <h4>Opening Hours</h4>
             <hr>
               <ul class="no-bullet">
-                <li>Monday, Wednesday-Friday 1pm-4:30pm</li>
-                <li>Saturday 10am-11am</li>
+                <li>Mon-Fri 11:00-14:30</li>
               </ul>
             <h4>Contact Information</h4>
             <hr>
