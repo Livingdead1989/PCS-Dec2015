@@ -233,21 +233,25 @@
     </div>
     <div class="row">
         <div class="columns">
+            <h4>Coronavirus Hero Award</h4>
             <div class="row">
                 <div class="columns small-8 small-push-2">
                     <img src="images/munch/coronavirus_hero_award.jpg">
                 </div>
             </div>
-            <p>At Park Community School our team have received recognition of our efforts during the lock downs by providing our Munch Meals from <a href="//www.linkedin.com/in/ACoAAAA2d1kBVOteUZBtM9iHY2MbWy1xoh4W6IU">Alan Mak MP</a>.</p>
+            <br>
+            <p>At Park Community School our team have received recognition of our efforts during the lock downs by providing our Munch Meals from <a href="//uk.linkedin.com/in/alanmakhavant">Alan Mak MP</a>.</p>
         </div>
     </div>
     <div class="row">
         <div class="columns">
+            <h4>Hampshire Education - Community Impact 2020</h4>
             <div class="row">
                 <div class="columns small-8 small-push-2">
                     <img src="images/munch/hampshire_education_awards_2020.jpg">
                 </div>
             </div>
+            <br>
             <p>Virtually Hampshire Education Awards took place on Monday. Proud to receive the Community Impact Award. This recognised Connect4Summer 2019 which provided free family holiday activities, childcare and meals. It was a fantastic team effort working in partnership with Romsey Community School and Department for Education Holiday Activities Fund Team.</p>
         </div>
     </div>
