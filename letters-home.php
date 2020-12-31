@@ -26,7 +26,13 @@
         <div class="medium-12 columns">
         	<ul class="small-block-grid-1">
                 <li>
+                    <ul class="circle">January 2021<hr>
+                        
+                    </ul>
+                <li>
+                <li>
                     <ul class="circle">December 2020<hr>
+                        <li><a href="/assets/letters/2020-12/general-letter-31.pdf" target="_blank">31st December 2020 – General Letter</a></li>
                         <li><a href="/assets/letters/2020-12/general-letter-18.pdf" target="_blank">18th December 2020 – General Letter</a></li>
                         <li><a href="/assets/letters/2020-12/return-to-school.pdf" target="_blank">Return to School January 2021</a></li>
                         <li><a href="/assets/letters/2020-12/end-term.pdf" target="_blank">End of Term</a></li>
