@@ -205,8 +205,33 @@
         <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
     </div>
     <div class="row">
-        <div class="medium-6 columns">
-            <h4>MUNCH in Numbers 2017-2018</h4>
+    	<div class="small-1 medium-4 columns">
+            <h4>2019-2020</h4>
+            <hr>
+                <ul class="bullet">
+                    <li>6,348 meals provided</li>
+                    <li>855 children attended</li>
+                    <li>60 schools involved</li>
+                    <li>140 guests for Christmas Lunch</li>
+                    <li>272 attended Munch-a-cise</li>
+                </ul>
+            <hr>
+
+        </div>
+    	<div class="small-1 medium-4 columns">
+            <h4>2018-2019</h4>
+            <hr>
+                <ul class="bullet">
+                    <li>5,832 meals provided</li>
+                    <li>577 children attended</li>
+                    <li>58 schools involved</li>
+                    <li>158 guests for Christmas Lunch</li>
+                </ul>
+            <hr>
+
+        </div>
+        <div class="small-1 medium-4 columns">
+            <h4>2017-2018</h4>
             <hr>
                 <ul class="bullet">
                     <li>2,570 meals provided</li>
@@ -221,18 +246,7 @@
 
         </div>
 
-        <div class="medium-6 columns">
-            <h4>MUNCH in Numbers 2018-2019</h4>
-            <hr>
-                <ul class="bullet">
-                    <li>5,832 meals provided</li>
-                    <li>577 children attended</li>
-                    <li>58 schools involved</li>
-                    <li>158 guests for Christmas Lunch</li>
-                </ul>
-            <hr>
-
-        </div>
+        
 
         <div class="columns text-center">
             <a href="assets/munch/munch_review_2019.pdf" target="_blank" class="button success radius">Munch Review</a>
