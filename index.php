@@ -139,7 +139,12 @@
                 <h2 id="modalTitle">Parent - Learning</h2>
                 <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
 
-                <p>Your child can use the link above to log on and access all of their learning remotely. They will find:</p>
+                <p>Your child can use the link above to log on and access all of their learning remotely.</p>
+                <p>They can also log on via Office 365 <a href="https://office.com/">https://office.com/</a> using their school log on and password.</p>
+
+                <p>If they've forgotten their password please email: <a href="mailto:itservices@pcs.hants.sch.uk">ITServices@pcs.hants.sch.uk</a></p>
+
+                <p>They will find:</p>
                 <ul>
                     <li>An overview of every half term for each subject</li>
                     <li>Lead PowerPoints with videos explaining the learning</li>
@@ -148,12 +153,14 @@
                 </ul>
                 <p>Students can use this area to revise, access homework and revision and use for remote learning if they are required to work from home</p>
 
-                <p><strong>In the event of Lockdown</strong></p>
-                <p>If school is required to Lockdown for some or all students, all your learning is there ready for students. Teachers will:</p>
+                <p><strong>During Lockdown</strong></p>
+                <p>All learning is there ready for students.</p>
+                <p>Teachers will:</p>
                 <ul>
-                    <li>Set work via Teams each week</li>
-                    <li>Offer Live lessons once every week</li>
-                    <li>Give feedback on work via Teams</li>
+                    <li>Set work via Insight and Teams each week. Parents can see this using INSIGHT</li>
+                    <li>Email students via Teams every lesson to support with learning and give feedback</li>
+                    <li>Run Live lessons once every week for Years 7, 8 and 9 and every lesson for Years 10 and 11</li>
+                    <li>Give feedback on their work via Teams</li>
                 </ul>
                 <p>Additional work and resources can be accessed via:</p>
                 <ul>
@@ -166,14 +173,20 @@
                     <br>
                     <li><a href="//www.thenational.academy/">The National Academy</a></li>
                     <li><a href="//www.bbc.co.uk/teach/live-lessons/">BBC Live Lessons</a></li>
+                    <li><a href="//members.gcsepod.com/login">GCSE Pod - Login</a></li>
+                </ul>
+
+                <p>IT Support</p>
+                <ul>
+                	<li><a href="https://insight.pcs.hants.sch.uk:444/" target="_blank">Insight for Parents</a></li>
+                	<li><a href="assets/services/insight_guidance.pdf" target="_blank">Accessing Insight</a></li>
+                    <li><a href="assets/login-help.pdf" target="_blank">Office365 Help logging in</a></li>
+                    <li><a href="assets/office_install.pdf" target="_blank">Downloading Microsoft Teams</a></li>
+                    <li><a href="assets/letters/2021-01/accessing-online-learning.pdf">Access Office365 using Playstation or Xbox</a></li>
                     <br>
-                    <li><a href="https://insight.pcs.hants.sch.uk:444/" target="_blank">Insight for Parents</a></li>
-                    <li><a href="https://www.scopay.com/pcs" target="_blank">Tucasi online-payments</a></li>
-                    <li><a href="assets/login-help.pdf">Need help logging in?</a></li>
                     <li><a href="/assets/letters/2020-03/virtual-school.pdf" target="_blank">Hampshire Guide for Parents and Carers - Virtual Learning</a></li>
-                    
-                    
-                </ul>              
+                    <li><a href="https://www.scopay.com/pcs" target="_blank">Tucasi online-payments</a></li>
+                </ul>            
               
               <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
@@ -184,7 +197,9 @@
                 <h2 id="modalTitle">Student - Learning</h2>
                 <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
 
-                <p>Use the link above and you school log-on to access learning for all of your subject areas. You’ll find:</p>
+                <p>Use the link above and your school log-on to access learning for all of your subject areas. You can also log on via: Office 365 <a href="https://office.com">https://office.com</a> using your school log on and password.</p>
+
+                <p>If you've forgotten your password, email <a href="mailto:ITServices@pcs.hants.sch.uk">ITServices@pcs.hants.sch.uk</a></p>
                 <ul>
                     <li>An overview of every half term for each subject</li>
                     <li>Lead PowerPoints with videos explaining your learning</li>
@@ -193,20 +208,29 @@
                 </ul>
                 <p>You can use this area to revise, access homework and revision and use for remote learning if you are required to work from home.</p>
 
-                <p><strong>In the event of Lockdown</strong></p>
-                <p>If school is required to Lockdown for some or all students, all your learning is there ready for you. Teachers will:</p>
+                <p><strong>During Lockdown</strong></p>
+                <p>All of your learning is there ready for you. Teachers will:</p>
                 <ul>
-                    <li>Set your work via Teams each week</li>
-                    <li>Offer Live lessons once every week</li>
+                    <li>Set your work via Insight and Teams each week</li>
+                    <li>Email you via Teams every lesson to supoprt with your learning and give feedback</li>
+                    <li>Run Live lessons once every week for Years 7, 8 and 9 and every lesson for Years 10 and 11</li>
                     <li>Give you feedback on your work via Teams</li>
                 </ul>
                 <p>Additional lessons and support can be found at:</p>
                 <ul>
+                	 <li><a href="//www.thenational.academy/">The National Academy</a></li>
+                    <li><a href="//www.bbc.co.uk/teach/live-lessons/">BBC Live Lessons</a></li>
+                    <li><a href="//members.gcsepod.com/login">GCSE Pod - Login</a></li>
+                    <br>
                     <li><a href="assets/login-help.pdf">Need help logging in?</a></li>
                     <li><a href="//vimeo.com/463321464" target="_blank">Accessing INSIGHT</a></li>
+                    <li><a href="assets/login-help.pdf" target="_blank">Office365 Help logging in</a></li>
+                    <li><a href="assets/office_install.pdf" target="_blank">Downloading Microsoft Teams</a></li>
+                    <li><a href="assets/letters/2021-01/accessing-online-learning.pdf">Access Office365 using Playstation or Xbox</a></li>
+                    <br>
                     <li><a href="//vimeo.com/showcase/7029024" target="_blank">Video Assemblies</a></li>
-                    <li><a href="//vimeo.com/showcase/7145412">Lockdown Learning Revision Videos</a></li>
                     <li><a href="assets/reading_plus_top_tips.pptx">Reading Plus Top Tips</a></li>
+                    <li><a href="//vimeo.com/showcase/7145412">Lockdown Learning Revision Videos</a></li>
 
                     <hr>
                     <li><a href="#" data-reveal-id="virtual-sports">Virtual Sports Day 2020</a></li>
