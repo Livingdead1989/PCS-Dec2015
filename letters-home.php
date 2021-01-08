@@ -38,6 +38,7 @@
                         <li><a href="/assets/letters/2020-12/general-letter-18.pdf" target="_blank">18th December 2020 – General Letter</a></li>
                         <li><a href="/assets/letters/2020-12/return-to-school.pdf" target="_blank">Return to School January 2021</a></li>
                         <li><a href="/assets/letters/2020-12/end-term.pdf" target="_blank">End of Term</a></li>
+                        <li><a href="/assets/letters/2020-12/newsletter-11-12.pdf" target="_blank">Newsletter 12th December</a></li>
                         <li><a href="/assets/letters/2020-12/general-letter-10.pdf" target="_blank">10th December 2020 – General Letter</a></li>
                         <li><a href="/assets/letters/2020-12/general-letter-9.pdf" target="_blank">9th December 2020 – General Letter</a></li>
                         <li><a href="/assets/letters/2020-12/general-letter-4.pdf" target="_blank">4th December 2020 – General Letter</a></li>
