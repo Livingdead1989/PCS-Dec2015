@@ -27,8 +27,9 @@
         	<ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">January 2021<hr>
+                        <li><a href="/assets/letters/2021-01/accessing-online-learning.pdf" target="_blank">Accessing Online Learning</a></li>
                         <li><a href="/assets/letters/2021-01/covid-19-testing-for-key-worker-school-students.pdf" target="_blank">COVID-19 Testing for Key Worker Students</a></li>
-                        <li><a href="/assets/letters/2021-01/covid-19-testing-student-privacy-statement.pdf" target="_blank">COVID-19 Student Privicay Statement</a></li>
+                        <li><a href="/assets/letters/2021-01/covid-19-testing-student-privacy-statement.pdf" target="_blank">COVID-19 Student Privacy Statement</a></li>
                     </ul>
                 <li>
                 <li>
