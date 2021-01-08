@@ -291,44 +291,51 @@
 <section>
     <div class="row">
     <br>
-        <div class="large-8 columns">
-        <br>
-        <h3>Welcome to Park...</h3>
-        <div class="text-center">
-            <div class="medium-offset-1 medium-10 large-offset-0 large-12">
-                <!-- SLIDER -->
-                <div class="homepage-slider">
-                    <!-- VIMEO Showcase Video Reel -->
-                    <div>
-                        <div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://vimeo.com/showcase/5574215/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                        </div>
-                    </div>
-                    <!-- VIMEO Video -->
-                    <!-- <div>
-                        <div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://player.vimeo.com/video/426939801" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                            <p>Welcome to Park</p>
-                        </div>
-                    </div> -->
-                    <!-- VIMEO Video -->
-                    <!-- <div>
-                    	<div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://player.vimeo.com/video/299177189" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                        </div>
-                    </div> -->
-                    <!-- VIMEO Video -->
-                    <!-- <div>
-                        <div class="flex-video widescreen border-radius-5">
-                            <iframe src="https://player.vimeo.com/video/368249167" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                        </div>
-                    </div> -->                   
+	    <div class="large-8 columns">
+	        <div class="row">
+	        	<div class="large-11 columns">
+		        <br>
+		        <h3>Welcome to Park...</h3>
+		        <div class="text-center">
+		            <div class="medium-offset-1 medium-10 large-offset-0 large-12">
+		                <!-- SLIDER -->
+		                <div class="homepage-slider">
+		                    <!-- VIMEO Showcase Video Reel -->
+		                    <div>
+		                        <div class="flex-video widescreen border-radius-5">
+		                            <iframe src="https://vimeo.com/showcase/5574215/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+		                        </div>
+		                    </div>
+		                </div>
+		            </div>
+		        </div>   
+		        <br>
+		        </div>
+	        </div>
 
+	        <div class="row">
+                <div class="large-11 columns"><br class="show-for-large-up">
+                    <ul class="small-block-grid-2 medium-block-grid-4 text-center">
+
+                        <li>
+                          <a href="//login.microsoftonline.com" target="_blank">
+                              <img class="fixed-size-100" src="images/logo/office365.svg" alt="Microsoft Office 365">
+                              <p>Office 365</p>
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href="//insight.pcs.hants.sch.uk:444/" target="_blank">
+                              <img class="fixed-size-100" src="/images/logo/insight.png" alt="Homework Management">
+                              <p>Insight</p>
+                          </a>
+                        </li>
+
+                    </ul>
+                    <br>
                 </div>
             </div>
-        </div>   
-        <br>
-        </div>
+	    </div>
 
         <div class="large-4 columns show-for-large-up">
             <div>
