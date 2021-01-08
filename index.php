@@ -179,8 +179,10 @@
                 <p>IT Support</p>
                 <ul>
                 	<li><a href="https://insight.pcs.hants.sch.uk:444/" target="_blank">Insight for Parents</a></li>
-                	<li><a href="assets/services/insight_guidance.pdf" target="_blank">Accessing Insight</a></li>
-                    <li><a href="assets/login-help.pdf" target="_blank">Office365 Help logging in</a></li>
+                	<li><a href="assets/login-help.pdf">Need help logging in?</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=uzr5JlpM-L8&list=PLeTdiIa6M2uTfFtQ7rZNeu6QH5K42x6jS&index=1">How to access Teams <small>(Video)</small></a></li>
+                    <li><a href="//vimeo.com/463321464" target="_blank">Accessing INSIGHT</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=8FwoN8LhTCA&list=PLeTdiIa6M2uTfFtQ7rZNeu6QH5K42x6jS&index=3">Accessing INSIGHT <small>(Video)</small></a></li>
                     <li><a href="assets/office_install.pdf" target="_blank">Downloading Microsoft Teams</a></li>
                     <li><a href="assets/letters/2021-01/accessing-online-learning.pdf">Access Office365 using Playstation or Xbox</a></li>
                     <br>
@@ -223,7 +225,9 @@
                     <li><a href="//members.gcsepod.com/login">GCSE Pod - Login</a></li>
                     <br>
                     <li><a href="assets/login-help.pdf">Need help logging in?</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=uzr5JlpM-L8&list=PLeTdiIa6M2uTfFtQ7rZNeu6QH5K42x6jS&index=1">How to access Teams <small>(Video)</small></a></li>
                     <li><a href="//vimeo.com/463321464" target="_blank">Accessing INSIGHT</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=8FwoN8LhTCA&list=PLeTdiIa6M2uTfFtQ7rZNeu6QH5K42x6jS&index=3">Accessing INSIGHT <small>(Video)</small></a></li>
                     <li><a href="assets/login-help.pdf" target="_blank">Office365 Help logging in</a></li>
                     <li><a href="assets/office_install.pdf" target="_blank">Downloading Microsoft Teams</a></li>
                     <li><a href="assets/letters/2021-01/accessing-online-learning.pdf">Access Office365 using Playstation or Xbox</a></li>
