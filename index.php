@@ -26,17 +26,21 @@
 
 
                 <div class="row">
-                    <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
-                    <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Remote Learning</a>
+                    <div class="columns">
+                        <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
+                        <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Remote Learning</a>
+                    </div>
                 </div>
 
 
                 <div class="row">
-                    <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJURU84NUtOVVczNVE3UlBQQ0k2TVVMSDVXWi4u" target="_blank" >January Keyworker School Form</a>
-                    <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUOUQxTDNYRUVFVlc1QVFMMzVGMVpaTTYyTy4u" target="_blank" >COVID-19 Testing for Pupils Form</a>
+                    <div class="columns">
+                        <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJURU84NUtOVVczNVE3UlBQQ0k2TVVMSDVXWi4u" target="_blank" >January Keyworker School Form</a>
+                        <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUOUQxTDNYRUVFVlc1QVFMMzVGMVpaTTYyTy4u" target="_blank" >COVID-19 Testing for Pupils Form</a>
+                    </div>  
                 </div>
                 
-                                
+
                 <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a> 
                 <!-- <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a> -->
                 <!-- <a class="small button radius success" href="#" data-reveal-id="COVID-19">COVID-19</a> -->
