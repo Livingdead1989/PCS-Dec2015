@@ -23,11 +23,20 @@
             
             <div class="small-text-center large-text-right">
                 <a class="expand small button radius success" href="#" data-reveal-id="HeadsWelcome">Headteacher's Welcome</a>
-                <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJURU84NUtOVVczNVE3UlBQQ0k2TVVMSDVXWi4u" target="_blank" >January Keyworker School Form</a>
-                <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUOUQxTDNYRUVFVlc1QVFMMzVGMVpaTTYyTy4u" target="_blank" >COVID-19 Testing for Pupils Form</a>
+
+
+                <div class="row">
+                    <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
+                    <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Remote Learning</a>
+                </div>
+
+
+                <div class="row">
+                    <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJURU84NUtOVVczNVE3UlBQQ0k2TVVMSDVXWi4u" target="_blank" >January Keyworker School Form</a>
+                    <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUOUQxTDNYRUVFVlc1QVFMMzVGMVpaTTYyTy4u" target="_blank" >COVID-19 Testing for Pupils Form</a>
+                </div>
                 
-                <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
-                <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Remote Learning</a>
+                                
                 <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a> 
                 <!-- <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a> -->
                 <!-- <a class="small button radius success" href="#" data-reveal-id="COVID-19">COVID-19</a> -->
@@ -140,6 +149,8 @@
             <div id="covid-parent" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                 <h2 id="modalTitle">Parent - Learning</h2>
                 <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
+                <a class="button radius success" href="//insight.pcs.hants.sch.uk:444">INSIGHT</a>
+                <a class="button radius success" href="//members.gcsepod.com/login">GCSEPod</a>
 
                 <p>Your child can use the link above to log on and access all of their learning remotely.</p>
                 <p>They can also log on via Office 365 <a href="https://office.com/">https://office.com/</a> using their school log on and password.</p>
@@ -173,7 +184,7 @@
                     <li><a href="assets/reading_process.pdf">Reading Process</a></li>
                     <li><a href="assets/reading_plus_guide.pdf">Reading Plus Guide</a></li>
                     <br>
-                    <li><a href="//www.thenational.academy/">The National Academy</a></li>
+                    <li><a href="//www.thenational.academy/">Oak National Academy</a></li>
                     <li><a href="//www.bbc.co.uk/teach/live-lessons/">BBC Live Lessons</a></li>
                     <li><a href="//members.gcsepod.com/login">GCSE Pod - Login</a></li>
                 </ul>
@@ -199,6 +210,8 @@
             <div id="covid-student" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                 <h2 id="modalTitle">Student - Learning</h2>
                 <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
+                <a class="button radius success" href="//insight.pcs.hants.sch.uk:444">INSIGHT</a>
+                <a class="button radius success" href="//members.gcsepod.com/login">GCSEPod</a>
 
                 <p>Use the link above and your school log-on to access learning for all of your subject areas. You can also log on via: Office 365 <a href="https://office.com">https://office.com</a> using your school log on and password.</p>
 
@@ -221,7 +234,7 @@
                 </ul>
                 <p>Additional lessons and support can be found at:</p>
                 <ul>
-                	 <li><a href="//www.thenational.academy/">The National Academy</a></li>
+                	 <li><a href="//www.thenational.academy/">Oak National Academy</a></li>
                     <li><a href="//www.bbc.co.uk/teach/live-lessons/">BBC Live Lessons</a></li>
                     <li><a href="//members.gcsepod.com/login">GCSE Pod - Login</a></li>
                     <br>
