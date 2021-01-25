@@ -201,6 +201,14 @@
             </li>
 
             <li>
+                <a href="/assets/policies/provider-access.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Provider Access</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
                 <a href="/assets/policies/sex_education.pdf" target="_blank">
                     <div class="policy-container">
                         <p>Relationships & Sex Education</p>
