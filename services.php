@@ -69,7 +69,7 @@
         <br>
         </div>
 
-        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
         <br>
             <ul class="pricing-table">
               <li class="title"><img class="fixed-size-100" src="images/logo/eplatform.jpg" alt="ePlatform - eBooks"><br>ePlatform</li>

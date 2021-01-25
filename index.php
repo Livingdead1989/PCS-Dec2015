@@ -155,6 +155,8 @@
                 <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
                 <a class="button radius success" href="//insight.pcs.hants.sch.uk:444">INSIGHT</a>
                 <a class="button radius success" href="//members.gcsepod.com/login">GCSEPod</a>
+                <a class="button radius success" href="//pcs-hantssls.eplatform.co/">ePlatform <small>(eBooks)</small></a>
+                
 
                 <p>Your child can use the link above to log on and access all of their learning remotely.</p>
                 <p>They can also log on via Office 365 <a href="https://office.com/">https://office.com/</a> using their school log on and password.</p>
@@ -216,6 +218,7 @@
                 <a class="expand button radius success" href="https://pcshantssch.sharepoint.com/sites/students">Student Login</a>
                 <a class="button radius success" href="//insight.pcs.hants.sch.uk:444">INSIGHT</a>
                 <a class="button radius success" href="//members.gcsepod.com/login">GCSEPod</a>
+                <a class="button radius success" href="//pcs-hantssls.eplatform.co/">ePlatform <small>(eBooks)</small></a>
 
                 <p>Use the link above and your school log-on to access learning for all of your subject areas. You can also log on via: Office 365 <a href="https://office.com">https://office.com</a> using your school log on and password.</p>
 
