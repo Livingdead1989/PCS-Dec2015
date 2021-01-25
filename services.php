@@ -69,6 +69,18 @@
         <br>
         </div>
 
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns">
+        <br>
+            <ul class="pricing-table">
+              <li class="title"><img class="fixed-size-100" src="images/logo/eplatform.jpg" alt="ePlatform - eBooks"><br>ePlatform</li>
+              <li class="bullet-item">eBooks</li>
+              <li class="bullet-item">Audiobooks</li>
+              <li class="bullet-item">Online &amp; App</li>
+              <li class="cta-button"><a class="button radius" href="//pcs-hantssls.eplatform.co/" target="_blank">Open</a></li>
+            </ul>
+        <br>
+        </div>
+
     </div>
 
     <div class="row">
