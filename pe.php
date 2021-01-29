@@ -60,7 +60,8 @@
 
         <h3>Impact</h3>
             <p>All students will study sport at Park and within this they will develop a clear understanding of where to go next with assignments is shared within all lessons (pass criteria to merit and merit to distinction etc). Promoting accountability through strict deadlines and the sharing of each student's assignment completions, grade and actions to achieve projection (or higher). The department develop independence through structured stuck resources and models used within lessons and available to students through a shared platform.</p>
-            <p>Through our structured curriculum and precise delivery of theory content examination outcomes have seen superb improvements over recent years with students becoming highly confident in unit content and assignment application.</p> 
+            <p>Through our structured curriculum and precise delivery of theory content examination outcomes have seen superb improvements over recent years with students becoming highly confident in unit content and assignment application.</p>
+            <p>2020 = 98.7% Pass - distinction* <em>(4 distinction*, 36 distinctions, 49 merits, 74 pass)</em></p> 
             <p>2019 = 100% Pass – distinction* <em>(66 distinction*, 23 distinctions, 36 merits, 19 pass)<em></p>
             <p>2018 = 100% Pass-distinction* <em>(63 distinction*, 17 distinctions, 54 merits, 20 pass)<em></p> 
             <p>2017 = 98% Pass – distinction*</p> 
