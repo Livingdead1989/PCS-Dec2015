@@ -33,6 +33,11 @@
                 <a class="button radius success" href="assets/pantry/flyer.pdf">Pantry Flyer <small>(PDF)</small></a>
             </div>
 
+            <div class="flex-video widescreen border-radius-5">
+                    <iframe src="https://player.vimeo.com/video/515253878" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            </div>
+
+
             <p>This project would not be possible without</p>
             <ul class="text-center small-block-grid-1 medium-block-grid-4">
                 <li>
