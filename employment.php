@@ -49,6 +49,15 @@
         </span>
       </li>
 
+       <li>
+        <h4>Youth Worker</h4>  
+        <p><em>Closing Date: 15th March 2021</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/youth-worker.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
 			<!--<br><span class="subheader">Please check back later.</span>-->
       
           
