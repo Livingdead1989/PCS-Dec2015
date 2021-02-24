@@ -40,9 +40,17 @@
         </span>
       </li>-->
 			 			 
-			<br><span class="subheader">Please check back later.</span>
+      <li>
+        <h4>Chef De Partie</h4>  
+        <p><em>Closing Date: 15th March 2021</em></p>
 
-			        
+        <span class="subheader">
+        <a href="assets/recruitment/chef-de-partie.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
+			<!--<br><span class="subheader">Please check back later.</span>-->
+      
           
 	      </ul>
 	      <hr>
