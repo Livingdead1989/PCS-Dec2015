@@ -34,8 +34,20 @@
         <div id="park-post" class="medium-12 columns">
             <h3>News Articles</h3>
             <p>Below are some intresting News Articles</p>
+
+            <div class="flex-video widescreen border-radius-5">
+                    <iframe src="https://player.vimeo.com/video/515253878" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+            </div>
                            
                   <ul class="circle">
+                    <li><a href="https://www.portsmouth.co.uk/education/coronavirus-hampshire-schools-unveil-new-measures-keep-children-covid-safe-2966694" target="_blank">Coronavirus: Hampshire schools unveil new measures to keep children Covid safe</a></li>
+                    <li><a href="https://www.portsmouth.co.uk/education/park-community-school-leigh-park-celebrates-fantastic-gcse-results-pupils-tough-out-rubbish-year-2948478" target="_blank">Park Community School in Leigh Park celebrates 'fantastic' GCSE results as pupils tough out 'rubbish' year</a></li>
+                    <li><a href="https://www.portsmouth.co.uk/education/thousands-hampshire-children-will-go-hungry-half-term-after-free-schools-meals-decision-headteachers-say-3013240" target="_blank">Thousands of Hampshire children will go hungry this half term after free schools meals decision, headteachers say</a></li>
+                    <li><a href="https://www.portsmouth.co.uk/education/park-community-pupils-receive-award-olympic-champion-dame-kelly-holmes-2914772" target="_blank">Park Community pupils receive award from Olympic champion Dame Kelly Holmes</a></li>
+                    <li><a href="https://www.portsmouth.co.uk/education/hampshire-headteachers-gcse-concerns-returning-year-10-pupils-2879597" target="_blank">Hampshire headteachers’ GCSE concerns for returning Year 10 pupils</a></li>
+                    <li><a href="https://www.portsmouth.co.uk/education/national-lottery-windfall-helps-park-community-school-feed-disadvantaged-families-during-pandemic-2865324" target="_blank">National Lottery windfall helps Park Community School feed disadvantaged families during pandemic</a></li>
+                    <li><a href="https://www.portsmouth.co.uk/education/park-community-school-key-worker-children-make-protective-shields-which-literally-could-save-family-members-lives-2845063" target="_blank">Park Community School key worker children make protective shields which ‘literally could save family members' lives’</a></li>
+                    <li><a href="https://www.portsmouth.co.uk/education/chef-year-cites-lack-funding-and-concentration-fast-food-joints-obesity-cause-2050409" target="_blank">Chef of the Year cites lack of funding and concentration of fast food joints as obesity cause</a></li>
                     <li><a href="https://www.portsmouth.co.uk/education/leigh-parks-park-community-school-teacher-turns-his-design-skills-saving-lives-new-face-shield-2536701" target="_blank">Leigh Park's Park Community School teacher turns his design skills to saving lives with new face shield</a></li>
                     <li><a href="https://www.portsmouth.co.uk/education/cash-grant-helps-park-community-school-feed-community-during-pandemic-2536164" target="_blank">Cash grant helps Park Community School feed community during pandemic</a></li>
                   </ul>
