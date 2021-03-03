@@ -35,6 +35,7 @@
                 <li><a href="/contact.php">Contact Details</a></li>
                 <li><a href="/curriculum.php">Curriculum</a></li>
                 <li><a href="/assets/statutory/ethos-values.pdf" target="_blank">Ethos and Values</a></li>
+                <li><a href="/assets/statutory/equality-statement.pdf" target="_blank">Equality Statement</a></li>
                 <li><a href="/assets/statutory/ks4-results.pdf" target="_blank">Key Stage 4 Results</a></li>
                 <li><a href="/assets/statutory/leaver-destinations.pdf" target="_blank">Leaver Destinations</a></li>
                 <li><a href="/assets/statutory/ofsted-report-2017.pdf" target="_blank">Ofsted Report</a></li>
