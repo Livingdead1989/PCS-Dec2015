@@ -40,6 +40,7 @@
             </div>
                            
                   <ul class="circle">
+                    <li><a href="https://www.portsmouth.co.uk/news/people/park-community-school-in-havant-sees-almost-100-per-cent-attendance-as-pupils-return-3158621" target="_blank">Park Community School in Havant sees almost 100 per cent attendance as pupils return</a></li>
                     <li><a href="https://www.portsmouth.co.uk/education/coronavirus-hampshire-schools-unveil-new-measures-keep-children-covid-safe-2966694" target="_blank">Coronavirus: Hampshire schools unveil new measures to keep children Covid safe</a></li>
                     <li><a href="https://www.portsmouth.co.uk/education/park-community-school-leigh-park-celebrates-fantastic-gcse-results-pupils-tough-out-rubbish-year-2948478" target="_blank">Park Community School in Leigh Park celebrates 'fantastic' GCSE results as pupils tough out 'rubbish' year</a></li>
                     <li><a href="https://www.portsmouth.co.uk/education/thousands-hampshire-children-will-go-hungry-half-term-after-free-schools-meals-decision-headteachers-say-3013240" target="_blank">Thousands of Hampshire children will go hungry this half term after free schools meals decision, headteachers say</a></li>
