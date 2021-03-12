@@ -269,15 +269,6 @@
 
         <h3>Admissions Policies</h3>
         <ul class="small-text-center medium-text-left small-block-grid-1 medium-block-grid-2 policies_list">
-
-            <li>
-                <a href="/assets/policies/admissions-2019-2020.pdf" target="_blank">
-                    <div class="policy-container">
-                        <p>2019 - 2020</p>
-                    </div>
-                </a>
-            </li>
-
             <li>
                 <a href="/assets/policies/admissions-2020-2021.pdf" target="_blank">
                     <div class="policy-container">
@@ -285,7 +276,13 @@
                     </div>
                 </a>
             </li>
-            
+            <li>
+                <a href="/assets/policies/admissions-2021-2022.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>2021 - 2022</p>
+                    </div>
+                </a>
+            </li>
         </ul>
 
 
