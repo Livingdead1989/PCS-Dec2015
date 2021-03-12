@@ -23,7 +23,8 @@
 <section>
     <div class="row">
         <br>
-        <div class="medium-12 columns">
+        <!-- Inline Style - Float None workaround for MS Edge issue. -->
+        <div style="float:none;" class="medium-12 columns">
         <p>Our policies are designed to create a safe and fair environment for all students. All our policies are freely available and transparent. By learning what is, and isn’t, allowed you can avoid unintentionally breaking the rules.</p>
         <p>Please view our <a href="/statutory.php">Statutory Information page</a> for other policies and key information.</p>
         <br>
