@@ -40,7 +40,7 @@
                     </div>  
                 </div>
                 
-
+                <a class="small button radius alert" href="//bit.ly/2PiBr4V" target="_blank">Year 7 Placement Acceptance</a>
                 <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a> 
                 <!-- <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a> -->
                 <!-- <a class="small button radius success" href="#" data-reveal-id="COVID-19">COVID-19</a> -->
