@@ -284,6 +284,13 @@
                     </div>
                 </a>
             </li>
+            <li>
+                <a href="/assets/policies/admissions-2022-2023.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>2022 - 2023</p>
+                    </div>
+                </a>
+            </li>
         </ul>
 
 
