@@ -49,6 +49,15 @@
         </span>
       </li>
 
+        <li>
+        <h4>Chef de Partie</h4>  
+        <p><em>Closing Date: N/A</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/chef-de-partie.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
       <!--<br><span class="subheader">Please check back later.</span>-->
       
           
