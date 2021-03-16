@@ -41,24 +41,15 @@
       </li>-->
 			 			 
       <li>
-        <h4>Chef De Partie</h4>  
-        <p><em>Closing Date: 15th March 2021</em></p>
+        <h4>Teacher of Maths</h4>  
+        <p><em>Closing Date: 1st April 2021</em></p>
 
         <span class="subheader">
-        <a href="assets/recruitment/chef-de-partie.pdf" target="_blank">Position Details</a>
+        <a href="assets/recruitment/teacher-of-maths.pdf" target="_blank">Position Details</a>
         </span>
       </li>
 
-       <li>
-        <h4>Youth Worker</h4>  
-        <p><em>Closing Date: 15th March 2021</em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/youth-worker.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-
-			<!--<br><span class="subheader">Please check back later.</span>-->
+      <!--<br><span class="subheader">Please check back later.</span>-->
       
           
 	      </ul>
