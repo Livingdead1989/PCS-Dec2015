@@ -29,70 +29,26 @@
                     <div class="columns">
                         <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
                         <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Remote Learning</a>
+                        <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUOUQxTDNYRUVFVlc1QVFMMzVGMVpaTTYyTy4u" target="_blank" >COVID-19 Testing for Pupils Form</a>
                     </div>
                 </div>
 
-
-                <div class="row">
-                    <div class="columns">
-                        <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJURU84NUtOVVczNVE3UlBQQ0k2TVVMSDVXWi4u" target="_blank" >January Keyworker School Form</a>
-                        <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUOUQxTDNYRUVFVlc1QVFMMzVGMVpaTTYyTy4u" target="_blank" >COVID-19 Testing for Pupils Form</a>
-                    </div>  
-                </div>
-                
                 <a class="small button radius alert" href="//bit.ly/2PiBr4V" target="_blank">Year 7 Placement Acceptance</a>
                 <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a> 
-                <!-- <a class="small button radius success" target="_blank" href="https://connect4.org.uk/">Connect4Summer</a> -->
-                <!-- <a class="small button radius success" href="#" data-reveal-id="COVID-19">COVID-19</a> -->
                 
             </div>
-                        <!-- HEADTEACHERS WELCOME -->
-                        <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">Headteacher's Welcome</h2>
-                          <p class="lead">Mr Christopher Anders</p>
-                          <p>Welcome to Park Community School. Our school provides an expansive park environment. Through a wide variety of lessons and other opportunities to learn, we encourage our young people to discover what they love. We have themed the areas of the school around ‘Parks of the World’, using displays and photos to brighten corridors and show what an exciting world we live in. As well as the school site, we have four other facilities to provide a great curriculum and exciting places in which to learn. Our school focuses on three areas of learning, we describe these as attainment, resilience and autonomy.</p>
-                          <p>Over the last decade we have planned and then constructed our new school. Two-thirds of the school was rebuilt with the remaining third refurbished. The fantastic buildings now support students’ learning and enrich their time at school.</p>
-                          <p>We have a wonderful theatre, lecture theatre, restaurant and outdoor areas, including a floodlit STP (synthetic turf pitch). Many areas are used by community groups and other organisations as well as for parties outside of school time. The Watering Hole restaurant serves award-winning school meals, prepared by our chefs and their catering team, all at affordable prices. Our classrooms include the latest large touch-screen technology. We have invested heavily in computers, laptops, iPads and software to allow students to use a comprehensive range of electronic devices. Our science labs and technology rooms have all been refurbished and house new equipment, including 3D printers and a laser cutter, as well as an industrial catering room.</p>
-                          <p>I hope that the information on this website gives you some idea of our vision and principles, as well as the facilities, and curriculum that we offer to students. It also includes details of other activities we undertake, such as teacher training through the Solent SCITT which is based at the school, and printing and enterprise through our industrial unit and construction skills centre. Munch and Connect4Summer are initiatives for our wider community. We recently opened the Coach House Tea Room in Staunton Country Park. School should be about finding what you love to do as well as academic learning and being well-prepared for the next steps in life, at Park we are proud to be Much More Than Just a School.</p>
+            <!-- HEADTEACHERS WELCOME -->
+            <div id="HeadsWelcome" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">Headteacher's Welcome</h2>
+                <p class="lead">Mr Christopher Anders</p>
+                <p>Welcome to Park Community School. Our school provides an expansive park environment. Through a wide variety of lessons and other opportunities to learn, we encourage our young people to discover what they love. We have themed the areas of the school around ‘Parks of the World’, using displays and photos to brighten corridors and show what an exciting world we live in. As well as the school site, we have four other facilities to provide a great curriculum and exciting places in which to learn. Our school focuses on three areas of learning, we describe these as attainment, resilience and autonomy.</p>
+                <p>Over the last decade we have planned and then constructed our new school. Two-thirds of the school was rebuilt with the remaining third refurbished. The fantastic buildings now support students’ learning and enrich their time at school.</p>
+                <p>We have a wonderful theatre, lecture theatre, restaurant and outdoor areas, including a floodlit STP (synthetic turf pitch). Many areas are used by community groups and other organisations as well as for parties outside of school time. The Watering Hole restaurant serves award-winning school meals, prepared by our chefs and their catering team, all at affordable prices. Our classrooms include the latest large touch-screen technology. We have invested heavily in computers, laptops, iPads and software to allow students to use a comprehensive range of electronic devices. Our science labs and technology rooms have all been refurbished and house new equipment, including 3D printers and a laser cutter, as well as an industrial catering room.</p>
+                <p>I hope that the information on this website gives you some idea of our vision and principles, as well as the facilities, and curriculum that we offer to students. It also includes details of other activities we undertake, such as teacher training through the Solent SCITT which is based at the school, and printing and enterprise through our industrial unit and construction skills centre. Munch and Connect4Summer are initiatives for our wider community. We recently opened the Coach House Tea Room in Staunton Country Park. School should be about finding what you love to do as well as academic learning and being well-prepared for the next steps in life, at Park we are proud to be Much More Than Just a School.</p>
 
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div>
-                        <!-- /HEADTEACHERS WELCOME -->
-
-                        <!-- COVID-19 -->
-                        <!-- <div id="COVID-19" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                          <h2 id="modalTitle">COVID-19</h2>
-                          
-                            <p>We are delighted to welcome all students back to school from September 2020. The information on this page outlines:</p>
-                            <ul>
-                                <li>How we have reduced the risks of Covid 19 in school</li>
-                                <li>Accessing learning remotely if your child is shielding or they are part of a group sent home to self isolate</li>
-                                <li>Frequently Asked Questions</li>
-                            </ul>
-                            <p>For the first part of the year, students will be taught in Year Zones and will not mix with other year groups. The zones limit contact by operating:</p>
-                            <ul>
-                                <li>Separate entrance and exits to the school building</li>
-                                <li>Different lunch and break times from most other zones</li>
-                            </ul>
-                            <p>All students will follow their full curriculum which is broad and balanced. We have made some changes, for instance, in September:</p>
-                            <ul>
-                                <li>Assemblies will be less frequent and may be delivered virtually</li>
-                                <li>Physical Education will not involve contact sports</li>
-                                <li>Music will not involve singing or sharing instruments</li>
-                            </ul>
-                            <p>In the event of any Lockdown, student learning can be accessed in the Student area of our website. Parents can learn about how to support with this <a href="#" data-reveal-id="covid-parent">here</a>.</p> 
-
-                          <hr>
-                          <ul>
-                            <li><a href="https://www.gov.uk/government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-in-the-autumn-term" target="_blank">What parents and carers need to know about early years providers, schools and colleges in the autumn term</a></li>
-                            <li><a href="/assets/letters/2020-07/faq_parents_and_students.pdf" target="_blank">FAQ for Parents and Students</a></li>
-                            <li><a href="/assets/letters/2020-09/nhs_testtrace.pdf" target="_blank">NHS Test and Trace - PHE</a></li>
-                          </ul>
-                          
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-                        </div> -->
-                        <!-- /COVID-19 -->
+                <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+            <!-- /HEADTEACHERS WELCOME -->
         </div>
         
     </div>
@@ -102,13 +58,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<!-- <section class="page-notification">
+<section class="page-notification">
   <div class="row">
     <div class="columns">
-        <p><a href="" style="color: #474747"></a></p> 
+        <p><a href="/virtual-options/index.html" style="color: #474747; text-decoration: underline;">Year 9 Virtual Options Evening</a></p> 
     </div>
   </div>
-</section> -->
+</section>
 <!-- END NOTIFICATION -->
 
 
@@ -117,37 +73,6 @@
     <div class="row">
         <div class="columns">
             <br>
-                        
-            <!-- <div class="small-text-center large-text-right">
-                <a class="small button radius" href="/letters-home.php" >Letters</a>
-                <a class="small button radius" href="#" data-reveal-id="covid-newsletters">Newsletters</a>
-                <a class="small button radius" href="//vimeo.com/showcase/7029024">Assemblies</a>
-            </div> -->
-
-            <!-- NEWSLETTERS -->
-            <!-- <div id="covid-newsletters" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                <h2 id="modalTitle">Newsletters</h2>
-                <ul>
-                    <li><a href="/assets/letters/2020-10/newsletter-16-10.pdf" target="_blank">Newsletter 16th October</a></li>
-                    <li><a href="/assets/letters/2020-10/newsletter-2-10.pdf" target="_blank">Newsletter 2nd October</a></li>
-                    <li><a href="/assets/letters/2020-09/newsletter-18-09.pdf" target="_blank">Newsletter 18th September</a></li>
-                    <li><a href="/assets/letters/2020-07/newsletter-17-07.pdf" target="_blank">Newsletter 17th July</a></li>
-                    <li><a href="/assets/letters/2020-07/newsletter-10-07.pdf" target="_blank">Newsletter 10th July</a></li>
-                    <li><a href="/assets/letters/2020-07/newsletter-03-07.pdf" target="_blank">Newsletter 3rd July</a></li>
-                    <li><a href="assets/letters/2020-06/newsletter-26-06.pdf" target="_blank">26th June 2020</a></li>
-                    <li><a href="assets/letters/2020-06/newsletter-19-06.pdf" target="_blank">19th June 2020</a></li>
-                    <li><a href="assets/letters/2020-06/newsletter-12-06.pdf" target="_blank">12th June 2020</a></li>
-                    <li><a href="assets/letters/2020-06/newsletter-05-06.pdf" target="_blank">5th June 2020</a></li>
-                    <li><a href="assets/letters/2020-05/newsletter-22-05.pdf" target="_blank">22nd May 2020</a></li>
-                    <li><a href="assets/letters/2020-05/newsletter-15-05.pdf" target="_blank">15th May 2020</a></li>
-                    <li><a href="assets/letters/2020-05/newsletter-08-05.pdf" target="_blank">8th May 2020</a></li>
-                    <li><a href="assets/letters/2020-05/newsletter-01-05.pdf" target="_blank">1st May 2020</a></li>
-                </ul>
-
-                <p>You can view all of our letters home via our <a href="letters-home.php">Letters Home</a> page.</p>
-              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-            </div>
- -->
 
             <!-- PARENT HOME LEARNING -->
             <div id="covid-parent" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
@@ -331,7 +256,8 @@
 		        </div>
 	        </div>
 
-	        <!-- <div class="row">
+	        <!-- Shortcut Links -->
+            <div class="row">
                 <div class="large-11 columns"><br class="show-for-large-up">
                     <ul class="small-block-grid-2 medium-block-grid-4 text-center">
 
@@ -344,15 +270,23 @@
 
                         <li>
                           <a href="//insight.pcs.hants.sch.uk:444/" target="_blank">
-                              <img class="fixed-size-100" src="/images/logo/insight.png" alt="Homework Management">
+                              <img class="fixed-size-100" src="/images/logo/insight.png" alt="Insight Homework Management">
                               <p>Insight</p>
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href="//insight.pcs.hants.sch.uk:444/" target="_blank">
+                              <img class="fixed-size-100" src="/images/logo/tucasi.png" alt="SCOPay Online Payments">
+                              <p>SCOPay</p>
                           </a>
                         </li>
 
                     </ul>
                     <br>
                 </div>
-            </div> -->
+            </div>
+            <!-- /Shortcut Links -->
 	    </div>
 
         <div class="large-4 columns show-for-large-up">
