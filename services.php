@@ -81,6 +81,18 @@
         <br>
         </div>
 
+        <div class="medium-push-2 medium-8 large-push-0 large-4 columns end">
+        <br>
+            <ul class="pricing-table">
+              <li class="title"><img class="fixed-size-100" src="images/logo/schoolcloud-pe.png" alt="Schoolcloud - Parents Evening"><br>Parents Evening</li>
+              <li class="bullet-item">Appointments</li>
+              <li class="bullet-item">Virtual</li>
+              <li class="bullet-item">Browser</li>
+              <li class="cta-button"><a class="button radius" href="//parkc.schoolcloud.co.uk/" target="_blank">Open</a></li>
+            </ul>
+        <br>
+        </div>
+
     </div>
 
     <div class="row">

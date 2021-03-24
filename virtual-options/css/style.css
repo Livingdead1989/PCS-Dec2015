@@ -69,8 +69,10 @@ html{
     margin: 40px 0;
 }
 .introduction-button{
+    display: inline-block;
     text-decoration: none;
     padding: 10px 20px;
+    margin: 10px;
     border: none;
     border-radius: 60px;
     background-color: rgb(11, 180, 76);

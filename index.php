@@ -282,6 +282,13 @@
                           </a>
                         </li>
 
+                        <li>
+                          <a href="//parkc.schoolcloud.co.uk/" target="_blank">
+                              <img class="fixed-size-100" src="/images/logo/schoolcloud-pe.png" alt="Online Parents Evening">
+                              <p>Parents Evening</p>
+                          </a>
+                        </li>
+
                     </ul>
                     <br>
                 </div>
