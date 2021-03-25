@@ -13,8 +13,8 @@
 <header class="header-school">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Connect4Summer</h1>
-            <p class="text-capitalize">Childcare, Activties and Healthy Food</p>
+            <h1>Connect4Families &amp; Connect4Youth</h1>
+            <p class="text-capitalize">Holiday Activities and Healthy Food</p>
         </div>
     </div>
 </header>
@@ -23,30 +23,13 @@
 <section>
 	<div class="row">
 		<div class="columns">
-			<h2>What is Connect4Summer?</h2>
-			<p>In October 2019 the Department for Education published its invitation to bid for the local coordination of a free holiday provision fund which included activities and healthy food for disadvantaged children during 2020 summer holidays.</p>
-
-			<p>During the summer of 2019 Romsey Community School and Park Community School successfully bid and provided a programme which was very successful. Therefore, we bid for the Holiday Activities Fund in summer 2020 and were delighted to hear we had won the bid once again.</p>
-
-			<div class="row">
-				<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
-					<img src="images/connect4summer/connect4summer_logo.png" alt="Connect4Summer Logo">
-				</div>
+			<h2>What is Connect 4 Families?</h2>
+			<p>Park Community School and Romsey Community School in partnership successfully bid to Hampshire County Council to receive Holiday Activity Funding 2021. The funding is to provide a programme of free holiday activities and healthy food for disadvantaged children during 2021 Easter holidays.</p>
+			<p>Our plans for 2021 are based on our experience in delivering this programme in 2019 and 2020 for the Department for Education. Our programme provides enriching activities for children and also for the parents through our Family Fun Days. The venues are throughout Hampshire in many different areas and venues.</p>
+			<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
+					<img src="images/connect4summer/connect4families_logo.png" alt="Connect 4 Families">
 			</div>
-			<br>
-
-			<p>The project for 2020 was based on the pilot year and was expanded to include more venues in Hampshire, Portsmouth, Southampton and the Isle of Wight.</p>
-
-			<p>The programme ran in 50 venues and includes a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
-
-			<div class="small-offset-2 small-8 text-center">
-				<div class="flex-video widescreen border-radius-5">
-					<iframe src="https://player.vimeo.com/video/446392942" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-				</div>
-			</div>
-
 			<br><br>
-			
 		</div>
 	</div>
 </section>			
@@ -57,23 +40,12 @@
     </div>
 	<div class="row">
 		<div class="columns">
-			<h2>Connect4Summer 2020 - Review</h2>
-			<p>Connect4Summer has been successful for its second year, and we are extremely proud of the joy and happiness we have managed to bring to families while helping with mental health issues raised by COVID-19.</p>
-			<p>We have been able to bring a 20-day programme to venues around Hampshire, Portsmouth, Southampton and Isle of Wight while maintaining government guidelines.</p>
-			<p>Please take the time to view our Connect4Summer 2020 review, and we'd like to thank all the 420+ employed to make this fantastic event possible once again.</p>
-
-            <div class="small-offset-2 small-8 text-center">
-				<div class="flex-video widescreen border-radius-5">
-					<iframe src="https://player.vimeo.com/video/451756772" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-				</div>
+			<h2>What is Connect 4 Youth?</h2>
+			<p>2021 will see an expansion of this programme, based on our achievements in 2020. We will be providing activity days for 11-16 year olds. We engage specialists in many fields to provide new experiences and activities specific for this age.</p>
+			<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
+					<img src="images/connect4summer/connect4youth_logo.png" alt="Connect 4 Youth">
 			</div>
-
-			<div class="text-center">
-                  <a href="/assets/connect4summer/connect4summer2020_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
-                </div>
-		
 			<br><br>
-			
 		</div>
 	</div>
 </section>
@@ -84,22 +56,19 @@
     </div>
 	<div class="row">
 		<div class="columns">
-			<div class="row">
-				<h2>Connect4Summer 2019 - Review</h2>
-				<p>We are really proud of what we have achieved, 17 organisations have provided free daily child care and 21 organisations have provided free family fun days for 20 days and the feedback from parents has been tremendous.</p>
-
-				<div class="small-offset-2 small-8 text-center">
-					<div class="text-center flex-video widescreen border-radius-5">
-	                    <iframe src="https://player.vimeo.com/video/368249167" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-	                </div>
-	            </div>
-
-				<div class="text-center">
-                  <a href="/assets/connect4summer/connect4summer2019_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
-                </div>
-
-                <br><br>
-				
+			<h2>Connect4Summer 2020 - Review</h2>
+			<p>Connect4Summer has been successful for its second year, and we are extremely proud of the joy and happiness we have managed to bring to families while helping with mental health issues raised by COVID-19.</p>
+			<p>We have been able to bring a 20-day programme to venues around Hampshire, Portsmouth, Southampton and Isle of Wight while maintaining government guidelines.</p>
+			<p>Please take the time to view our Connect4Summer 2020 review, and we'd like to thank all the 420+ employed to make this fantastic event possible once again.</p>
+            <div class="small-offset-2 small-8 text-center">
+				<div class="flex-video widescreen border-radius-5">
+					<iframe src="https://player.vimeo.com/video/451756772" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+				</div>
+			</div>
+			<div class="text-center">
+                <a href="/assets/connect4summer/connect4summer2020_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
+            </div>		
+			<br><br>		
 		</div>
 	</div>
 </section>
@@ -110,51 +79,29 @@
     </div>
 	<div class="row">
 		<div class="columns">
-			<h2>Connect4Summer in the News</h2>
-
-
-				<div class="columns small-12 medium-12 large-6 text-center">
-					<div class="flex-video widescreen border-radius-5">
-						<p>BBC South Today - 2019</p>
-						<iframe src="https://player.vimeo.com/video/349615481" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-					</div>
+			<h2>Connect4Summer 2019 - Review</h2>
+			<p>We are really proud of what we have achieved, 17 organisations have provided free daily child care and 21 organisations have provided free family fun days for 20 days and the feedback from parents has been tremendous.</p>
+			<div class="small-offset-2 small-8 text-center">
+				<div class="text-center flex-video widescreen border-radius-5">
+					<iframe src="https://player.vimeo.com/video/368249167" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 				</div>
-
-				<div class="columns small-12 medium-12 large-6 text-center">
-					<div class="flex-video widescreen border-radius-5">
-						<p>2019</p>
-						<iframe src="https://player.vimeo.com/video/349452617" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-					</div>
-				</div>
-
 			</div>
-
-	<br><hr>
-
-	<div class="row">
-		<div class="columns">
-			<h2>Connect4Summer on the Radio</h2>
-			<p>BBC Radio Solent's Julian Glegg talking with Susan Parish about the Connect4Summer scheme.</p>
 			<div class="text-center">
-				<audio src="assets/connect4summer/radio.mp3" controls>
-				</audio>
+				<a href="/assets/connect4summer/connect4summer2019_review.pdf" target="_blank" class="button success radius">View the Full Review</a>
 			</div>
+			<br><br>
 		</div>
-	</div>
+	</div>		
+</section>
 
-	<br><hr>
-
+<section>
 	<div class="row">
-		<div class="columns">
-			<h2>Press Release - Minister announces funding awarded to Park Community and Romsey Community Schools</h2>
-			<p>News that a joint funding bid by Park Community School in Havant and Romsey Community School in Havant has been successful has been warmly welcomed.</p>
-			<p>On 8 May 2019, Children and Families Minister, Nadhim Zahawi, announced that 11 coordinators will receive a share of £9.1m funding to provide 50,000 disadvantaged children with free meals and activities over the upcoming summer holidays.</p>
-			<p>The Havant and Romsey schools are being given a grant to co-ordinate a programme called ‘Connect4Summer’ for children in 23 venues across Hampshire, including Portsmouth and Southampton.</p>
-			<p>Connect4Summer will be providing an exciting programme that will include a range of sports activities, healthy cooking classes for children and their parents or carers, as well as additional support for our most vulnerable families who are in need.</p>
-			<p>Headteacher of Park Community School, Christopher Anders, said: <em>“We are very excited and delighted to be involved in this large project supporting families with holiday child care and family fun days.”</em></p>
-			<p>Headteacher Jonathan de Sausmarez of Romsey Community School said <em>“I am really pleased that the need for vulnerable families to have support and care over the summer holidays has been recognised. We want to make a real difference and we are very proud to support this much needed project.”</em></p>
-			<p>Both Community Managers of each school, Susan Parish (Park Community School) and Jan Lefley (Romsey Community School) reported that they wanted to provide a programme that has a future legacy, that engages families and provides them with opportunities after the summer to continue with a variety of activities. Susan said <em>“It is very important to us that we continue to address holiday hunger and this programme enables us to reach large numbers of children and their families. We will also be able to offer children good quality, exciting activities and new opportunities whilst ensuring they are safe throughout the holidays.”</em></p>
-			<br>
+        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
+    </div>
+	<div class="row">
+		<div class="column">
+			<h2>Contact</h2>
+			<p>Please visit our website at: <a href="//connect4.org.uk/">Connect4.org.uk</a></p>
 			<p>For further details please contact:</p>
 			<ul>Susan Parish, Park Community School
 				<li>Email: <a href="mailto:S.Parish@pcs.hants.sch.uk">S.Parish@pcs.hants.sch.uk</a></li>
@@ -165,22 +112,6 @@
 				<li>Email: <a href="mailto:JLefley@romsey.hants.sch.uk">JLefley@romsey.hants.sch.uk</a></li>
 				<li>Tel: 01794522106</li>
 			</ul>
-			<br><br>
-		</div>
-	</div>
-			<br><br>	
-		</div>
-	</div>
-</section>
-
-<section>
-	<div class="row">
-        <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
-    </div>
-	<div class="row">
-		<div class="column">
-			<h2>Summer MUNCH at Park</h2>
-			<p>Our holiday <a href="/munch.php">MUNCH</a> meals continue to provide a free 2 course meal for children attending any school in Leigh Park, parents and carers are also welcome, whose curent circumstances might mean that receiving a free meal is necessary. - <strong>Excludes Bank Holidays</strong></p>
 			<br><br>
 		</div>
 	</div>

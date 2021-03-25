@@ -323,7 +323,7 @@
                 <li>
                     <div class="menu-box"><a href="/connect4summer.php">
                             <img src="images/index/connect4summer.jpg" alt="Connect4Summer">
-                            <p>Connect4Summer</p>
+                            <p>Connect4Families &amp; Connect4Youth</p>
                         </a></div>
                 </li>
                 <li>
