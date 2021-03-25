@@ -29,6 +29,7 @@
 			<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
 					<img src="images/connect4summer/connect4families_logo.png" alt="Connect 4 Families">
 			</div>
+			<p>Visit the <a href="//connect4.org.uk/">Connect4 website</a> for more information.</p>
 			<br><br>
 		</div>
 	</div>
@@ -45,6 +46,7 @@
 			<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
 					<img src="images/connect4summer/connect4youth_logo.png" alt="Connect 4 Youth">
 			</div>
+			<p>Visit the <a href="//connect4.org.uk/">Connect4 website</a> for more information.</p>
 			<br><br>
 		</div>
 	</div>
