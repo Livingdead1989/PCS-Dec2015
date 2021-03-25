@@ -27,7 +27,7 @@
         	<ul class="small-block-grid-1">
                   <li>
                     <ul class="circle">March 2021<hr>
-						<li><a href="/assets/letters/2021-03/5-general-letter-to-parents" target="_blank">General Letter to Parents 24th Mar</a></li>
+						<li><a href="/assets/letters/2021-03/5-general-letter-to-parents.pdf" target="_blank">General Letter to Parents 24th Mar</a></li>
                         <li><a href="/assets/letters/2021-03/year-10-reports.pdf" target="_blank">Year 10 Reports</a></li>
                         <li><a href="/assets/letters/2021-03/year-9-parents-evening.pdf" target="_blank">Year 9 Virtual Parents Evening</a></li>
                         <li><a href="/assets/letters/2021-03/newsletter-19-03.pdf" target="_blank">Newsletter 19th March</a></li>
