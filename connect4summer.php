@@ -26,9 +26,12 @@
 			<h2>What is Connect 4 Families?</h2>
 			<p>Park Community School and Romsey Community School in partnership successfully bid to Hampshire County Council to receive Holiday Activity Funding 2021. The funding is to provide a programme of free holiday activities and healthy food for disadvantaged children during 2021 Easter holidays.</p>
 			<p>Our plans for 2021 are based on our experience in delivering this programme in 2019 and 2020 for the Department for Education. Our programme provides enriching activities for children and also for the parents through our Family Fun Days. The venues are throughout Hampshire in many different areas and venues.</p>
-			<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
-					<img src="images/connect4summer/connect4families_logo.png" alt="Connect 4 Families">
+			<div class="row">
+				<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
+						<img src="images/connect4summer/connect4families_logo.png" alt="Connect 4 Families">
+				</div>
 			</div>
+			<br>
 			<p>Visit the <a href="//connect4.org.uk/" target="_blank">Connect4 website</a> for more information.</p>
 			<br><br>
 		</div>
@@ -43,9 +46,12 @@
 		<div class="columns">
 			<h2>What is Connect 4 Youth?</h2>
 			<p>2021 will see an expansion of this programme, based on our achievements in 2020. We will be providing activity days for 11-16 year olds. We engage specialists in many fields to provide new experiences and activities specific for this age.</p>
-			<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
-					<img src="images/connect4summer/connect4youth_logo.png" alt="Connect 4 Youth">
+			<div class="row">
+				<div class="small-push-2 small-8 medium-push-2 medium-8 large-push-3 large-6 columns">
+						<img src="images/connect4summer/connect4youth_logo.png" alt="Connect 4 Youth">
+				</div>
 			</div>
+			<br>
 			<p>Visit the <a href="//connect4.org.uk/" target="_blank">Connect4 website</a> for more information.</p>
 			<br><br>
 		</div>
