@@ -58,6 +58,16 @@
         </span>
       </li>
 
+      <li>
+        <h4>Receptionist</h4>  
+        <p><em>Closing Date: 20th April 2021</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/receptionist.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
+        
       <!--<br><span class="subheader">Please check back later.</span>-->
       
           
