@@ -25,6 +25,11 @@
         <br>
         <div class="medium-12 columns">
         	<ul class="small-block-grid-1">
+                <li>
+                    <ul class="circle">April 2021<hr>
+                        <li><a href="/assets/letters/2021-04/newsletter-1-04.pdf" target="_blank">Newsletter 1st April</a></li>
+                    </ul>
+                <li>
                   <li>
                     <ul class="circle">March 2021<hr>
                         <li><a href="/assets/letters/2021-03/home-testing-update.pdf" target="_blank">COVID-19 Testing Update</a></li>
