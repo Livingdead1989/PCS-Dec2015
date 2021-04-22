@@ -27,6 +27,7 @@
         	<ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">April 2021<hr>
+                        <li><a href="/assets/letters/2021-04/rse-sessions.pdf" target="_blank">RSE Lessons</a></li>
                         <li><a href="/assets/letters/2021-04/safeguarding-issue.pdf" target="_blank">Safeguarding Issue 7th April</a></li>
                         <li><a href="/assets/letters/2021-04/end-of-term.pdf" target="_blank">End of Term</a></li>
                         <li><a href="/assets/letters/2021-04/newsletter-1-04.pdf" target="_blank">Newsletter 1st April</a></li>
