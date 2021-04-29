@@ -58,13 +58,13 @@
 </header>
 
 <!-- NOTIFICATION -->
-<section class="page-notification">
+<!-- <section class="page-notification">
   <div class="row">
     <div class="columns">
-        <p><a href="/virtual-options/index.html" style="color: #474747; text-decoration: underline;">Year 9 Virtual Options Evening</a></p> 
+        <p><a href="#" style="color: #474747; text-decoration: underline;"></a></p> 
     </div>
   </div>
-</section>
+</section> -->
 <!-- END NOTIFICATION -->
 
 
