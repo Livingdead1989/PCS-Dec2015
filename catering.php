@@ -116,6 +116,36 @@
                 <div class="small-centered large-1 column text-center hr-logo grey-bg"></div>
             </div>
             <div class="row">
+                <div class="columns">
+                    <h4>Public Sector Catering Awards Winner 2020</h4>
+                    <p>Education Award - <strong>Park Community School Catering Team</strong></p>
+                    <p>Chef of the Year - <strong>Steven Cross</strong></p>
+
+                    <p>Park Community School are thrilled that we scooped both Education Catering Award and Steven Cross for Becoming the Public Sector Chef of the year, it’s not every day you win these prestigious awards.</p>
+
+                    <div class="text-center">
+                        <img src="images/schoolmeals/publicsectorcatering-winner2020.jpg" alt="Public Sector Catering Award 2020">
+                    </div>
+
+                    <br>
+                    <p>Head Chef Steven Cross worked with Tilda throughout Hotober to <a href="//www.tilda.com/professionals/meet-the-chefs/steven-cross-head-chef-park-community-school/">create amazing onepot vegan dishes</a>. Why not check them out at the link attached and create your own one pot dish.</p>
+                    <p>Click <a href="https://3lamxj2sv6yp1bq9nd8t12bt-wpengine.netdna-ssl.com/professionals/wp-content/uploads/sites/2/2020/12/TIL19212-TILDA-case-study-pdf-Aw-web.pdf" target="_blank">here</a> for the recipe.</p>
+                </div>
+            </div>
+
+            <br><br>
+            <?php include ("includes/backtotop.html") ?>
+        </section>
+
+
+
+
+        <section class="grey-bg">
+            <div class="row">
+                <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
+            </div>
+            
+            <div class="row">
                 <div class="medium-push-4 medium-8 columns">
                     <h4>LACA Award 2019</h4>
                     <p>Park Community School we are very proud to say that Steven Cross our Head chef has won the 2019 LACA School Chef of the Year.</p>
@@ -132,35 +162,6 @@
                     <img src="images/schoolmeals/laca_2019.png" alt="LACA - Much More than just a School">
                     <br><br>
                     <img src="images/schoolmeals/laca_awards.jpg" alt="LACA - Much More than just a School">
-                </div>
-            </div>
-            <br><br>
-            <?php include ("includes/backtotop.html") ?>
-        </section>
-
-
-        
-        <!-- Awards -->
-
-        <section class="grey-bg">
-            <div class="row">
-                <div class="small-centered large-1 column text-center hr-logo white-bg"></div>
-            </div>
-            
-            <div class="row">
-                <div class="columns">
-                    <h4>Public Sector Catering Awards Winner 2020</h4>
-                    <p>Education Award - <strong>Park Community School Catering Team</strong></p>
-                    <p>Chef of the Year - <strong>Steven Cross</strong></p>
-
-                    <p>Park Community School are thrilled that we scooped both Education Catering Award and Steven Cross for Becoming the Public Sector Chef of the year, it’s not every day you win these prestigious awards.</p>
-
-                    <div class="text-center">
-                        <img src="images/schoolmeals/publicsectorcatering-winner2020.jpg" alt="Public Sector Catering Award 2020">
-                    </div>
-
-                    <br>
-                    <p>Head Chef Steven Cross worked with Tilda throughout Hotober to <a href="//www.tilda.com/professionals/article/hurrah-for-hotober-the-return-of-hot-lunches-to-schools/">create amazing onepot vegan dishes</a>. Why not check them out at the link attached and create your own one pot dish.</p>
                 </div>
             </div>
 
