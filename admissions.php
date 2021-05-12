@@ -35,7 +35,7 @@
             <br>Find our Admissions Policy in the Policies section.</p>
             <div class="small-only-text-center">
                 <a href="/policies.php" class="button radius">Policies Page</a>
-                <a href="/assets/admissions/pcs_parental_combined_consent_booklet_2020.pdf" target="_blank" class="button radius">Parental Combined Consent Booklet</a>
+                <a href="/assets/admissions/pcs_parental_combined_consent_booklet.pdf" target="_blank" class="button radius">Parental Combined Consent Booklet</a>
             </div>
             <h4>Outside the main admission round</h4>
             <p>If you wish to apply for a place at Park Community School outside of the usual admission round, you can either:</p>
