@@ -49,6 +49,8 @@
         </span>
       </li>
 
+      <hr>
+
       <li>
         <h4>Lead Teacher of Science</h4>  
         <p><em>Closing Date: 21st May 2021</em></p>
