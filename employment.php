@@ -59,6 +59,17 @@
         <a href="assets/recruitment/lead-teacher-of-science.pdf" target="_blank">Position Details</a>
         </span>
       </li>
+
+      <hr>
+
+      <li>
+        <h4>Teacher of Science</h4>  
+        <p><em>Closing Date: 21st May 2021</em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/teacher-science.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
             
       <!--<br><span class="subheader">Please check back later.</span>-->
       
