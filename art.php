@@ -13,7 +13,7 @@
 <header class="header-learning">
     <div class="row">
         <div class="medium-8 large-8 columns">
-            <h1>Art</h1>
+            <h1>Art &amp; Design</h1>
             <p class="text-capitalize"></p>
         </div>
     </div>
@@ -22,7 +22,7 @@
 <div class="row">
     <ul class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
         <li role="menuitem"><a href="/curriculum.php">Curriculum</a></li>
-        <li role="menuitem" class="current"><a href="#">Art</a></li>
+        <li role="menuitem" class="current"><a href="#">Art &amp; Design</a></li>
     </ul>
 </div>
 
@@ -59,6 +59,7 @@
             </ul>
 
              <div class="text-center">
+                        <a role="button" target="_blank" href="assets/curriculum/art/covid-curriculum.pdf" class="button">COVID Curriculum</a>
                         <a role="button" target="_blank" href="assets/curriculum/art/year-7-art-design.pdf" class="button">Year 7</a>
                         <a role="button" target="_blank" href="assets/curriculum/art/year-8-art-design.pdf" class="button">Year 8</a>
                         <a role="button" target="_blank" href="assets/curriculum/art/year-9-art-design.pdf" class="button">Year 9</a>

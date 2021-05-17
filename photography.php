@@ -56,7 +56,6 @@
             </ul>
 
              <div class="text-center">
-                        <a role="button" target="_blank" href="assets/curriculum/photography/year-9-photography.pdf" class="button">Year 9</a>
                         <a role="button" target="_blank" href="assets/curriculum/photography/year-10-photography.pdf" class="button">Year 10</a>
                         <a role="button" target="_blank" href="assets/curriculum/photography/year-11-photography.pdf" class="button">Year 11</a>
                         <a role="button" target="_blank" href="assets/curriculum/photography/photography-assessment-policy.pdf" class="button">Assesment Policy</a>
