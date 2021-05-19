@@ -65,11 +65,9 @@
                 </div>
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
                     <img src="images/schoolmeals/crossandmoody.png" alt="Cross and Moody brand logo">
-                    <br>
                 </div>
-                
-                <br>
             </div>
+            <br><br>
 
             <div class="row">
                 <div class="medium-8 columns">
@@ -101,6 +99,7 @@
                 </div>
             </div>
             <br><br>
+            
             <div class="row">
                 <div class="medium-8 columns">
                     <h4>Local &amp; Organic Food</h4>
@@ -114,6 +113,7 @@
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/organic-standards.jpg" alt="Park Community School using local and organic produce in their school menu."></div>
             </div>
             <br><br>
+            
             <?php include ("includes/backtotop.html") ?>
         </section>
 
