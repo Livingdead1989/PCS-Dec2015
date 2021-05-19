@@ -68,9 +68,9 @@
                     <br>
                 </div>
                 
-                <hr>
                 <br>
             </div>
+
             <div class="row">
                 <div class="medium-8 columns">
                     
@@ -81,11 +81,18 @@
                         <li>Park Porkies Sausages</li>
                         <li>Charcuterie range – Salami, Chorizo, Coppa, Lomo, Air cured Ham and Pancetta</li>
                     </ul>
+
+                    
+
                     <h4>Park Bakery </h4>
                     <p>The school kitchen team are highly skilled and have now started a daily bakery which offer students and staff the opportunity to buy fresh bread daily we sell a wide range of products from Focaccia, Sour Dough and White Loafs to Scones and Cakes.</p>
+                    
+                    
+                    
                     <h4>Park Eggs</h4>
                     <p>We now have a wide variety of bird on the school site and sell there eggs to the staff, students and public we currently sell – Hen, Duck and Quail Eggs.</p>
                 </div>
+
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns">
                     <a href="/park-farm.php">
                         <img src="images/schoolmeals/porky_logo.jpg" alt="Park Farm - Grow and Eat, our Chief uses our own produce">
@@ -101,8 +108,7 @@
                     <h4>Our Suppliers</h4>
                     <ul class="circle">
                         <li><a href="//www.tuppennybarn.co.uk/" target="_blank">Tuppenny Barn</a> - Fruit and Vegetables.</li>
-                        <li><a href="//www.goodwood.com/estate/home-farm/" target="_blank">Goodwood Home Farm</a> - Dairy Products.</li>
-                        <li><a href="//www.shipton-mill.com/" target="_blank">Shipton Mill</a> - Flour.</li>
+                        <li><a href="//www.treagustbutchers.co.uk/" target="_blank">Treagust Butchers</a> - Meat Products.</li>
                     </ul>
                 </div>
                 <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-4 columns"><img src="images/schoolmeals/organic-standards.jpg" alt="Park Community School using local and organic produce in their school menu."></div>
