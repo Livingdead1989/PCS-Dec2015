@@ -25,6 +25,11 @@
         <br>
         <div class="medium-12 columns">
         	<ul class="small-block-grid-1">
+                 <li>
+                    <ul class="circle">June 2021<hr>
+                        <li><a href="/assets/letters/2021-06/inset-day.pdf" target="_blank">INSET Day</a></li>
+                    </ul>
+                <li>
                 <li>
                     <ul class="circle">May 2021<hr>
                         <li><a href="/assets/letters/2021-05/newsletter-28-05.pdf" target="_blank">Newsletter 28th May</a></li>
