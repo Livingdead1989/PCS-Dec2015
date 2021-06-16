@@ -66,7 +66,7 @@
         <a href="assets/recruitment/lorry-driver.pdf" target="_blank">Position Details</a>
         </span>
       </li>
-        <hr>
+       
       
 			 			 
       
