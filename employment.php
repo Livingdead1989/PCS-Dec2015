@@ -49,6 +49,15 @@
         </span>
       </li>
 
+       <li>
+        <h4>Position - Theatre Technician</h4>  
+        <p><em>Closing Date: Wednesday, 30 June 2021 </em></p>
+
+        <span class="subheader">
+        <a href="assets/recruitment/theatre.pdf" target="_blank">Position Details</a>
+        </span>
+      </li>
+
          <li>
         <h4>Position - Lorry Driver</h4>  
         <p><em>Closing Date: Monday, 5 July 2021 </em></p>
@@ -57,6 +66,8 @@
         <a href="assets/recruitment/lorry-driver.pdf" target="_blank">Position Details</a>
         </span>
       </li>
+
+      
 			 			 
       
             
