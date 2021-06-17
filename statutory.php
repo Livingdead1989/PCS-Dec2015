@@ -42,6 +42,7 @@
                 <li><a href="//www.education.gov.uk/cgi-bin/schools/performance/school.pl?urn=116473" target="_blank">Performance Tables</a></li>
                 <li><a href="/pupil-premium.php">Pupil Premium and Catch-up Funding</a></li>
                 <li><a href="/assets/statutory/send-information-report.pdf" target="_blank">SEND Information Report</a></li>
+                <li><a href="/assets/statutory/teacher-assessed-grades-centre-policy.pdf" target="_blank">Teacher Assessed Grades - Centre Policy</a></li>
                 <li><a href="/assets/statutory/send-policy.pdf" target="_blank">SEND Policy Report</a></li>
                 <li><a href="/assets/statutory/nqt_induction.pdf" target="_blank">NQT Induction</a></li>
                 <li><a href="/assets/statutory/financial-benchmarking.pdf" target="_blank">Financial Benchmarking</a></li>
