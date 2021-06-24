@@ -27,6 +27,7 @@
         	<ul class="small-block-grid-1">
                  <li>
                     <ul class="circle">June 2021<hr>
+                        <li><a href="/assets/letters/2021-06/work-experience.pdf" target="_blank">Year 10 Work Experience</a></li>
                         <li><a href="/assets/letters/2021-06/year-11-leavers-event.pdf" target="_blank">Year 11 Leavers Event</a></li>
                         <li><a href="/assets/letters/2021-06/newsletter-18-06.pdf" target="_blank">Newsletter 18th June</a></li>
                         <li><a href="/assets/letters/2021-06/inset-day.pdf" target="_blank">INSET Day</a></li>
