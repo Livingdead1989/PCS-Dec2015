@@ -64,13 +64,10 @@
                                 <li>Member of Admin Committee.</li>
                                 <li>Member of Performance Committee.</li>
                             </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>Director of <a href="/park-enterprises.php" target="_blank">Park Community Enterprises Ltd</a></li>
-                              <li>Supplier of Porcine Meat to School</li>
-                            </ul>
-
-                          <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+                          <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
+                            <a class="close-reveal-modal" aria-label="Close">&#215;</a>
                         </div>
 
             </div>
@@ -90,10 +87,9 @@
                                 <li>Health and Safety Governor.</li>
                                 <li>Member of Admin Committee.</li>
                             </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
+                          <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
 
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -115,12 +111,9 @@
                                 <li>Member of Admin Committee</li>
                                 <li>Member of Performance Committee.</li>
                             </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>Trustee of Park Community Ventures charity</li>
-                              <li>Director of <a href="/park-enterprises.php" target="_blank">Park Community Enterprises Ltd</a></li>
-                              <li>Trustee of EBP South</li>
-                            </ul>
+                          <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
 
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -141,10 +134,9 @@
                             <ul class="circle">
                                 <li>Chair of the Performance Committee.</li>
                             </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
+                          <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
 
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -165,10 +157,9 @@
                             <ul class="circle">
                                 <li>Member of Administration Committee.</li>
                             </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>Governor of <a href="//www.trosnantschools.co.uk" target="_blank">Trosnant School</a></li>
-                            </ul>
+                         <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
 
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -190,10 +181,9 @@
                                 <li>Member of Performance Committee.</li>
                                 <li>SEN Governor</li>
                             </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
+                          <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
 
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -214,10 +204,9 @@
                             <ul class="circle">
                                 <li>Member of Performance Committee.</li>
                             </ul>
-                          <p>Pecuniary Interests:</p>
-                            <ul class="circle">
-                              <li>NIL</li>
-                            </ul>
+                         <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
 
 
                           <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -238,12 +227,9 @@
                                   <ul class="circle">
                                       <li>Member of Performance Committee.</li>
                                   </ul>
-                                <p>Pecuniary Interests:</p>
-                                  <ul class="circle">
-                                    <li>Member of University of Winchester Academy Trust</li>
-                                    <li>Chair of Governors Wallisdean Federation</li>
-                                    <li>Trustee of Trosnant Junior School Fund</li>
-                                  </ul>
+                               <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
 
                               <a class="close-reveal-modal" aria-label="Close">&#215;</a>    
       			           </div>
@@ -262,10 +248,9 @@
                                   <ul class="circle">
                                       <li>Member of Performance Committee.</li>
                                   </ul>
-                                <p>Pecuniary Interests:</p>
-                                  <ul class="circle">
-                                    <li>TBA</li>
-                                  </ul>
+                               <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
 
                               <a class="close-reveal-modal" aria-label="Close">&#215;</a>    
                        </div>
@@ -284,10 +269,9 @@
                                   <ul class="circle">
                                       <li>TBA</li>
                                   </ul>
-                                <p>Pecuniary Interests:</p>
-                                  <ul class="circle">
-                                    <li>TBA</li>
-                                  </ul>
+                               <p>
+                            <li><a href="/assets/governors/pecuniary-interests.pdf" target="_blank">Pecuniary Interests</a></li>
+                          </p>
 
                               <a class="close-reveal-modal" aria-label="Close">&#215;</a>    
                        </div>
