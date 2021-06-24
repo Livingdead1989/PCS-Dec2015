@@ -128,7 +128,7 @@
                 Governor Details</a>
                         <div id="Governor-11" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Ms J Hughes</h2>
-                          <p class="lead">Appointed: 18.05.2016 <br>Term Expires: 17.05.2020</p>
+                          <p class="lead">Appointed: 18.05.2016 <br>Term Expires: 17.05.2024</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -151,7 +151,7 @@
                 Governor Details</a>
                         <div id="Governor-13" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr R Cousins</h2>
-                          <p class="lead">Appointed: 06.07.2016 <br>Term Expires: 28.07.2020</p>
+                          <p class="lead">Appointed: 06.07.2016 <br>Term Expires: 28.07.2024</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
@@ -198,7 +198,7 @@
                 Governor Details</a>
                         <div id="Governor-cmay" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Mr C May</h2>
-                          <p class="lead">Appointed: 20.05.2017 <br>Term Expires: 21.05.2021</p>
+                          <p class="lead">Appointed: 20.05.2017 <br>Term Expires: 21.05.2025</p>
                           <p>Category: Staff Member</p>
                           <p>Committee Membership: </p>
                             <ul class="circle">
@@ -242,7 +242,7 @@
                       Governor Details</a>
                               <div id="Governor-cward" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                                 <h2 id="modalTitle">Ms Cathryn Ward</h2>
-                                <p class="lead">Appointed: 24.04.2020 <br>Term Expires: 23.04.2021</p>
+                                <p class="lead">Appointed: 24.04.2020 <br>Term Expires: 23.04.2024</p>
                                 <p>Category: Associate</p>
                                 <p>Committee Membership: </p>
                                   <ul class="circle">
