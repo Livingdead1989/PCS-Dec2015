@@ -34,7 +34,8 @@
                 </div>
 
                 <a class="small button radius alert" href="//bit.ly/2PiBr4V" target="_blank">Year 7 Placement Acceptance</a>
-                <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a> 
+                <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a>
+                <a class="small button radius alert" href="https://forms.office.com/r/qi00XWB6dd" target="_blank">Summer School 2021</a>
                 
             </div>
             <!-- HEADTEACHERS WELCOME -->
