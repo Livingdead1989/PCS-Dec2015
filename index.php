@@ -35,7 +35,8 @@
 
                 <a class="small button radius alert" href="//bit.ly/2PiBr4V" target="_blank">Year 7 Placement Acceptance</a>
                 <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a>
-                <a class="small button radius alert" href="https://forms.office.com/r/qi00XWB6dd" target="_blank">Summer School 2021</a>
+                <a class="small button radius warning" href="#" data-reveal-id="summer-school">Summer School 2021</a>
+                
                 
             </div>
             <!-- HEADTEACHERS WELCOME -->
@@ -188,6 +189,19 @@
                     <li><a href="assets/reading_process.pdf">Reading Process</a></li>
                 </ul>
 
+              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+
+            <!-- SUMMER SCHOOL -->
+            <div id="summer-school" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">Summer School 2021</h2>
+                            
+
+                <p>Please book here for Summer School for Year 6, 7 and 8. Booking opens on Friday 25th June and closes on end of 9th July. First come, first served.</p>
+                
+                <ul>
+                    <a class="small button radius warning" href="https://forms.office.com/r/qi00XWB6dd" target="_blank">Summer School 2021 Booking</a>
+                                  
               <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
 
