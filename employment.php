@@ -40,15 +40,6 @@
         </span>
       </li>-->
 
-        <li>
-        <h4>Position - Teaching Assistant</h4>  
-        <p><em>Closing Date: Monday, 28 June 2021 </em></p>
-
-        <span class="subheader">
-        <a href="assets/recruitment/teaching-assistant.pdf" target="_blank">Position Details</a>
-        </span>
-      </li>
-      <hr>
        <li>
         <h4>Position - Theatre Technician</h4>  
         <p><em>Closing Date: Wednesday, 30 June 2021 </em></p>
