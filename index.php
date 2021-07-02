@@ -209,12 +209,12 @@
                 <ul>
                     <a class="small button radius warning" href="//forms.office.com/r/qi00XWB6dd" target="_blank">Summer School 2021 Booking</a>
                 </ul>
+                
                 <p>Flyers</p>
-                <ul>
-                    <li><a class="small button radius" href="assets/summerschool/ss-yr6.pdf" target="_blank">Year 6 Flyer</a></li>
-                    <li><a class="small button radius" href="assets/summerschool/ss-yr7.pdf" target="_blank">Year 7 Flyer</a></li>
-                    <li><a class="small button radius" href="assets/summerschool/ss-yr8.pdf" target="_blank">Year 8 Flyer</a></li>
-                </ul>
+                <a class="small button radius" href="assets/summerschool/ss-yr6.pdf" target="_blank">Year 6 Flyer</a>
+                <a class="small button radius" href="assets/summerschool/ss-yr7.pdf" target="_blank">Year 7 Flyer</a>
+                <a class="small button radius" href="assets/summerschool/ss-yr8.pdf" target="_blank">Year 8 Flyer</a>
+                
                 
                                   
               <a class="close-reveal-modal" aria-label="Close">&#215;</a>
