@@ -211,9 +211,9 @@
                 </ul>
                 <p>Flyers</p>
                 <ul>
-                    <a class="small button radius" href="assets/summerschool/ss-yr6.pdf" target="_blank">Year 6 Flyer</a>
-                    <a class="small button radius" href="assets/summerschool/ss-yr7.pdf" target="_blank">Year 7 Flyer</a>
-                    <a class="small button radius" href="assets/summerschool/ss-yr8.pdf" target="_blank">Year 8 Flyer</a>
+                    <li><a class="small button radius" href="assets/summerschool/ss-yr6.pdf" target="_blank">Year 6 Flyer</a></li>
+                    <li><a class="small button radius" href="assets/summerschool/ss-yr7.pdf" target="_blank">Year 7 Flyer</a></li>
+                    <li><a class="small button radius" href="assets/summerschool/ss-yr8.pdf" target="_blank">Year 8 Flyer</a></li>
                 </ul>
                 
                                   
