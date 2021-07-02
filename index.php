@@ -205,18 +205,16 @@
                     <li>Have fun cooking.</li>
                     <li>Year 6s will also get to know their way around, make new friends and meet the staff.</li>
                 </ul>
+
                 <p>Please book here for Summer School for Year 6, 7 and 8. Booking opens on Friday 25th June and closes on end of 9th July. First come, first served.</p>
                 <ul>
                     <a class="small button radius warning" href="//forms.office.com/r/qi00XWB6dd" target="_blank">Summer School 2021 Booking</a>
                 </ul>
-                
+
                 <p>Flyers</p>
                 <a class="small button radius" href="assets/summerschool/ss-yr6.pdf" target="_blank">Year 6 Flyer</a>
                 <a class="small button radius" href="assets/summerschool/ss-yr7.pdf" target="_blank">Year 7 Flyer</a>
-                <a class="small button radius" href="assets/summerschool/ss-yr8.pdf" target="_blank">Year 8 Flyer</a>
-                
-                
-                                  
+                <a class="small button radius" href="assets/summerschool/ss-yr8.pdf" target="_blank">Year 8 Flyer</a>                 
               <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
 
