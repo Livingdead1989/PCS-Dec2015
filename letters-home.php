@@ -25,6 +25,11 @@
         <br>
         <div class="medium-12 columns">
         	<ul class="small-block-grid-1">
+                <li>
+                    <ul class="circle">July 2021<hr>
+                        <li><a href="/assets/letters/2021-07/newsletter-2021-07-02.pdf" target="_blank">Newsletter - 2nd July 2021</a></li>
+                    </ul>
+                <li>
                  <li>
                     <ul class="circle">June 2021<hr>
                         <li><a href="/assets/letters/2021-06/work-experience.pdf" target="_blank">Year 10 Work Experience</a></li>
