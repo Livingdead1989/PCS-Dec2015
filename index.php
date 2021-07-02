@@ -195,12 +195,27 @@
             <!-- SUMMER SCHOOL -->
             <div id="summer-school" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                 <h2 id="modalTitle">Summer School 2021</h2>
-                            
-
-                <p>Please book here for Summer School for Year 6, 7 and 8. Booking opens on Friday 25th June and closes on end of 9th July. First come, first served.</p>
-                
+                <p>Summer School runs between Monday 9th - Friday 13th Augest 2021 - 9:30am-2:30pm and will give students the opportunity to:</p>
                 <ul>
-                    <a class="small button radius warning" href="https://forms.office.com/r/qi00XWB6dd" target="_blank">Summer School 2021 Booking</a>
+                    <li>Apply English, Maths and Science skills to a crime investigation curriculum.</li>
+                    <li>Visit our Farm Small Holding.</li>
+                    <li>Have lots of fun with all the activities that are planned.</li>
+                    <li>Break and Lunch are provided free of charge.</li>
+                    <li>Visit our Park Design and Print company - design and make.</li>
+                    <li>Have fun cooking.</li>
+                    <li>Year 6s will also get to know their way around, make new friends and meet the staff.</li>
+                </ul>
+                <p>Please book here for Summer School for Year 6, 7 and 8. Booking opens on Friday 25th June and closes on end of 9th July. First come, first served.</p>
+                <ul>
+                    <a class="small button radius warning" href="//forms.office.com/r/qi00XWB6dd" target="_blank">Summer School 2021 Booking</a>
+                </ul>
+                <p>Flyers</p>
+                <ul>
+                    <a class="small button radius" href="assets/summerschool/ss-yr6.pdf" target="_blank">Year 6 Flyer</a>
+                    <a class="small button radius" href="assets/summerschool/ss-yr7.pdf" target="_blank">Year 7 Flyer</a>
+                    <a class="small button radius" href="assets/summerschool/ss-yr8.pdf" target="_blank">Year 8 Flyer</a>
+                </ul>
+                
                                   
               <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
@@ -209,7 +224,7 @@
             <div id="virtual-sports" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                 <h2 id="modalTitle">Virtual Sports Day</h2>
             <div class="small-text-center large-text-right">
-                <a class="small button radius" target="_blank" href="https://vimeo.com/showcase/7294651">Virtual Sports Day 2020</a>
+                <a class="small button radius" target="_blank" href="//vimeo.com/showcase/7294651">Virtual Sports Day 2020</a>
             </div>
                 <p>Welcome everyone to the launch of Park Community Schools Sports Fortnight 2020 – 10 days – 12 Challenges!</p>
                 <p>This year our competition will all be done at home, with you emailing in your results which we will collate results. On the email please remember to identify the event, what your result is and the family team you belong to.</p>
