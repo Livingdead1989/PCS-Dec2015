@@ -195,7 +195,7 @@
             <!-- SUMMER SCHOOL -->
             <div id="summer-school" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                 <h2 id="modalTitle">Summer School 2021</h2>
-                <p>Summer School runs between Monday 9th - Friday 13th Augest 2021 - 9:30am-2:30pm and will give students the opportunity to:</p>
+                <p>Summer School runs between Monday 9th - Friday 13th August 2021 - 9:30am-2:30pm and will give students the opportunity to:</p>
                 <ul>
                     <li>Apply English, Maths and Science skills to a crime investigation curriculum.</li>
                     <li>Visit our Farm Small Holding.</li>
