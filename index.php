@@ -28,8 +28,8 @@
                 <div class="row">
                     <div class="columns">
                         <a class="small button radius alert" href="https://vimeo.com/462988107" target="_blank" >Year 6 Freshers Film</a>
-                        <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Remote Learning</a>
-                        <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>   
+                        <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student Remote Learning</a>
+                        <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent Learning</a>   
                     </div>
                 </div>
 
