@@ -27,16 +27,27 @@
 
                 <div class="row">
                     <div class="columns">
-                        <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>
+                        <a class="small button radius alert" href="https://vimeo.com/462988107" target="_blank" >Year 6 Freshers Film</a>
                         <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student - Remote Learning</a>
-                        <a class="small button radius warning" href="https://vimeo.com/462988107" target="_blank" >Freshers Film</a>
-                        <a class="small button radius warning" href="https://forms.office.com/Pages/ResponsePage.aspx?id=2W4a34q1NUGg3oPDXQCwSOjXtSdPD2ZBhsO7Y4V8yrJUOUQxTDNYRUVFVlc1QVFMMzVGMVpaTTYyTy4u" target="_blank" >COVID-19 Testing for Pupils Form</a>
+                        <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent - Learning</a>   
                     </div>
                 </div>
 
-                <a class="small button radius alert" href="//bit.ly/2PiBr4V" target="_blank">Year 7 Placement Acceptance</a>
-                <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a>
-                <a class="small button radius warning" href="#" data-reveal-id="summer-school">Summer School 2021</a>
+                <div class="row">
+                    <div class="columns">
+                        <a class="small button radius alert" href="#" data-reveal-id="summer-school">Summer School 2021</a>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="columns">
+                        <a class="small button radius alert" href="//bit.ly/2PiBr4V" target="_blank">Year 7 2021 Place Acceptance</a>
+                        <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a>
+                    </div>
+                </div>
+
+                
+                
                 
                 
             </div>
