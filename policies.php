@@ -129,14 +129,7 @@
                 </a>
             </li>
 
-            <li>
-                <a href="/assets/policies/dress-code-for-students.pdf" target="_blank">
-                    <div class="policy-container">
-                        <p>Dress Code for Students (Uniform)</p>
-                    </div>
-                </a>
-            </li>
-
+            
             <li>
                 <a href="/assets/policies/drugs-substance-misuse.pdf" target="_blank">
                     <div class="policy-container">
@@ -253,6 +246,14 @@
                 <a href="/assets/statutory/send-information-report.pdf" target="_blank">
                     <div class="policy-container">
                         <p>SEND Information Report</p>
+                    </div>
+                </a>
+            </li>
+
+            <li>
+                <a href="/assets/policies/uniform-policy.pdf" target="_blank">
+                    <div class="policy-container">
+                        <p>Uniform Policy 2021-22</p>
                     </div>
                 </a>
             </li>
