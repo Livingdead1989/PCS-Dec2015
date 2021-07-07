@@ -31,8 +31,9 @@
 </div>
 
 <!-- CONTENT -->
+<section>
     <div class="row">
-    
+
         <div class="columns">
             <p>MUNCH is back for the Summer Holidays!</p>
             <p>We cannot wait to welcome you back!</p>
