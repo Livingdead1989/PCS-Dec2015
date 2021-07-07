@@ -35,12 +35,13 @@
     <div class="row">
 
         <div class="columns">
-            <p>MUNCH is back for the Summer Holidays!</p>
-            <p>We cannot wait to welcome you back!</p>
-            <p>MUNCH will be running from 26th July through to 27th August 2021, from 12:00 to 13:00.</p>
+            <p><strong>MUNCH is back for the Summer Holidays!</strong> <small>| We cannot wait to welcome you back!</small></p>
+            <p>MUNCH will be running from <strong>26th July through to 27th August 2021</strong>, from <strong>12:00 to 13:00</strong>.</p>
             <div class="columns text-center">
                 <a href="assets/munch/munch_summer_2021.pdf" target="_blank" class="button success radius">Munch Summer Holiday 2021 Flyer</a>
             </div>
+            <br>
+            <hr>
         </div>
 
         <br>
