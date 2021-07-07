@@ -31,33 +31,17 @@
 </div>
 
 <!-- CONTENT -->
-<section>
-  <div class="row">
-    <div class="columns">
-      <h4>MUNCH during COVID-19</h4>
-      <p>With social distancing and isolation we are striving to maintain our MUNCH project by offering munch food bags and access to our MUNCH fridge and freezer.</p>
-
-      <ul class="clearing-thumbs" data-clearing>
-        <li><a href="/images/munch/munch_preparation.jpg"><img src="/images/munch/munch_preparation_tb.jpg"></a></li>
-        <li><a href="/images/munch/munch_meals_and_freezer.jpg"><img src="/images/munch/munch_meals_and_freezer_tb.jpg"></a></li>
-        <li><a href="/images/munch/munch_bags_of_food.jpg"><img src="/images/munch/munch_bags_of_food_tb.jpg"></a></li>
-        <li><a href="/images/munch/munch_freezer.jpg"><img src="/images/munch/munch_freezer_tb.jpg"></a></li>
-      </ul>
-
-      <br>
-
-      <div class="flex-video widescreen border-radius-5">
-          <iframe src="https://player.vimeo.com/video/407516405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-      </div>
-
-      <br>
-      <hr>
-    </div>
-  </div>
-</section>
-<section>
-
     <div class="row">
+    
+        <div class="columns">
+            <p>MUNCH is back for the Summer Holidays!</p>
+            <p>We cannot wait to welcome you back!</p>
+            <p>MUNCH will be running from 26th July through to 27th August 2021, from 12:00 to 13:00.</p>
+            <div class="columns text-center">
+                <a href="assets/munch/munch_summer_2021.pdf" target="_blank" class="button success radius">Munch Summer Holiday 2021 Flyer</a>
+            </div>
+        </div>
+
         <br>
         <div class="medium-12 columns">
             <p>As a school we were aware of the food poverty that some of our community experience and were concerned our students were going hungry. This was reinforced when our local community told us how the food bank was consistently running out of food. We set up a community group to tackle food poverty in our area and in February 2017 MUNCH was born.</p>
