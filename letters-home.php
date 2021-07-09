@@ -27,6 +27,8 @@
         	<ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">July 2021<hr>
+                        <li><a href="/assets/letters/2021-07/general-letter-9.pdf" target="_blank">General Letter to Parents 9th July</a></li>
+                        <li><a href="/assets/letters/2021-07/back-2-basics.pdf" target="_blank">Back 2 Basics Campaign</a></li>
                         <li><a href="/assets/letters/2021-07/challenge-day.pdf" target="_blank">Challenge Day</a></li>
                         <li><a href="/assets/letters/2021-07/newsletter-2021-07-02.pdf" target="_blank">Newsletter - 2nd July 2021</a></li>
                     </ul>
