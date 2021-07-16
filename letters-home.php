@@ -27,6 +27,7 @@
         	<ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">July 2021<hr>
+                        <li><a href="/assets/letters/2021-07/connect4Families-leaflet.pdf" target="_blank">Connect4Families</a></li>
                         <li><a href="/assets/letters/2021-07/welcome-to-park.pdf" target="_blank">Welcome to Park Booklet</a></li>
                         <li><a href="/assets/letters/2021-07/year-6.pdf" target="_blank">Year 6 Information</a></li>
                         <li><a href="/assets/letters/2021-07/general-letter-11.pdf" target="_blank">General Letter to Parents 11th July</a></li>
