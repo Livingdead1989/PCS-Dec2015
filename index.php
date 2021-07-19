@@ -41,6 +41,7 @@
 
                 <div class="row">
                     <div class="columns">
+                        <a class="small button radius alert" href="https://pcs.hants.sch.uk/assets/letters/2021-07/welcome-to-park.pdf" target="_blank">Welcome to Park Booklet</a>
                         <a class="small button radius alert" href="//bit.ly/2PiBr4V" target="_blank">Year 7 2021 Place Acceptance</a>
                         <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a>
                     </div>
