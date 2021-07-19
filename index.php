@@ -35,14 +35,7 @@
 
                 <div class="row">
                     <div class="columns">
-                        <a class="small button radius alert" href="#" data-reveal-id="summer-school">Summer School 2021</a>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="columns">
                         <a class="small button radius alert" href="https://pcs.hants.sch.uk/assets/letters/2021-07/welcome-to-park.pdf" target="_blank">Welcome to Park Booklet</a>
-                        <a class="small button radius alert" href="//bit.ly/2PiBr4V" target="_blank">Year 7 2021 Place Acceptance</a>
                         <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a>
                     </div>
                 </div>
@@ -205,32 +198,7 @@
               <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
 
-            <!-- SUMMER SCHOOL -->
-            <div id="summer-school" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-                <h2 id="modalTitle">Summer School 2021</h2>
-                <p>Summer School runs between Monday 9th - Friday 13th August 2021 - 9:30am-2:30pm and will give students the opportunity to:</p>
-                <ul>
-                    <li>Apply English, Maths and Science skills to a crime investigation curriculum.</li>
-                    <li>Visit our Farm Small Holding.</li>
-                    <li>Have lots of fun with all the activities that are planned.</li>
-                    <li>Break and Lunch are provided free of charge.</li>
-                    <li>Visit our Park Design and Print company - design and make.</li>
-                    <li>Have fun cooking.</li>
-                    <li>Year 6s will also get to know their way around, make new friends and meet the staff.</li>
-                </ul>
-
-                <p>Please book here for Summer School for Year 6, 7 and 8. Booking opens on Friday 25th June and closes on end of 9th July. First come, first served.</p>
-                <ul>
-                    <a class="small button radius warning" href="//forms.office.com/r/qi00XWB6dd" target="_blank">Summer School 2021 Booking</a>
-                </ul>
-
-                <p>Flyers</p>
-                <a class="small button radius" href="assets/summerschool/ss-yr6.pdf" target="_blank">Year 6 Flyer</a>
-                <a class="small button radius" href="assets/summerschool/ss-yr7.pdf" target="_blank">Year 7 Flyer</a>
-                <a class="small button radius" href="assets/summerschool/ss-yr8.pdf" target="_blank">Year 8 Flyer</a>                 
-              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-            </div>
-
+            
             <!-- virtual-sports -->
             <div id="virtual-sports" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                 <h2 id="modalTitle">Virtual Sports Day</h2>
