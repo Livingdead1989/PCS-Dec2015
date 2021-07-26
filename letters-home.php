@@ -27,6 +27,7 @@
         	<ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">July 2021<hr>
+                        <li><a href="/assets/letters/2021-07/newsletter-2021-07-23.pdf" target="_blank">Newsletter - 23rd July 2021</a></li>
                         <li><a href="/assets/letters/2021-07/end-of-term-letter.pdf" target="_blank">End of term Letter</a></li>
                         <li><a href="/assets/letters/2021-07/connect4Families-leaflet.pdf" target="_blank">Connect4Families</a></li>
                         <li><a href="/assets/letters/2021-07/welcome-to-park.pdf" target="_blank">Welcome to Park Booklet</a></li>
