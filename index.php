@@ -432,35 +432,29 @@
             <ul class="text-center medium-block-grid-3 small-block-grid-3">
                 <h4>Facilitating Other Organisations</h4>
                 <li>
-                    <div class="menu-box"><a href="/nursery.php">
+                    <div class="menu-box">
+                        <a href="/nursery.php">
                             <img src="images/index/nursery-logo.jpg" alt="Springwood Nursery - Much More Than Just a School">
                             <p>Springwood Park Nursery</p>
-                        </a></div>
+                        </a>
+                    </div>
                 </li>
                 <li>
-                    <div class="menu-box"><a href="/scitt.php">
-                            <img src="images/index/scitt-logo.jpg" alt="The Scolent SCITT - Much More Than Just a School">
-                            <p>The Solent SCITT</p>
-                        </a></div>
-                </li>
-                <li>
-                    <div class="menu-box"><a href="//theflashonair.co.uk/" target="_blank">
+                    <div class="menu-box">
+                        <a href="//theflashonair.co.uk/" target="_blank">
                             <img src="images/index/flash_radio.jpg" alt="The Flash Radio - Not for profit community radio station run entirely by volunteers">
                             <p>The Flash Radio</p>
-                        </a></div>
-                </li><!-- 
-                <li>
-                    <div class="menu-box"><a href="//www.mind.org.uk/" target="_blank">
-                            <img src="images/index/mind.jpg" alt="Mind - The mental health charity">
-                            <p>Mind</p>
-                        </a></div>
+                        </a>
+                    </div>
                 </li>
                 <li>
-                    <div class="menu-box"><a href="//oarsomechance.org/" target="_blank">
+                    <div class="menu-box">
+                        <a href="//oarsomechance.org/" target="_blank">
                             <img src="images/index/oarsome_chance.jpg" alt="Oarsome Chance">
                             <p>Oarsome Chance</p>
-                        </a></div>
-                </li> -->
+                        </a>
+                    </div>
+                </li>
             </ul>
 
             <br>
@@ -526,3 +520,13 @@
         </script>
     </body>
 </html>
+
+<!-- 
+╔══╗                                         
+╚╗╔╝[ Park Community School    IT Services ] 
+╔╝(¯`v´¯)(¯`v´¯)(¯`v´¯)(¯`v´¯)(¯`v´¯)(¯`v´¯) 
+╚══`.¸.´  `.¸.´  `.¸.´  `.¸.´  `.¸.´  `.¸.´   
+
+
+Website by Steven Smith - https://networkingdream.com
+-->
