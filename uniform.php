@@ -42,10 +42,8 @@
             <h4>The Uniform</h4>
             <ul class="circle">
                 <li>Park Black Blazer (Compulsory).</li>
-                <ul>
                 <li>White shirt with collar capable of taking a tie.</li>
                 <li>School tie and House pin.</li>
-                <br>
                 <li>Trousers or skirt – black. Formal black trousers or black box pleat skirt.</li>
                 <li>Plain black outdoor shoes with sensible heels.</li>
                 <br>
