@@ -28,7 +28,6 @@
             <p>Students should take pride in their uniform, care in their appearance, and look smart at all times.</p>
             <p>School is a place of work and preparation for working life. The school uniform and appearance rules support good behaviour and discipline across the school.</p>
             <p>We wish to encourage some choice, however do avoid extremes or competition in fashion.</p>
-            <a href="/assets/skoolkit.pdf" target="_blank" class="button radius">Message from SkoolKit</a>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-0 medium-offset-0 medium-5 columns"><img src="images/uniform/uniform-01.jpg" alt="Uniform helps students focus on their education"></div>
     </div><br><br><br>
@@ -44,21 +43,14 @@
             <ul class="circle">
                 <li>Park Black Blazer (Compulsory).</li>
                 <ul>
-                <li>Park cardigan, sweatshirt or jumper may be worn under a blazer.</li></ul>
-
                 <li>White shirt with collar capable of taking a tie.</li>
-                <li>School tie.</li>
+                <li>School tie and House pin.</li>
                 <br>
-                <li>Black full length trousers.</li>
-                <ul>
-                    <li>Girls may wear a black skirt.</li>
-                    <li>Girls may wear black or opaque tights.</li>
-                </ul>
-                <li>Plain black shoes with sensible heels.</li>
-                <li>Year 7 students must bring a rucksack to school each day.</li>
+                <li>Trousers or skirt – black. Formal black trousers or black box pleat skirt.</li>
+                <li>Plain black outdoor shoes with sensible heels.</li>
                 <br>
             </ul>
-            <p><small>For more detailed information please view the schools policy <a href="/assets/policies/dress-code-for-students.pdf" target="_blank">"Dress Code for Students"</a>.</small></p>
+            <p><small>For more detailed information please view the schools policy <a href="/assets/policies/uniform-policy.pdf" target="_blank">"Uniform Policy"</a>.</small></p>
         </div>
         <div class="small-offset-2 small-pull-2 small-8 small-8 medium-pull-7 medium-offset-0 medium-5 columns"><img src="images/uniform/uniform-02.jpg" alt="Happy Students in Uniform"></div>
     </div>
