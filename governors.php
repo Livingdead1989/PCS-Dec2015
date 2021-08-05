@@ -174,7 +174,7 @@
                 Governor Details</a>
                         <div id="Governor-amays" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                           <h2 id="modalTitle">Ms A Mays</h2>
-                          <p class="lead">Appointed: 13.09.2017 <br>Term Expires: 12.09.2021</p>
+                          <p class="lead">Appointed: 13.09.2017 <br>Term Expires: 12.09.2025</p>
                           <p>Category: CO-OPTED</p>
                           <p>Committee Membership:</p>
                             <ul class="circle">
