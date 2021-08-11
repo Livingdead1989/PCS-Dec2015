@@ -89,7 +89,7 @@
                 <a class="expand button radius success" href="https://forms.office.com/r/TFewraG_pe">Student COVID Consent Form</a>
 
                 <div class="flex-video widescreen border-radius-5">
-                    <iframe src="https://vimeo.com/524158834/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                    <iframe src="https://player.vimeo.com/video/524158834?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=230a1cd3ba" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                 </div>
                      
                 <a class="close-reveal-modal" aria-label="Close">&#215;</a>
