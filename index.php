@@ -27,7 +27,7 @@
 
                 <div class="row">
                     <div class="columns">
-                        <a class="small button radius alert" href="https://vimeo.com/462988107" target="_blank" >Year 6 Freshers Film</a>
+                        <a class="small button radius alert" href="#" data-reveal-id="covid-information">COVID Information</a>
                         <a class="small button radius warning" href="#" data-reveal-id="covid-student">Student Remote Learning</a>
                         <a class="small button radius warning" href="#" data-reveal-id="covid-parent">Parent Learning</a>   
                     </div>
@@ -81,6 +81,19 @@
     <div class="row">
         <div class="columns">
             <br>
+
+            <!-- COVID Information -->
+            <div id="covid-information" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">COVID Information</h2>
+
+                <a class="expand button radius success" href="https://forms.office.com/r/TFewraG_pe">Student COVID Consent Form</a>
+
+                <div class="flex-video widescreen border-radius-5">
+                    <iframe src="https://vimeo.com/524158834" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                </div>
+                     
+                <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
 
             <!-- PARENT HOME LEARNING -->
             <div id="covid-parent" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">

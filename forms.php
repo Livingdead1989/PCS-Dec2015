@@ -35,7 +35,8 @@
                 <li><a href="assets/forms/out-round-application-inc-guidance.doc" target="_blank">Application form for admission to a Hampshire school outside the main admission round</a></li>
                 <li><a href="assets/admissions/pcs_parental_combined_consent_booklet.pdf" target="_blank">Parental Combined Consent Booklet</a></li>
                 <li><a href="assets/forms/medical_consent_form.doc" target="_blank">Medical Form</a></li>
-                <li><a href="assets/forms/homeschool_agreement.doc" target="_blank">Park Community school Home School Agreement</a></li>
+                <li><a href="https://forms.office.com/r/TFewraG_pe" target="_blank">Consent form for Student COVID Testing</a></li>
+
             </ul>
             <br>
             <h3>How to Request Absence</h3>
