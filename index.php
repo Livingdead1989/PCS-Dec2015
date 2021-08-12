@@ -104,7 +104,7 @@
 
                     <p>Congratulations on your results. You have worked hard and deserve every success. We cannot wait to hear about your next steps.</p>
 
-                <a class="expand button radius success" href="assets/appeals-guidance.pdf">JCQ Appeals Guidance</a>
+                <a class="expand button radius success" href="assets/appeals-guidance.pdf" target="_blank">JCQ Appeals Guidance</a>
                                 
                 <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
