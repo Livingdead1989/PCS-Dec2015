@@ -37,6 +37,7 @@
                     <div class="columns">
                         <a class="small button radius alert" href="https://pcs.hants.sch.uk/assets/letters/2021-07/welcome-to-park.pdf" target="_blank">Welcome to Park Booklet</a>
                         <a class="small button radius success" href="assets/prospectus.pdf" target="_blank">Prospectus</a>
+                        <a class="small button radius alert" href="#" data-reveal-id="exam-information">EXAM Information</a>
                     </div>
                 </div>
 
@@ -89,11 +90,13 @@
                 <a class="expand button radius success" href="https://forms.office.com/r/TFewraG_pe">Student COVID Consent Form</a>
 
                 <div class="flex-video widescreen border-radius-5">
-                    <iframe src="https://player.vimeo.com/video/524158834?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=230a1cd3ba" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                    <iframe src="https://player.vimeo.com/video/518104113?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=cd8f714afe" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                 </div>
                      
                 <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
+
+
 
             <!-- PARENT HOME LEARNING -->
             <div id="covid-parent" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
