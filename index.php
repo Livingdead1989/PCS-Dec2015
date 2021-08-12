@@ -96,6 +96,18 @@
                 <a class="close-reveal-modal" aria-label="Close">&#215;</a>
             </div>
 
+            <!-- EXAM Information -->
+            <div id="exam-information" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <h2 id="modalTitle">EXAM Information</h2>
+
+                <h4>Year 11 2021</h4>
+
+                    <p>Congratulations on your results. You have worked hard and deserve every success. We cannot wait to hear about your next steps.</p>
+
+                <a class="expand button radius success" href="assets/appeals-guidance.pdf">JCQ Appeals Guidance</a>
+                                
+                <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
 
 
             <!-- PARENT HOME LEARNING -->
