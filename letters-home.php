@@ -26,6 +26,11 @@
         <div class="medium-12 columns">
         	<ul class="small-block-grid-1">
                 <li>
+                    <ul class="circle">August 2021<hr>
+                        <li><a href="/assets/letters/2021-08/gcse-results.pdf" target="_blank">GCSE Results</a></li>
+                    </ul>
+                <li>
+                <li>
                     <ul class="circle">July 2021<hr>
                         <li><a href="/assets/letters/2021-07/munch.pdf" target="_blank">MUNCH and Connect 4 Families</a></li>
                         <li><a href="/assets/letters/2021-07/newsletter-2021-07-23.pdf" target="_blank">Newsletter - 23rd July 2021</a></li>
