@@ -27,6 +27,9 @@
         	<ul class="small-block-grid-1">
                 <li>
                     <ul class="circle">August 2021<hr>
+                        <li><a href="/assets/letters/2021-08/GCSE-2021-results.pdf" target="_blank">GCSE Results Information</a></li>
+                        <li><a href="/assets/letters/2021-08year-7-sept.pdf" target="_blank"></a>Year 7 return September 2021</li>
+                        <li><a href="/assets/letters/2021-08/year-8-11-start.pdf" target="_blank"></a>Year 8-11 return September 2021 </li>
                         <li><a href="/assets/letters/2021-08/gcse-results.pdf" target="_blank">GCSE Results</a></li>
                     </ul>
                 <li>
